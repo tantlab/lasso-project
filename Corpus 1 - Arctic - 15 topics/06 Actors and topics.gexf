@@ -1,0 +1,1420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_fas" label="fas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_foreignpolicy" label="foreignpolicy">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_europa" label="europa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_weforum" label="weforum">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_harvard" label="harvard">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rcinet" label="rcinet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nasa" label="nasa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_investingnews" label="investingnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wwf" label="wwf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_panda" label="panda">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_um" label="um">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_defensenews" label="defensenews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_worldwildlife" label="worldwildlife">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_maritime-executive" label="maritime-executive">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticwwf" label="arcticwwf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_uwyo" label="uwyo">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gia" label="gia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_noaa" label="noaa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nwf" label="nwf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_energy" label="energy">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gizmodo" label="gizmodo">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ucalgary" label="ucalgary">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nsidc" label="nsidc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_un" label="un">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_heritage" label="heritage">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_geology" label="geology">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thediplomat" label="thediplomat">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nytimes" label="nytimes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bloomberg" label="bloomberg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nike" label="nike">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thenewhumanitarian" label="thenewhumanitarian">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dezeen" label="dezeen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mmc" label="mmc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_npr" label="npr">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_biologicaldiversity" label="biologicaldiversity">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_foreignaffairs" label="foreignaffairs">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theatlantic" label="theatlantic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctic" label="arctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_greenfacts" label="greenfacts">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unep" label="unep">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ospar" label="ospar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_uarctic" label="uarctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_state" label="state">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_yale" label="yale">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_climate" label="climate">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_journalsofindia" label="journalsofindia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticyearbook" label="arcticyearbook">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_csis" label="csis">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_norden" label="norden">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_polarconnection" label="polarconnection">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_military" label="military">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_visualcapitalist" label="visualcapitalist">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nsf" label="nsf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_c2g2" label="c2g2">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ulaval" label="ulaval">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticfrontiers" label="arcticfrontiers">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dtu" label="dtu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_euractiv" label="euractiv">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticcentre" label="arcticcentre">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_inuitcircumpolar" label="inuitcircumpolar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_highnorthnews" label="highnorthnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sciencedirect" label="sciencedirect">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalinterest" label="nationalinterest">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gov" label="gov">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_euobserver" label="euobserver">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Clean Arctic Alliance" label="Clean Arctic Alliance">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_opportunitydesk" label="opportunitydesk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sciencemag" label="sciencemag">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hurtigruten" label="hurtigruten">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_save-the-arctic" label="save-the-arctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticbiodiversity" label="arcticbiodiversity">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Department of Arctic Geology" label="Department of Arctic Geology">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_moderndiplomacy" label="moderndiplomacy">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_regjeringen" label="regjeringen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nordregio" label="nordregio">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ey" label="ey">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_insideclimatenews" label="insideclimatenews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_msn" label="msn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eitrawmaterials" label="eitrawmaterials">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_forbes" label="forbes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_caff" label="caff">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctic-council" label="arctic-council">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_devex" label="devex">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_phys" label="phys">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cambridge" label="cambridge">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thetokenizer" label="thetokenizer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_plos" label="plos">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rcaanc-cirnac" label="rcaanc-cirnac">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_inmarsat" label="inmarsat">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_newscientist" label="newscientist">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_researchgate" label="researchgate">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_livescience" label="livescience">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thearcticinstitute" label="thearcticinstitute">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theguardian" label="theguardian">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_listverse" label="listverse">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nps" label="nps">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalgeographic" label="nationalgeographic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iisd" label="iisd">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unece" label="unece">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_britishmuseum" label="britishmuseum">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_github" label="github">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_intrepidtravel" label="intrepidtravel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nato" label="nato">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_vox" label="vox">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sdu" label="sdu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_desert-technologies" label="desert-technologies">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_coursera" label="coursera">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_indiatimes" label="indiatimes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_climatechangenews" label="climatechangenews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_audubon" label="audubon">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eos" label="eos">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_reuters" label="reuters">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_smithsonianmag" label="smithsonianmag">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_discovermagazine" label="discovermagazine">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticeconomiccouncil" label="arcticeconomiccouncil">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cnn" label="cnn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctictoday" label="arctictoday">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctic-bioscience" label="arctic-bioscience">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticcircle" label="arcticcircle">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kidzone" label="kidzone">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_quarkexpeditions" label="quarkexpeditions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_coolantarctica" label="coolantarctica">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_openaccessgovernment" label="openaccessgovernment">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticfish" label="arcticfish">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dmi" label="dmi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nrdc" label="nrdc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fandom" label="fandom">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticrubyoil" label="arcticrubyoil">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_greenpeace" label="greenpeace">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticgenderequality" label="arcticgenderequality">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_scientificamerican" label="scientificamerican">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kvaroyarctic" label="kvaroyarctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcus" label="arcus">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_novatek" label="novatek">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wikipedia" label="wikipedia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticpaper" label="arcticpaper">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tufts" label="tufts">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctic360" label="arctic360">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_oceandecade" label="oceandecade">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticportal" label="arcticportal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_belfercenter" label="belfercenter">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thebarentsobserver" label="thebarentsobserver">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctick" label="arctick">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_booking" label="booking">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_smallwarsjournal" label="smallwarsjournal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_adventure-life" label="adventure-life">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctic-adventure" label="arctic-adventure">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_acces-arctic" label="acces-arctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eu-interact" label="eu-interact">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arctickingdom" label="arctickingdom">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_awi" label="awi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_0" target="A_fas" id="0" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_0" target="A_uwyo" id="1" weight="0.0035244022391629753" />
+      <edge source="T_TOPIC_0" target="A_nwf" id="2" weight="0.004039731303320242" />
+      <edge source="T_TOPIC_0" target="A_energy" id="3" weight="0.009965610881161007" />
+      <edge source="T_TOPIC_0" target="A_nsidc" id="4" weight="0.010596062506425771" />
+      <edge source="T_TOPIC_0" target="A_dezeen" id="5" weight="0.0010928964558382125" />
+      <edge source="T_TOPIC_0" target="A_npr" id="6" weight="0.0020833353229905674" />
+      <edge source="T_TOPIC_0" target="A_military" id="7" weight="0.00562027650859537" />
+      <edge source="T_TOPIC_0" target="A_ulaval" id="8" weight="0.9999634288083716" />
+      <edge source="T_TOPIC_0" target="A_Clean Arctic Alliance" id="9" weight="0.033333335024525464" />
+      <edge source="T_TOPIC_0" target="A_hurtigruten" id="10" weight="0.0022222226915318733" />
+      <edge source="T_TOPIC_0" target="A_Department of Arctic Geology" id="11" weight="0.033333335024525464" />
+      <edge source="T_TOPIC_0" target="A_arctic-council" id="12" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_0" target="A_cambridge" id="13" weight="0.0010416735106201416" />
+      <edge source="T_TOPIC_0" target="A_newscientist" id="14" weight="0.022222223474370407" />
+      <edge source="T_TOPIC_0" target="A_researchgate" id="15" weight="0.004209063112951936" />
+      <edge source="T_TOPIC_0" target="A_theguardian" id="16" weight="0.011111114327051481" />
+      <edge source="T_TOPIC_0" target="A_github" id="17" weight="0.01141825738270213" />
+      <edge source="T_TOPIC_0" target="A_desert-technologies" id="18" weight="0.004444445596230082" />
+      <edge source="T_TOPIC_0" target="A_indiatimes" id="19" weight="0.006261148414818983" />
+      <edge source="T_TOPIC_0" target="A_arctictoday" id="20" weight="0.0021505378100792174" />
+      <edge source="T_TOPIC_0" target="A_arcticfish" id="21" weight="0.01306785270892968" />
+      <edge source="T_TOPIC_0" target="A_kvaroyarctic" id="22" weight="0.0035087727184186057" />
+      <edge source="T_TOPIC_0" target="A_arcticpaper" id="23" weight="0.009523812082048241" />
+      <edge source="T_TOPIC_0" target="A_tufts" id="24" weight="0.001169590943136463" />
+      <edge source="T_TOPIC_0" target="A_arctic360" id="25" weight="0.0013888894178264199" />
+      <edge source="T_TOPIC_0" target="A_arctick" id="26" weight="0.0028985513700931546" />
+      <edge source="T_TOPIC_0" target="A_arctic-adventure" id="27" weight="0.0014492754611425864" />
+      <edge source="A_fas" target="T_TOPIC_1" id="28" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_2" id="29" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_3" id="30" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_4" id="31" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_5" id="32" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_6" id="33" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_7" id="34" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_8" id="35" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_9" id="36" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_10" id="37" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_11" id="38" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_12" id="39" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_13" id="40" weight="0.06666666666666668" />
+      <edge source="A_fas" target="T_TOPIC_14" id="41" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_1" target="A_dezeen" id="42" weight="0.0010928980256419182" />
+      <edge source="T_TOPIC_1" target="A_npr" id="43" weight="0.0020833385682091058" />
+      <edge source="T_TOPIC_1" target="A_Clean Arctic Alliance" id="44" weight="0.03333334876140931" />
+      <edge source="T_TOPIC_1" target="A_hurtigruten" id="45" weight="0.0022222255584767123" />
+      <edge source="T_TOPIC_1" target="A_arcticbiodiversity" id="46" weight="0.7839715321044148" />
+      <edge source="T_TOPIC_1" target="A_Department of Arctic Geology" id="47" weight="0.03333334876140931" />
+      <edge source="T_TOPIC_1" target="A_arctic-council" id="48" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_1" target="A_cambridge" id="49" weight="0.0010416684840231607" />
+      <edge source="T_TOPIC_1" target="A_newscientist" id="50" weight="0.02222227737508287" />
+      <edge source="T_TOPIC_1" target="A_theguardian" id="51" weight="0.01111112260983551" />
+      <edge source="T_TOPIC_1" target="A_desert-technologies" id="52" weight="0.004444449874962488" />
+      <edge source="T_TOPIC_1" target="A_arctictoday" id="53" weight="0.002150538354343166" />
+      <edge source="T_TOPIC_1" target="A_kvaroyarctic" id="54" weight="0.003508778001077606" />
+      <edge source="T_TOPIC_1" target="A_arcticpaper" id="55" weight="0.009523828170945766" />
+      <edge source="T_TOPIC_1" target="A_tufts" id="56" weight="0.0011695924417788588" />
+      <edge source="T_TOPIC_1" target="A_arctic360" id="57" weight="0.0013888908729903326" />
+      <edge source="T_TOPIC_1" target="A_oceandecade" id="58" weight="0.013558056083928181" />
+      <edge source="T_TOPIC_1" target="A_arctick" id="59" weight="0.0028985573365126736" />
+      <edge source="T_TOPIC_1" target="A_arctic-adventure" id="60" weight="0.0014492758334064808" />
+      <edge source="T_TOPIC_2" target="A_bloomberg" id="61" weight="0.03957287118302491" />
+      <edge source="T_TOPIC_2" target="A_dezeen" id="62" weight="0.0010928983376190166" />
+      <edge source="T_TOPIC_2" target="A_npr" id="63" weight="0.0020833365651344283" />
+      <edge source="T_TOPIC_2" target="A_Clean Arctic Alliance" id="64" weight="0.033333340971605264" />
+      <edge source="T_TOPIC_2" target="A_hurtigruten" id="65" weight="0.002222223997978642" />
+      <edge source="T_TOPIC_2" target="A_Department of Arctic Geology" id="66" weight="0.033333340971605264" />
+      <edge source="T_TOPIC_2" target="A_arctic-council" id="67" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_2" target="A_cambridge" id="68" weight="0.00104166811295502" />
+      <edge source="T_TOPIC_2" target="A_newscientist" id="69" weight="0.022222226866277697" />
+      <edge source="T_TOPIC_2" target="A_theguardian" id="70" weight="0.011111129916106202" />
+      <edge source="T_TOPIC_2" target="A_desert-technologies" id="71" weight="0.0044444519165413145" />
+      <edge source="T_TOPIC_2" target="A_arctictoday" id="72" weight="0.0021505384711984375" />
+      <edge source="T_TOPIC_2" target="A_kvaroyarctic" id="73" weight="0.0035087749507363908" />
+      <edge source="T_TOPIC_2" target="A_novatek" id="74" weight="0.9927648453959154" />
+      <edge source="T_TOPIC_2" target="A_arcticpaper" id="75" weight="0.009523821284749514" />
+      <edge source="T_TOPIC_2" target="A_tufts" id="76" weight="0.0011695919019002925" />
+      <edge source="T_TOPIC_2" target="A_arctic360" id="77" weight="0.0013888901924756882" />
+      <edge source="T_TOPIC_2" target="A_arctick" id="78" weight="0.0028985540508850885" />
+      <edge source="T_TOPIC_2" target="A_arctic-adventure" id="79" weight="0.0014492757692597437" />
+      <edge source="T_TOPIC_3" target="A_dezeen" id="80" weight="0.0010928981306438216" />
+      <edge source="T_TOPIC_3" target="A_npr" id="81" weight="0.0020833373370594656" />
+      <edge source="T_TOPIC_3" target="A_Clean Arctic Alliance" id="82" weight="0.03333334165142701" />
+      <edge source="T_TOPIC_3" target="A_hurtigruten" id="83" weight="0.0022222240594997533" />
+      <edge source="T_TOPIC_3" target="A_Department of Arctic Geology" id="84" weight="0.03333334165142701" />
+      <edge source="T_TOPIC_3" target="A_arctic-council" id="85" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_3" target="A_cambridge" id="86" weight="0.0010416683211835948" />
+      <edge source="T_TOPIC_3" target="A_newscientist" id="87" weight="0.022222227691214118" />
+      <edge source="T_TOPIC_3" target="A_theguardian" id="88" weight="0.011111129007113911" />
+      <edge source="T_TOPIC_3" target="A_desert-technologies" id="89" weight="0.004444451177102303" />
+      <edge source="T_TOPIC_3" target="A_arctictoday" id="90" weight="0.0021505382847688244" />
+      <edge source="T_TOPIC_3" target="A_kvaroyarctic" id="91" weight="0.003508775619960212" />
+      <edge source="T_TOPIC_3" target="A_arcticpaper" id="92" weight="0.009523821998588032" />
+      <edge source="T_TOPIC_3" target="A_tufts" id="93" weight="0.0011695921655480864" />
+      <edge source="T_TOPIC_3" target="A_arctic360" id="94" weight="0.001388890294825075" />
+      <edge source="T_TOPIC_3" target="A_arctick" id="95" weight="0.0028985550971246834" />
+      <edge source="T_TOPIC_3" target="A_arctic-adventure" id="96" weight="0.001449275716520118" />
+      <edge source="T_TOPIC_4" target="A_europa" id="97" weight="0.16455605721287347" />
+      <edge source="T_TOPIC_4" target="A_weforum" id="98" weight="0.9524733162076534" />
+      <edge source="T_TOPIC_4" target="A_harvard" id="99" weight="0.10841410258126376" />
+      <edge source="T_TOPIC_4" target="A_rcinet" id="100" weight="0.23090159845314293" />
+      <edge source="T_TOPIC_4" target="A_nasa" id="101" weight="0.9997311048835581" />
+      <edge source="T_TOPIC_4" target="A_investingnews" id="102" weight="0.2950763564641234" />
+      <edge source="T_TOPIC_4" target="A_wwf" id="103" weight="0.9863339653369767" />
+      <edge source="T_TOPIC_4" target="A_panda" id="104" weight="0.921248055863315" />
+      <edge source="T_TOPIC_4" target="A_defensenews" id="105" weight="0.003425164313138697" />
+      <edge source="T_TOPIC_4" target="A_worldwildlife" id="106" weight="0.6585376529390196" />
+      <edge source="T_TOPIC_4" target="A_maritime-executive" id="107" weight="0.5281062685507982" />
+      <edge source="T_TOPIC_4" target="A_arcticwwf" id="108" weight="0.8483743286123794" />
+      <edge source="T_TOPIC_4" target="A_uwyo" id="109" weight="0.9877338531006923" />
+      <edge source="T_TOPIC_4" target="A_noaa" id="110" weight="0.6738111392408426" />
+      <edge source="T_TOPIC_4" target="A_nwf" id="111" weight="0.7044903725447306" />
+      <edge source="T_TOPIC_4" target="A_gizmodo" id="112" weight="0.9977510007337438" />
+      <edge source="T_TOPIC_4" target="A_nsidc" id="113" weight="0.9784538005695437" />
+      <edge source="T_TOPIC_4" target="A_un" id="114" weight="0.5579019243057309" />
+      <edge source="T_TOPIC_4" target="A_geology" id="115" weight="0.012129110130254493" />
+      <edge source="T_TOPIC_4" target="A_thediplomat" id="116" weight="0.12020265923122922" />
+      <edge source="T_TOPIC_4" target="A_nytimes" id="117" weight="0.03308112395914182" />
+      <edge source="T_TOPIC_4" target="A_bloomberg" id="118" weight="0.6372548118637522" />
+      <edge source="T_TOPIC_4" target="A_nike" id="119" weight="0.7505498436198466" />
+      <edge source="T_TOPIC_4" target="A_thenewhumanitarian" id="120" weight="0.31897645018630094" />
+      <edge source="T_TOPIC_4" target="A_dezeen" id="121" weight="0.9096682425651833" />
+      <edge source="T_TOPIC_4" target="A_mmc" id="122" weight="0.9986964595165513" />
+      <edge source="T_TOPIC_4" target="A_npr" id="123" weight="0.0020833378706165617" />
+      <edge source="T_TOPIC_4" target="A_biologicaldiversity" id="124" weight="0.18810175184883754" />
+      <edge source="T_TOPIC_4" target="A_theatlantic" id="125" weight="0.20178355099730175" />
+      <edge source="T_TOPIC_4" target="A_greenfacts" id="126" weight="0.9958645195945254" />
+      <edge source="T_TOPIC_4" target="A_unep" id="127" weight="0.9892720093485401" />
+      <edge source="T_TOPIC_4" target="A_ospar" id="128" weight="0.5593979853333199" />
+      <edge source="T_TOPIC_4" target="A_uarctic" id="129" weight="0.06949476956155787" />
+      <edge source="T_TOPIC_4" target="A_yale" id="130" weight="0.805644565960197" />
+      <edge source="T_TOPIC_4" target="A_climate" id="131" weight="0.986755480166185" />
+      <edge source="T_TOPIC_4" target="A_journalsofindia" id="132" weight="0.13727389915545446" />
+      <edge source="T_TOPIC_4" target="A_nature" id="133" weight="0.9940173431096856" />
+      <edge source="T_TOPIC_4" target="A_polarconnection" id="134" weight="0.0064452248680471605" />
+      <edge source="T_TOPIC_4" target="A_military" id="135" weight="0.0650825736402682" />
+      <edge source="T_TOPIC_4" target="A_visualcapitalist" id="136" weight="0.12722759475285272" />
+      <edge source="T_TOPIC_4" target="A_c2g2" id="137" weight="0.023126329300796562" />
+      <edge source="T_TOPIC_4" target="A_dtu" id="138" weight="0.5655770263212146" />
+      <edge source="T_TOPIC_4" target="A_euractiv" id="139" weight="0.09763228500463166" />
+      <edge source="T_TOPIC_4" target="A_arcticcentre" id="140" weight="0.042223849647453154" />
+      <edge source="T_TOPIC_4" target="A_sciencedirect" id="141" weight="0.9932367049647656" />
+      <edge source="T_TOPIC_4" target="A_gov" id="142" weight="0.29726517995979834" />
+      <edge source="T_TOPIC_4" target="A_Clean Arctic Alliance" id="143" weight="0.5333329499376747" />
+      <edge source="T_TOPIC_4" target="A_opportunitydesk" id="144" weight="0.002506419810183547" />
+      <edge source="T_TOPIC_4" target="A_sciencemag" id="145" weight="0.9962253329066955" />
+      <edge source="T_TOPIC_4" target="A_hurtigruten" id="146" weight="0.5557407350077856" />
+      <edge source="T_TOPIC_4" target="A_save-the-arctic" id="147" weight="0.7827511006393838" />
+      <edge source="T_TOPIC_4" target="A_arcticbiodiversity" id="148" weight="0.10593338868391641" />
+      <edge source="T_TOPIC_4" target="A_Department of Arctic Geology" id="149" weight="0.5333329499376747" />
+      <edge source="T_TOPIC_4" target="A_moderndiplomacy" id="150" weight="0.17668709347666348" />
+      <edge source="T_TOPIC_4" target="A_regjeringen" id="151" weight="0.0526782318113562" />
+      <edge source="T_TOPIC_4" target="A_eitrawmaterials" id="152" weight="0.02593674688119333" />
+      <edge source="T_TOPIC_4" target="A_forbes" id="153" weight="0.9766395577254392" />
+      <edge source="T_TOPIC_4" target="A_caff" id="154" weight="0.3865310512456905" />
+      <edge source="T_TOPIC_4" target="A_arctic-council" id="155" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_4" target="A_phys" id="156" weight="0.6417509099302127" />
+      <edge source="T_TOPIC_4" target="A_cambridge" id="157" weight="0.0010416697555254023" />
+      <edge source="T_TOPIC_4" target="A_plos" id="158" weight="0.9995947307457553" />
+      <edge source="T_TOPIC_4" target="A_inmarsat" id="159" weight="0.07805111488122216" />
+      <edge source="T_TOPIC_4" target="A_newscientist" id="160" weight="0.022222224544230278" />
+      <edge source="T_TOPIC_4" target="A_researchgate" id="161" weight="0.5496921981356324" />
+      <edge source="T_TOPIC_4" target="A_livescience" id="162" weight="0.5900855633025144" />
+      <edge source="T_TOPIC_4" target="A_thearcticinstitute" id="163" weight="0.04437523951671662" />
+      <edge source="T_TOPIC_4" target="A_theguardian" id="164" weight="0.011111139212774292" />
+      <edge source="T_TOPIC_4" target="A_listverse" id="165" weight="0.7042140796592161" />
+      <edge source="T_TOPIC_4" target="A_nps" id="166" weight="0.8248353890112514" />
+      <edge source="T_TOPIC_4" target="A_nationalgeographic" id="167" weight="0.4587758624781398" />
+      <edge source="T_TOPIC_4" target="A_britishmuseum" id="168" weight="0.18755352005750042" />
+      <edge source="T_TOPIC_4" target="A_github" id="169" weight="0.7042816753574949" />
+      <edge source="T_TOPIC_4" target="A_intrepidtravel" id="170" weight="0.6848783998764716" />
+      <edge source="T_TOPIC_4" target="A_vox" id="171" weight="0.2755549560870772" />
+      <edge source="T_TOPIC_4" target="A_sdu" id="172" weight="0.31240094601265983" />
+      <edge source="T_TOPIC_4" target="A_desert-technologies" id="173" weight="0.0044444594923615495" />
+      <edge source="T_TOPIC_4" target="A_coursera" id="174" weight="0.8851053456955131" />
+      <edge source="T_TOPIC_4" target="A_indiatimes" id="175" weight="0.470137571741253" />
+      <edge source="T_TOPIC_4" target="A_climatechangenews" id="176" weight="0.9061850697251481" />
+      <edge source="T_TOPIC_4" target="A_audubon" id="177" weight="0.7883236737635393" />
+      <edge source="T_TOPIC_4" target="A_eos" id="178" weight="0.9951889944205387" />
+      <edge source="T_TOPIC_4" target="A_reuters" id="179" weight="0.5646616541587118" />
+      <edge source="T_TOPIC_4" target="A_smithsonianmag" id="180" weight="0.5718475347949956" />
+      <edge source="T_TOPIC_4" target="A_discovermagazine" id="181" weight="0.5983595429167129" />
+      <edge source="T_TOPIC_4" target="A_cnn" id="182" weight="0.9568859051992751" />
+      <edge source="T_TOPIC_4" target="A_arctictoday" id="183" weight="0.002150539325316701" />
+      <edge source="T_TOPIC_4" target="A_kidzone" id="184" weight="0.5636608609507172" />
+      <edge source="T_TOPIC_4" target="A_quarkexpeditions" id="185" weight="0.7909132655181494" />
+      <edge source="T_TOPIC_4" target="A_coolantarctica" id="186" weight="0.8348511631082977" />
+      <edge source="T_TOPIC_4" target="A_openaccessgovernment" id="187" weight="0.9959595879649815" />
+      <edge source="T_TOPIC_4" target="A_arcticfish" id="188" weight="0.6495129428290932" />
+      <edge source="T_TOPIC_4" target="A_dmi" id="189" weight="0.9996684421750573" />
+      <edge source="T_TOPIC_4" target="A_nrdc" id="190" weight="0.12874030243963866" />
+      <edge source="T_TOPIC_4" target="A_arcticrubyoil" id="191" weight="0.21078459906338423" />
+      <edge source="T_TOPIC_4" target="A_greenpeace" id="192" weight="0.1462677187640743" />
+      <edge source="T_TOPIC_4" target="A_scientificamerican" id="193" weight="0.9991538218742447" />
+      <edge source="T_TOPIC_4" target="A_kvaroyarctic" id="194" weight="0.003508797695988628" />
+      <edge source="T_TOPIC_4" target="A_arcticpaper" id="195" weight="0.009523832420684858" />
+      <edge source="T_TOPIC_4" target="A_tufts" id="196" weight="0.001169593540191996" />
+      <edge source="T_TOPIC_4" target="A_arctic360" id="197" weight="0.0013888961092799578" />
+      <edge source="T_TOPIC_4" target="A_oceandecade" id="198" weight="0.531828389330143" />
+      <edge source="T_TOPIC_4" target="A_arcticportal" id="199" weight="0.48016566510619824" />
+      <edge source="T_TOPIC_4" target="A_arctick" id="200" weight="0.002898558707331977" />
+      <edge source="T_TOPIC_4" target="A_adventure-life" id="201" weight="0.9964102523773039" />
+      <edge source="T_TOPIC_4" target="A_arctic-adventure" id="202" weight="0.0014492763861535714" />
+      <edge source="T_TOPIC_4" target="A_acces-arctic" id="203" weight="0.5144922905080156" />
+      <edge source="T_TOPIC_4" target="A_arctickingdom" id="204" weight="0.9919540075501367" />
+      <edge source="T_TOPIC_4" target="A_awi" id="205" weight="0.9886178689480501" />
+      <edge source="T_TOPIC_5" target="A_dezeen" id="206" weight="0.0010928981504942416" />
+      <edge source="T_TOPIC_5" target="A_npr" id="207" weight="0.002083338467649726" />
+      <edge source="T_TOPIC_5" target="A_Clean Arctic Alliance" id="208" weight="0.033333348950917926" />
+      <edge source="T_TOPIC_5" target="A_hurtigruten" id="209" weight="0.002222227234160619" />
+      <edge source="T_TOPIC_5" target="A_Department of Arctic Geology" id="210" weight="0.033333348950917926" />
+      <edge source="T_TOPIC_5" target="A_arctic-council" id="211" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_5" target="A_cambridge" id="212" weight="0.001041668601135666" />
+      <edge source="T_TOPIC_5" target="A_newscientist" id="213" weight="0.022222229623116114" />
+      <edge source="T_TOPIC_5" target="A_theguardian" id="214" weight="0.011111129763771647" />
+      <edge source="T_TOPIC_5" target="A_desert-technologies" id="215" weight="0.004444452578862847" />
+      <edge source="T_TOPIC_5" target="A_arctictoday" id="216" weight="0.002150538526048799" />
+      <edge source="T_TOPIC_5" target="A_arctic-bioscience" id="217" weight="0.8482508379674197" />
+      <edge source="T_TOPIC_5" target="A_kvaroyarctic" id="218" weight="0.0035087777653564937" />
+      <edge source="T_TOPIC_5" target="A_arcticpaper" id="219" weight="0.009523829948738743" />
+      <edge source="T_TOPIC_5" target="A_tufts" id="220" weight="0.001169592367261223" />
+      <edge source="T_TOPIC_5" target="A_arctic360" id="221" weight="0.0013888906246705562" />
+      <edge source="T_TOPIC_5" target="A_arctick" id="222" weight="0.0028985553647174096" />
+      <edge source="T_TOPIC_5" target="A_arctic-adventure" id="223" weight="0.0014492759842676952" />
+      <edge source="T_TOPIC_6" target="A_investingnews" id="224" weight="0.08725003394752627" />
+      <edge source="T_TOPIC_6" target="A_gia" id="225" weight="0.9998309482475523" />
+      <edge source="T_TOPIC_6" target="A_geology" id="226" weight="0.09356711902690838" />
+      <edge source="T_TOPIC_6" target="A_dezeen" id="227" weight="0.001092898142024167" />
+      <edge source="T_TOPIC_6" target="A_npr" id="228" weight="0.002083336335513729" />
+      <edge source="T_TOPIC_6" target="A_yale" id="229" weight="0.01257169502326939" />
+      <edge source="T_TOPIC_6" target="A_Clean Arctic Alliance" id="230" weight="0.033333336661466616" />
+      <edge source="T_TOPIC_6" target="A_sciencemag" id="231" weight="0.003178198985004957" />
+      <edge source="T_TOPIC_6" target="A_hurtigruten" id="232" weight="0.0022222244610257042" />
+      <edge source="T_TOPIC_6" target="A_Department of Arctic Geology" id="233" weight="0.033333336661466616" />
+      <edge source="T_TOPIC_6" target="A_eitrawmaterials" id="234" weight="0.1408418850926082" />
+      <edge source="T_TOPIC_6" target="A_arctic-council" id="235" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_6" target="A_cambridge" id="236" weight="0.0010416690033944792" />
+      <edge source="T_TOPIC_6" target="A_newscientist" id="237" weight="0.02222222425306036" />
+      <edge source="T_TOPIC_6" target="A_theguardian" id="238" weight="0.48029894151594243" />
+      <edge source="T_TOPIC_6" target="A_listverse" id="239" weight="0.044337728708126266" />
+      <edge source="T_TOPIC_6" target="A_nps" id="240" weight="0.09736930276144742" />
+      <edge source="T_TOPIC_6" target="A_github" id="241" weight="0.04200400488597636" />
+      <edge source="T_TOPIC_6" target="A_desert-technologies" id="242" weight="0.004444460426856616" />
+      <edge source="T_TOPIC_6" target="A_reuters" id="243" weight="0.05865515292670877" />
+      <edge source="T_TOPIC_6" target="A_arctictoday" id="244" weight="0.002150538743566415" />
+      <edge source="T_TOPIC_6" target="A_kvaroyarctic" id="245" weight="0.003508777821759235" />
+      <edge source="T_TOPIC_6" target="A_arcticpaper" id="246" weight="0.009523844781313942" />
+      <edge source="T_TOPIC_6" target="A_tufts" id="247" weight="0.001169593247753095" />
+      <edge source="T_TOPIC_6" target="A_arctic360" id="248" weight="0.0013888904415219124" />
+      <edge source="T_TOPIC_6" target="A_arctick" id="249" weight="0.002898555352217901" />
+      <edge source="T_TOPIC_6" target="A_arctic-adventure" id="250" weight="0.001449275903861972" />
+      <edge source="T_TOPIC_7" target="A_dezeen" id="251" weight="0.0010928974999726375" />
+      <edge source="T_TOPIC_7" target="A_npr" id="252" weight="0.00208333635905251" />
+      <edge source="T_TOPIC_7" target="A_Clean Arctic Alliance" id="253" weight="0.033333347126357875" />
+      <edge source="T_TOPIC_7" target="A_hurtigruten" id="254" weight="0.002222224693761482" />
+      <edge source="T_TOPIC_7" target="A_Department of Arctic Geology" id="255" weight="0.033333347126357875" />
+      <edge source="T_TOPIC_7" target="A_arctic-council" id="256" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_7" target="A_cambridge" id="257" weight="0.0010416682482762786" />
+      <edge source="T_TOPIC_7" target="A_newscientist" id="258" weight="0.022222227412614707" />
+      <edge source="T_TOPIC_7" target="A_theguardian" id="259" weight="0.011111129386890926" />
+      <edge source="T_TOPIC_7" target="A_desert-technologies" id="260" weight="0.004444450876320039" />
+      <edge source="T_TOPIC_7" target="A_arctictoday" id="261" weight="0.002150538345164852" />
+      <edge source="T_TOPIC_7" target="A_kvaroyarctic" id="262" weight="0.0035087759898951337" />
+      <edge source="T_TOPIC_7" target="A_arcticpaper" id="263" weight="0.009523824966691331" />
+      <edge source="T_TOPIC_7" target="A_tufts" id="264" weight="0.0011695921095564148" />
+      <edge source="T_TOPIC_7" target="A_arctic360" id="265" weight="0.0013888902844295023" />
+      <edge source="T_TOPIC_7" target="A_arctick" id="266" weight="0.002898554961572024" />
+      <edge source="T_TOPIC_7" target="A_arctic-adventure" id="267" weight="0.0014492757961471116" />
+      <edge source="T_TOPIC_8" target="A_thenewhumanitarian" id="268" weight="0.012181307797631259" />
+      <edge source="T_TOPIC_8" target="A_dezeen" id="269" weight="0.0010928983835738462" />
+      <edge source="T_TOPIC_8" target="A_npr" id="270" weight="0.0020833376566416913" />
+      <edge source="T_TOPIC_8" target="A_yale" id="271" weight="0.18101671954896706" />
+      <edge source="T_TOPIC_8" target="A_Clean Arctic Alliance" id="272" weight="0.033333343198468236" />
+      <edge source="T_TOPIC_8" target="A_hurtigruten" id="273" weight="0.002222228937881927" />
+      <edge source="T_TOPIC_8" target="A_Department of Arctic Geology" id="274" weight="0.033333343198468236" />
+      <edge source="T_TOPIC_8" target="A_arctic-council" id="275" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_8" target="A_cambridge" id="276" weight="0.001041668505427161" />
+      <edge source="T_TOPIC_8" target="A_newscientist" id="277" weight="0.022222228467480624" />
+      <edge source="T_TOPIC_8" target="A_theguardian" id="278" weight="0.011111133501240288" />
+      <edge source="T_TOPIC_8" target="A_desert-technologies" id="279" weight="0.004444451546585304" />
+      <edge source="T_TOPIC_8" target="A_arctictoday" id="280" weight="0.0021505393337725334" />
+      <edge source="T_TOPIC_8" target="A_fandom" id="281" weight="0.998225599663537" />
+      <edge source="T_TOPIC_8" target="A_kvaroyarctic" id="282" weight="0.0035087810799088216" />
+      <edge source="T_TOPIC_8" target="A_arcticpaper" id="283" weight="0.009523821891153953" />
+      <edge source="T_TOPIC_8" target="A_tufts" id="284" weight="0.0011695928017921913" />
+      <edge source="T_TOPIC_8" target="A_arctic360" id="285" weight="0.0013888911125051844" />
+      <edge source="T_TOPIC_8" target="A_arctick" id="286" weight="0.002898556747644036" />
+      <edge source="T_TOPIC_8" target="A_arctic-adventure" id="287" weight="0.0014492766998283292" />
+      <edge source="T_TOPIC_9" target="A_dezeen" id="288" weight="0.0010928975178164106" />
+      <edge source="T_TOPIC_9" target="A_npr" id="289" weight="0.0020833363902796323" />
+      <edge source="T_TOPIC_9" target="A_Clean Arctic Alliance" id="290" weight="0.03333334417005667" />
+      <edge source="T_TOPIC_9" target="A_hurtigruten" id="291" weight="0.002222224461308586" />
+      <edge source="T_TOPIC_9" target="A_Department of Arctic Geology" id="292" weight="0.03333334417005667" />
+      <edge source="T_TOPIC_9" target="A_arctic-council" id="293" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_9" target="A_cambridge" id="294" weight="0.0010416683085108223" />
+      <edge source="T_TOPIC_9" target="A_newscientist" id="295" weight="0.02222222914017854" />
+      <edge source="T_TOPIC_9" target="A_theguardian" id="296" weight="0.011111127657990445" />
+      <edge source="T_TOPIC_9" target="A_desert-technologies" id="297" weight="0.004444452797795248" />
+      <edge source="T_TOPIC_9" target="A_arctictoday" id="298" weight="0.0021505384256914296" />
+      <edge source="T_TOPIC_9" target="A_kvaroyarctic" id="299" weight="0.003508775840347712" />
+      <edge source="T_TOPIC_9" target="A_arcticpaper" id="300" weight="0.009523824130781565" />
+      <edge source="T_TOPIC_9" target="A_tufts" id="301" weight="0.0011695920673713619" />
+      <edge source="T_TOPIC_9" target="A_arctic360" id="302" weight="0.0013888903108317987" />
+      <edge source="T_TOPIC_9" target="A_arctick" id="303" weight="0.0028985544666094414" />
+      <edge source="T_TOPIC_9" target="A_arctic-adventure" id="304" weight="0.0014492758350388938" />
+      <edge source="T_TOPIC_10" target="A_rcinet" id="305" weight="0.14532937924948963" />
+      <edge source="T_TOPIC_10" target="A_um" id="306" weight="0.029956564878937237" />
+      <edge source="T_TOPIC_10" target="A_defensenews" id="307" weight="0.25751489036739467" />
+      <edge source="T_TOPIC_10" target="A_heritage" id="308" weight="0.22905593762388263" />
+      <edge source="T_TOPIC_10" target="A_thediplomat" id="309" weight="0.11275614056557973" />
+      <edge source="T_TOPIC_10" target="A_nytimes" id="310" weight="0.14163170832360852" />
+      <edge source="T_TOPIC_10" target="A_dezeen" id="311" weight="0.0010928989729029153" />
+      <edge source="T_TOPIC_10" target="A_npr" id="312" weight="0.0020833375755053714" />
+      <edge source="T_TOPIC_10" target="A_ospar" id="313" weight="0.23624206135869005" />
+      <edge source="T_TOPIC_10" target="A_state" id="314" weight="0.2045742342898549" />
+      <edge source="T_TOPIC_10" target="A_journalsofindia" id="315" weight="0.1653574202870986" />
+      <edge source="T_TOPIC_10" target="A_arcticyearbook" id="316" weight="0.1354105993617171" />
+      <edge source="T_TOPIC_10" target="A_c2g2" id="317" weight="0.9037526691005572" />
+      <edge source="T_TOPIC_10" target="A_arcticcentre" id="318" weight="0.948495624501415" />
+      <edge source="T_TOPIC_10" target="A_highnorthnews" id="319" weight="0.9989159873683211" />
+      <edge source="T_TOPIC_10" target="A_euobserver" id="320" weight="0.6217058302830479" />
+      <edge source="T_TOPIC_10" target="A_Clean Arctic Alliance" id="321" weight="0.03333337362375339" />
+      <edge source="T_TOPIC_10" target="A_hurtigruten" id="322" weight="0.0022222264506090708" />
+      <edge source="T_TOPIC_10" target="A_Department of Arctic Geology" id="323" weight="0.03333337362375339" />
+      <edge source="T_TOPIC_10" target="A_insideclimatenews" id="324" weight="0.9232396080536434" />
+      <edge source="T_TOPIC_10" target="A_msn" id="325" weight="0.1795150263861416" />
+      <edge source="T_TOPIC_10" target="A_arctic-council" id="326" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_10" target="A_cambridge" id="327" weight="0.001041669896738014" />
+      <edge source="T_TOPIC_10" target="A_newscientist" id="328" weight="0.022222226489331927" />
+      <edge source="T_TOPIC_10" target="A_theguardian" id="329" weight="0.011111133685330843" />
+      <edge source="T_TOPIC_10" target="A_iisd" id="330" weight="0.8372533406802124" />
+      <edge source="T_TOPIC_10" target="A_unece" id="331" weight="0.992473105610401" />
+      <edge source="T_TOPIC_10" target="A_nato" id="332" weight="0.009533900381155945" />
+      <edge source="T_TOPIC_10" target="A_desert-technologies" id="333" weight="0.004444455118235998" />
+      <edge source="T_TOPIC_10" target="A_coursera" id="334" weight="0.07733146495450258" />
+      <edge source="T_TOPIC_10" target="A_arcticeconomiccouncil" id="335" weight="0.07025775518149784" />
+      <edge source="T_TOPIC_10" target="A_arctictoday" id="336" weight="0.002150538974179621" />
+      <edge source="T_TOPIC_10" target="A_kvaroyarctic" id="337" weight="0.003508777748113045" />
+      <edge source="T_TOPIC_10" target="A_arcticpaper" id="338" weight="0.009523825734467306" />
+      <edge source="T_TOPIC_10" target="A_tufts" id="339" weight="0.0011695937382800597" />
+      <edge source="T_TOPIC_10" target="A_arctic360" id="340" weight="0.0013888914117638348" />
+      <edge source="T_TOPIC_10" target="A_thebarentsobserver" id="341" weight="0.9941299706125571" />
+      <edge source="T_TOPIC_10" target="A_arctick" id="342" weight="0.0028985566184055443" />
+      <edge source="T_TOPIC_10" target="A_arctic-adventure" id="343" weight="0.0014492763520346592" />
+      <edge source="T_TOPIC_11" target="A_foreignpolicy" id="344" weight="0.9999250273139257" />
+      <edge source="T_TOPIC_11" target="A_europa" id="345" weight="0.8352174356879367" />
+      <edge source="T_TOPIC_11" target="A_weforum" id="346" weight="0.04692566562209597" />
+      <edge source="T_TOPIC_11" target="A_harvard" id="347" weight="0.8872570210416334" />
+      <edge source="T_TOPIC_11" target="A_rcinet" id="348" weight="0.595348255692693" />
+      <edge source="T_TOPIC_11" target="A_investingnews" id="349" weight="0.6029997016652928" />
+      <edge source="T_TOPIC_11" target="A_panda" id="350" weight="0.07709483536087824" />
+      <edge source="T_TOPIC_11" target="A_um" id="351" weight="0.9693365280508837" />
+      <edge source="T_TOPIC_11" target="A_defensenews" id="352" weight="0.7385739177365606" />
+      <edge source="T_TOPIC_11" target="A_worldwildlife" id="353" weight="0.33913884093217245" />
+      <edge source="T_TOPIC_11" target="A_maritime-executive" id="354" weight="0.4714198834257179" />
+      <edge source="T_TOPIC_11" target="A_arcticwwf" id="355" weight="0.15122106448306177" />
+      <edge source="T_TOPIC_11" target="A_noaa" id="356" weight="0.32560563864536685" />
+      <edge source="T_TOPIC_11" target="A_nwf" id="357" weight="0.29020607091686784" />
+      <edge source="T_TOPIC_11" target="A_energy" id="358" weight="0.9443562554599901" />
+      <edge source="T_TOPIC_11" target="A_ucalgary" id="359" weight="0.7461617939740158" />
+      <edge source="T_TOPIC_11" target="A_un" id="360" weight="0.42309820139279525" />
+      <edge source="T_TOPIC_11" target="A_heritage" id="361" weight="0.7699478924647066" />
+      <edge source="T_TOPIC_11" target="A_geology" id="362" weight="0.8935901210524344" />
+      <edge source="T_TOPIC_11" target="A_thediplomat" id="363" weight="0.7158531398549176" />
+      <edge source="T_TOPIC_11" target="A_nytimes" id="364" weight="0.8237277110456158" />
+      <edge source="T_TOPIC_11" target="A_bloomberg" id="365" weight="0.27071813747617585" />
+      <edge source="T_TOPIC_11" target="A_nike" id="366" weight="0.2480634877870278" />
+      <edge source="T_TOPIC_11" target="A_thenewhumanitarian" id="367" weight="0.6310697549425075" />
+      <edge source="T_TOPIC_11" target="A_dezeen" id="368" weight="0.0010929014010258682" />
+      <edge source="T_TOPIC_11" target="A_npr" id="369" weight="0.0020833390151496875" />
+      <edge source="T_TOPIC_11" target="A_biologicaldiversity" id="370" weight="0.8103909993120009" />
+      <edge source="T_TOPIC_11" target="A_foreignaffairs" id="371" weight="0.9993426208609066" />
+      <edge source="T_TOPIC_11" target="A_theatlantic" id="372" weight="0.7880203554086594" />
+      <edge source="T_TOPIC_11" target="A_arctic" id="373" weight="0.8420301471355863" />
+      <edge source="T_TOPIC_11" target="A_ospar" id="374" weight="0.20173699909344492" />
+      <edge source="T_TOPIC_11" target="A_uarctic" id="375" weight="0.6550237692563758" />
+      <edge source="T_TOPIC_11" target="A_state" id="376" weight="0.7841499337929033" />
+      <edge source="T_TOPIC_11" target="A_journalsofindia" id="377" weight="0.6859219228374295" />
+      <edge source="T_TOPIC_11" target="A_arcticyearbook" id="378" weight="0.8638396878033479" />
+      <edge source="T_TOPIC_11" target="A_csis" id="379" weight="0.9996728582149081" />
+      <edge source="T_TOPIC_11" target="A_norden" id="380" weight="0.39186527776771013" />
+      <edge source="T_TOPIC_11" target="A_polarconnection" id="381" weight="0.9931842456505467" />
+      <edge source="T_TOPIC_11" target="A_military" id="382" weight="0.9288309484981414" />
+      <edge source="T_TOPIC_11" target="A_visualcapitalist" id="383" weight="0.8716984672474501" />
+      <edge source="T_TOPIC_11" target="A_c2g2" id="384" weight="0.07243489413860667" />
+      <edge source="T_TOPIC_11" target="A_arcticfrontiers" id="385" weight="0.9001242925618687" />
+      <edge source="T_TOPIC_11" target="A_dtu" id="386" weight="0.39736250936893425" />
+      <edge source="T_TOPIC_11" target="A_euractiv" id="387" weight="0.9011504845895525" />
+      <edge source="T_TOPIC_11" target="A_inuitcircumpolar" id="388" weight="0.9968888829276287" />
+      <edge source="T_TOPIC_11" target="A_nationalinterest" id="389" weight="0.9990514890822536" />
+      <edge source="T_TOPIC_11" target="A_gov" id="390" weight="0.7014696100680843" />
+      <edge source="T_TOPIC_11" target="A_euobserver" id="391" weight="0.37636395147076385" />
+      <edge source="T_TOPIC_11" target="A_Clean Arctic Alliance" id="392" weight="0.033333360603876275" />
+      <edge source="T_TOPIC_11" target="A_opportunitydesk" id="393" weight="0.5487511859324881" />
+      <edge source="T_TOPIC_11" target="A_hurtigruten" id="394" weight="0.4153703354956406" />
+      <edge source="T_TOPIC_11" target="A_save-the-arctic" id="395" weight="0.18802983142084487" />
+      <edge source="T_TOPIC_11" target="A_arcticbiodiversity" id="396" weight="0.10930378225521416" />
+      <edge source="T_TOPIC_11" target="A_Department of Arctic Geology" id="397" weight="0.033333360603876275" />
+      <edge source="T_TOPIC_11" target="A_moderndiplomacy" id="398" weight="0.8225586260209536" />
+      <edge source="T_TOPIC_11" target="A_regjeringen" id="399" weight="0.9463687194302377" />
+      <edge source="T_TOPIC_11" target="A_nordregio" id="400" weight="0.31735903013037453" />
+      <edge source="T_TOPIC_11" target="A_ey" id="401" weight="0.9875555339771043" />
+      <edge source="T_TOPIC_11" target="A_insideclimatenews" id="402" weight="0.07546878512745063" />
+      <edge source="T_TOPIC_11" target="A_msn" id="403" weight="0.8169761953980815" />
+      <edge source="T_TOPIC_11" target="A_eitrawmaterials" id="404" weight="0.7752657158353746" />
+      <edge source="T_TOPIC_11" target="A_caff" id="405" weight="0.5630704513666813" />
+      <edge source="T_TOPIC_11" target="A_arctic-council" id="406" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_11" target="A_devex" id="407" weight="0.997984156926368" />
+      <edge source="T_TOPIC_11" target="A_phys" id="408" weight="0.35699667961413145" />
+      <edge source="T_TOPIC_11" target="A_cambridge" id="409" weight="0.8332553444669358" />
+      <edge source="T_TOPIC_11" target="A_thetokenizer" id="410" weight="0.9900709071870605" />
+      <edge source="T_TOPIC_11" target="A_rcaanc-cirnac" id="411" weight="0.9994898623856937" />
+      <edge source="T_TOPIC_11" target="A_inmarsat" id="412" weight="0.9192320572556597" />
+      <edge source="T_TOPIC_11" target="A_newscientist" id="413" weight="0.022222228238991597" />
+      <edge source="T_TOPIC_11" target="A_researchgate" id="414" weight="0.39111177223740257" />
+      <edge source="T_TOPIC_11" target="A_livescience" id="415" weight="0.36902679286532486" />
+      <edge source="T_TOPIC_11" target="A_thearcticinstitute" id="416" weight="0.8467784546291752" />
+      <edge source="T_TOPIC_11" target="A_theguardian" id="417" weight="0.3752564027518307" />
+      <edge source="T_TOPIC_11" target="A_listverse" id="418" weight="0.25011485599010147" />
+      <edge source="T_TOPIC_11" target="A_nps" id="419" weight="0.07450312088522532" />
+      <edge source="T_TOPIC_11" target="A_nationalgeographic" id="420" weight="0.5402841502678181" />
+      <edge source="T_TOPIC_11" target="A_iisd" id="421" weight="0.1612876224001616" />
+      <edge source="T_TOPIC_11" target="A_britishmuseum" id="422" weight="0.7356626402170563" />
+      <edge source="T_TOPIC_11" target="A_github" id="423" weight="0.20516681817865456" />
+      <edge source="T_TOPIC_11" target="A_intrepidtravel" id="424" weight="0.2432146717869571" />
+      <edge source="T_TOPIC_11" target="A_nato" id="425" weight="0.9893332003632975" />
+      <edge source="T_TOPIC_11" target="A_vox" id="426" weight="0.71448334711483" />
+      <edge source="T_TOPIC_11" target="A_sdu" id="427" weight="0.6817431876428558" />
+      <edge source="T_TOPIC_11" target="A_desert-technologies" id="428" weight="0.9377776627320433" />
+      <edge source="T_TOPIC_11" target="A_indiatimes" id="429" weight="0.5058961244013512" />
+      <edge source="T_TOPIC_11" target="A_climatechangenews" id="430" weight="0.09069741931304681" />
+      <edge source="T_TOPIC_11" target="A_audubon" id="431" weight="0.1357150359263639" />
+      <edge source="T_TOPIC_11" target="A_reuters" id="432" weight="0.3690641311490583" />
+      <edge source="T_TOPIC_11" target="A_smithsonianmag" id="433" weight="0.4234677704129114" />
+      <edge source="T_TOPIC_11" target="A_discovermagazine" id="434" weight="0.399748168871601" />
+      <edge source="T_TOPIC_11" target="A_arcticeconomiccouncil" id="435" weight="0.9216425421827135" />
+      <edge source="T_TOPIC_11" target="A_arctictoday" id="436" weight="0.002150539414024415" />
+      <edge source="T_TOPIC_11" target="A_arctic-bioscience" id="437" weight="0.11812904160207596" />
+      <edge source="T_TOPIC_11" target="A_arcticcircle" id="438" weight="0.9517912600884574" />
+      <edge source="T_TOPIC_11" target="A_quarkexpeditions" id="439" weight="0.20722293257521823" />
+      <edge source="T_TOPIC_11" target="A_coolantarctica" id="440" weight="0.1559289663088654" />
+      <edge source="T_TOPIC_11" target="A_arcticfish" id="441" weight="0.3316637972459807" />
+      <edge source="T_TOPIC_11" target="A_nrdc" id="442" weight="0.8672658354432979" />
+      <edge source="T_TOPIC_11" target="A_arcticrubyoil" id="443" weight="0.783319699043514" />
+      <edge source="T_TOPIC_11" target="A_greenpeace" id="444" weight="0.8521763248014551" />
+      <edge source="T_TOPIC_11" target="A_arcticgenderequality" id="445" weight="0.5407454208864666" />
+      <edge source="T_TOPIC_11" target="A_kvaroyarctic" id="446" weight="0.950877100134344" />
+      <edge source="T_TOPIC_11" target="A_wikipedia" id="447" weight="0.9947463733591535" />
+      <edge source="T_TOPIC_11" target="A_arcticpaper" id="448" weight="0.8666664157367698" />
+      <edge source="T_TOPIC_11" target="A_tufts" id="449" weight="0.8382471150564066" />
+      <edge source="T_TOPIC_11" target="A_arctic360" id="450" weight="0.9805555207010664" />
+      <edge source="T_TOPIC_11" target="A_oceandecade" id="451" weight="0.33699855109892163" />
+      <edge source="T_TOPIC_11" target="A_arcticportal" id="452" weight="0.3437987611564099" />
+      <edge source="T_TOPIC_11" target="A_belfercenter" id="453" weight="0.9945419019217296" />
+      <edge source="T_TOPIC_11" target="A_arctick" id="454" weight="0.729945417115793" />
+      <edge source="T_TOPIC_11" target="A_smallwarsjournal" id="455" weight="0.9992029587564699" />
+      <edge source="T_TOPIC_11" target="A_arctic-adventure" id="456" weight="0.0014492763095215993" />
+      <edge source="T_TOPIC_11" target="A_acces-arctic" id="457" weight="0.43613260225173445" />
+      <edge source="T_TOPIC_12" target="A_energy" id="458" weight="0.043759665699672934" />
+      <edge source="T_TOPIC_12" target="A_ucalgary" id="459" weight="0.22543520906638365" />
+      <edge source="T_TOPIC_12" target="A_bloomberg" id="460" weight="0.050611629722276265" />
+      <edge source="T_TOPIC_12" target="A_dezeen" id="461" weight="0.0010928984792163677" />
+      <edge source="T_TOPIC_12" target="A_npr" id="462" weight="0.8955558329658639" />
+      <edge source="T_TOPIC_12" target="A_arctic" id="463" weight="0.026762183433699196" />
+      <edge source="T_TOPIC_12" target="A_uarctic" id="464" weight="0.18607161755970142" />
+      <edge source="T_TOPIC_12" target="A_nature" id="465" weight="0.0057745232766918874" />
+      <edge source="T_TOPIC_12" target="A_nsf" id="466" weight="0.9934880793010453" />
+      <edge source="T_TOPIC_12" target="A_dtu" id="467" weight="0.034583678800621014" />
+      <edge source="T_TOPIC_12" target="A_Clean Arctic Alliance" id="468" weight="0.033333337897235436" />
+      <edge source="T_TOPIC_12" target="A_opportunitydesk" id="469" weight="0.22269222835775354" />
+      <edge source="T_TOPIC_12" target="A_hurtigruten" id="470" weight="0.002222227181014151" />
+      <edge source="T_TOPIC_12" target="A_Department of Arctic Geology" id="471" weight="0.033333337897235436" />
+      <edge source="T_TOPIC_12" target="A_eitrawmaterials" id="472" weight="0.026318213677036427" />
+      <edge source="T_TOPIC_12" target="A_arctic-council" id="473" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_12" target="A_cambridge" id="474" weight="0.15320295677220283" />
+      <edge source="T_TOPIC_12" target="A_newscientist" id="475" weight="0.3522059989905251" />
+      <edge source="T_TOPIC_12" target="A_researchgate" id="476" weight="0.04552731290527829" />
+      <edge source="T_TOPIC_12" target="A_theguardian" id="477" weight="0.011111119877223014" />
+      <edge source="T_TOPIC_12" target="A_britishmuseum" id="478" weight="0.027893023164126403" />
+      <edge source="T_TOPIC_12" target="A_intrepidtravel" id="479" weight="0.07073390592937637" />
+      <edge source="T_TOPIC_12" target="A_desert-technologies" id="480" weight="0.004444449446234849" />
+      <edge source="T_TOPIC_12" target="A_cnn" id="481" weight="0.04151212006091982" />
+      <edge source="T_TOPIC_12" target="A_arctictoday" id="482" weight="0.9698924592285035" />
+      <edge source="T_TOPIC_12" target="A_kvaroyarctic" id="483" weight="0.003508782246158379" />
+      <edge source="T_TOPIC_12" target="A_arcus" id="484" weight="0.8335364870799283" />
+      <edge source="T_TOPIC_12" target="A_wikipedia" id="485" weight="0.0049397302369940865" />
+      <edge source="T_TOPIC_12" target="A_arcticpaper" id="486" weight="0.009523820031994165" />
+      <edge source="T_TOPIC_12" target="A_tufts" id="487" weight="0.0011695947479237207" />
+      <edge source="T_TOPIC_12" target="A_arctic360" id="488" weight="0.001388897077841199" />
+      <edge source="T_TOPIC_12" target="A_oceandecade" id="489" weight="0.11272610763621109" />
+      <edge source="T_TOPIC_12" target="A_arctick" id="490" weight="0.002898559176403478" />
+      <edge source="T_TOPIC_12" target="A_booking" id="491" weight="0.9982651782056486" />
+      <edge source="T_TOPIC_12" target="A_arctic-adventure" id="492" weight="0.9797101363578767" />
+      <edge source="T_TOPIC_13" target="A_harvard" id="493" weight="0.004063623905420387" />
+      <edge source="T_TOPIC_13" target="A_rcinet" id="494" weight="0.02755801989798357" />
+      <edge source="T_TOPIC_13" target="A_investingnews" id="495" weight="0.013502447090543962" />
+      <edge source="T_TOPIC_13" target="A_wwf" id="496" weight="0.011718466742799976" />
+      <edge source="T_TOPIC_13" target="A_uwyo" id="497" weight="0.007867426419288195" />
+      <edge source="T_TOPIC_13" target="A_ucalgary" id="498" weight="0.02672232194358803" />
+      <edge source="T_TOPIC_13" target="A_nsidc" id="499" weight="0.01055448846354576" />
+      <edge source="T_TOPIC_13" target="A_un" id="500" weight="0.018594194150512878" />
+      <edge source="T_TOPIC_13" target="A_thediplomat" id="501" weight="0.04962444744071237" />
+      <edge source="T_TOPIC_13" target="A_thenewhumanitarian" id="502" weight="0.03598821742626443" />
+      <edge source="T_TOPIC_13" target="A_dezeen" id="503" weight="0.07612408027094736" />
+      <edge source="T_TOPIC_13" target="A_npr" id="504" weight="0.07736078291710273" />
+      <edge source="T_TOPIC_13" target="A_arctic" id="505" weight="0.1286840049134551" />
+      <edge source="T_TOPIC_13" target="A_greenfacts" id="506" weight="0.003672021346096472" />
+      <edge source="T_TOPIC_13" target="A_uarctic" id="507" weight="0.08731460159806027" />
+      <edge source="T_TOPIC_13" target="A_state" id="508" weight="0.010776766994772653" />
+      <edge source="T_TOPIC_13" target="A_climate" id="509" weight="0.012618314708736398" />
+      <edge source="T_TOPIC_13" target="A_journalsofindia" id="510" weight="0.010340672434185521" />
+      <edge source="T_TOPIC_13" target="A_nsf" id="511" weight="0.006239126235496348" />
+      <edge source="T_TOPIC_13" target="A_arcticfrontiers" id="512" weight="0.09821223639370609" />
+      <edge source="T_TOPIC_13" target="A_arcticcentre" id="513" weight="0.008737046812852742" />
+      <edge source="T_TOPIC_13" target="A_Clean Arctic Alliance" id="514" weight="0.03333350933632582" />
+      <edge source="T_TOPIC_13" target="A_hurtigruten" id="515" weight="0.0022222246999659937" />
+      <edge source="T_TOPIC_13" target="A_save-the-arctic" id="516" weight="0.02614214041834353" />
+      <edge source="T_TOPIC_13" target="A_Department of Arctic Geology" id="517" weight="0.03333350933632582" />
+      <edge source="T_TOPIC_13" target="A_eitrawmaterials" id="518" weight="0.029670866464549306" />
+      <edge source="T_TOPIC_13" target="A_forbes" id="519" weight="0.021018096181956436" />
+      <edge source="T_TOPIC_13" target="A_caff" id="520" weight="0.049186374151197115" />
+      <edge source="T_TOPIC_13" target="A_arctic-council" id="521" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_13" target="A_cambridge" id="522" weight="0.001041669097640719" />
+      <edge source="T_TOPIC_13" target="A_newscientist" id="523" weight="0.35890499690765937" />
+      <edge source="T_TOPIC_13" target="A_researchgate" id="524" weight="0.009076731224002946" />
+      <edge source="T_TOPIC_13" target="A_livescience" id="525" weight="0.03996064345156598" />
+      <edge source="T_TOPIC_13" target="A_thearcticinstitute" id="526" weight="0.10870707833578813" />
+      <edge source="T_TOPIC_13" target="A_theguardian" id="527" weight="0.011111118894290565" />
+      <edge source="T_TOPIC_13" target="A_britishmuseum" id="528" weight="0.04554225707514461" />
+      <edge source="T_TOPIC_13" target="A_github" id="529" weight="0.030780026757663448" />
+      <edge source="T_TOPIC_13" target="A_desert-technologies" id="530" weight="0.004444454268107802" />
+      <edge source="T_TOPIC_13" target="A_coursera" id="531" weight="0.03180778331822157" />
+      <edge source="T_TOPIC_13" target="A_indiatimes" id="532" weight="0.013804439589424348" />
+      <edge source="T_TOPIC_13" target="A_audubon" id="533" weight="0.06940389589699732" />
+      <edge source="T_TOPIC_13" target="A_arctictoday" id="534" weight="0.002150538459914156" />
+      <edge source="T_TOPIC_13" target="A_arctic-bioscience" id="535" weight="0.02832209981816912" />
+      <edge source="T_TOPIC_13" target="A_arcticcircle" id="536" weight="0.04557449065867039" />
+      <edge source="T_TOPIC_13" target="A_kidzone" id="537" weight="0.009493613122138414" />
+      <edge source="T_TOPIC_13" target="A_arcticgenderequality" id="538" weight="0.45852689809939884" />
+      <edge source="T_TOPIC_13" target="A_kvaroyarctic" id="539" weight="0.0035087759707027487" />
+      <edge source="T_TOPIC_13" target="A_arcus" id="540" weight="0.16167529441589906" />
+      <edge source="T_TOPIC_13" target="A_arcticpaper" id="541" weight="0.009523850753736662" />
+      <edge source="T_TOPIC_13" target="A_tufts" id="542" weight="0.14654818059487779" />
+      <edge source="T_TOPIC_13" target="A_arctic360" id="543" weight="0.0013888906499239686" />
+      <edge source="T_TOPIC_13" target="A_arcticportal" id="544" weight="0.17526781800741595" />
+      <edge source="T_TOPIC_13" target="A_arctick" id="545" weight="0.23237335962414124" />
+      <edge source="T_TOPIC_13" target="A_arctic-adventure" id="546" weight="0.0014492757967222677" />
+      <edge source="T_TOPIC_13" target="A_acces-arctic" id="547" weight="0.0382639809533207" />
+      <edge source="T_TOPIC_13" target="A_eu-interact" id="548" weight="0.9999181788232211" />
+      <edge source="T_TOPIC_14" target="A_dezeen" id="549" weight="0.0010928976670999241" />
+      <edge source="T_TOPIC_14" target="A_npr" id="550" weight="0.002083336653230913" />
+      <edge source="T_TOPIC_14" target="A_norden" id="551" weight="0.6047091566258529" />
+      <edge source="T_TOPIC_14" target="A_Clean Arctic Alliance" id="552" weight="0.03333338208490012" />
+      <edge source="T_TOPIC_14" target="A_opportunitydesk" id="553" weight="0.22128825375862027" />
+      <edge source="T_TOPIC_14" target="A_hurtigruten" id="554" weight="0.002222225069359246" />
+      <edge source="T_TOPIC_14" target="A_Department of Arctic Geology" id="555" weight="0.03333338208490012" />
+      <edge source="T_TOPIC_14" target="A_nordregio" id="556" weight="0.6771892666964623" />
+      <edge source="T_TOPIC_14" target="A_arctic-council" id="557" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_14" target="A_cambridge" id="558" weight="0.001041668915430883" />
+      <edge source="T_TOPIC_14" target="A_newscientist" id="559" weight="0.022222230525866336" />
+      <edge source="T_TOPIC_14" target="A_theguardian" id="560" weight="0.011111127892607774" />
+      <edge source="T_TOPIC_14" target="A_desert-technologies" id="561" weight="0.0044444521517601615" />
+      <edge source="T_TOPIC_14" target="A_arctictoday" id="562" weight="0.0021505383034279035" />
+      <edge source="T_TOPIC_14" target="A_kidzone" id="563" weight="0.42589427599970764" />
+      <edge source="T_TOPIC_14" target="A_kvaroyarctic" id="564" weight="0.0035087764172329512" />
+      <edge source="T_TOPIC_14" target="A_arcticpaper" id="565" weight="0.009523826067336089" />
+      <edge source="T_TOPIC_14" target="A_tufts" id="566" weight="0.0011695922762218743" />
+      <edge source="T_TOPIC_14" target="A_arctic360" id="567" weight="0.0013888904980481624" />
+      <edge source="T_TOPIC_14" target="A_arctick" id="568" weight="0.002898554010548414" />
+      <edge source="T_TOPIC_14" target="A_arctic-adventure" id="569" weight="0.0014492757982180935" />
+    </edges>
+  </graph>
+</gexf>

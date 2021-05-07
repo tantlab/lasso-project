@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-29">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_Urani Naamik" label="Urani Naamik">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_GrønlandsBANKEN" label="GrønlandsBANKEN">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Sikuki Nuuk Harbour" label="Sikuki Nuuk Harbour">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_RAL" label="RAL">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Tele-Post" label="Tele-Post">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_KNI" label="KNI">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Permagreen" label="Permagreen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Royal Greenland" label="Royal Greenland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Visit Greenland" label="Visit Greenland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Greenland Ruby" label="Greenland Ruby">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Nukissiorfiit" label="Nukissiorfiit">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Greenland Outdoors" label="Greenland Outdoors">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Stark Grønland" label="Stark Grønland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Arctic Prime Fisheries" label="Arctic Prime Fisheries">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nanutravel" label="nanutravel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticwonder" label="arcticwonder">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Killut - grønlandsk mad/restaurant" label="Killut - grønlandsk mad/restaurant">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Ulo Rengøring" label="Ulo Rengøring">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Lings hunting Greenland" label="Lings hunting Greenland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Qiviut - garn" label="Qiviut - garn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Aviaja Lyberth Hauptmann: mikrobiolog" label="Aviaja Lyberth Hauptmann: mikrobiolog">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Pisiffik" label="Pisiffik">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." label="Wildfood: bestilling af fangst eller fiskeri, lokalt.">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Nuup Bussii" label="Nuup Bussii">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Polar Trophy Hunt" label="Polar Trophy Hunt">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Brugseni" label="Brugseni">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Inunnguaq Hegelund: kok: lokal mad" label="Inunnguaq Hegelund: kok: lokal mad">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_0" target="A_Urani Naamik" id="0" weight="0.0011695924019336635" />
+      <edge source="T_TOPIC_0" target="A_GrønlandsBANKEN" id="1" weight="0.004166672163846067" />
+      <edge source="T_TOPIC_0" target="A_RAL" id="2" weight="0.0022222255989907203" />
+      <edge source="T_TOPIC_0" target="A_KNI" id="3" weight="0.002083335615785481" />
+      <edge source="T_TOPIC_0" target="A_Royal Greenland" id="4" weight="0.005128211568338294" />
+      <edge source="T_TOPIC_0" target="A_Nukissiorfiit" id="5" weight="0.0011695926619996377" />
+      <edge source="T_TOPIC_0" target="A_Stark Grønland" id="6" weight="0.0027777815959367964" />
+      <edge source="T_TOPIC_0" target="A_Arctic Prime Fisheries" id="7" weight="0.002898554565624573" />
+      <edge source="T_TOPIC_0" target="A_arcticwonder" id="8" weight="0.001129944744324127" />
+      <edge source="T_TOPIC_0" target="A_Ulo Rengøring" id="9" weight="0.008333347162867636" />
+      <edge source="T_TOPIC_0" target="A_Qiviut - garn" id="10" weight="0.002150542649675" />
+      <edge source="T_TOPIC_0" target="A_Pisiffik" id="11" weight="0.001449276898940301" />
+      <edge source="T_TOPIC_0" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="12" weight="0.005128213806268307" />
+      <edge source="T_TOPIC_0" target="A_Nuup Bussii" id="13" weight="0.00229885357687231" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_1" id="14" weight="0.001169592498769974" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_2" id="15" weight="0.0011695924811902258" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_3" id="16" weight="0.0011695980396019404" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_4" id="17" weight="0.0011695923913633338" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_5" id="18" weight="0.0011695923836091873" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_6" id="19" weight="0.0011695924297706374" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_7" id="20" weight="0.001169592406640228" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_8" id="21" weight="0.0011695923230531818" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_9" id="22" weight="0.0011695924949262897" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_10" id="23" weight="0.9836257000476433" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_11" id="24" weight="0.0011695933368972798" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_12" id="25" weight="0.0011695920311856661" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_13" id="26" weight="0.0011695923170717804" />
+      <edge source="A_Urani Naamik" target="T_TOPIC_14" id="27" weight="0.0011695924163432005" />
+      <edge source="T_TOPIC_1" target="A_GrønlandsBANKEN" id="28" weight="0.004166672155651769" />
+      <edge source="T_TOPIC_1" target="A_RAL" id="29" weight="0.002222227123290353" />
+      <edge source="T_TOPIC_1" target="A_Tele-Post" id="30" weight="0.9930864093883082" />
+      <edge source="T_TOPIC_1" target="A_KNI" id="31" weight="0.0020833359422609984" />
+      <edge source="T_TOPIC_1" target="A_Royal Greenland" id="32" weight="0.005128211745227405" />
+      <edge source="T_TOPIC_1" target="A_Nukissiorfiit" id="33" weight="0.0011695928782210717" />
+      <edge source="T_TOPIC_1" target="A_Stark Grønland" id="34" weight="0.0027777810901910916" />
+      <edge source="T_TOPIC_1" target="A_Arctic Prime Fisheries" id="35" weight="0.002898554350821689" />
+      <edge source="T_TOPIC_1" target="A_arcticwonder" id="36" weight="0.0011299446703562153" />
+      <edge source="T_TOPIC_1" target="A_Ulo Rengøring" id="37" weight="0.008333346447941856" />
+      <edge source="T_TOPIC_1" target="A_Qiviut - garn" id="38" weight="0.0021505421371750995" />
+      <edge source="T_TOPIC_1" target="A_Pisiffik" id="39" weight="0.0014492767508662756" />
+      <edge source="T_TOPIC_1" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="40" weight="0.005128212219888203" />
+      <edge source="T_TOPIC_1" target="A_Nuup Bussii" id="41" weight="0.0022988534842366876" />
+      <edge source="T_TOPIC_2" target="A_GrønlandsBANKEN" id="42" weight="0.9416665818320399" />
+      <edge source="T_TOPIC_2" target="A_RAL" id="43" weight="0.002222225849350106" />
+      <edge source="T_TOPIC_2" target="A_KNI" id="44" weight="0.0020833357706590222" />
+      <edge source="T_TOPIC_2" target="A_Royal Greenland" id="45" weight="0.005128211959610836" />
+      <edge source="T_TOPIC_2" target="A_Nukissiorfiit" id="46" weight="0.0011695927462373997" />
+      <edge source="T_TOPIC_2" target="A_Stark Grønland" id="47" weight="0.0027777813203358464" />
+      <edge source="T_TOPIC_2" target="A_Arctic Prime Fisheries" id="48" weight="0.0028985553488814052" />
+      <edge source="T_TOPIC_2" target="A_arcticwonder" id="49" weight="0.001129944777074921" />
+      <edge source="T_TOPIC_2" target="A_Ulo Rengøring" id="50" weight="0.008333346826874052" />
+      <edge source="T_TOPIC_2" target="A_Qiviut - garn" id="51" weight="0.0021505417292541065" />
+      <edge source="T_TOPIC_2" target="A_Pisiffik" id="52" weight="0.001449276993629052" />
+      <edge source="T_TOPIC_2" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="53" weight="0.005128212520562328" />
+      <edge source="T_TOPIC_2" target="A_Nuup Bussii" id="54" weight="0.002298853569359422" />
+      <edge source="T_TOPIC_3" target="A_GrønlandsBANKEN" id="55" weight="0.004166671120403063" />
+      <edge source="T_TOPIC_3" target="A_RAL" id="56" weight="0.002222228776602025" />
+      <edge source="T_TOPIC_3" target="A_KNI" id="57" weight="0.00208333549100963" />
+      <edge source="T_TOPIC_3" target="A_Permagreen" id="58" weight="0.9991981662444" />
+      <edge source="T_TOPIC_3" target="A_Royal Greenland" id="59" weight="0.005128209312239017" />
+      <edge source="T_TOPIC_3" target="A_Nukissiorfiit" id="60" weight="0.9836257009437078" />
+      <edge source="T_TOPIC_3" target="A_Greenland Outdoors" id="61" weight="0.9899641399860826" />
+      <edge source="T_TOPIC_3" target="A_Stark Grønland" id="62" weight="0.9611110610356559" />
+      <edge source="T_TOPIC_3" target="A_Arctic Prime Fisheries" id="63" weight="0.0028985609124611146" />
+      <edge source="T_TOPIC_3" target="A_arcticwonder" id="64" weight="0.0011299445045011608" />
+      <edge source="T_TOPIC_3" target="A_Ulo Rengøring" id="65" weight="0.008333342176559597" />
+      <edge source="T_TOPIC_3" target="A_Qiviut - garn" id="66" weight="0.9698924144995863" />
+      <edge source="T_TOPIC_3" target="A_Pisiffik" id="67" weight="0.9797101203374889" />
+      <edge source="T_TOPIC_3" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="68" weight="0.0051282140415495735" />
+      <edge source="T_TOPIC_3" target="A_Nuup Bussii" id="69" weight="0.9678160465188085" />
+      <edge source="T_TOPIC_4" target="A_GrønlandsBANKEN" id="70" weight="0.004166672183335385" />
+      <edge source="T_TOPIC_4" target="A_RAL" id="71" weight="0.0022222253956606162" />
+      <edge source="T_TOPIC_4" target="A_KNI" id="72" weight="0.0020833362283569547" />
+      <edge source="T_TOPIC_4" target="A_Royal Greenland" id="73" weight="0.005128211221057385" />
+      <edge source="T_TOPIC_4" target="A_Nukissiorfiit" id="74" weight="0.0011695927736384158" />
+      <edge source="T_TOPIC_4" target="A_Stark Grønland" id="75" weight="0.0027777815091218913" />
+      <edge source="T_TOPIC_4" target="A_Arctic Prime Fisheries" id="76" weight="0.002898554577875629" />
+      <edge source="T_TOPIC_4" target="A_arcticwonder" id="77" weight="0.0011299447536984302" />
+      <edge source="T_TOPIC_4" target="A_Ulo Rengøring" id="78" weight="0.8833331313816555" />
+      <edge source="T_TOPIC_4" target="A_Qiviut - garn" id="79" weight="0.0021505415492374036" />
+      <edge source="T_TOPIC_4" target="A_Pisiffik" id="80" weight="0.00144927680756451" />
+      <edge source="T_TOPIC_4" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="81" weight="0.005128216633001804" />
+      <edge source="T_TOPIC_4" target="A_Nuup Bussii" id="82" weight="0.002298854622543666" />
+      <edge source="T_TOPIC_5" target="A_GrønlandsBANKEN" id="83" weight="0.004166671972464943" />
+      <edge source="T_TOPIC_5" target="A_RAL" id="84" weight="0.9688888336865279" />
+      <edge source="T_TOPIC_5" target="A_KNI" id="85" weight="0.002083335525209904" />
+      <edge source="T_TOPIC_5" target="A_Royal Greenland" id="86" weight="0.005128241981978674" />
+      <edge source="T_TOPIC_5" target="A_Nukissiorfiit" id="87" weight="0.0011695926679133602" />
+      <edge source="T_TOPIC_5" target="A_Stark Grønland" id="88" weight="0.002777781439587709" />
+      <edge source="T_TOPIC_5" target="A_Arctic Prime Fisheries" id="89" weight="0.0028985555169932444" />
+      <edge source="T_TOPIC_5" target="A_arcticwonder" id="90" weight="0.001129944736061143" />
+      <edge source="T_TOPIC_5" target="A_Ulo Rengøring" id="91" weight="0.008333345522854824" />
+      <edge source="T_TOPIC_5" target="A_Qiviut - garn" id="92" weight="0.002150541451269075" />
+      <edge source="T_TOPIC_5" target="A_Pisiffik" id="93" weight="0.0014492768841719965" />
+      <edge source="T_TOPIC_5" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="94" weight="0.005128212284628179" />
+      <edge source="T_TOPIC_5" target="A_Nuup Bussii" id="95" weight="0.00229885375262082" />
+      <edge source="T_TOPIC_6" target="A_GrønlandsBANKEN" id="96" weight="0.004166671061827839" />
+      <edge source="T_TOPIC_6" target="A_RAL" id="97" weight="0.002222226516228327" />
+      <edge source="T_TOPIC_6" target="A_KNI" id="98" weight="0.0020833354422288325" />
+      <edge source="T_TOPIC_6" target="A_Royal Greenland" id="99" weight="0.0051282116599134335" />
+      <edge source="T_TOPIC_6" target="A_Nukissiorfiit" id="100" weight="0.0011695937477215397" />
+      <edge source="T_TOPIC_6" target="A_Stark Grønland" id="101" weight="0.00277778127487183" />
+      <edge source="T_TOPIC_6" target="A_Arctic Prime Fisheries" id="102" weight="0.0028985562432894837" />
+      <edge source="T_TOPIC_6" target="A_arcticwonder" id="103" weight="0.0011299446085754551" />
+      <edge source="T_TOPIC_6" target="A_Ulo Rengøring" id="104" weight="0.008333345685680815" />
+      <edge source="T_TOPIC_6" target="A_Qiviut - garn" id="105" weight="0.002150542644082927" />
+      <edge source="T_TOPIC_6" target="A_Pisiffik" id="106" weight="0.001449276989548252" />
+      <edge source="T_TOPIC_6" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="107" weight="0.005128213021288839" />
+      <edge source="T_TOPIC_6" target="A_Nuup Bussii" id="108" weight="0.0022988531820828627" />
+      <edge source="T_TOPIC_6" target="A_Inunnguaq Hegelund: kok: lokal mad" id="109" weight="0.9961904707299281" />
+      <edge source="T_TOPIC_7" target="A_GrønlandsBANKEN" id="110" weight="0.004166671942709783" />
+      <edge source="T_TOPIC_7" target="A_RAL" id="111" weight="0.0022222255927430877" />
+      <edge source="T_TOPIC_7" target="A_KNI" id="112" weight="0.002083335650418747" />
+      <edge source="T_TOPIC_7" target="A_Royal Greenland" id="113" weight="0.005128212420408373" />
+      <edge source="T_TOPIC_7" target="A_Nukissiorfiit" id="114" weight="0.0011695929592562705" />
+      <edge source="T_TOPIC_7" target="A_Stark Grønland" id="115" weight="0.002777781324038121" />
+      <edge source="T_TOPIC_7" target="A_Arctic Prime Fisheries" id="116" weight="0.002898554380560278" />
+      <edge source="T_TOPIC_7" target="A_arcticwonder" id="117" weight="0.0011299447019218665" />
+      <edge source="T_TOPIC_7" target="A_Ulo Rengøring" id="118" weight="0.008333367843221555" />
+      <edge source="T_TOPIC_7" target="A_Qiviut - garn" id="119" weight="0.0021505419393621364" />
+      <edge source="T_TOPIC_7" target="A_Pisiffik" id="120" weight="0.001449276882808217" />
+      <edge source="T_TOPIC_7" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="121" weight="0.9282050150710031" />
+      <edge source="T_TOPIC_7" target="A_Nuup Bussii" id="122" weight="0.0022988534211493897" />
+      <edge source="T_TOPIC_8" target="A_GrønlandsBANKEN" id="123" weight="0.004166672174492314" />
+      <edge source="T_TOPIC_8" target="A_RAL" id="124" weight="0.002222225627504718" />
+      <edge source="T_TOPIC_8" target="A_KNI" id="125" weight="0.0020833358586586307" />
+      <edge source="T_TOPIC_8" target="A_Royal Greenland" id="126" weight="0.005128212070371552" />
+      <edge source="T_TOPIC_8" target="A_Nukissiorfiit" id="127" weight="0.0011695927382106594" />
+      <edge source="T_TOPIC_8" target="A_Stark Grønland" id="128" weight="0.0027777813322896827" />
+      <edge source="T_TOPIC_8" target="A_Arctic Prime Fisheries" id="129" weight="0.002898554672941429" />
+      <edge source="T_TOPIC_8" target="A_arcticwonder" id="130" weight="0.0011299454903095584" />
+      <edge source="T_TOPIC_8" target="A_Ulo Rengøring" id="131" weight="0.008333346448345736" />
+      <edge source="T_TOPIC_8" target="A_Qiviut - garn" id="132" weight="0.0021505420911081836" />
+      <edge source="T_TOPIC_8" target="A_Pisiffik" id="133" weight="0.0014492768974942664" />
+      <edge source="T_TOPIC_8" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="134" weight="0.0051282122672747414" />
+      <edge source="T_TOPIC_8" target="A_Nuup Bussii" id="135" weight="0.0022988534308685323" />
+      <edge source="T_TOPIC_9" target="A_GrønlandsBANKEN" id="136" weight="0.004166678240859901" />
+      <edge source="T_TOPIC_9" target="A_RAL" id="137" weight="0.0022222253497507826" />
+      <edge source="T_TOPIC_9" target="A_KNI" id="138" weight="0.002083336472288679" />
+      <edge source="T_TOPIC_9" target="A_Royal Greenland" id="139" weight="0.005128211980881844" />
+      <edge source="T_TOPIC_9" target="A_Nukissiorfiit" id="140" weight="0.0011695929037986164" />
+      <edge source="T_TOPIC_9" target="A_Stark Grønland" id="141" weight="0.0027777815841531724" />
+      <edge source="T_TOPIC_9" target="A_Arctic Prime Fisheries" id="142" weight="0.0028985552370227874" />
+      <edge source="T_TOPIC_9" target="A_arcticwonder" id="143" weight="0.0011299447966376503" />
+      <edge source="T_TOPIC_9" target="A_Ulo Rengøring" id="144" weight="0.008333346199885183" />
+      <edge source="T_TOPIC_9" target="A_Qiviut - garn" id="145" weight="0.0021505416522994824" />
+      <edge source="T_TOPIC_9" target="A_Pisiffik" id="146" weight="0.0014492804279817337" />
+      <edge source="T_TOPIC_9" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="147" weight="0.005128212487970306" />
+      <edge source="T_TOPIC_9" target="A_Nuup Bussii" id="148" weight="0.0022988575974298366" />
+      <edge source="T_TOPIC_9" target="A_Brugseni" id="149" weight="0.987214591983951" />
+      <edge source="T_TOPIC_10" target="A_GrønlandsBANKEN" id="150" weight="0.004166672166475407" />
+      <edge source="T_TOPIC_10" target="A_RAL" id="151" weight="0.002222225520217169" />
+      <edge source="T_TOPIC_10" target="A_KNI" id="152" weight="0.0020833356455889763" />
+      <edge source="T_TOPIC_10" target="A_Royal Greenland" id="153" weight="0.005128213341498508" />
+      <edge source="T_TOPIC_10" target="A_Nukissiorfiit" id="154" weight="0.0011695926846225836" />
+      <edge source="T_TOPIC_10" target="A_Stark Grønland" id="155" weight="0.0027777812423591917" />
+      <edge source="T_TOPIC_10" target="A_Arctic Prime Fisheries" id="156" weight="0.0028985543942500976" />
+      <edge source="T_TOPIC_10" target="A_arcticwonder" id="157" weight="0.001129944781457263" />
+      <edge source="T_TOPIC_10" target="A_Ulo Rengøring" id="158" weight="0.008333347015841677" />
+      <edge source="T_TOPIC_10" target="A_Qiviut - garn" id="159" weight="0.002150541630470223" />
+      <edge source="T_TOPIC_10" target="A_Pisiffik" id="160" weight="0.001449276813408127" />
+      <edge source="T_TOPIC_10" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="161" weight="0.005128212283471618" />
+      <edge source="T_TOPIC_10" target="A_Nuup Bussii" id="162" weight="0.0022988533751250838" />
+      <edge source="T_TOPIC_11" target="A_GrønlandsBANKEN" id="163" weight="0.004166671856323205" />
+      <edge source="T_TOPIC_11" target="A_RAL" id="164" weight="0.002222225667960416" />
+      <edge source="T_TOPIC_11" target="A_KNI" id="165" weight="0.002083335962175115" />
+      <edge source="T_TOPIC_11" target="A_Royal Greenland" id="166" weight="0.005128211758979004" />
+      <edge source="T_TOPIC_11" target="A_Nukissiorfiit" id="167" weight="0.001169592622865326" />
+      <edge source="T_TOPIC_11" target="A_Stark Grønland" id="168" weight="0.0027777817844106536" />
+      <edge source="T_TOPIC_11" target="A_Arctic Prime Fisheries" id="169" weight="0.0028985540970875826" />
+      <edge source="T_TOPIC_11" target="A_arcticwonder" id="170" weight="0.0011299446838255642" />
+      <edge source="T_TOPIC_11" target="A_Killut - grønlandsk mad/restaurant" id="171" weight="0.9922864930826062" />
+      <edge source="T_TOPIC_11" target="A_Ulo Rengøring" id="172" weight="0.008333347859503336" />
+      <edge source="T_TOPIC_11" target="A_Qiviut - garn" id="173" weight="0.002150541772152168" />
+      <edge source="T_TOPIC_11" target="A_Pisiffik" id="174" weight="0.0014492768647776655" />
+      <edge source="T_TOPIC_11" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="175" weight="0.0051282178946347005" />
+      <edge source="T_TOPIC_11" target="A_Nuup Bussii" id="176" weight="0.0022988532525003887" />
+      <edge source="T_TOPIC_12" target="A_GrønlandsBANKEN" id="177" weight="0.004166676008664364" />
+      <edge source="T_TOPIC_12" target="A_Sikuki Nuuk Harbour" id="178" weight="0.9929824474481825" />
+      <edge source="T_TOPIC_12" target="A_RAL" id="179" weight="0.0022222270315847238" />
+      <edge source="T_TOPIC_12" target="A_KNI" id="180" weight="0.9708332981855837" />
+      <edge source="T_TOPIC_12" target="A_Royal Greenland" id="181" weight="0.9282050024390268" />
+      <edge source="T_TOPIC_12" target="A_Visit Greenland" id="182" weight="0.9873873722703226" />
+      <edge source="T_TOPIC_12" target="A_Greenland Ruby" id="183" weight="0.9946050040340383" />
+      <edge source="T_TOPIC_12" target="A_Nukissiorfiit" id="184" weight="0.0011695922275991337" />
+      <edge source="T_TOPIC_12" target="A_Stark Grønland" id="185" weight="0.0027777803634759504" />
+      <edge source="T_TOPIC_12" target="A_Arctic Prime Fisheries" id="186" weight="0.0028985577055126725" />
+      <edge source="T_TOPIC_12" target="A_nanutravel" id="187" weight="0.9891472727020963" />
+      <edge source="T_TOPIC_12" target="A_arcticwonder" id="188" weight="0.9841807731381985" />
+      <edge source="T_TOPIC_12" target="A_Ulo Rengøring" id="189" weight="0.00833334718339994" />
+      <edge source="T_TOPIC_12" target="A_Lings hunting Greenland" id="190" weight="0.9921568545253119" />
+      <edge source="T_TOPIC_12" target="A_Qiviut - garn" id="191" weight="0.002150540964924374" />
+      <edge source="T_TOPIC_12" target="A_Aviaja Lyberth Hauptmann: mikrobiolog" id="192" weight="0.9921568524318454" />
+      <edge source="T_TOPIC_12" target="A_Pisiffik" id="193" weight="0.0014492765943892863" />
+      <edge source="T_TOPIC_12" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="194" weight="0.005128210680246514" />
+      <edge source="T_TOPIC_12" target="A_Nuup Bussii" id="195" weight="0.002298853199033501" />
+      <edge source="T_TOPIC_12" target="A_Polar Trophy Hunt" id="196" weight="0.990849658525098" />
+      <edge source="T_TOPIC_13" target="A_GrønlandsBANKEN" id="197" weight="0.00416667205693703" />
+      <edge source="T_TOPIC_13" target="A_RAL" id="198" weight="0.002222225655978819" />
+      <edge source="T_TOPIC_13" target="A_KNI" id="199" weight="0.0020833357432731934" />
+      <edge source="T_TOPIC_13" target="A_Royal Greenland" id="200" weight="0.00512821443410984" />
+      <edge source="T_TOPIC_13" target="A_Nukissiorfiit" id="201" weight="0.0011695926423681206" />
+      <edge source="T_TOPIC_13" target="A_Stark Grønland" id="202" weight="0.0027777817612889195" />
+      <edge source="T_TOPIC_13" target="A_Arctic Prime Fisheries" id="203" weight="0.0028985548022344666" />
+      <edge source="T_TOPIC_13" target="A_arcticwonder" id="204" weight="0.0011299447438145713" />
+      <edge source="T_TOPIC_13" target="A_Ulo Rengøring" id="205" weight="0.008333345796101876" />
+      <edge source="T_TOPIC_13" target="A_Qiviut - garn" id="206" weight="0.0021505414182093688" />
+      <edge source="T_TOPIC_13" target="A_Pisiffik" id="207" weight="0.001449276859583695" />
+      <edge source="T_TOPIC_13" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="208" weight="0.005128212262557537" />
+      <edge source="T_TOPIC_13" target="A_Nuup Bussii" id="209" weight="0.0022988534863149024" />
+      <edge source="T_TOPIC_14" target="A_GrønlandsBANKEN" id="210" weight="0.004166673063969215" />
+      <edge source="T_TOPIC_14" target="A_RAL" id="211" weight="0.0022222266076101253" />
+      <edge source="T_TOPIC_14" target="A_KNI" id="212" weight="0.0020833364665020677" />
+      <edge source="T_TOPIC_14" target="A_Royal Greenland" id="213" weight="0.0051282121063589625" />
+      <edge source="T_TOPIC_14" target="A_Nukissiorfiit" id="214" weight="0.0011695928018400105" />
+      <edge source="T_TOPIC_14" target="A_Stark Grønland" id="215" weight="0.002777781342283319" />
+      <edge source="T_TOPIC_14" target="A_Arctic Prime Fisheries" id="216" weight="0.9594202231944435" />
+      <edge source="T_TOPIC_14" target="A_arcticwonder" id="217" weight="0.001129944869243659" />
+      <edge source="T_TOPIC_14" target="A_Ulo Rengøring" id="218" weight="0.008333346449266588" />
+      <edge source="T_TOPIC_14" target="A_Qiviut - garn" id="219" weight="0.002150541871194197" />
+      <edge source="T_TOPIC_14" target="A_Pisiffik" id="220" weight="0.001449276997347921" />
+      <edge source="T_TOPIC_14" target="A_Wildfood: bestilling af fangst eller fiskeri, lokalt." id="221" weight="0.005128212525654453" />
+      <edge source="T_TOPIC_14" target="A_Nuup Bussii" id="222" weight="0.002298853531054107" />
+    </edges>
+  </graph>
+</gexf>

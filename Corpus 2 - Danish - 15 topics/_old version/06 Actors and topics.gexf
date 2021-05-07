@@ -1,0 +1,1908 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-27">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_norskov" label="norskov">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_mfvm" label="mfvm">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_wikipedia" label="wikipedia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_miljoeportal" label="miljoeportal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_avl" label="avl">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aalborg" label="aalborg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kefm" label="kefm">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_veluxfoundations" label="veluxfoundations">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_automester" label="automester">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mariagerfjord" label="mariagerfjord">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fmk" label="fmk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sundolitt" label="sundolitt">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_verdensmaalene" label="verdensmaalene">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mst" label="mst">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cowi" label="cowi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_verdensmaal" label="verdensmaal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hjoerring" label="hjoerring">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_venstre" label="venstre">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_furesoe" label="furesoe">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gentofte" label="gentofte">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_alternativet" label="alternativet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_klimatilpasning" label="klimatilpasning">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tvis" label="tvis">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_texta" label="texta">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bane" label="bane">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_stok" label="stok">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rebild" label="rebild">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_billund" label="billund">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_handicap" label="handicap">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_heleverdeniskole" label="heleverdeniskole">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bornsvilkar" label="bornsvilkar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fm" label="fm">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_globalis" label="globalis">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_duf" label="duf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ms" label="ms">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_erhvervsstyrelsen" label="erhvervsstyrelsen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_regionh" label="regionh">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fnforbundet" label="fnforbundet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kk" label="kk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kl" label="kl">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_um" label="um">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_realdania" label="realdania">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unicef" label="unicef">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danskindustri" label="danskindustri">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_regeringen" label="regeringen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_odense" label="odense">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sst" label="sst">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_samfundsansvar" label="samfundsansvar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_redbarnet" label="redbarnet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aktionverdensmaal" label="aktionverdensmaal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_frivilligcenter-odense" label="frivilligcenter-odense">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sweco" label="sweco">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tuborgfondet" label="tuborgfondet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_via" label="via">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ds" label="ds">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_planmiljoe" label="planmiljoe">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fredericia" label="fredericia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_taenk" label="taenk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rodekors" label="rodekors">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_silkeborg" label="silkeborg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_2030-panelet" label="2030-panelet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_loekkefonden" label="loekkefonden">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sdu" label="sdu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bygherreforeningen" label="bygherreforeningen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_regionsjaelland" label="regionsjaelland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dk-gbc" label="dk-gbc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fremtidensbiblioteker" label="fremtidensbiblioteker">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_faktalink" label="faktalink">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_soroe" label="soroe">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_undp" label="undp">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_matas" label="matas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bureauveritas" label="bureauveritas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_samsoe" label="samsoe">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ecolabel" label="ecolabel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_csr" label="csr">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_deloitte" label="deloitte">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_odsherred" label="odsherred">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_menneskeret" label="menneskeret">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danskebank" label="danskebank">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dnvgl" label="dnvgl">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_runi" label="runi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_energihjem" label="energihjem">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aalborgportland" label="aalborgportland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_viegandmaagoe" label="viegandmaagoe">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_concito" label="concito">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danskaffaldsforening" label="danskaffaldsforening">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_vetcur" label="vetcur">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_biogan" label="biogan">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tapasamor" label="tapasamor">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_energinet" label="energinet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_seismonaut" label="seismonaut">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hedensted" label="hedensted">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_torvekoekken" label="torvekoekken">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danishcrown" label="danishcrown">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danskelbilalliance" label="danskelbilalliance">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dankoeling" label="dankoeling">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_esbjerg" label="esbjerg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danishhealthtech" label="danishhealthtech">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_industriensfond" label="industriensfond">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bu" label="bu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_erhvervsraadet" label="erhvervsraadet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cavemakers" label="cavemakers">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_copenhagencartel" label="copenhagencartel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_klimabevaegelsen" label="klimabevaegelsen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ucl" label="ucl">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_computerworldevents" label="computerworldevents">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gyldendal" label="gyldendal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_combine" label="combine">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_promentum" label="promentum">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ens" label="ens">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dn" label="dn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ecoinnovation" label="ecoinnovation">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ikea" label="ikea">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_projectzero" label="projectzero">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kruger" label="kruger">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nordea" label="nordea">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mannaz" label="mannaz">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_geus" label="geus">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_celsa-steelservice" label="celsa-steelservice">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_groenvaekst" label="groenvaekst">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_seimei" label="seimei">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_norlys" label="norlys">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_buildinggreen" label="buildinggreen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dtu" label="dtu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_koldinghavn" label="koldinghavn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_magasinet360" label="magasinet360">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ehfyn" label="ehfyn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_au" label="au">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nobia" label="nobia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ey" label="ey">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_baeredygtighed-maerket" label="baeredygtighed-maerket">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thetradecouncil" label="thetradecouncil">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_effektivitet" label="effektivitet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nben" label="nben">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dst" label="dst">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_djoef" label="djoef">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ehnj" label="ehnj">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kronospan-dk" label="kronospan-dk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_erhvervshusmidtjylland" label="erhvervshusmidtjylland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dlg" label="dlg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_seges" label="seges">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_merk-innovation" label="merk-innovation">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ehhs" label="ehhs">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gate21" label="gate21">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_quorn" label="quorn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_disie" label="disie">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_baeredygtigesynergier" label="baeredygtigesynergier">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_innovationsfonden" label="innovationsfonden">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_xn--bredygtigtbyggeri-rrb" label="xn--bredygtigtbyggeri-rrb">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_systime" label="systime">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kunst" label="kunst">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ltk" label="ltk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hedeselskabet" label="hedeselskabet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_leadagency" label="leadagency">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rm" label="rm">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_taasinge" label="taasinge">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_visitdenmark" label="visitdenmark">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_baeredygtig-business" label="baeredygtig-business">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bosch-home" label="bosch-home">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dge" label="dge">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_valsemollen" label="valsemollen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_orkla" label="orkla">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_energibyer" label="energibyer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_phonixtagmaterialer" label="phonixtagmaterialer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iba" label="iba">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bmbyggeindustri" label="bmbyggeindustri">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_alfix" label="alfix">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_jyndbjerg" label="jyndbjerg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_teglklinker" label="teglklinker">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hplush" label="hplush">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bluetree" label="bluetree">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hth" label="hth">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_interflora" label="interflora">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ku" label="ku">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_med24" label="med24">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gsv" label="gsv">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_permatopia" label="permatopia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_danaeg" label="danaeg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_spaencom" label="spaencom">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_scankab" label="scankab">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_coor" label="coor">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_orsted" label="orsted">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_timbernest" label="timbernest">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_okologi" label="okologi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rockwool" label="rockwool">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_stark" label="stark">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ncc" label="ncc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_jakobsenhuse" label="jakobsenhuse">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sas" label="sas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_jackon" label="jackon">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hojskolerne" label="hojskolerne">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_baeredygtigtlandbrug" label="baeredygtigtlandbrug">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nordeainvestmagasinet" label="nordeainvestmagasinet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_if" label="if">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_jyskebank" label="jyskebank">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_scandibyg" label="scandibyg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rockpanel" label="rockpanel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dansani" label="dansani">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dfs" label="dfs">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_moelven" label="moelven">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_atp-ejendomme" label="atp-ejendomme">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_globalcompact" label="globalcompact">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_byoghavn" label="byoghavn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_brandbjerg" label="brandbjerg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_klspureprint" label="klspureprint">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mercantec" label="mercantec">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kost" label="kost">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_saint-gobain" label="saint-gobain">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Greenlandic Ice Cap Water" label="Greenlandic Ice Cap Water">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Kingo Karlsen" label="Kingo Karlsen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Rambøll" label="Rambøll">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Port of Aalborg" label="Port of Aalborg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Aalborg Portland" label="Aalborg Portland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_MT Højgaard" label="MT Højgaard">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Carlsberg" label="Carlsberg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Desmi" label="Desmi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Niras" label="Niras">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Grønlands Rejsebureau" label="Grønlands Rejsebureau">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_MOE A/S" label="MOE A/S">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_csrkompasset" label="csrkompasset">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_3" target="A_norskov" id="0" weight="0.9977180077265958" />
+      <edge source="T_TOPIC_3" target="A_mfvm" id="1" weight="0.3873057092528822" />
+      <edge source="T_TOPIC_3" target="A_wikipedia" id="2" weight="0.8000583057519761" />
+      <edge source="T_TOPIC_3" target="A_miljoeportal" id="3" weight="0.9839080154987158" />
+      <edge source="T_TOPIC_3" target="A_avl" id="4" weight="0.9980676295295756" />
+      <edge source="T_TOPIC_3" target="A_aalborg" id="5" weight="0.3595466874362617" />
+      <edge source="T_TOPIC_3" target="A_kefm" id="6" weight="0.9049425921394164" />
+      <edge source="T_TOPIC_3" target="A_veluxfoundations" id="7" weight="0.999064794684733" />
+      <edge source="T_TOPIC_3" target="A_automester" id="8" weight="0.9985161609888593" />
+      <edge source="T_TOPIC_3" target="A_mariagerfjord" id="9" weight="0.9264736196008302" />
+      <edge source="T_TOPIC_3" target="A_fmk" id="10" weight="0.9643100381888722" />
+      <edge source="T_TOPIC_3" target="A_sundolitt" id="11" weight="0.4359389096283086" />
+      <edge source="T_TOPIC_3" target="A_verdensmaalene" id="12" weight="0.90803248626347" />
+      <edge source="T_TOPIC_3" target="A_mst" id="13" weight="0.9965686225158866" />
+      <edge source="T_TOPIC_3" target="A_cowi" id="14" weight="0.9989381854622724" />
+      <edge source="T_TOPIC_3" target="A_verdensmaal" id="15" weight="0.9932367039767723" />
+      <edge source="T_TOPIC_3" target="A_hjoerring" id="16" weight="0.9948717834707738" />
+      <edge source="T_TOPIC_3" target="A_venstre" id="17" weight="0.9984260790948537" />
+      <edge source="T_TOPIC_3" target="A_furesoe" id="18" weight="0.831065393799741" />
+      <edge source="T_TOPIC_3" target="A_gentofte" id="19" weight="0.953064453145128" />
+      <edge source="T_TOPIC_3" target="A_alternativet" id="20" weight="0.9996896126813953" />
+      <edge source="T_TOPIC_3" target="A_klimatilpasning" id="21" weight="0.5597017186935045" />
+      <edge source="T_TOPIC_3" target="A_tvis" id="22" weight="0.9986069629449754" />
+      <edge source="T_TOPIC_3" target="A_texta" id="23" weight="0.9996437653782534" />
+      <edge source="T_TOPIC_3" target="A_bane" id="24" weight="0.998742136342162" />
+      <edge source="T_TOPIC_3" target="A_stok" id="25" weight="0.9976608155398465" />
+      <edge source="T_TOPIC_3" target="A_rebild" id="26" weight="0.2445795789640819" />
+      <edge source="T_TOPIC_3" target="A_handicap" id="27" weight="0.2937113443447164" />
+      <edge source="T_TOPIC_3" target="A_heleverdeniskole" id="28" weight="0.9416665885044352" />
+      <edge source="T_TOPIC_3" target="A_bornsvilkar" id="29" weight="0.6423960063231523" />
+      <edge source="T_TOPIC_3" target="A_fm" id="30" weight="0.17118863577891905" />
+      <edge source="T_TOPIC_3" target="A_globalis" id="31" weight="0.9984749431585924" />
+      <edge source="T_TOPIC_3" target="A_duf" id="32" weight="0.32984311272288463" />
+      <edge source="T_TOPIC_3" target="A_ms" id="33" weight="0.36712930797909876" />
+      <edge source="T_TOPIC_3" target="A_erhvervsstyrelsen" id="34" weight="0.9800185963101506" />
+      <edge source="T_TOPIC_3" target="A_regionh" id="35" weight="0.9985393821844644" />
+      <edge source="T_TOPIC_3" target="A_fnforbundet" id="36" weight="0.7379505390022696" />
+      <edge source="T_TOPIC_3" target="A_kk" id="37" weight="0.8300921816662253" />
+      <edge source="T_TOPIC_3" target="A_kl" id="38" weight="0.994605000872102" />
+      <edge source="T_TOPIC_3" target="A_um" id="39" weight="0.9920227793948984" />
+      <edge source="T_TOPIC_3" target="A_realdania" id="40" weight="0.9993680874701649" />
+      <edge source="T_TOPIC_3" target="A_unicef" id="41" weight="0.5972384214979465" />
+      <edge source="T_TOPIC_3" target="A_danskindustri" id="42" weight="0.9995672995906042" />
+      <edge source="T_TOPIC_3" target="A_regeringen" id="43" weight="0.700476816920982" />
+      <edge source="T_TOPIC_3" target="A_odense" id="44" weight="0.30596889711526415" />
+      <edge source="T_TOPIC_3" target="A_sst" id="45" weight="0.9960948339877882" />
+      <edge source="T_TOPIC_3" target="A_samfundsansvar" id="46" weight="0.9920903824739525" />
+      <edge source="T_TOPIC_3" target="A_redbarnet" id="47" weight="0.9228320343353889" />
+      <edge source="T_TOPIC_3" target="A_aktionverdensmaal" id="48" weight="0.9878787755146123" />
+      <edge source="T_TOPIC_3" target="A_frivilligcenter-odense" id="49" weight="0.3266125717963641" />
+      <edge source="T_TOPIC_3" target="A_sweco" id="50" weight="0.9967592547933045" />
+      <edge source="T_TOPIC_3" target="A_tuborgfondet" id="51" weight="0.9979621510224618" />
+      <edge source="T_TOPIC_3" target="A_via" id="52" weight="0.9813333087776954" />
+      <edge source="T_TOPIC_3" target="A_ds" id="53" weight="0.9979396587526498" />
+      <edge source="T_TOPIC_3" target="A_planmiljoe" id="54" weight="0.9991869904934961" />
+      <edge source="T_TOPIC_3" target="A_fredericia" id="55" weight="0.6063285026619603" />
+      <edge source="T_TOPIC_3" target="A_taenk" id="56" weight="0.9985208641525243" />
+      <edge source="T_TOPIC_3" target="A_rodekors" id="57" weight="0.9989594929161659" />
+      <edge source="T_TOPIC_3" target="A_silkeborg" id="58" weight="0.6657656050213429" />
+      <edge source="T_TOPIC_3" target="A_2030-panelet" id="59" weight="0.5034622167439654" />
+      <edge source="T_TOPIC_3" target="A_loekkefonden" id="60" weight="0.8602532487657834" />
+      <edge source="T_TOPIC_3" target="A_sdu" id="61" weight="0.9989357637228109" />
+      <edge source="T_TOPIC_3" target="A_bygherreforeningen" id="62" weight="0.9979665908507812" />
+      <edge source="T_TOPIC_3" target="A_regionsjaelland" id="63" weight="0.9931873380507341" />
+      <edge source="T_TOPIC_3" target="A_dk-gbc" id="64" weight="0.997008540644343" />
+      <edge source="T_TOPIC_3" target="A_fremtidensbiblioteker" id="65" weight="0.9511649154389401" />
+      <edge source="T_TOPIC_3" target="A_faktalink" id="66" weight="0.9981806339242915" />
+      <edge source="T_TOPIC_3" target="A_soroe" id="67" weight="0.003703711275435389" />
+      <edge source="T_TOPIC_3" target="A_undp" id="68" weight="0.8911203307685722" />
+      <edge source="T_TOPIC_3" target="A_matas" id="69" weight="0.9272395459482693" />
+      <edge source="T_TOPIC_3" target="A_bureauveritas" id="70" weight="0.9964511994635993" />
+      <edge source="T_TOPIC_3" target="A_samsoe" id="71" weight="0.9870370170467352" />
+      <edge source="T_TOPIC_3" target="A_ecolabel" id="72" weight="0.9994137345184434" />
+      <edge source="T_TOPIC_3" target="A_csr" id="73" weight="0.9996942891699425" />
+      <edge source="T_TOPIC_3" target="A_deloitte" id="74" weight="0.9990591383576694" />
+      <edge source="T_TOPIC_3" target="A_menneskeret" id="75" weight="0.5081813056602696" />
+      <edge source="T_TOPIC_3" target="A_danskebank" id="76" weight="0.9992467031236308" />
+      <edge source="T_TOPIC_3" target="A_dnvgl" id="77" weight="0.996701997763518" />
+      <edge source="T_TOPIC_3" target="A_runi" id="78" weight="0.8906348552042264" />
+      <edge source="T_TOPIC_3" target="A_energihjem" id="79" weight="0.9953333263383303" />
+      <edge source="T_TOPIC_3" target="A_aalborgportland" id="80" weight="0.9333332588960801" />
+      <edge source="T_TOPIC_3" target="A_viegandmaagoe" id="81" weight="0.9898550563522399" />
+      <edge source="T_TOPIC_3" target="A_concito" id="82" weight="0.9916666554779824" />
+      <edge source="T_TOPIC_3" target="A_danskaffaldsforening" id="83" weight="0.5722651103396517" />
+      <edge source="T_TOPIC_3" target="A_vetcur" id="84" weight="0.995698918226284" />
+      <edge source="T_TOPIC_3" target="A_biogan" id="85" weight="0.9944773100583022" />
+      <edge source="T_TOPIC_3" target="A_tapasamor" id="86" weight="0.9836257035865305" />
+      <edge source="T_TOPIC_3" target="A_energinet" id="87" weight="0.9508771103230398" />
+      <edge source="T_TOPIC_3" target="A_seismonaut" id="88" weight="0.9988110385371024" />
+      <edge source="T_TOPIC_3" target="A_hedensted" id="89" weight="0.8003420864881143" />
+      <edge source="T_TOPIC_3" target="A_torvekoekken" id="90" weight="0.9957186480672314" />
+      <edge source="T_TOPIC_3" target="A_danishcrown" id="91" weight="0.991194955290428" />
+      <edge source="T_TOPIC_3" target="A_danskelbilalliance" id="92" weight="0.7666664038332544" />
+      <edge source="T_TOPIC_3" target="A_dankoeling" id="93" weight="0.9940170845197337" />
+      <edge source="T_TOPIC_3" target="A_esbjerg" id="94" weight="0.6287480027189576" />
+      <edge source="T_TOPIC_3" target="A_danishhealthtech" id="95" weight="0.999030805086118" />
+      <edge source="T_TOPIC_3" target="A_industriensfond" id="96" weight="0.9986414340668366" />
+      <edge source="T_TOPIC_3" target="A_bu" id="97" weight="0.998499461759825" />
+      <edge source="T_TOPIC_3" target="A_erhvervsraadet" id="98" weight="0.993563208239368" />
+      <edge source="T_TOPIC_3" target="A_cavemakers" id="99" weight="0.9883333191387077" />
+      <edge source="T_TOPIC_3" target="A_copenhagencartel" id="100" weight="0.9979532136308088" />
+      <edge source="T_TOPIC_3" target="A_klimabevaegelsen" id="101" weight="0.9626666028225964" />
+      <edge source="T_TOPIC_3" target="A_ucl" id="102" weight="0.9983061079075519" />
+      <edge source="T_TOPIC_3" target="A_computerworldevents" id="103" weight="0.9974706356355437" />
+      <edge source="T_TOPIC_3" target="A_gyldendal" id="104" weight="0.6888884464752901" />
+      <edge source="T_TOPIC_3" target="A_combine" id="105" weight="0.9964646390951535" />
+      <edge source="T_TOPIC_3" target="A_promentum" id="106" weight="0.9987301568280655" />
+      <edge source="T_TOPIC_3" target="A_ens" id="107" weight="0.5584115205503516" />
+      <edge source="T_TOPIC_3" target="A_dn" id="108" weight="0.9967704682173636" />
+      <edge source="T_TOPIC_3" target="A_ecoinnovation" id="109" weight="0.9929824456035234" />
+      <edge source="T_TOPIC_3" target="A_ikea" id="110" weight="0.9991538216978285" />
+      <edge source="T_TOPIC_3" target="A_projectzero" id="111" weight="0.996825389858715" />
+      <edge source="T_TOPIC_3" target="A_kruger" id="112" weight="0.998348080340802" />
+      <edge source="T_TOPIC_3" target="A_nordea" id="113" weight="0.9968468422452663" />
+      <edge source="T_TOPIC_3" target="A_mannaz" id="114" weight="0.9994663608004171" />
+      <edge source="T_TOPIC_3" target="A_geus" id="115" weight="0.9740740368023865" />
+      <edge source="T_TOPIC_3" target="A_celsa-steelservice" id="116" weight="0.9962815342591381" />
+      <edge source="T_TOPIC_3" target="A_groenvaekst" id="117" weight="0.9961904694088071" />
+      <edge source="T_TOPIC_3" target="A_seimei" id="118" weight="0.9951134309065139" />
+      <edge source="T_TOPIC_3" target="A_norlys" id="119" weight="0.9985879960436488" />
+      <edge source="T_TOPIC_3" target="A_buildinggreen" id="120" weight="0.9991905162974392" />
+      <edge source="T_TOPIC_3" target="A_dtu" id="121" weight="0.9936507842481325" />
+      <edge source="T_TOPIC_3" target="A_koldinghavn" id="122" weight="0.9944444322414788" />
+      <edge source="T_TOPIC_3" target="A_magasinet360" id="123" weight="0.9450086781091682" />
+      <edge source="T_TOPIC_3" target="A_ehfyn" id="124" weight="0.9982905957364705" />
+      <edge source="T_TOPIC_3" target="A_au" id="125" weight="0.9987654299666195" />
+      <edge source="T_TOPIC_3" target="A_nobia" id="126" weight="0.9957381978064627" />
+      <edge source="T_TOPIC_3" target="A_ey" id="127" weight="0.9985663062868795" />
+      <edge source="T_TOPIC_3" target="A_baeredygtighed-maerket" id="128" weight="0.9979351007371655" />
+      <edge source="T_TOPIC_3" target="A_thetradecouncil" id="129" weight="0.9841807658292882" />
+      <edge source="T_TOPIC_3" target="A_effektivitet" id="130" weight="0.9995555549221311" />
+      <edge source="T_TOPIC_3" target="A_nben" id="131" weight="0.9644348510368466" />
+      <edge source="T_TOPIC_3" target="A_dst" id="132" weight="0.994814807333978" />
+      <edge source="T_TOPIC_3" target="A_djoef" id="133" weight="0.9967816048985237" />
+      <edge source="T_TOPIC_3" target="A_ehnj" id="134" weight="0.996989243217019" />
+      <edge source="T_TOPIC_3" target="A_kronospan-dk" id="135" weight="0.9375822956338514" />
+      <edge source="T_TOPIC_3" target="A_erhvervshusmidtjylland" id="136" weight="0.9981407679361471" />
+      <edge source="T_TOPIC_3" target="A_dlg" id="137" weight="0.9978395034705061" />
+      <edge source="T_TOPIC_3" target="A_seges" id="138" weight="0.9875555392243066" />
+      <edge source="T_TOPIC_3" target="A_merk-innovation" id="139" weight="0.9987621555298615" />
+      <edge source="T_TOPIC_3" target="A_ehhs" id="140" weight="0.9978444919817022" />
+      <edge source="T_TOPIC_3" target="A_gate21" id="141" weight="0.9982811517858211" />
+      <edge source="T_TOPIC_3" target="A_quorn" id="142" weight="0.9907590660503347" />
+      <edge source="T_TOPIC_3" target="A_disie" id="143" weight="0.9877192827755736" />
+      <edge source="T_TOPIC_3" target="A_baeredygtigesynergier" id="144" weight="0.921561665571944" />
+      <edge source="T_TOPIC_3" target="A_innovationsfonden" id="145" weight="0.9988808933310721" />
+      <edge source="T_TOPIC_3" target="A_xn--bredygtigtbyggeri-rrb" id="146" weight="0.9931372459352459" />
+      <edge source="T_TOPIC_3" target="A_systime" id="147" weight="0.9977180080944906" />
+      <edge source="T_TOPIC_3" target="A_kunst" id="148" weight="0.9929292842508814" />
+      <edge source="T_TOPIC_3" target="A_ltk" id="149" weight="0.3407557783251625" />
+      <edge source="T_TOPIC_3" target="A_hedeselskabet" id="150" weight="0.9949549443699092" />
+      <edge source="T_TOPIC_3" target="A_leadagency" id="151" weight="0.9950354538741942" />
+      <edge source="T_TOPIC_3" target="A_rm" id="152" weight="0.9914372902943959" />
+      <edge source="T_TOPIC_3" target="A_taasinge" id="153" weight="0.9977180075247924" />
+      <edge source="T_TOPIC_3" target="A_visitdenmark" id="154" weight="0.9898550559239712" />
+      <edge source="T_TOPIC_3" target="A_baeredygtig-business" id="155" weight="0.9996744559967947" />
+      <edge source="T_TOPIC_3" target="A_bosch-home" id="156" weight="0.996642681201394" />
+      <edge source="T_TOPIC_3" target="A_dge" id="157" weight="0.9953795318900313" />
+      <edge source="T_TOPIC_3" target="A_valsemollen" id="158" weight="0.9961591174117714" />
+      <edge source="T_TOPIC_3" target="A_orkla" id="159" weight="0.9951640699146792" />
+      <edge source="T_TOPIC_3" target="A_energibyer" id="160" weight="0.9978039188111489" />
+      <edge source="T_TOPIC_3" target="A_phonixtagmaterialer" id="161" weight="0.9188641168736938" />
+      <edge source="T_TOPIC_3" target="A_iba" id="162" weight="0.9981444639499193" />
+      <edge source="T_TOPIC_3" target="A_bmbyggeindustri" id="163" weight="0.9979396591217987" />
+      <edge source="T_TOPIC_3" target="A_alfix" id="164" weight="0.9975438558444042" />
+      <edge source="T_TOPIC_3" target="A_jyndbjerg" id="165" weight="0.9982323208142543" />
+      <edge source="T_TOPIC_3" target="A_teglklinker" id="166" weight="0.9980595952029832" />
+      <edge source="T_TOPIC_3" target="A_hplush" id="167" weight="0.9942386736550145" />
+      <edge source="T_TOPIC_3" target="A_bluetree" id="168" weight="0.9977617873630031" />
+      <edge source="T_TOPIC_3" target="A_hth" id="169" weight="0.9962365542431735" />
+      <edge source="T_TOPIC_3" target="A_interflora" id="170" weight="0.9976490302323473" />
+      <edge source="T_TOPIC_3" target="A_ku" id="171" weight="0.9849462137659313" />
+      <edge source="T_TOPIC_3" target="A_med24" id="172" weight="0.9839483092572237" />
+      <edge source="T_TOPIC_3" target="A_gsv" id="173" weight="0.9985663063630225" />
+      <edge source="T_TOPIC_3" target="A_permatopia" id="174" weight="0.993427220108405" />
+      <edge source="T_TOPIC_3" target="A_danaeg" id="175" weight="0.995512814611831" />
+      <edge source="T_TOPIC_3" target="A_spaencom" id="176" weight="0.9986666639012132" />
+      <edge source="T_TOPIC_3" target="A_scankab" id="177" weight="0.993650785421766" />
+      <edge source="T_TOPIC_3" target="A_coor" id="178" weight="0.9970370326249044" />
+      <edge source="T_TOPIC_3" target="A_orsted" id="179" weight="0.9222220852724606" />
+      <edge source="T_TOPIC_3" target="A_timbernest" id="180" weight="0.9962365530088734" />
+      <edge source="T_TOPIC_3" target="A_okologi" id="181" weight="0.9944111694308058" />
+      <edge source="T_TOPIC_3" target="A_rockwool" id="182" weight="0.9805555332532435" />
+      <edge source="T_TOPIC_3" target="A_stark" id="183" weight="0.004761916757742861" />
+      <edge source="T_TOPIC_3" target="A_ncc" id="184" weight="0.9858585676953922" />
+      <edge source="T_TOPIC_3" target="A_jakobsenhuse" id="185" weight="0.9977180082878259" />
+      <edge source="T_TOPIC_3" target="A_sas" id="186" weight="0.9873873706877212" />
+      <edge source="T_TOPIC_3" target="A_jackon" id="187" weight="0.7774486883344531" />
+      <edge source="T_TOPIC_3" target="A_hojskolerne" id="188" weight="0.9754385700717166" />
+      <edge source="T_TOPIC_3" target="A_baeredygtigtlandbrug" id="189" weight="0.9980676299651335" />
+      <edge source="T_TOPIC_3" target="A_nordeainvestmagasinet" id="190" weight="0.9816993210627958" />
+      <edge source="T_TOPIC_3" target="A_if" id="191" weight="0.9901754218067362" />
+      <edge source="T_TOPIC_3" target="A_jyskebank" id="192" weight="0.9844444236010491" />
+      <edge source="T_TOPIC_3" target="A_scandibyg" id="193" weight="0.9873873681402684" />
+      <edge source="T_TOPIC_3" target="A_rockpanel" id="194" weight="0.9866666498430355" />
+      <edge source="T_TOPIC_3" target="A_dansani" id="195" weight="0.9929292840522657" />
+      <edge source="T_TOPIC_3" target="A_dfs" id="196" weight="0.9981591028600412" />
+      <edge source="T_TOPIC_3" target="A_moelven" id="197" weight="0.9933333227991276" />
+      <edge source="T_TOPIC_3" target="A_atp-ejendomme" id="198" weight="0.9982255993727253" />
+      <edge source="T_TOPIC_3" target="A_globalcompact" id="199" weight="0.017800313281907277" />
+      <edge source="T_TOPIC_3" target="A_byoghavn" id="200" weight="0.9955128144772091" />
+      <edge source="T_TOPIC_3" target="A_brandbjerg" id="201" weight="0.9987037018105633" />
+      <edge source="T_TOPIC_3" target="A_klspureprint" id="202" weight="0.5287719128800822" />
+      <edge source="T_TOPIC_3" target="A_mercantec" id="203" weight="0.9969196874332703" />
+      <edge source="T_TOPIC_3" target="A_kost" id="204" weight="0.44929968225628" />
+      <edge source="T_TOPIC_3" target="A_saint-gobain" id="205" weight="0.996281535091617" />
+      <edge source="T_TOPIC_3" target="A_Greenlandic Ice Cap Water" id="206" weight="0.006060608638021912" />
+      <edge source="T_TOPIC_3" target="A_Kingo Karlsen" id="207" weight="0.996878478314824" />
+      <edge source="T_TOPIC_3" target="A_Rambøll" id="208" weight="0.0022222239380308238" />
+      <edge source="T_TOPIC_3" target="A_Port of Aalborg" id="209" weight="0.006666676688436016" />
+      <edge source="T_TOPIC_3" target="A_Aalborg Portland" id="210" weight="0.9349714671948566" />
+      <edge source="T_TOPIC_3" target="A_MT Højgaard" id="211" weight="0.9733333000778844" />
+      <edge source="T_TOPIC_3" target="A_Carlsberg" id="212" weight="0.003030305061401081" />
+      <edge source="T_TOPIC_3" target="A_Desmi" id="213" weight="0.004761907818035434" />
+      <edge source="T_TOPIC_3" target="A_Niras" id="214" weight="0.0027777792688641182" />
+      <edge source="T_TOPIC_3" target="A_Grønlands Rejsebureau" id="215" weight="0.9984418452421832" />
+      <edge source="T_TOPIC_3" target="A_MOE A/S" id="216" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_3" target="A_csrkompasset" id="217" weight="0.9993299821469273" />
+      <edge source="T_TOPIC_0" target="A_mfvm" id="218" weight="0.00392157278672529" />
+      <edge source="T_TOPIC_0" target="A_miljoeportal" id="219" weight="0.0011494272110643155" />
+      <edge source="T_TOPIC_0" target="A_heleverdeniskole" id="220" weight="0.004166670558044733" />
+      <edge source="T_TOPIC_0" target="A_duf" id="221" weight="0.14367442637655198" />
+      <edge source="T_TOPIC_0" target="A_via" id="222" weight="0.0013333348295566775" />
+      <edge source="T_TOPIC_0" target="A_soroe" id="223" weight="0.003703706874597773" />
+      <edge source="T_TOPIC_0" target="A_aalborgportland" id="224" weight="0.00476190853237382" />
+      <edge source="T_TOPIC_0" target="A_danskaffaldsforening" id="225" weight="0.10103256095300148" />
+      <edge source="T_TOPIC_0" target="A_tapasamor" id="226" weight="0.0011695922963723458" />
+      <edge source="T_TOPIC_0" target="A_energinet" id="227" weight="0.0035087764605534785" />
+      <edge source="T_TOPIC_0" target="A_danskelbilalliance" id="228" weight="0.01666668090189555" />
+      <edge source="T_TOPIC_0" target="A_esbjerg" id="229" weight="0.37002268119215675" />
+      <edge source="T_TOPIC_0" target="A_klimabevaegelsen" id="230" weight="0.002666670957482012" />
+      <edge source="T_TOPIC_0" target="A_gyldendal" id="231" weight="0.022222239066921043" />
+      <edge source="T_TOPIC_0" target="A_geus" id="232" weight="0.001851853853926128" />
+      <edge source="T_TOPIC_0" target="A_thetradecouncil" id="233" weight="0.0011299449730598537" />
+      <edge source="T_TOPIC_0" target="A_ltk" id="234" weight="0.0013605456090982533" />
+      <edge source="T_TOPIC_0" target="A_phonixtagmaterialer" id="235" weight="0.07425756427583054" />
+      <edge source="T_TOPIC_0" target="A_ku" id="236" weight="0.0010752702880440326" />
+      <edge source="T_TOPIC_0" target="A_med24" id="237" weight="0.013103840502113868" />
+      <edge source="T_TOPIC_0" target="A_orsted" id="238" weight="0.005555565153077283" />
+      <edge source="T_TOPIC_0" target="A_rockwool" id="239" weight="0.0013888903404412985" />
+      <edge source="T_TOPIC_0" target="A_stark" id="240" weight="0.004761908955974141" />
+      <edge source="T_TOPIC_0" target="A_ncc" id="241" weight="0.0010101020201808617" />
+      <edge source="T_TOPIC_0" target="A_hojskolerne" id="242" weight="0.0017543876521514015" />
+      <edge source="T_TOPIC_0" target="A_nordeainvestmagasinet" id="243" weight="0.0013071910955732458" />
+      <edge source="T_TOPIC_0" target="A_jyskebank" id="244" weight="0.001111112215165592" />
+      <edge source="T_TOPIC_0" target="A_kost" id="245" weight="0.0015151532720921884" />
+      <edge source="T_TOPIC_0" target="A_Greenlandic Ice Cap Water" id="246" weight="0.006060608356119887" />
+      <edge source="T_TOPIC_0" target="A_Rambøll" id="247" weight="0.0022222234132176183" />
+      <edge source="T_TOPIC_0" target="A_Port of Aalborg" id="248" weight="0.006666672081929704" />
+      <edge source="T_TOPIC_0" target="A_MT Højgaard" id="249" weight="0.0019047639298357805" />
+      <edge source="T_TOPIC_0" target="A_Carlsberg" id="250" weight="0.003030304400402157" />
+      <edge source="T_TOPIC_0" target="A_Desmi" id="251" weight="0.004761906847114382" />
+      <edge source="T_TOPIC_0" target="A_Niras" id="252" weight="0.002777778739017081" />
+      <edge source="T_TOPIC_0" target="A_MOE A/S" id="253" weight="0.06666666666666668" />
+      <edge source="A_mfvm" target="T_TOPIC_1" id="254" weight="0.003921575145838971" />
+      <edge source="A_mfvm" target="T_TOPIC_2" id="255" weight="0.003921572228636355" />
+      <edge source="A_mfvm" target="T_TOPIC_4" id="256" weight="0.0039215726351623575" />
+      <edge source="A_mfvm" target="T_TOPIC_5" id="257" weight="0.5617138279188717" />
+      <edge source="A_mfvm" target="T_TOPIC_6" id="258" weight="0.003921580546485129" />
+      <edge source="A_mfvm" target="T_TOPIC_7" id="259" weight="0.003921575602409202" />
+      <edge source="A_mfvm" target="T_TOPIC_8" id="260" weight="0.0039215766591584825" />
+      <edge source="A_mfvm" target="T_TOPIC_9" id="261" weight="0.003921572195427171" />
+      <edge source="A_mfvm" target="T_TOPIC_10" id="262" weight="0.003921571952677264" />
+      <edge source="A_mfvm" target="T_TOPIC_11" id="263" weight="0.003921572225700537" />
+      <edge source="A_mfvm" target="T_TOPIC_12" id="264" weight="0.00392157523603797" />
+      <edge source="A_mfvm" target="T_TOPIC_13" id="265" weight="0.003921572068692697" />
+      <edge source="A_mfvm" target="T_TOPIC_14" id="266" weight="0.003921573545294448" />
+      <edge source="T_TOPIC_1" target="A_miljoeportal" id="267" weight="0.0011494279341359025" />
+      <edge source="T_TOPIC_1" target="A_sundolitt" id="268" weight="0.5624350722827384" />
+      <edge source="T_TOPIC_1" target="A_heleverdeniskole" id="269" weight="0.004166673139546833" />
+      <edge source="T_TOPIC_1" target="A_duf" id="270" weight="0.001515153604845956" />
+      <edge source="T_TOPIC_1" target="A_via" id="271" weight="0.0013333353502532365" />
+      <edge source="T_TOPIC_1" target="A_soroe" id="272" weight="0.0037037070401121407" />
+      <edge source="T_TOPIC_1" target="A_runi" id="273" weight="0.10503180455733575" />
+      <edge source="T_TOPIC_1" target="A_aalborgportland" id="274" weight="0.004761911775139492" />
+      <edge source="T_TOPIC_1" target="A_tapasamor" id="275" weight="0.0011695934759753453" />
+      <edge source="T_TOPIC_1" target="A_energinet" id="276" weight="0.0035087788221818115" />
+      <edge source="T_TOPIC_1" target="A_hedensted" id="277" weight="0.1978963934111386" />
+      <edge source="T_TOPIC_1" target="A_danskelbilalliance" id="278" weight="0.01666668551814361" />
+      <edge source="T_TOPIC_1" target="A_klimabevaegelsen" id="279" weight="0.002666670354129899" />
+      <edge source="T_TOPIC_1" target="A_gyldendal" id="280" weight="0.022222248687629814" />
+      <edge source="T_TOPIC_1" target="A_geus" id="281" weight="0.0018518564924309793" />
+      <edge source="T_TOPIC_1" target="A_thetradecouncil" id="282" weight="0.0011299453462350307" />
+      <edge source="T_TOPIC_1" target="A_kronospan-dk" id="283" weight="0.0575759849809545" />
+      <edge source="T_TOPIC_1" target="A_ltk" id="284" weight="0.0013605467772263371" />
+      <edge source="T_TOPIC_1" target="A_ku" id="285" weight="0.0010752703347576343" />
+      <edge source="T_TOPIC_1" target="A_orsted" id="286" weight="0.00555556404987743" />
+      <edge source="T_TOPIC_1" target="A_rockwool" id="287" weight="0.001388891035355709" />
+      <edge source="T_TOPIC_1" target="A_stark" id="288" weight="0.9333332502150866" />
+      <edge source="T_TOPIC_1" target="A_ncc" id="289" weight="0.0010101025572489945" />
+      <edge source="T_TOPIC_1" target="A_jackon" id="290" weight="0.21967201694819743" />
+      <edge source="T_TOPIC_1" target="A_hojskolerne" id="291" weight="0.0017543879959904323" />
+      <edge source="T_TOPIC_1" target="A_nordeainvestmagasinet" id="292" weight="0.0013071923389123134" />
+      <edge source="T_TOPIC_1" target="A_jyskebank" id="293" weight="0.0011111125532336195" />
+      <edge source="T_TOPIC_1" target="A_klspureprint" id="294" weight="0.47094761212815317" />
+      <edge source="T_TOPIC_1" target="A_kost" id="295" weight="0.0015151535031809737" />
+      <edge source="T_TOPIC_1" target="A_Greenlandic Ice Cap Water" id="296" weight="0.006060608519771139" />
+      <edge source="T_TOPIC_1" target="A_Rambøll" id="297" weight="0.002222223624630907" />
+      <edge source="T_TOPIC_1" target="A_Port of Aalborg" id="298" weight="0.006666672552491719" />
+      <edge source="T_TOPIC_1" target="A_MT Højgaard" id="299" weight="0.0019047647744445339" />
+      <edge source="T_TOPIC_1" target="A_Carlsberg" id="300" weight="0.0030303048080500623" />
+      <edge source="T_TOPIC_1" target="A_Desmi" id="301" weight="0.00476191023000571" />
+      <edge source="T_TOPIC_1" target="A_Niras" id="302" weight="0.0027777788667046302" />
+      <edge source="T_TOPIC_1" target="A_MOE A/S" id="303" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_2" target="A_miljoeportal" id="304" weight="0.0011494269557998154" />
+      <edge source="T_TOPIC_2" target="A_heleverdeniskole" id="305" weight="0.004166669427538356" />
+      <edge source="T_TOPIC_2" target="A_duf" id="306" weight="0.0015151533192573972" />
+      <edge source="T_TOPIC_2" target="A_via" id="307" weight="0.001333334839197755" />
+      <edge source="T_TOPIC_2" target="A_soroe" id="308" weight="0.0037037069571480797" />
+      <edge source="T_TOPIC_2" target="A_aalborgportland" id="309" weight="0.004761907629229714" />
+      <edge source="T_TOPIC_2" target="A_tapasamor" id="310" weight="0.001169591984176579" />
+      <edge source="T_TOPIC_2" target="A_energinet" id="311" weight="0.0035087776426176976" />
+      <edge source="T_TOPIC_2" target="A_danskelbilalliance" id="312" weight="0.01666667286444742" />
+      <edge source="T_TOPIC_2" target="A_klimabevaegelsen" id="313" weight="0.0026666703573797156" />
+      <edge source="T_TOPIC_2" target="A_gyldendal" id="314" weight="0.022222232398992403" />
+      <edge source="T_TOPIC_2" target="A_geus" id="315" weight="0.0018518535007804016" />
+      <edge source="T_TOPIC_2" target="A_thetradecouncil" id="316" weight="0.0011299448611362102" />
+      <edge source="T_TOPIC_2" target="A_ltk" id="317" weight="0.001360545129717963" />
+      <edge source="T_TOPIC_2" target="A_ku" id="318" weight="0.00107527015459237" />
+      <edge source="T_TOPIC_2" target="A_orsted" id="319" weight="0.0055555635328536" />
+      <edge source="T_TOPIC_2" target="A_rockwool" id="320" weight="0.001388889838373884" />
+      <edge source="T_TOPIC_2" target="A_stark" id="321" weight="0.004761909576936327" />
+      <edge source="T_TOPIC_2" target="A_ncc" id="322" weight="0.0010101017812616131" />
+      <edge source="T_TOPIC_2" target="A_hojskolerne" id="323" weight="0.0017543872863479547" />
+      <edge source="T_TOPIC_2" target="A_nordeainvestmagasinet" id="324" weight="0.001307190949797327" />
+      <edge source="T_TOPIC_2" target="A_jyskebank" id="325" weight="0.001111112229293409" />
+      <edge source="T_TOPIC_2" target="A_kost" id="326" weight="0.0015151528158576751" />
+      <edge source="T_TOPIC_2" target="A_Greenlandic Ice Cap Water" id="327" weight="0.0060606093980895975" />
+      <edge source="T_TOPIC_2" target="A_Rambøll" id="328" weight="0.002222224345316863" />
+      <edge source="T_TOPIC_2" target="A_Port of Aalborg" id="329" weight="0.006666684764778917" />
+      <edge source="T_TOPIC_2" target="A_MT Højgaard" id="330" weight="0.0019047634437825318" />
+      <edge source="T_TOPIC_2" target="A_Carlsberg" id="331" weight="0.0030303073500184087" />
+      <edge source="T_TOPIC_2" target="A_Desmi" id="332" weight="0.9333332702348807" />
+      <edge source="T_TOPIC_2" target="A_Niras" id="333" weight="0.002777780786292045" />
+      <edge source="T_TOPIC_2" target="A_MOE A/S" id="334" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_4" target="A_miljoeportal" id="335" weight="0.001149427464680277" />
+      <edge source="T_TOPIC_4" target="A_heleverdeniskole" id="336" weight="0.004166671097884912" />
+      <edge source="T_TOPIC_4" target="A_duf" id="337" weight="0.0015151537352312754" />
+      <edge source="T_TOPIC_4" target="A_via" id="338" weight="0.0013333347555044485" />
+      <edge source="T_TOPIC_4" target="A_soroe" id="339" weight="0.003703706539207139" />
+      <edge source="T_TOPIC_4" target="A_aalborgportland" id="340" weight="0.004761908837120383" />
+      <edge source="T_TOPIC_4" target="A_tapasamor" id="341" weight="0.0011695922558462725" />
+      <edge source="T_TOPIC_4" target="A_energinet" id="342" weight="0.0035087767918863732" />
+      <edge source="T_TOPIC_4" target="A_danskelbilalliance" id="343" weight="0.016666679246517897" />
+      <edge source="T_TOPIC_4" target="A_klimabevaegelsen" id="344" weight="0.002666670806008045" />
+      <edge source="T_TOPIC_4" target="A_gyldendal" id="345" weight="0.02222223694040467" />
+      <edge source="T_TOPIC_4" target="A_geus" id="346" weight="0.0018518540873537262" />
+      <edge source="T_TOPIC_4" target="A_thetradecouncil" id="347" weight="0.0011299451143045435" />
+      <edge source="T_TOPIC_4" target="A_ltk" id="348" weight="0.0013605454140668456" />
+      <edge source="T_TOPIC_4" target="A_ku" id="349" weight="0.0010752702716325365" />
+      <edge source="T_TOPIC_4" target="A_orsted" id="350" weight="0.005555563879351911" />
+      <edge source="T_TOPIC_4" target="A_rockwool" id="351" weight="0.0013888901376261547" />
+      <edge source="T_TOPIC_4" target="A_stark" id="352" weight="0.00476190997188649" />
+      <edge source="T_TOPIC_4" target="A_ncc" id="353" weight="0.0010101020616647004" />
+      <edge source="T_TOPIC_4" target="A_hojskolerne" id="354" weight="0.0017543876962395667" />
+      <edge source="T_TOPIC_4" target="A_nordeainvestmagasinet" id="355" weight="0.0013071911954692385" />
+      <edge source="T_TOPIC_4" target="A_jyskebank" id="356" weight="0.0011111124648908659" />
+      <edge source="T_TOPIC_4" target="A_kost" id="357" weight="0.0015151533337868523" />
+      <edge source="T_TOPIC_4" target="A_Greenlandic Ice Cap Water" id="358" weight="0.006060608405052074" />
+      <edge source="T_TOPIC_4" target="A_Rambøll" id="359" weight="0.002222223342499125" />
+      <edge source="T_TOPIC_4" target="A_Port of Aalborg" id="360" weight="0.006666673835007714" />
+      <edge source="T_TOPIC_4" target="A_MT Højgaard" id="361" weight="0.001904763814734392" />
+      <edge source="T_TOPIC_4" target="A_Carlsberg" id="362" weight="0.003030304827430768" />
+      <edge source="T_TOPIC_4" target="A_Desmi" id="363" weight="0.004761907277158734" />
+      <edge source="T_TOPIC_4" target="A_Niras" id="364" weight="0.0027777788519500446" />
+      <edge source="T_TOPIC_4" target="A_MOE A/S" id="365" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_5" target="A_miljoeportal" id="366" weight="0.0011494281781794025" />
+      <edge source="T_TOPIC_5" target="A_aalborg" id="367" weight="0.6401578240717403" />
+      <edge source="T_TOPIC_5" target="A_kefm" id="368" weight="0.09431348684329731" />
+      <edge source="T_TOPIC_5" target="A_mariagerfjord" id="369" weight="0.07178608318980464" />
+      <edge source="T_TOPIC_5" target="A_fmk" id="370" weight="0.03387304773845569" />
+      <edge source="T_TOPIC_5" target="A_furesoe" id="371" weight="0.1665859127427003" />
+      <edge source="T_TOPIC_5" target="A_gentofte" id="372" weight="0.039127727723270195" />
+      <edge source="T_TOPIC_5" target="A_klimatilpasning" id="373" weight="0.43983382909358365" />
+      <edge source="T_TOPIC_5" target="A_billund" id="374" weight="0.07383048714882585" />
+      <edge source="T_TOPIC_5" target="A_heleverdeniskole" id="375" weight="0.00416667632909346" />
+      <edge source="T_TOPIC_5" target="A_duf" id="376" weight="0.0015151565040764203" />
+      <edge source="T_TOPIC_5" target="A_kk" id="377" weight="0.03702637061398565" />
+      <edge source="T_TOPIC_5" target="A_via" id="378" weight="0.0013333357449201568" />
+      <edge source="T_TOPIC_5" target="A_fredericia" id="379" weight="0.3892943863099139" />
+      <edge source="T_TOPIC_5" target="A_silkeborg" id="380" weight="0.33201785326212035" />
+      <edge source="T_TOPIC_5" target="A_2030-panelet" id="381" weight="0.49182763152688824" />
+      <edge source="T_TOPIC_5" target="A_soroe" id="382" weight="0.948148099799866" />
+      <edge source="T_TOPIC_5" target="A_aalborgportland" id="383" weight="0.0047619115785439555" />
+      <edge source="T_TOPIC_5" target="A_tapasamor" id="384" weight="0.001169593202726328" />
+      <edge source="T_TOPIC_5" target="A_energinet" id="385" weight="0.003508778877214743" />
+      <edge source="T_TOPIC_5" target="A_danskelbilalliance" id="386" weight="0.016666731820210716" />
+      <edge source="T_TOPIC_5" target="A_klimabevaegelsen" id="387" weight="0.002666671327362455" />
+      <edge source="T_TOPIC_5" target="A_gyldendal" id="388" weight="0.02222224140625214" />
+      <edge source="T_TOPIC_5" target="A_geus" id="389" weight="0.001851856327784575" />
+      <edge source="T_TOPIC_5" target="A_thetradecouncil" id="390" weight="0.001129946948904084" />
+      <edge source="T_TOPIC_5" target="A_nben" id="391" weight="0.03226983374403554" />
+      <edge source="T_TOPIC_5" target="A_baeredygtigesynergier" id="392" weight="0.07070022818527981" />
+      <edge source="T_TOPIC_5" target="A_ltk" id="393" weight="0.6415571259937909" />
+      <edge source="T_TOPIC_5" target="A_ku" id="394" weight="0.0010752708187757988" />
+      <edge source="T_TOPIC_5" target="A_orsted" id="395" weight="0.005555564105938345" />
+      <edge source="T_TOPIC_5" target="A_rockwool" id="396" weight="0.0013888914852667436" />
+      <edge source="T_TOPIC_5" target="A_stark" id="397" weight="0.004761910398092416" />
+      <edge source="T_TOPIC_5" target="A_ncc" id="398" weight="0.0010101027066663029" />
+      <edge source="T_TOPIC_5" target="A_hojskolerne" id="399" weight="0.0017543885484919827" />
+      <edge source="T_TOPIC_5" target="A_nordeainvestmagasinet" id="400" weight="0.0013071919200817604" />
+      <edge source="T_TOPIC_5" target="A_jyskebank" id="401" weight="0.0011111131805203994" />
+      <edge source="T_TOPIC_5" target="A_kost" id="402" weight="0.001515154556126031" />
+      <edge source="T_TOPIC_5" target="A_Greenlandic Ice Cap Water" id="403" weight="0.006060609093548402" />
+      <edge source="T_TOPIC_5" target="A_Rambøll" id="404" weight="0.002222224279997743" />
+      <edge source="T_TOPIC_5" target="A_Port of Aalborg" id="405" weight="0.4114982403196787" />
+      <edge source="T_TOPIC_5" target="A_Aalborg Portland" id="406" weight="0.06295516472556253" />
+      <edge source="T_TOPIC_5" target="A_MT Højgaard" id="407" weight="0.001904764887951602" />
+      <edge source="T_TOPIC_5" target="A_Carlsberg" id="408" weight="0.0030303050536609746" />
+      <edge source="T_TOPIC_5" target="A_Desmi" id="409" weight="0.004761909073338393" />
+      <edge source="T_TOPIC_5" target="A_Niras" id="410" weight="0.0027777789838714794" />
+      <edge source="T_TOPIC_5" target="A_MOE A/S" id="411" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_6" target="A_wikipedia" id="412" weight="0.19945038590409378" />
+      <edge source="T_TOPIC_6" target="A_miljoeportal" id="413" weight="0.0011494280748931872" />
+      <edge source="T_TOPIC_6" target="A_verdensmaalene" id="414" weight="0.09133305700077761" />
+      <edge source="T_TOPIC_6" target="A_rebild" id="415" weight="0.7537277106807131" />
+      <edge source="T_TOPIC_6" target="A_billund" id="416" weight="0.9221196635923876" />
+      <edge source="T_TOPIC_6" target="A_handicap" id="417" weight="0.7046441247691476" />
+      <edge source="T_TOPIC_6" target="A_heleverdeniskole" id="418" weight="0.0041666804110956105" />
+      <edge source="T_TOPIC_6" target="A_bornsvilkar" id="419" weight="0.3566169004587059" />
+      <edge source="T_TOPIC_6" target="A_fm" id="420" weight="0.8237133188041847" />
+      <edge source="T_TOPIC_6" target="A_duf" id="421" weight="0.508300611250104" />
+      <edge source="T_TOPIC_6" target="A_ms" id="422" weight="0.6305346604809267" />
+      <edge source="T_TOPIC_6" target="A_erhvervsstyrelsen" id="423" weight="0.019452302339414917" />
+      <edge source="T_TOPIC_6" target="A_fnforbundet" id="424" weight="0.26169528533798525" />
+      <edge source="T_TOPIC_6" target="A_kk" id="425" weight="0.1318826947760074" />
+      <edge source="T_TOPIC_6" target="A_unicef" id="426" weight="0.3990578701086107" />
+      <edge source="T_TOPIC_6" target="A_regeringen" id="427" weight="0.20176404488939656" />
+      <edge source="T_TOPIC_6" target="A_odense" id="428" weight="0.6936967403490575" />
+      <edge source="T_TOPIC_6" target="A_redbarnet" id="429" weight="0.07668189284120457" />
+      <edge source="T_TOPIC_6" target="A_frivilligcenter-odense" id="430" weight="0.6730675065714794" />
+      <edge source="T_TOPIC_6" target="A_via" id="431" weight="0.001333336513541805" />
+      <edge source="T_TOPIC_6" target="A_loekkefonden" id="432" weight="0.13861236923576276" />
+      <edge source="T_TOPIC_6" target="A_fremtidensbiblioteker" id="433" weight="0.04676171642619716" />
+      <edge source="T_TOPIC_6" target="A_soroe" id="434" weight="0.003703708747895926" />
+      <edge source="T_TOPIC_6" target="A_undp" id="435" weight="0.10795866180464289" />
+      <edge source="T_TOPIC_6" target="A_matas" id="436" weight="0.07015784746451527" />
+      <edge source="T_TOPIC_6" target="A_odsherred" id="437" weight="0.992473107636317" />
+      <edge source="T_TOPIC_6" target="A_aalborgportland" id="438" weight="0.004761910675230788" />
+      <edge source="T_TOPIC_6" target="A_danskaffaldsforening" id="439" weight="0.31819167503624624" />
+      <edge source="T_TOPIC_6" target="A_tapasamor" id="440" weight="0.001169592742596822" />
+      <edge source="T_TOPIC_6" target="A_energinet" id="441" weight="0.003508783124387821" />
+      <edge source="T_TOPIC_6" target="A_danskelbilalliance" id="442" weight="0.016666696962626893" />
+      <edge source="T_TOPIC_6" target="A_klimabevaegelsen" id="443" weight="0.0026666760905706675" />
+      <edge source="T_TOPIC_6" target="A_gyldendal" id="444" weight="0.02222243685511417" />
+      <edge source="T_TOPIC_6" target="A_geus" id="445" weight="0.0018518560577812423" />
+      <edge source="T_TOPIC_6" target="A_magasinet360" id="446" weight="0.05353961694324722" />
+      <edge source="T_TOPIC_6" target="A_thetradecouncil" id="447" weight="0.0011299452925215923" />
+      <edge source="T_TOPIC_6" target="A_ltk" id="448" weight="0.001360547355259131" />
+      <edge source="T_TOPIC_6" target="A_ku" id="449" weight="0.001075271190122793" />
+      <edge source="T_TOPIC_6" target="A_orsted" id="450" weight="0.005555579716827917" />
+      <edge source="T_TOPIC_6" target="A_rockwool" id="451" weight="0.0013888916624393791" />
+      <edge source="T_TOPIC_6" target="A_stark" id="452" weight="0.004761916423762372" />
+      <edge source="T_TOPIC_6" target="A_ncc" id="453" weight="0.0010101045616539633" />
+      <edge source="T_TOPIC_6" target="A_hojskolerne" id="454" weight="0.001754388661875663" />
+      <edge source="T_TOPIC_6" target="A_nordeainvestmagasinet" id="455" weight="0.0013071921978938933" />
+      <edge source="T_TOPIC_6" target="A_jyskebank" id="456" weight="0.0011111145246408241" />
+      <edge source="T_TOPIC_6" target="A_globalcompact" id="457" weight="0.9815854644279073" />
+      <edge source="T_TOPIC_6" target="A_kost" id="458" weight="0.5310033230712813" />
+      <edge source="T_TOPIC_6" target="A_Greenlandic Ice Cap Water" id="459" weight="0.006060607649311405" />
+      <edge source="T_TOPIC_6" target="A_Rambøll" id="460" weight="0.0022222236870655643" />
+      <edge source="T_TOPIC_6" target="A_Port of Aalborg" id="461" weight="0.006666677551367947" />
+      <edge source="T_TOPIC_6" target="A_MT Højgaard" id="462" weight="0.0019047674127236002" />
+      <edge source="T_TOPIC_6" target="A_Carlsberg" id="463" weight="0.00303030458035933" />
+      <edge source="T_TOPIC_6" target="A_Desmi" id="464" weight="0.004761907540860651" />
+      <edge source="T_TOPIC_6" target="A_Niras" id="465" weight="0.0027777793076335143" />
+      <edge source="T_TOPIC_6" target="A_MOE A/S" id="466" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_7" target="A_miljoeportal" id="467" weight="0.00114942758619576" />
+      <edge source="T_TOPIC_7" target="A_heleverdeniskole" id="468" weight="0.004166673643006008" />
+      <edge source="T_TOPIC_7" target="A_duf" id="469" weight="0.0015151552457693574" />
+      <edge source="T_TOPIC_7" target="A_via" id="470" weight="0.0013333352250206642" />
+      <edge source="T_TOPIC_7" target="A_soroe" id="471" weight="0.0037037073347782243" />
+      <edge source="T_TOPIC_7" target="A_aalborgportland" id="472" weight="0.004761910672875296" />
+      <edge source="T_TOPIC_7" target="A_tapasamor" id="473" weight="0.0011695926255264285" />
+      <edge source="T_TOPIC_7" target="A_energinet" id="474" weight="0.0035087786780640265" />
+      <edge source="T_TOPIC_7" target="A_danskelbilalliance" id="475" weight="0.016666693107099843" />
+      <edge source="T_TOPIC_7" target="A_klimabevaegelsen" id="476" weight="0.0026666712021698714" />
+      <edge source="T_TOPIC_7" target="A_gyldendal" id="477" weight="0.022222252591001523" />
+      <edge source="T_TOPIC_7" target="A_geus" id="478" weight="0.0018518548716731859" />
+      <edge source="T_TOPIC_7" target="A_thetradecouncil" id="479" weight="0.0011299452406203826" />
+      <edge source="T_TOPIC_7" target="A_ltk" id="480" weight="0.001360546131931566" />
+      <edge source="T_TOPIC_7" target="A_ku" id="481" weight="0.0010752706099225674" />
+      <edge source="T_TOPIC_7" target="A_orsted" id="482" weight="0.005555565808839824" />
+      <edge source="T_TOPIC_7" target="A_rockwool" id="483" weight="0.0013888908140038889" />
+      <edge source="T_TOPIC_7" target="A_stark" id="484" weight="0.00476191053476207" />
+      <edge source="T_TOPIC_7" target="A_ncc" id="485" weight="0.0010101024513651104" />
+      <edge source="T_TOPIC_7" target="A_hojskolerne" id="486" weight="0.0017543883132957276" />
+      <edge source="T_TOPIC_7" target="A_nordeainvestmagasinet" id="487" weight="0.0013071916036413052" />
+      <edge source="T_TOPIC_7" target="A_jyskebank" id="488" weight="0.0011111127731856145" />
+      <edge source="T_TOPIC_7" target="A_kost" id="489" weight="0.0015151540372652747" />
+      <edge source="T_TOPIC_7" target="A_Greenlandic Ice Cap Water" id="490" weight="0.006060608507809315" />
+      <edge source="T_TOPIC_7" target="A_Rambøll" id="491" weight="0.0022222236146205786" />
+      <edge source="T_TOPIC_7" target="A_Port of Aalborg" id="492" weight="0.0066666732599555655" />
+      <edge source="T_TOPIC_7" target="A_MT Højgaard" id="493" weight="0.00190476479046656" />
+      <edge source="T_TOPIC_7" target="A_Carlsberg" id="494" weight="0.003030304998184971" />
+      <edge source="T_TOPIC_7" target="A_Desmi" id="495" weight="0.004761907636549016" />
+      <edge source="T_TOPIC_7" target="A_Niras" id="496" weight="0.002777778878632587" />
+      <edge source="T_TOPIC_7" target="A_MOE A/S" id="497" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_8" target="A_miljoeportal" id="498" weight="0.0011494277539141522" />
+      <edge source="T_TOPIC_8" target="A_heleverdeniskole" id="499" weight="0.004166676313375912" />
+      <edge source="T_TOPIC_8" target="A_duf" id="500" weight="0.0015151546693880293" />
+      <edge source="T_TOPIC_8" target="A_regeringen" id="501" weight="0.08616491903536133" />
+      <edge source="T_TOPIC_8" target="A_via" id="502" weight="0.0013333359323468366" />
+      <edge source="T_TOPIC_8" target="A_soroe" id="503" weight="0.0037037085485440015" />
+      <edge source="T_TOPIC_8" target="A_menneskeret" id="504" weight="0.4892771468200825" />
+      <edge source="T_TOPIC_8" target="A_aalborgportland" id="505" weight="0.004761917809770911" />
+      <edge source="T_TOPIC_8" target="A_tapasamor" id="506" weight="0.0011695941677055807" />
+      <edge source="T_TOPIC_8" target="A_energinet" id="507" weight="0.003508779807429363" />
+      <edge source="T_TOPIC_8" target="A_danskelbilalliance" id="508" weight="0.016666694628548143" />
+      <edge source="T_TOPIC_8" target="A_klimabevaegelsen" id="509" weight="0.002666672784057979" />
+      <edge source="T_TOPIC_8" target="A_gyldendal" id="510" weight="0.022222248536183327" />
+      <edge source="T_TOPIC_8" target="A_geus" id="511" weight="0.0018518550079797654" />
+      <edge source="T_TOPIC_8" target="A_thetradecouncil" id="512" weight="0.0011299457137705763" />
+      <edge source="T_TOPIC_8" target="A_ltk" id="513" weight="0.0013605465624471954" />
+      <edge source="T_TOPIC_8" target="A_ku" id="514" weight="0.0010752708169471088" />
+      <edge source="T_TOPIC_8" target="A_orsted" id="515" weight="0.005555566977680689" />
+      <edge source="T_TOPIC_8" target="A_rockwool" id="516" weight="0.0013888910875253773" />
+      <edge source="T_TOPIC_8" target="A_stark" id="517" weight="0.004761911160565908" />
+      <edge source="T_TOPIC_8" target="A_ncc" id="518" weight="0.0010101026747315724" />
+      <edge source="T_TOPIC_8" target="A_hojskolerne" id="519" weight="0.0017543889543170656" />
+      <edge source="T_TOPIC_8" target="A_nordeainvestmagasinet" id="520" weight="0.0013071918043829852" />
+      <edge source="T_TOPIC_8" target="A_jyskebank" id="521" weight="0.0011111129445371653" />
+      <edge source="T_TOPIC_8" target="A_kost" id="522" weight="0.001515154337663898" />
+      <edge source="T_TOPIC_8" target="A_Greenlandic Ice Cap Water" id="523" weight="0.006060607920644828" />
+      <edge source="T_TOPIC_8" target="A_Rambøll" id="524" weight="0.0022222234483002777" />
+      <edge source="T_TOPIC_8" target="A_Port of Aalborg" id="525" weight="0.006666673828825591" />
+      <edge source="T_TOPIC_8" target="A_MT Højgaard" id="526" weight="0.0019047650749885966" />
+      <edge source="T_TOPIC_8" target="A_Carlsberg" id="527" weight="0.0030303045753950985" />
+      <edge source="T_TOPIC_8" target="A_Desmi" id="528" weight="0.004761907033085861" />
+      <edge source="T_TOPIC_8" target="A_Niras" id="529" weight="0.0027777789023349796" />
+      <edge source="T_TOPIC_8" target="A_MOE A/S" id="530" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_9" target="A_miljoeportal" id="531" weight="0.0011494269248634842" />
+      <edge source="T_TOPIC_9" target="A_heleverdeniskole" id="532" weight="0.00416666989281861" />
+      <edge source="T_TOPIC_9" target="A_duf" id="533" weight="0.0015151531729092982" />
+      <edge source="T_TOPIC_9" target="A_via" id="534" weight="0.0013333345294381067" />
+      <edge source="T_TOPIC_9" target="A_soroe" id="535" weight="0.0037037058158311755" />
+      <edge source="T_TOPIC_9" target="A_aalborgportland" id="536" weight="0.004761908248188136" />
+      <edge source="T_TOPIC_9" target="A_tapasamor" id="537" weight="0.0011695921603127315" />
+      <edge source="T_TOPIC_9" target="A_energinet" id="538" weight="0.003508776140547286" />
+      <edge source="T_TOPIC_9" target="A_danskelbilalliance" id="539" weight="0.016666673234799943" />
+      <edge source="T_TOPIC_9" target="A_klimabevaegelsen" id="540" weight="0.0026666705069308214" />
+      <edge source="T_TOPIC_9" target="A_gyldendal" id="541" weight="0.02222223412122795" />
+      <edge source="T_TOPIC_9" target="A_geus" id="542" weight="0.0018518535912726206" />
+      <edge source="T_TOPIC_9" target="A_thetradecouncil" id="543" weight="0.0011299448604889918" />
+      <edge source="T_TOPIC_9" target="A_ltk" id="544" weight="0.0013605452616638244" />
+      <edge source="T_TOPIC_9" target="A_ku" id="545" weight="0.0010752701698909517" />
+      <edge source="T_TOPIC_9" target="A_orsted" id="546" weight="0.005555562546135164" />
+      <edge source="T_TOPIC_9" target="A_rockwool" id="547" weight="0.0013888900088885896" />
+      <edge source="T_TOPIC_9" target="A_stark" id="548" weight="0.004761910412624178" />
+      <edge source="T_TOPIC_9" target="A_ncc" id="549" weight="0.0010101018835653645" />
+      <edge source="T_TOPIC_9" target="A_hojskolerne" id="550" weight="0.0017543872692212207" />
+      <edge source="T_TOPIC_9" target="A_nordeainvestmagasinet" id="551" weight="0.0013071909807296333" />
+      <edge source="T_TOPIC_9" target="A_jyskebank" id="552" weight="0.0011111122107994528" />
+      <edge source="T_TOPIC_9" target="A_kost" id="553" weight="0.0015151530529112823" />
+      <edge source="T_TOPIC_9" target="A_Greenlandic Ice Cap Water" id="554" weight="0.006060608645009288" />
+      <edge source="T_TOPIC_9" target="A_Rambøll" id="555" weight="0.002222223379453126" />
+      <edge source="T_TOPIC_9" target="A_Port of Aalborg" id="556" weight="0.006666672949766953" />
+      <edge source="T_TOPIC_9" target="A_MT Højgaard" id="557" weight="0.0019047634877130226" />
+      <edge source="T_TOPIC_9" target="A_Carlsberg" id="558" weight="0.0030303046271195565" />
+      <edge source="T_TOPIC_9" target="A_Desmi" id="559" weight="0.004761907179352463" />
+      <edge source="T_TOPIC_9" target="A_Niras" id="560" weight="0.0027777789418206174" />
+      <edge source="T_TOPIC_9" target="A_MOE A/S" id="561" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_10" target="A_miljoeportal" id="562" weight="0.0011494268796202302" />
+      <edge source="T_TOPIC_10" target="A_heleverdeniskole" id="563" weight="0.004166669861457358" />
+      <edge source="T_TOPIC_10" target="A_duf" id="564" weight="0.0015151535329684042" />
+      <edge source="T_TOPIC_10" target="A_via" id="565" weight="0.0013333343963308436" />
+      <edge source="T_TOPIC_10" target="A_soroe" id="566" weight="0.0037037054293156645" />
+      <edge source="T_TOPIC_10" target="A_aalborgportland" id="567" weight="0.004761908144678335" />
+      <edge source="T_TOPIC_10" target="A_tapasamor" id="568" weight="0.0011695922681662974" />
+      <edge source="T_TOPIC_10" target="A_energinet" id="569" weight="0.0035087762479692" />
+      <edge source="T_TOPIC_10" target="A_danskelbilalliance" id="570" weight="0.01666667324457439" />
+      <edge source="T_TOPIC_10" target="A_klimabevaegelsen" id="571" weight="0.002666670367273425" />
+      <edge source="T_TOPIC_10" target="A_gyldendal" id="572" weight="0.022222233303366933" />
+      <edge source="T_TOPIC_10" target="A_geus" id="573" weight="0.0018518534548617224" />
+      <edge source="T_TOPIC_10" target="A_thetradecouncil" id="574" weight="0.0011299449168436938" />
+      <edge source="T_TOPIC_10" target="A_ltk" id="575" weight="0.001360545064997265" />
+      <edge source="T_TOPIC_10" target="A_ku" id="576" weight="0.0010752701896093995" />
+      <edge source="T_TOPIC_10" target="A_orsted" id="577" weight="0.005555563082962871" />
+      <edge source="T_TOPIC_10" target="A_rockwool" id="578" weight="0.001388889792710725" />
+      <edge source="T_TOPIC_10" target="A_stark" id="579" weight="0.004761908958979902" />
+      <edge source="T_TOPIC_10" target="A_ncc" id="580" weight="0.0010101018256509222" />
+      <edge source="T_TOPIC_10" target="A_hojskolerne" id="581" weight="0.0017543872276801484" />
+      <edge source="T_TOPIC_10" target="A_nordeainvestmagasinet" id="582" weight="0.0013071909335215192" />
+      <edge source="T_TOPIC_10" target="A_jyskebank" id="583" weight="0.00111111195188385" />
+      <edge source="T_TOPIC_10" target="A_kost" id="584" weight="0.0015151529052902114" />
+      <edge source="T_TOPIC_10" target="A_Greenlandic Ice Cap Water" id="585" weight="0.006060608753977245" />
+      <edge source="T_TOPIC_10" target="A_Rambøll" id="586" weight="0.0022222233747649584" />
+      <edge source="T_TOPIC_10" target="A_Port of Aalborg" id="587" weight="0.006666673472874813" />
+      <edge source="T_TOPIC_10" target="A_MT Højgaard" id="588" weight="0.001904763221497074" />
+      <edge source="T_TOPIC_10" target="A_Carlsberg" id="589" weight="0.003030304461157998" />
+      <edge source="T_TOPIC_10" target="A_Desmi" id="590" weight="0.004761906821408933" />
+      <edge source="T_TOPIC_10" target="A_Niras" id="591" weight="0.0027777788534150407" />
+      <edge source="T_TOPIC_10" target="A_MOE A/S" id="592" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_11" target="A_miljoeportal" id="593" weight="0.001149426969970337" />
+      <edge source="T_TOPIC_11" target="A_heleverdeniskole" id="594" weight="0.004166669960093499" />
+      <edge source="T_TOPIC_11" target="A_duf" id="595" weight="0.001515153287622533" />
+      <edge source="T_TOPIC_11" target="A_via" id="596" weight="0.001333334638264995" />
+      <edge source="T_TOPIC_11" target="A_soroe" id="597" weight="0.0037037059667678336" />
+      <edge source="T_TOPIC_11" target="A_aalborgportland" id="598" weight="0.004761908221295149" />
+      <edge source="T_TOPIC_11" target="A_tapasamor" id="599" weight="0.0011695920575545225" />
+      <edge source="T_TOPIC_11" target="A_energinet" id="600" weight="0.0035087757392344913" />
+      <edge source="T_TOPIC_11" target="A_danskelbilalliance" id="601" weight="0.016666674032327092" />
+      <edge source="T_TOPIC_11" target="A_klimabevaegelsen" id="602" weight="0.002666670765484339" />
+      <edge source="T_TOPIC_11" target="A_gyldendal" id="603" weight="0.02222223704200054" />
+      <edge source="T_TOPIC_11" target="A_geus" id="604" weight="0.0018518538129014374" />
+      <edge source="T_TOPIC_11" target="A_thetradecouncil" id="605" weight="0.001129944744502907" />
+      <edge source="T_TOPIC_11" target="A_ltk" id="606" weight="0.001360545282579336" />
+      <edge source="T_TOPIC_11" target="A_ku" id="607" weight="0.0010752700887972204" />
+      <edge source="T_TOPIC_11" target="A_orsted" id="608" weight="0.005555564143504451" />
+      <edge source="T_TOPIC_11" target="A_rockwool" id="609" weight="0.00138889003575069" />
+      <edge source="T_TOPIC_11" target="A_stark" id="610" weight="0.0047619096203255565" />
+      <edge source="T_TOPIC_11" target="A_ncc" id="611" weight="0.001010101929377686" />
+      <edge source="T_TOPIC_11" target="A_hojskolerne" id="612" weight="0.0017543874111853716" />
+      <edge source="T_TOPIC_11" target="A_nordeainvestmagasinet" id="613" weight="0.0013071909630140736" />
+      <edge source="T_TOPIC_11" target="A_jyskebank" id="614" weight="0.0011111122396621027" />
+      <edge source="T_TOPIC_11" target="A_kost" id="615" weight="0.0015151530452151881" />
+      <edge source="T_TOPIC_11" target="A_Greenlandic Ice Cap Water" id="616" weight="0.006060610628696136" />
+      <edge source="T_TOPIC_11" target="A_Rambøll" id="617" weight="0.0022222280087324615" />
+      <edge source="T_TOPIC_11" target="A_Port of Aalborg" id="618" weight="0.5018349789354467" />
+      <edge source="T_TOPIC_11" target="A_MT Højgaard" id="619" weight="0.0019047635557586488" />
+      <edge source="T_TOPIC_11" target="A_Carlsberg" id="620" weight="0.003030309293015046" />
+      <edge source="T_TOPIC_11" target="A_Desmi" id="621" weight="0.004761915271300018" />
+      <edge source="T_TOPIC_11" target="A_Niras" id="622" weight="0.9611110862507258" />
+      <edge source="T_TOPIC_11" target="A_MOE A/S" id="623" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_12" target="A_miljoeportal" id="624" weight="0.0011494284092818266" />
+      <edge source="T_TOPIC_12" target="A_heleverdeniskole" id="625" weight="0.004166671261960261" />
+      <edge source="T_TOPIC_12" target="A_duf" id="626" weight="0.0015151555980518058" />
+      <edge source="T_TOPIC_12" target="A_via" id="627" weight="0.001333335398676835" />
+      <edge source="T_TOPIC_12" target="A_soroe" id="628" weight="0.0037037074897717038" />
+      <edge source="T_TOPIC_12" target="A_aalborgportland" id="629" weight="0.0047619124671314135" />
+      <edge source="T_TOPIC_12" target="A_tapasamor" id="630" weight="0.0011695927313984938" />
+      <edge source="T_TOPIC_12" target="A_energinet" id="631" weight="0.003508777930581109" />
+      <edge source="T_TOPIC_12" target="A_danskelbilalliance" id="632" weight="0.01666668816616693" />
+      <edge source="T_TOPIC_12" target="A_klimabevaegelsen" id="633" weight="0.002666670725990154" />
+      <edge source="T_TOPIC_12" target="A_gyldendal" id="634" weight="0.0222222438579102" />
+      <edge source="T_TOPIC_12" target="A_ens" id="635" weight="0.4411959668532806" />
+      <edge source="T_TOPIC_12" target="A_geus" id="636" weight="0.0018518547212817385" />
+      <edge source="T_TOPIC_12" target="A_thetradecouncil" id="637" weight="0.0011299461135938162" />
+      <edge source="T_TOPIC_12" target="A_ltk" id="638" weight="0.0013605465070328131" />
+      <edge source="T_TOPIC_12" target="A_ku" id="639" weight="0.001075270983614949" />
+      <edge source="T_TOPIC_12" target="A_orsted" id="640" weight="0.005555563223059538" />
+      <edge source="T_TOPIC_12" target="A_rockwool" id="641" weight="0.0013888904091900352" />
+      <edge source="T_TOPIC_12" target="A_stark" id="642" weight="0.004761909014054781" />
+      <edge source="T_TOPIC_12" target="A_ncc" id="643" weight="0.0010101020190112755" />
+      <edge source="T_TOPIC_12" target="A_hojskolerne" id="644" weight="0.0017543880522835884" />
+      <edge source="T_TOPIC_12" target="A_nordeainvestmagasinet" id="645" weight="0.001307191079046837" />
+      <edge source="T_TOPIC_12" target="A_jyskebank" id="646" weight="0.0011111126576242233" />
+      <edge source="T_TOPIC_12" target="A_kost" id="647" weight="0.0015151535453353478" />
+      <edge source="T_TOPIC_12" target="A_Greenlandic Ice Cap Water" id="648" weight="0.9151514782242622" />
+      <edge source="T_TOPIC_12" target="A_Rambøll" id="649" weight="0.9688888647205905" />
+      <edge source="T_TOPIC_12" target="A_Port of Aalborg" id="650" weight="0.00666668438842544" />
+      <edge source="T_TOPIC_12" target="A_MT Højgaard" id="651" weight="0.0019047642068989743" />
+      <edge source="T_TOPIC_12" target="A_Carlsberg" id="652" weight="0.9575757267136153" />
+      <edge source="T_TOPIC_12" target="A_Desmi" id="653" weight="0.004761923057872517" />
+      <edge source="T_TOPIC_12" target="A_Niras" id="654" weight="0.0027777857328857548" />
+      <edge source="T_TOPIC_12" target="A_MOE A/S" id="655" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_13" target="A_miljoeportal" id="656" weight="0.0011494270163181933" />
+      <edge source="T_TOPIC_13" target="A_heleverdeniskole" id="657" weight="0.004166669384306822" />
+      <edge source="T_TOPIC_13" target="A_duf" id="658" weight="0.0015151534043062213" />
+      <edge source="T_TOPIC_13" target="A_via" id="659" weight="0.001333334381921233" />
+      <edge source="T_TOPIC_13" target="A_soroe" id="660" weight="0.003703705765870075" />
+      <edge source="T_TOPIC_13" target="A_aalborgportland" id="661" weight="0.004761907748764557" />
+      <edge source="T_TOPIC_13" target="A_tapasamor" id="662" weight="0.0011695922044842786" />
+      <edge source="T_TOPIC_13" target="A_energinet" id="663" weight="0.003508776456239818" />
+      <edge source="T_TOPIC_13" target="A_danskelbilalliance" id="664" weight="0.016666671529438133" />
+      <edge source="T_TOPIC_13" target="A_klimabevaegelsen" id="665" weight="0.0026666701687351564" />
+      <edge source="T_TOPIC_13" target="A_gyldendal" id="666" weight="0.022222232191265855" />
+      <edge source="T_TOPIC_13" target="A_geus" id="667" weight="0.0018518535244809616" />
+      <edge source="T_TOPIC_13" target="A_thetradecouncil" id="668" weight="0.0011299448748829325" />
+      <edge source="T_TOPIC_13" target="A_ltk" id="669" weight="0.001360545152337543" />
+      <edge source="T_TOPIC_13" target="A_ku" id="670" weight="0.0010752700498106566" />
+      <edge source="T_TOPIC_13" target="A_orsted" id="671" weight="0.005555564415288588" />
+      <edge source="T_TOPIC_13" target="A_rockwool" id="672" weight="0.0013888899344043446" />
+      <edge source="T_TOPIC_13" target="A_stark" id="673" weight="0.004761908677492548" />
+      <edge source="T_TOPIC_13" target="A_ncc" id="674" weight="0.001010101790014552" />
+      <edge source="T_TOPIC_13" target="A_hojskolerne" id="675" weight="0.0017543872437255689" />
+      <edge source="T_TOPIC_13" target="A_nordeainvestmagasinet" id="676" weight="0.00130719082426086" />
+      <edge source="T_TOPIC_13" target="A_jyskebank" id="677" weight="0.0011111121744788897" />
+      <edge source="T_TOPIC_13" target="A_kost" id="678" weight="0.0015151529855880676" />
+      <edge source="T_TOPIC_13" target="A_Greenlandic Ice Cap Water" id="679" weight="0.006060608925363214" />
+      <edge source="T_TOPIC_13" target="A_Rambøll" id="680" weight="0.00222222340430807" />
+      <edge source="T_TOPIC_13" target="A_Port of Aalborg" id="681" weight="0.006666672753977873" />
+      <edge source="T_TOPIC_13" target="A_MT Højgaard" id="682" weight="0.0019047634431472163" />
+      <edge source="T_TOPIC_13" target="A_Carlsberg" id="683" weight="0.0030303045956337495" />
+      <edge source="T_TOPIC_13" target="A_Desmi" id="684" weight="0.004761906893406656" />
+      <edge source="T_TOPIC_13" target="A_Niras" id="685" weight="0.002777778804323001" />
+      <edge source="T_TOPIC_13" target="A_MOE A/S" id="686" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_14" target="A_miljoeportal" id="687" weight="0.0011494271423674574" />
+      <edge source="T_TOPIC_14" target="A_heleverdeniskole" id="688" weight="0.0041666702153425475" />
+      <edge source="T_TOPIC_14" target="A_duf" id="689" weight="0.0015151535760329026" />
+      <edge source="T_TOPIC_14" target="A_via" id="690" weight="0.0013333346873308153" />
+      <edge source="T_TOPIC_14" target="A_soroe" id="691" weight="0.003703706414858809" />
+      <edge source="T_TOPIC_14" target="A_aalborgportland" id="692" weight="0.004761908763578041" />
+      <edge source="T_TOPIC_14" target="A_tapasamor" id="693" weight="0.0011695922406274669" />
+      <edge source="T_TOPIC_14" target="A_energinet" id="694" weight="0.0035087769580532838" />
+      <edge source="T_TOPIC_14" target="A_danskelbilalliance" id="695" weight="0.01666668090994916" />
+      <edge source="T_TOPIC_14" target="A_klimabevaegelsen" id="696" weight="0.0026666707638289514" />
+      <edge source="T_TOPIC_14" target="A_gyldendal" id="697" weight="0.022222236526439426" />
+      <edge source="T_TOPIC_14" target="A_geus" id="698" weight="0.0018518538931051314" />
+      <edge source="T_TOPIC_14" target="A_thetradecouncil" id="699" weight="0.0011299451698472643" />
+      <edge source="T_TOPIC_14" target="A_ltk" id="700" weight="0.0013605454326885583" />
+      <edge source="T_TOPIC_14" target="A_ku" id="701" weight="0.0010752702675506241" />
+      <edge source="T_TOPIC_14" target="A_orsted" id="702" weight="0.005555564092141666" />
+      <edge source="T_TOPIC_14" target="A_rockwool" id="703" weight="0.0013888901647794568" />
+      <edge source="T_TOPIC_14" target="A_stark" id="704" weight="0.004761909321713795" />
+      <edge source="T_TOPIC_14" target="A_ncc" id="705" weight="0.0010101020422149576" />
+      <edge source="T_TOPIC_14" target="A_hojskolerne" id="706" weight="0.0017543876154776535" />
+      <edge source="T_TOPIC_14" target="A_nordeainvestmagasinet" id="707" weight="0.0013071910508791248" />
+      <edge source="T_TOPIC_14" target="A_jyskebank" id="708" weight="0.0011111122790349978" />
+      <edge source="T_TOPIC_14" target="A_kost" id="709" weight="0.001515153282125859" />
+      <edge source="T_TOPIC_14" target="A_Greenlandic Ice Cap Water" id="710" weight="0.00606060833432335" />
+      <edge source="T_TOPIC_14" target="A_Rambøll" id="711" weight="0.002222223418471351" />
+      <edge source="T_TOPIC_14" target="A_Port of Aalborg" id="712" weight="0.006666672617036228" />
+      <edge source="T_TOPIC_14" target="A_MT Højgaard" id="713" weight="0.0019047638781728576" />
+      <edge source="T_TOPIC_14" target="A_Carlsberg" id="714" weight="0.0030303046545554846" />
+      <edge source="T_TOPIC_14" target="A_Desmi" id="715" weight="0.004761907085630408" />
+      <edge source="T_TOPIC_14" target="A_Niras" id="716" weight="0.002777778831529348" />
+      <edge source="T_TOPIC_14" target="A_MOE A/S" id="717" weight="0.06666666666666668" />
+    </edges>
+  </graph>
+</gexf>

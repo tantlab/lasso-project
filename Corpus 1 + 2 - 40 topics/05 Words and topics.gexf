@@ -1,0 +1,3445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-29">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_nunavut" label="nunavut">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_inuit" label="inuit">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_canada" label="canada">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_communities" label="communities">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_community" label="community">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_arctic" label="arctic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_food" label="food">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_government" label="government">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_people" label="people">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_canadian" label="canadian">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_health" label="health">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_iqaluit" label="iqaluit">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_territory" label="territory">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_bay" label="bay">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_walrus" label="walrus">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_northern" label="northern">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_land" label="land">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_north" label="north">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_traditional" label="traditional">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_change" label="change">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_high" label="high">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hunting" label="hunting">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_said" label="said">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_indigenous" label="indigenous">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_development" label="development">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_shall" label="shall">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_001" label="001">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_developing" label="developing">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_convention" label="convention">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_marine" label="marine">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_international" label="international">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_including" label="including">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_parties" label="parties">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_world" label="world">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_article" label="article">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_environmental" label="environmental">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_climate" label="climate">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_use" label="use">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_activities" label="activities">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_region" label="region">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_maritime" label="maritime">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_days" label="days">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_measures" label="measures">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_security" label="security">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_vary" label="vary">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_according" label="according">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_geographical" label="geographical">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_scientists" label="scientists">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_cultural" label="cultural">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_scientific" label="scientific">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_political" label="political">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_perspectives" label="perspectives">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_define" label="define">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_interact" label="interact">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_having" label="having">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_areas" label="areas">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_read" label="read">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_latitude" label="latitude">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_long" label="long">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_cool" label="cool">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_summers" label="summers">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_short" label="short">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_winters" label="winters">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_news" label="news">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_station" label="station">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_field" label="field">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_section" label="section">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_gn" label="gn">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_agreement" label="agreement">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_federal" label="federal">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_provide" label="provide">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_peoples" label="peoples">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_gc" label="gc">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_ice" label="ice">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sea" label="sea">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ocean" label="ocean">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_data" label="data">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_warming" label="warming">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_changes" label="changes">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_year" label="year">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_extent" label="extent">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_earth" label="earth">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_summer" label="summer">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_satellite" label="satellite">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_global" label="global">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_temperatures" label="temperatures">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_et" label="et">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_temperature" label="temperature">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_polar" label="polar">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_al" label="al">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_average" label="average">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_greenland" label="greenland">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_snow" label="snow">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_surface" label="surface">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_china" label="china">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_space" label="space">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_passage" label="passage">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_like" label="like">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_women" label="women">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_iceland" label="iceland">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_countries" label="countries">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_just" label="just">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_route" label="route">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_chinese" label="chinese">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_circle" label="circle">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_new" label="new">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_glaciers" label="glaciers">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_diamonds" label="diamonds">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_area" label="area">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_reference" label="reference">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_glacier" label="glacier">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_loss" label="loss">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_island" label="island">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_http" label="http">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2015" label="2015">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_10" label="10">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_small" label="small">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_study" label="study">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_km" label="km">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2000" label="2000">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_period" label="period">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_total" label="total">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_org" label="org">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_doi" label="doi">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_think" label="think">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_going" label="going">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_circular" label="circular">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_economy" label="economy">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_know" label="know">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ve" label="ve">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_work" label="work">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_time" label="time">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_look" label="look">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_research" label="research">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_coast" label="coast">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_things" label="things">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_regulatory" label="regulatory">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_don" label="don">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_emissions" label="emissions">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ranked" label="ranked">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_water" label="water">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_gas" label="gas">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_pollution" label="pollution">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_united" label="united">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_co2" label="co2">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_population" label="population">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_energy" label="energy">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_carbon" label="carbon">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_greenhouse" label="greenhouse">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fuel" label="fuel">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_million" label="million">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_states" label="states">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_dioxide" label="dioxide">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_electricity" label="electricity">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_times" label="times">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_organic" label="organic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_savings" label="savings">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_marginal" label="marginal">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_paragraph" label="paragraph">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_note" label="note">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_act" label="act">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_commission" label="commission">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_subsection" label="subsection">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_norway" label="norway">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_designated" label="designated">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_environment" label="environment">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_economic" label="economic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_finland" label="finland">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_cooperation" label="cooperation">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tourism" label="tourism">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_policy" label="policy">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_future" label="future">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_denmark" label="denmark">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_special" label="special">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sustainable" label="sustainable">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_eu" label="eu">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_renewable" label="renewable">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_power" label="power">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_issue" label="issue">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_systems" label="systems">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_issues" label="issues">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sustainability" label="sustainability">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_european" label="european">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_interests" label="interests">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_gender" label="gender">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_mining" label="mining">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_operations" label="operations">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_20" label="20">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_samples" label="samples">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_site" label="site">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_report" label="report">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_production" label="production">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_lake" label="lake">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_years" label="years">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_account" label="account">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_search" label="search">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_russia" label="russia">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2020" label="2020">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_resources" label="resources">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_website" label="website">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_cookies" label="cookies">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_program" label="program">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_department" label="department">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_information" label="information">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_corporation" label="corporation">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_students" label="students">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_solar" label="solar">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_project" label="project">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_education" label="education">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_school" label="school">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_necessary" label="necessary">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_programs" label="programs">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_used" label="used">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_buildings" label="buildings">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_learning" label="learning">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_services" label="services">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_15" label="TOPIC_15">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_developed" label="developed">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_019" label="019">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_002" label="002">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_142" label="142">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_europe" label="europe">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_150" label="150">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_202" label="202">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_16" label="TOPIC_16">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_management" label="management">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_science" label="science">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_university" label="university">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2021" label="2021">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_nordic" label="nordic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_institute" label="institute">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_social" label="social">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2012" label="2012">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_www" label="www">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2013" label="2013">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_national" label="national">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_april" label="april">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_17" label="TOPIC_17">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_regulations" label="regulations">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_accordance" label="accordance">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_damage" label="damage">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_protection" label="protection">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_force" label="force">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_norwegian" label="norwegian">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_person" label="person">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_18" label="TOPIC_18">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_ca" label="ca">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_transportation" label="transportation">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_staff" label="staff">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_building" label="building">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_caribou" label="caribou">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_office" label="office">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_business" label="business">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_general" label="general">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_businesses" label="businesses">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_non" label="non">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_committee" label="committee">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_covid" label="covid">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_19" label="TOPIC_19">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_svalbard" label="svalbard">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_bears" label="bears">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_longyearbyen" label="longyearbyen">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_expedition" label="expedition">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_day" label="day">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_travel" label="travel">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_bear" label="bear">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_local" label="local">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_cruise" label="cruise">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_wildlife" label="wildlife">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_park" label="park">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_visit" label="visit">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_archipelago" label="archipelago">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_town" label="town">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_experience" label="experience">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_20" label="TOPIC_20">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_21" label="TOPIC_21">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_fish" label="fish">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_salmon" label="salmon">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_wild" label="wild">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_says" label="says">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_animals" label="animals">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_species" label="species">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_22" label="TOPIC_22">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_minister" label="minister">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_board" label="board">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_respect" label="respect">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_claim" label="claim">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_referred" label="referred">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_responsible" label="responsible">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_plan" label="plan">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_panel" label="panel">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_public" label="public">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_assessment" label="assessment">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_review" label="review">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_23" label="TOPIC_23">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_um" label="um">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_av" label="av">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_við" label="við">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sum" label="sum">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fyri" label="fyri">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_eru" label="eru">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vit" label="vit">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tað" label="tað">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hava" label="hava">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hevur" label="hevur">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_og" label="og">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ein" label="ein">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_verður" label="verður">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ið" label="ið">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hjá" label="hjá">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_frá" label="frá">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ikki" label="ikki">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ella" label="ella">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hetta" label="hetta">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_er" label="er">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_til" label="til">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_var" label="var">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_men" label="men">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_skal" label="skal">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_24" label="TOPIC_24">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_tundra" label="tundra">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_permafrost" label="permafrost">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_plants" label="plants">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_winter" label="winter">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_cold" label="cold">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_com" label="com">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_grow" label="grow">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_soil" label="soil">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_season" label="season">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ground" label="ground">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_make" label="make">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_living" label="living">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_large" label="large">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_25" label="TOPIC_25">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_pdf" label="pdf">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_geothermal" label="geothermal">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_country" label="country">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_statistics" label="statistics">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_nations" label="nations">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_natural" label="natural">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_26" label="TOPIC_26">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_af" label="af">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_en" label="en">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_på" label="på">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_det" label="det">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_med" label="med">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_som" label="som">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_om" label="om">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kan" label="kan">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_der" label="der">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vi" label="vi">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_har" label="har">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_den" label="den">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_eller" label="eller">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_du" label="du">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_mere" label="mere">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fra" label="fra">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ikke" label="ikke">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ved" label="ved">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vil" label="vil">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_være" label="være">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_27" label="TOPIC_27">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_seed" label="seed">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vault" label="vault">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_diversity" label="diversity">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_bank" label="bank">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_plant" label="plant">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_agriculture" label="agriculture">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_today" label="today">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_important" label="important">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ministry" label="ministry">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_28" label="TOPIC_28">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_reclamation" label="reclamation">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_territorial" label="territorial">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_29" label="TOPIC_29">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_30" label="TOPIC_30">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_line" label="line">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_array" label="array">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_core" label="core">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_render" label="render">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_object" label="object">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_handle" label="handle">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_html" label="html">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_theme" label="theme">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_arcticnet" label="arcticnet">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_195" label="195">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_themes" label="themes">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_437" label="437">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_view" label="view">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_component" label="component">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_null" label="null">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_display" label="display">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_490" label="490">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_64" label="64">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_template" label="template">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_403" label="403">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_384" label="384">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_templates" label="templates">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_411" label="411">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_432" label="432">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_block" label="block">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_31" label="TOPIC_31">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_monitoring" label="monitoring">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_table" label="table">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_market" label="market">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2018" label="2018">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_size" label="size">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2017" label="2017">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_microplastics" label="microplastics">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2019" label="2019">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_plastic" label="plastic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_figure" label="figure">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2025" label="2025">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2016" label="2016">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_particles" label="particles">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_microplastic" label="microplastic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_type" label="type">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_effects" label="effects">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_exposure" label="exposure">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_studies" label="studies">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_32" label="TOPIC_32">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_oil" label="oil">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_council" label="council">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_military" label="military">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_russian" label="russian">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_shipping" label="shipping">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_33" label="TOPIC_33">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_icelandic" label="icelandic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_whales" label="whales">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_number" label="number">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_action" label="action">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_foreign" label="foreign">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_industry" label="industry">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_funding" label="funding">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_34" label="TOPIC_34">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_419" label="419">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_asia" label="asia">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_africa" label="africa">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_goal" label="goal">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_america" label="america">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_35" label="TOPIC_35">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_36" label="TOPIC_36">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_37" label="TOPIC_37">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_green" label="green">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_company" label="company">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_companies" label="companies">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_products" label="products">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_impact" label="impact">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_product" label="product">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_help" label="help">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_solutions" label="solutions">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_value" label="value">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_38" label="TOPIC_38">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_air" label="air">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_quality" label="quality">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_human" label="human">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_oecd" label="oecd">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_reduce" label="reduce">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_clean" label="clean">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_39" label="TOPIC_39">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_gold" label="gold">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_mineral" label="mineral">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_minerals" label="minerals">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_exploration" label="exploration">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_metals" label="metals">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_open" label="open">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_000" label="000">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_potential" label="potential">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_process" label="process">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_construction" label="construction">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_river" label="river">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_0" target="W_nunavut" id="0" weight="2310.556609583542" />
+      <edge source="T_TOPIC_0" target="W_inuit" id="1" weight="1521.6041214449897" />
+      <edge source="T_TOPIC_0" target="W_canada" id="2" weight="922.3639019889447" />
+      <edge source="T_TOPIC_0" target="W_communities" id="3" weight="701.9871725936217" />
+      <edge source="T_TOPIC_0" target="W_community" id="4" weight="663.7138438647889" />
+      <edge source="T_TOPIC_0" target="W_arctic" id="5" weight="631.7115410733961" />
+      <edge source="T_TOPIC_0" target="W_food" id="6" weight="602.4661224265056" />
+      <edge source="T_TOPIC_0" target="W_government" id="7" weight="570.3873996524894" />
+      <edge source="T_TOPIC_0" target="W_people" id="8" weight="389.8942620212871" />
+      <edge source="T_TOPIC_0" target="W_canadian" id="9" weight="372.98751818621855" />
+      <edge source="T_TOPIC_0" target="W_health" id="10" weight="336.8739458187958" />
+      <edge source="T_TOPIC_0" target="W_iqaluit" id="11" weight="317.4885876366333" />
+      <edge source="T_TOPIC_0" target="W_territory" id="12" weight="308.4857934815002" />
+      <edge source="T_TOPIC_0" target="W_bay" id="13" weight="301.0744872562082" />
+      <edge source="T_TOPIC_0" target="W_walrus" id="14" weight="288.97091061537833" />
+      <edge source="T_TOPIC_0" target="W_northern" id="15" weight="271.1696554741933" />
+      <edge source="T_TOPIC_0" target="W_land" id="16" weight="269.3626496140637" />
+      <edge source="T_TOPIC_0" target="W_north" id="17" weight="258.3972954881216" />
+      <edge source="T_TOPIC_0" target="W_traditional" id="18" weight="248.53517035456576" />
+      <edge source="T_TOPIC_0" target="W_change" id="19" weight="244.28934668424728" />
+      <edge source="T_TOPIC_0" target="W_high" id="20" weight="239.0541168946437" />
+      <edge source="T_TOPIC_0" target="W_hunting" id="21" weight="235.7002265153886" />
+      <edge source="T_TOPIC_0" target="W_said" id="22" weight="231.2271725912541" />
+      <edge source="T_TOPIC_0" target="W_indigenous" id="23" weight="227.88384881396271" />
+      <edge source="T_TOPIC_0" target="W_development" id="24" weight="216.2935064320453" />
+      <edge source="W_nunavut" target="T_TOPIC_3" id="25" weight="0.5527734413125526" />
+      <edge source="W_nunavut" target="T_TOPIC_7" id="26" weight="47.29934877035752" />
+      <edge source="W_nunavut" target="T_TOPIC_14" id="27" weight="111.33941497879698" />
+      <edge source="W_nunavut" target="T_TOPIC_20" id="28" weight="0.6035297338648271" />
+      <edge source="W_nunavut" target="T_TOPIC_36" id="29" weight="1.0909555700363651" />
+      <edge source="W_nunavut" target="T_TOPIC_39" id="30" weight="350.77324882223377" />
+      <edge source="W_inuit" target="T_TOPIC_3" id="31" weight="0.6255402504109081" />
+      <edge source="W_inuit" target="T_TOPIC_20" id="32" weight="0.6010787505331496" />
+      <edge source="W_inuit" target="T_TOPIC_24" id="33" weight="7.999570325722591" />
+      <edge source="W_inuit" target="T_TOPIC_36" id="34" weight="0.7650916787511195" />
+      <edge source="W_canada" target="T_TOPIC_1" id="35" weight="0.5203220522354044" />
+      <edge source="W_canada" target="T_TOPIC_3" id="36" weight="1.2367359109017466" />
+      <edge source="W_canada" target="T_TOPIC_6" id="37" weight="36.31264266557369" />
+      <edge source="W_canada" target="T_TOPIC_7" id="38" weight="41.56804756119928" />
+      <edge source="W_canada" target="T_TOPIC_8" id="39" weight="300.0723179858024" />
+      <edge source="W_canada" target="T_TOPIC_12" id="40" weight="0.7517436558015089" />
+      <edge source="W_canada" target="T_TOPIC_13" id="41" weight="2.350904172456058" />
+      <edge source="W_canada" target="T_TOPIC_20" id="42" weight="0.9120035766323649" />
+      <edge source="W_canada" target="T_TOPIC_28" id="43" weight="574.1576958076115" />
+      <edge source="W_canada" target="T_TOPIC_36" id="44" weight="1.6484854511135578" />
+      <edge source="W_canada" target="T_TOPIC_39" id="45" weight="158.42374389998352" />
+      <edge source="W_communities" target="T_TOPIC_3" id="46" weight="0.6743442453001526" />
+      <edge source="W_communities" target="T_TOPIC_12" id="47" weight="0.3649244352379073" />
+      <edge source="W_communities" target="T_TOPIC_20" id="48" weight="0.5889107718014788" />
+      <edge source="W_community" target="T_TOPIC_14" id="49" weight="92.21737220009891" />
+      <edge source="W_arctic" target="T_TOPIC_1" id="50" weight="0.8794655044327578" />
+      <edge source="W_arctic" target="T_TOPIC_2" id="51" weight="243.80446688035187" />
+      <edge source="W_arctic" target="T_TOPIC_3" id="52" weight="1.4882056468932279" />
+      <edge source="W_arctic" target="T_TOPIC_4" id="53" weight="1146.7767564716003" />
+      <edge source="W_arctic" target="T_TOPIC_5" id="54" weight="177.97295300227813" />
+      <edge source="W_arctic" target="T_TOPIC_7" id="55" weight="41.82212525453882" />
+      <edge source="W_arctic" target="T_TOPIC_9" id="56" weight="0.7978633791374193" />
+      <edge source="W_arctic" target="T_TOPIC_10" id="57" weight="1423.0398249214245" />
+      <edge source="W_arctic" target="T_TOPIC_11" id="58" weight="559.091140123596" />
+      <edge source="W_arctic" target="T_TOPIC_12" id="59" weight="0.9581350174232274" />
+      <edge source="W_arctic" target="T_TOPIC_13" id="60" weight="12.786159840738446" />
+      <edge source="W_arctic" target="T_TOPIC_15" id="61" weight="2.100063883445577" />
+      <edge source="W_arctic" target="T_TOPIC_16" id="62" weight="475.5029051358427" />
+      <edge source="W_arctic" target="T_TOPIC_18" id="63" weight="11.218866729019833" />
+      <edge source="W_arctic" target="T_TOPIC_19" id="64" weight="270.69943948638286" />
+      <edge source="W_arctic" target="T_TOPIC_20" id="65" weight="2.2845293761750036" />
+      <edge source="W_arctic" target="T_TOPIC_21" id="66" weight="517.1355404914427" />
+      <edge source="W_arctic" target="T_TOPIC_24" id="67" weight="42.56872563565859" />
+      <edge source="W_arctic" target="T_TOPIC_28" id="68" weight="351.2122345420876" />
+      <edge source="W_arctic" target="T_TOPIC_29" id="69" weight="1.6241940275500362" />
+      <edge source="W_arctic" target="T_TOPIC_32" id="70" weight="3005.516633388663" />
+      <edge source="W_arctic" target="T_TOPIC_35" id="71" weight="1.4573399119518016" />
+      <edge source="W_arctic" target="T_TOPIC_36" id="72" weight="3.251827611122983" />
+      <edge source="W_food" target="T_TOPIC_7" id="73" weight="179.28717987915596" />
+      <edge source="W_food" target="T_TOPIC_11" id="74" weight="164.35018427804084" />
+      <edge source="W_food" target="T_TOPIC_15" id="75" weight="0.9307881903090667" />
+      <edge source="W_food" target="T_TOPIC_21" id="76" weight="246.58029270303447" />
+      <edge source="W_food" target="T_TOPIC_27" id="77" weight="107.00897561525639" />
+      <edge source="W_government" target="T_TOPIC_1" id="78" weight="0.48303001933332607" />
+      <edge source="W_government" target="T_TOPIC_3" id="79" weight="0.8550511340787503" />
+      <edge source="W_government" target="T_TOPIC_9" id="80" weight="0.5292732343711644" />
+      <edge source="W_government" target="T_TOPIC_12" id="81" weight="0.37788347025350405" />
+      <edge source="W_government" target="T_TOPIC_13" id="82" weight="1.5315874621906873" />
+      <edge source="W_government" target="T_TOPIC_14" id="83" weight="145.80540045566065" />
+      <edge source="W_government" target="T_TOPIC_28" id="84" weight="358.08109706521014" />
+      <edge source="W_government" target="T_TOPIC_29" id="85" weight="0.4069278412190115" />
+      <edge source="W_government" target="T_TOPIC_33" id="86" weight="10.492430198080177" />
+      <edge source="W_government" target="T_TOPIC_34" id="87" weight="60.80735997570601" />
+      <edge source="W_government" target="T_TOPIC_35" id="88" weight="0.9782958676744272" />
+      <edge source="W_government" target="T_TOPIC_36" id="89" weight="0.9684535735463804" />
+      <edge source="W_government" target="T_TOPIC_39" id="90" weight="142.73291300341282" />
+      <edge source="W_people" target="T_TOPIC_5" id="91" weight="25.40894648984822" />
+      <edge source="W_people" target="T_TOPIC_21" id="92" weight="287.9475423292219" />
+      <edge source="W_people" target="T_TOPIC_24" id="93" weight="6.594427673954345" />
+      <edge source="W_people" target="T_TOPIC_38" id="94" weight="219.20950277812202" />
+      <edge source="W_canadian" target="T_TOPIC_6" id="95" weight="26.235019044891345" />
+      <edge source="W_canadian" target="T_TOPIC_28" id="96" weight="179.06852202565986" />
+      <edge source="W_health" target="T_TOPIC_38" id="97" weight="649.8327027983506" />
+      <edge source="W_walrus" target="T_TOPIC_19" id="98" weight="144.5786874711218" />
+      <edge source="W_northern" target="T_TOPIC_1" id="99" weight="0.3757371147110715" />
+      <edge source="W_northern" target="T_TOPIC_3" id="100" weight="1.001236725948575" />
+      <edge source="W_northern" target="T_TOPIC_6" id="101" weight="51.83094494559889" />
+      <edge source="W_northern" target="T_TOPIC_13" id="102" weight="1.5367064727622104" />
+      <edge source="W_northern" target="T_TOPIC_20" id="103" weight="0.9049275652076051" />
+      <edge source="W_northern" target="T_TOPIC_28" id="104" weight="287.5717538880054" />
+      <edge source="W_northern" target="T_TOPIC_32" id="105" weight="209.6635218022909" />
+      <edge source="W_northern" target="T_TOPIC_36" id="106" weight="1.0532110801432886" />
+      <edge source="W_land" target="T_TOPIC_6" id="107" weight="33.69045347041749" />
+      <edge source="W_land" target="T_TOPIC_9" id="108" weight="0.5150777045615657" />
+      <edge source="W_land" target="T_TOPIC_21" id="109" weight="180.80847573856704" />
+      <edge source="W_land" target="T_TOPIC_22" id="110" weight="254.83808237731353" />
+      <edge source="W_land" target="T_TOPIC_28" id="111" weight="205.94625231812813" />
+      <edge source="W_land" target="T_TOPIC_35" id="112" weight="0.8995978337633219" />
+      <edge source="W_land" target="T_TOPIC_36" id="113" weight="0.7244718604525494" />
+      <edge source="W_north" target="T_TOPIC_3" id="114" weight="0.7098745147313026" />
+      <edge source="W_north" target="T_TOPIC_4" id="115" weight="115.30024087496962" />
+      <edge source="W_north" target="T_TOPIC_5" id="116" weight="23.815968997324664" />
+      <edge source="W_north" target="T_TOPIC_7" id="117" weight="26.24451991083538" />
+      <edge source="W_north" target="T_TOPIC_9" id="118" weight="0.5736819418978022" />
+      <edge source="W_north" target="T_TOPIC_10" id="119" weight="78.4928045667937" />
+      <edge source="W_north" target="T_TOPIC_12" id="120" weight="0.4178576171909597" />
+      <edge source="W_north" target="T_TOPIC_13" id="121" weight="1.411556971638709" />
+      <edge source="W_north" target="T_TOPIC_19" id="122" weight="157.24438743579844" />
+      <edge source="W_north" target="T_TOPIC_20" id="123" weight="0.6168360837141148" />
+      <edge source="W_north" target="T_TOPIC_24" id="124" weight="5.938724931238339" />
+      <edge source="W_north" target="T_TOPIC_28" id="125" weight="165.20126910829933" />
+      <edge source="W_north" target="T_TOPIC_32" id="126" weight="235.47326302059233" />
+      <edge source="W_north" target="T_TOPIC_36" id="127" weight="1.388520990295757" />
+      <edge source="W_change" target="T_TOPIC_3" id="128" weight="0.6576676810989707" />
+      <edge source="W_change" target="T_TOPIC_4" id="129" weight="223.63258942559975" />
+      <edge source="W_change" target="T_TOPIC_5" id="130" weight="22.821589403983566" />
+      <edge source="W_change" target="T_TOPIC_8" id="131" weight="254.73214066417808" />
+      <edge source="W_change" target="T_TOPIC_10" id="132" weight="83.39833395271988" />
+      <edge source="W_change" target="T_TOPIC_11" id="133" weight="586.0669642561551" />
+      <edge source="W_change" target="T_TOPIC_13" id="134" weight="1.5403492748190852" />
+      <edge source="W_change" target="T_TOPIC_15" id="135" weight="1.0531778445135689" />
+      <edge source="W_change" target="T_TOPIC_20" id="136" weight="1.0067588673352588" />
+      <edge source="W_change" target="T_TOPIC_21" id="137" weight="245.22609715823515" />
+      <edge source="W_change" target="T_TOPIC_27" id="138" weight="30.68338893530667" />
+      <edge source="W_change" target="T_TOPIC_29" id="139" weight="0.47717990733276294" />
+      <edge source="W_change" target="T_TOPIC_34" id="140" weight="79.75228384983505" />
+      <edge source="W_change" target="T_TOPIC_35" id="141" weight="1.2752816926339223" />
+      <edge source="W_change" target="T_TOPIC_36" id="142" weight="0.9651000674358348" />
+      <edge source="W_change" target="T_TOPIC_38" id="143" weight="205.33257175990414" />
+      <edge source="W_high" target="T_TOPIC_2" id="144" weight="184.57806209728403" />
+      <edge source="W_high" target="T_TOPIC_10" id="145" weight="77.36218466657628" />
+      <edge source="W_high" target="T_TOPIC_29" id="146" weight="0.4174284190139386" />
+      <edge source="W_said" target="T_TOPIC_5" id="147" weight="95.18211307305604" />
+      <edge source="W_said" target="T_TOPIC_21" id="148" weight="189.66692888076014" />
+      <edge source="W_said" target="T_TOPIC_27" id="149" weight="30.579778353759554" />
+      <edge source="W_indigenous" target="T_TOPIC_1" id="150" weight="0.4680509397815942" />
+      <edge source="W_indigenous" target="T_TOPIC_3" id="151" weight="1.126279382733879" />
+      <edge source="W_indigenous" target="T_TOPIC_12" id="152" weight="0.36722376902815895" />
+      <edge source="W_indigenous" target="T_TOPIC_13" id="153" weight="1.3442194450260327" />
+      <edge source="W_indigenous" target="T_TOPIC_28" id="154" weight="336.15680064763245" />
+      <edge source="W_indigenous" target="T_TOPIC_36" id="155" weight="1.5221468140834808" />
+      <edge source="W_development" target="T_TOPIC_1" id="156" weight="0.4153416059424501" />
+      <edge source="W_development" target="T_TOPIC_3" id="157" weight="0.8791420177543291" />
+      <edge source="W_development" target="T_TOPIC_7" id="158" weight="39.03087209927035" />
+      <edge source="W_development" target="T_TOPIC_9" id="159" weight="0.530283459808429" />
+      <edge source="W_development" target="T_TOPIC_10" id="160" weight="72.46368812796162" />
+      <edge source="W_development" target="T_TOPIC_11" id="161" weight="347.57478700946353" />
+      <edge source="W_development" target="T_TOPIC_12" id="162" weight="0.4756936913594178" />
+      <edge source="W_development" target="T_TOPIC_13" id="163" weight="1.8240650286636337" />
+      <edge source="W_development" target="T_TOPIC_15" id="164" weight="0.8882774465981669" />
+      <edge source="W_development" target="T_TOPIC_16" id="165" weight="244.7048913953889" />
+      <edge source="W_development" target="T_TOPIC_18" id="166" weight="30.581442012027725" />
+      <edge source="W_development" target="T_TOPIC_20" id="167" weight="0.8372539300094464" />
+      <edge source="W_development" target="T_TOPIC_25" id="168" weight="85.09649785604816" />
+      <edge source="W_development" target="T_TOPIC_28" id="169" weight="239.38023500690167" />
+      <edge source="W_development" target="T_TOPIC_29" id="170" weight="0.4818173232548954" />
+      <edge source="W_development" target="T_TOPIC_32" id="171" weight="392.49758689314825" />
+      <edge source="W_development" target="T_TOPIC_33" id="172" weight="25.652166045668988" />
+      <edge source="W_development" target="T_TOPIC_34" id="173" weight="106.27019774791464" />
+      <edge source="W_development" target="T_TOPIC_35" id="174" weight="1.825900088384081" />
+      <edge source="W_development" target="T_TOPIC_36" id="175" weight="1.223079940794101" />
+      <edge source="W_development" target="T_TOPIC_37" id="176" weight="311.9710027210512" />
+      <edge source="W_development" target="T_TOPIC_38" id="177" weight="238.3406636931892" />
+      <edge source="W_development" target="T_TOPIC_39" id="178" weight="172.79196131856645" />
+      <edge source="T_TOPIC_1" target="W_shall" id="179" weight="0.9193124468054333" />
+      <edge source="T_TOPIC_1" target="W_001" id="180" weight="0.8311736914914079" />
+      <edge source="T_TOPIC_1" target="W_developing" id="181" weight="0.6170003703052461" />
+      <edge source="T_TOPIC_1" target="W_convention" id="182" weight="0.5942027556149216" />
+      <edge source="T_TOPIC_1" target="W_marine" id="183" weight="0.5000335303184551" />
+      <edge source="T_TOPIC_1" target="W_international" id="184" weight="0.49385499850341386" />
+      <edge source="T_TOPIC_1" target="W_including" id="185" weight="0.48627426007824753" />
+      <edge source="T_TOPIC_1" target="W_parties" id="186" weight="0.4569955424621348" />
+      <edge source="T_TOPIC_1" target="W_world" id="187" weight="0.4454608898027344" />
+      <edge source="T_TOPIC_1" target="W_article" id="188" weight="0.4250528322203361" />
+      <edge source="T_TOPIC_1" target="W_environmental" id="189" weight="0.42075704107554035" />
+      <edge source="T_TOPIC_1" target="W_climate" id="190" weight="0.39646906059604403" />
+      <edge source="T_TOPIC_1" target="W_use" id="191" weight="0.38504823558132745" />
+      <edge source="T_TOPIC_1" target="W_activities" id="192" weight="0.3776971137168572" />
+      <edge source="T_TOPIC_1" target="W_region" id="193" weight="0.37618381252677563" />
+      <edge source="T_TOPIC_1" target="W_maritime" id="194" weight="0.3663915639065055" />
+      <edge source="T_TOPIC_1" target="W_days" id="195" weight="0.3592797316389164" />
+      <edge source="T_TOPIC_1" target="W_measures" id="196" weight="0.3588080473900377" />
+      <edge source="T_TOPIC_1" target="W_security" id="197" weight="0.3573271373810396" />
+      <edge source="W_shall" target="T_TOPIC_3" id="198" weight="0.9086235417236634" />
+      <edge source="W_shall" target="T_TOPIC_9" id="199" weight="1.0087083674145545" />
+      <edge source="W_shall" target="T_TOPIC_15" id="200" weight="1.2697609501445952" />
+      <edge source="W_shall" target="T_TOPIC_17" id="201" weight="229.9647609670365" />
+      <edge source="W_shall" target="T_TOPIC_28" id="202" weight="268.7218941183264" />
+      <edge source="W_shall" target="T_TOPIC_29" id="203" weight="0.5820294719089836" />
+      <edge source="W_shall" target="T_TOPIC_36" id="204" weight="0.7494746942436356" />
+      <edge source="W_001" target="T_TOPIC_9" id="205" weight="0.854257868769936" />
+      <edge source="W_001" target="T_TOPIC_15" id="206" weight="4.648451580884302" />
+      <edge source="W_001" target="T_TOPIC_25" id="207" weight="101.63387525577835" />
+      <edge source="W_001" target="T_TOPIC_29" id="208" weight="0.9378177515994861" />
+      <edge source="W_001" target="T_TOPIC_34" id="209" weight="882.766830428747" />
+      <edge source="W_001" target="T_TOPIC_35" id="210" weight="7.850634670343598" />
+      <edge source="W_developing" target="T_TOPIC_9" id="211" weight="0.6912634144226933" />
+      <edge source="W_developing" target="T_TOPIC_15" id="212" weight="3.8025153833884375" />
+      <edge source="W_developing" target="T_TOPIC_25" id="213" weight="127.93326569337904" />
+      <edge source="W_developing" target="T_TOPIC_29" id="214" weight="0.6779751560969397" />
+      <edge source="W_developing" target="T_TOPIC_34" id="215" weight="652.2936944078615" />
+      <edge source="W_developing" target="T_TOPIC_35" id="216" weight="5.69315160034541" />
+      <edge source="W_convention" target="T_TOPIC_17" id="217" weight="98.2166197499679" />
+      <edge source="W_marine" target="T_TOPIC_15" id="218" weight="0.8652579478004209" />
+      <edge source="W_marine" target="T_TOPIC_17" id="219" weight="85.16987536903785" />
+      <edge source="W_marine" target="T_TOPIC_33" id="220" weight="10.508316775208085" />
+      <edge source="W_international" target="T_TOPIC_3" id="221" weight="0.5477140901009948" />
+      <edge source="W_international" target="T_TOPIC_9" id="222" weight="0.47205253355231885" />
+      <edge source="W_international" target="T_TOPIC_10" id="223" weight="64.86757517289621" />
+      <edge source="W_international" target="T_TOPIC_15" id="224" weight="0.8849685532374943" />
+      <edge source="W_international" target="T_TOPIC_16" id="225" weight="225.1916259721746" />
+      <edge source="W_international" target="T_TOPIC_17" id="226" weight="49.51884469509477" />
+      <edge source="W_international" target="T_TOPIC_20" id="227" weight="0.6412964705921468" />
+      <edge source="W_international" target="T_TOPIC_25" id="228" weight="59.82899564225238" />
+      <edge source="W_international" target="T_TOPIC_27" id="229" weight="44.69362270823397" />
+      <edge source="W_international" target="T_TOPIC_28" id="230" weight="170.043795189811" />
+      <edge source="W_international" target="T_TOPIC_29" id="231" weight="0.4669127037387119" />
+      <edge source="W_international" target="T_TOPIC_32" id="232" weight="248.41130597520598" />
+      <edge source="W_international" target="T_TOPIC_33" id="233" weight="29.394733667045635" />
+      <edge source="W_international" target="T_TOPIC_36" id="234" weight="0.7731132036435249" />
+      <edge source="W_international" target="T_TOPIC_38" id="235" weight="155.7920604412268" />
+      <edge source="W_including" target="T_TOPIC_3" id="236" weight="0.8190399043448251" />
+      <edge source="W_including" target="T_TOPIC_18" id="237" weight="10.198983996139695" />
+      <edge source="W_including" target="T_TOPIC_20" id="238" weight="0.7025404221863786" />
+      <edge source="W_including" target="T_TOPIC_28" id="239" weight="210.18186762816592" />
+      <edge source="W_including" target="T_TOPIC_36" id="240" weight="0.7244558174331753" />
+      <edge source="W_parties" target="T_TOPIC_17" id="241" weight="84.1641519919084" />
+      <edge source="W_world" target="T_TOPIC_5" id="242" weight="65.12387123410183" />
+      <edge source="W_world" target="T_TOPIC_8" id="243" weight="180.98505044557936" />
+      <edge source="W_world" target="T_TOPIC_11" id="244" weight="222.59870162891755" />
+      <edge source="W_world" target="T_TOPIC_12" id="245" weight="0.3440489075634276" />
+      <edge source="W_world" target="T_TOPIC_15" id="246" weight="1.8381009907857302" />
+      <edge source="W_world" target="T_TOPIC_19" id="247" weight="169.2865260563063" />
+      <edge source="W_world" target="T_TOPIC_21" id="248" weight="251.62161004764874" />
+      <edge source="W_world" target="T_TOPIC_25" id="249" weight="156.66191106859083" />
+      <edge source="W_world" target="T_TOPIC_27" id="250" weight="70.33759628271162" />
+      <edge source="W_world" target="T_TOPIC_29" id="251" weight="0.5130398957679636" />
+      <edge source="W_world" target="T_TOPIC_33" id="252" weight="11.319603652849896" />
+      <edge source="W_world" target="T_TOPIC_34" id="253" weight="178.3930977468783" />
+      <edge source="W_world" target="T_TOPIC_35" id="254" weight="1.7042717152801472" />
+      <edge source="W_world" target="T_TOPIC_37" id="255" weight="425.6866518803093" />
+      <edge source="W_world" target="T_TOPIC_38" id="256" weight="162.47969112751326" />
+      <edge source="W_article" target="T_TOPIC_17" id="257" weight="110.19950916819415" />
+      <edge source="W_environmental" target="T_TOPIC_2" id="258" weight="273.6792312838107" />
+      <edge source="W_environmental" target="T_TOPIC_3" id="259" weight="0.6806941546373823" />
+      <edge source="W_environmental" target="T_TOPIC_9" id="260" weight="0.5088497525113528" />
+      <edge source="W_environmental" target="T_TOPIC_10" id="261" weight="106.9585508588355" />
+      <edge source="W_environmental" target="T_TOPIC_12" id="262" weight="0.33646540915914724" />
+      <edge source="W_environmental" target="T_TOPIC_13" id="263" weight="1.4646714238226917" />
+      <edge source="W_environmental" target="T_TOPIC_15" id="264" weight="1.0053006484671565" />
+      <edge source="W_environmental" target="T_TOPIC_16" id="265" weight="294.3199141804938" />
+      <edge source="W_environmental" target="T_TOPIC_20" id="266" weight="0.9441384848938094" />
+      <edge source="W_environmental" target="T_TOPIC_31" id="267" weight="767.2721365221471" />
+      <edge source="W_environmental" target="T_TOPIC_36" id="268" weight="0.7970398620864504" />
+      <edge source="W_environmental" target="T_TOPIC_37" id="269" weight="576.7589132944546" />
+      <edge source="W_environmental" target="T_TOPIC_38" id="270" weight="711.0174076648098" />
+      <edge source="W_climate" target="T_TOPIC_3" id="271" weight="0.5964821921864276" />
+      <edge source="W_climate" target="T_TOPIC_4" id="272" weight="358.42044753262286" />
+      <edge source="W_climate" target="T_TOPIC_5" id="273" weight="34.243741000779686" />
+      <edge source="W_climate" target="T_TOPIC_8" id="274" weight="241.96298302376474" />
+      <edge source="W_climate" target="T_TOPIC_10" id="275" weight="106.91465637117115" />
+      <edge source="W_climate" target="T_TOPIC_11" id="276" weight="902.9508068739567" />
+      <edge source="W_climate" target="T_TOPIC_13" id="277" weight="2.4199251500505237" />
+      <edge source="W_climate" target="T_TOPIC_15" id="278" weight="1.3477553450272743" />
+      <edge source="W_climate" target="T_TOPIC_20" id="279" weight="1.1788042895544786" />
+      <edge source="W_climate" target="T_TOPIC_21" id="280" weight="327.27792087405214" />
+      <edge source="W_climate" target="T_TOPIC_24" id="281" weight="5.2536577349648175" />
+      <edge source="W_climate" target="T_TOPIC_25" id="282" weight="48.04937958197459" />
+      <edge source="W_climate" target="T_TOPIC_27" id="283" weight="49.9241070259106" />
+      <edge source="W_climate" target="T_TOPIC_29" id="284" weight="1.08426074206835" />
+      <edge source="W_climate" target="T_TOPIC_32" id="285" weight="190.3315107858948" />
+      <edge source="W_climate" target="T_TOPIC_34" id="286" weight="104.60370776481822" />
+      <edge source="W_climate" target="T_TOPIC_35" id="287" weight="1.877508160623464" />
+      <edge source="W_climate" target="T_TOPIC_36" id="288" weight="0.930476721357761" />
+      <edge source="W_climate" target="T_TOPIC_37" id="289" weight="244.00738163277936" />
+      <edge source="W_climate" target="T_TOPIC_38" id="290" weight="298.79261424726775" />
+      <edge source="W_use" target="T_TOPIC_14" id="291" weight="146.13683833603037" />
+      <edge source="W_use" target="T_TOPIC_17" id="292" weight="75.99965390270346" />
+      <edge source="W_use" target="T_TOPIC_22" id="293" weight="244.6461205668773" />
+      <edge source="W_use" target="T_TOPIC_37" id="294" weight="282.6401646029516" />
+      <edge source="W_use" target="T_TOPIC_38" id="295" weight="168.13920853284503" />
+      <edge source="W_activities" target="T_TOPIC_17" id="296" weight="111.93371042394824" />
+      <edge source="W_region" target="T_TOPIC_3" id="297" weight="0.812264548806493" />
+      <edge source="W_region" target="T_TOPIC_9" id="298" weight="0.4727465814105368" />
+      <edge source="W_region" target="T_TOPIC_10" id="299" weight="68.34817153128735" />
+      <edge source="W_region" target="T_TOPIC_13" id="300" weight="1.8122952352379273" />
+      <edge source="W_region" target="T_TOPIC_15" id="301" weight="0.8827550472342895" />
+      <edge source="W_region" target="T_TOPIC_29" id="302" weight="0.4334540107171781" />
+      <edge source="W_region" target="T_TOPIC_32" id="303" weight="528.5407793522446" />
+      <edge source="W_maritime" target="T_TOPIC_17" id="304" weight="49.823938114409145" />
+      <edge source="W_days" target="T_TOPIC_19" id="305" weight="227.69882899572366" />
+      <edge source="W_days" target="T_TOPIC_24" id="306" weight="4.524027096624874" />
+      <edge source="W_measures" target="T_TOPIC_17" id="307" weight="85.90951805697628" />
+      <edge source="W_security" target="T_TOPIC_3" id="308" weight="0.6792643252780179" />
+      <edge source="W_security" target="T_TOPIC_7" id="309" weight="54.8072923239832" />
+      <edge source="W_security" target="T_TOPIC_9" id="310" weight="0.5180103624242" />
+      <edge source="W_security" target="T_TOPIC_20" id="311" weight="0.7369240408214595" />
+      <edge source="W_security" target="T_TOPIC_27" id="312" weight="30.788598014362442" />
+      <edge source="W_security" target="T_TOPIC_28" id="313" weight="168.01808707544478" />
+      <edge source="W_security" target="T_TOPIC_32" id="314" weight="268.2165507258612" />
+      <edge source="T_TOPIC_2" target="W_vary" id="315" weight="288.6253954055641" />
+      <edge source="T_TOPIC_2" target="W_according" id="316" weight="282.4260334799746" />
+      <edge source="T_TOPIC_2" target="W_geographical" id="317" weight="276.1304250763205" />
+      <edge source="T_TOPIC_2" target="W_scientists" id="318" weight="270.1456186068526" />
+      <edge source="T_TOPIC_2" target="W_cultural" id="319" weight="265.68767837157674" />
+      <edge source="T_TOPIC_2" target="W_scientific" id="320" weight="260.6810642485456" />
+      <edge source="T_TOPIC_2" target="W_political" id="321" weight="252.1410006084721" />
+      <edge source="T_TOPIC_2" target="W_perspectives" id="322" weight="251.58689306875775" />
+      <edge source="T_TOPIC_2" target="W_define" id="323" weight="246.7600812381158" />
+      <edge source="T_TOPIC_2" target="W_interact" id="324" weight="212.953995880964" />
+      <edge source="T_TOPIC_2" target="W_having" id="325" weight="212.4194613259128" />
+      <edge source="T_TOPIC_2" target="W_areas" id="326" weight="209.32696140122403" />
+      <edge source="T_TOPIC_2" target="W_read" id="327" weight="198.54322381735474" />
+      <edge source="T_TOPIC_2" target="W_latitude" id="328" weight="193.92472322455498" />
+      <edge source="T_TOPIC_2" target="W_long" id="329" weight="189.58295840224875" />
+      <edge source="T_TOPIC_2" target="W_cool" id="330" weight="186.92074168117887" />
+      <edge source="T_TOPIC_2" target="W_summers" id="331" weight="185.3940644787494" />
+      <edge source="T_TOPIC_2" target="W_short" id="332" weight="184.5360924763435" />
+      <edge source="T_TOPIC_2" target="W_winters" id="333" weight="183.41314129084716" />
+      <edge source="T_TOPIC_2" target="W_news" id="334" weight="167.71256691865864" />
+      <edge source="T_TOPIC_2" target="W_station" id="335" weight="129.72203674529985" />
+      <edge source="T_TOPIC_2" target="W_field" id="336" weight="69.1416504419834" />
+      <edge source="W_according" target="T_TOPIC_5" id="337" weight="26.823774747228327" />
+      <edge source="W_scientists" target="T_TOPIC_10" id="338" weight="56.9005677308053" />
+      <edge source="W_scientific" target="T_TOPIC_10" id="339" weight="89.00833306309838" />
+      <edge source="W_political" target="T_TOPIC_10" id="340" weight="75.67662566246646" />
+      <edge source="W_areas" target="T_TOPIC_9" id="341" weight="0.474858439961497" />
+      <edge source="W_areas" target="T_TOPIC_16" id="342" weight="187.18677080234693" />
+      <edge source="W_areas" target="T_TOPIC_17" id="343" weight="62.066084417762106" />
+      <edge source="W_areas" target="T_TOPIC_24" id="344" weight="5.650560299591511" />
+      <edge source="W_read" target="T_TOPIC_10" id="345" weight="430.42347172856114" />
+      <edge source="W_long" target="T_TOPIC_10" id="346" weight="55.832895346878196" />
+      <edge source="W_long" target="T_TOPIC_24" id="347" weight="6.127303215204884" />
+      <edge source="W_news" target="T_TOPIC_10" id="348" weight="70.00338109238493" />
+      <edge source="T_TOPIC_3" target="W_section" id="349" weight="0.7200168920233677" />
+      <edge source="T_TOPIC_3" target="W_gn" id="350" weight="0.6764506766180326" />
+      <edge source="T_TOPIC_3" target="W_agreement" id="351" weight="0.6110396337398125" />
+      <edge source="T_TOPIC_3" target="W_federal" id="352" weight="0.571814501934434" />
+      <edge source="T_TOPIC_3" target="W_provide" id="353" weight="0.5505179308616232" />
+      <edge source="T_TOPIC_3" target="W_peoples" id="354" weight="0.5425271756558078" />
+      <edge source="T_TOPIC_3" target="W_gc" id="355" weight="0.5406708606464652" />
+      <edge source="W_section" target="T_TOPIC_9" id="356" weight="1.0424587043915636" />
+      <edge source="W_section" target="T_TOPIC_17" id="357" weight="89.28963632600396" />
+      <edge source="W_section" target="T_TOPIC_22" id="358" weight="391.5369440558738" />
+      <edge source="W_section" target="T_TOPIC_28" id="359" weight="175.9233582745779" />
+      <edge source="W_gn" target="T_TOPIC_18" id="360" weight="10.319515937530694" />
+      <edge source="W_gn" target="T_TOPIC_28" id="361" weight="191.15048242681087" />
+      <edge source="W_agreement" target="T_TOPIC_28" id="362" weight="310.21233941741895" />
+      <edge source="W_federal" target="T_TOPIC_22" id="363" weight="214.2314093948304" />
+      <edge source="W_federal" target="T_TOPIC_28" id="364" weight="327.2622008434282" />
+      <edge source="W_provide" target="T_TOPIC_20" id="365" weight="0.5926307018009672" />
+      <edge source="W_provide" target="T_TOPIC_28" id="366" weight="159.53760077860238" />
+      <edge source="W_peoples" target="T_TOPIC_28" id="367" weight="195.51586164227308" />
+      <edge source="W_gc" target="T_TOPIC_28" id="368" weight="199.16718812969773" />
+      <edge source="T_TOPIC_4" target="W_ice" id="369" weight="1182.2865748474185" />
+      <edge source="T_TOPIC_4" target="W_sea" id="370" weight="725.8306600860132" />
+      <edge source="T_TOPIC_4" target="W_ocean" id="371" weight="374.19715396672666" />
+      <edge source="T_TOPIC_4" target="W_data" id="372" weight="263.900600928853" />
+      <edge source="T_TOPIC_4" target="W_warming" id="373" weight="172.48578163198064" />
+      <edge source="T_TOPIC_4" target="W_changes" id="374" weight="148.0175043225359" />
+      <edge source="T_TOPIC_4" target="W_year" id="375" weight="142.52497675712067" />
+      <edge source="T_TOPIC_4" target="W_extent" id="376" weight="138.3549363724923" />
+      <edge source="T_TOPIC_4" target="W_earth" id="377" weight="129.17400396490564" />
+      <edge source="T_TOPIC_4" target="W_summer" id="378" weight="126.45577663969313" />
+      <edge source="T_TOPIC_4" target="W_satellite" id="379" weight="124.57811125637932" />
+      <edge source="T_TOPIC_4" target="W_global" id="380" weight="121.38552955556511" />
+      <edge source="T_TOPIC_4" target="W_temperatures" id="381" weight="121.326254843044" />
+      <edge source="T_TOPIC_4" target="W_et" id="382" weight="117.07788021175905" />
+      <edge source="T_TOPIC_4" target="W_temperature" id="383" weight="116.44324933692359" />
+      <edge source="T_TOPIC_4" target="W_polar" id="384" weight="110.04415643400476" />
+      <edge source="T_TOPIC_4" target="W_al" id="385" weight="109.71045425215709" />
+      <edge source="T_TOPIC_4" target="W_average" id="386" weight="109.66016458174889" />
+      <edge source="T_TOPIC_4" target="W_greenland" id="387" weight="109.60618203848864" />
+      <edge source="T_TOPIC_4" target="W_snow" id="388" weight="109.50155097980912" />
+      <edge source="T_TOPIC_4" target="W_surface" id="389" weight="106.90518206656645" />
+      <edge source="W_ice" target="T_TOPIC_5" id="390" weight="37.868163424792485" />
+      <edge source="W_ice" target="T_TOPIC_6" id="391" weight="131.0729995227853" />
+      <edge source="W_ice" target="T_TOPIC_7" id="392" weight="26.888773212456044" />
+      <edge source="W_ice" target="T_TOPIC_12" id="393" weight="0.4755969093630782" />
+      <edge source="W_ice" target="T_TOPIC_13" id="394" weight="1.4033401568653652" />
+      <edge source="W_ice" target="T_TOPIC_19" id="395" weight="187.2870780987158" />
+      <edge source="W_ice" target="T_TOPIC_21" id="396" weight="201.90267240174254" />
+      <edge source="W_ice" target="T_TOPIC_29" id="397" weight="1.219931646791063" />
+      <edge source="W_ice" target="T_TOPIC_35" id="398" weight="0.9325141561805906" />
+      <edge source="W_ice" target="T_TOPIC_36" id="399" weight="1.357278085729726" />
+      <edge source="W_sea" target="T_TOPIC_5" id="400" weight="54.54773645504311" />
+      <edge source="W_sea" target="T_TOPIC_13" id="401" weight="1.5045224037432243" />
+      <edge source="W_sea" target="T_TOPIC_21" id="402" weight="258.36851159395405" />
+      <edge source="W_sea" target="T_TOPIC_29" id="403" weight="1.0821489490370424" />
+      <edge source="W_sea" target="T_TOPIC_32" id="404" weight="322.28531474231715" />
+      <edge source="W_sea" target="T_TOPIC_36" id="405" weight="0.9140970909713663" />
+      <edge source="W_ocean" target="T_TOPIC_5" id="406" weight="32.366328558802" />
+      <edge source="W_ocean" target="T_TOPIC_13" id="407" weight="1.2609556457143611" />
+      <edge source="W_ocean" target="T_TOPIC_29" id="408" weight="0.624202931100342" />
+      <edge source="W_data" target="T_TOPIC_14" id="409" weight="115.2035242320467" />
+      <edge source="W_year" target="T_TOPIC_5" id="410" weight="30.38349725074776" />
+      <edge source="W_year" target="T_TOPIC_6" id="411" weight="26.887392951335283" />
+      <edge source="W_year" target="T_TOPIC_8" id="412" weight="199.87053286637553" />
+      <edge source="W_year" target="T_TOPIC_12" id="413" weight="0.49150796271069896" />
+      <edge source="W_year" target="T_TOPIC_33" id="414" weight="22.258723026379883" />
+      <edge source="W_year" target="T_TOPIC_39" id="415" weight="146.30135589353424" />
+      <edge source="W_summer" target="T_TOPIC_24" id="416" weight="11.434165309205444" />
+      <edge source="W_global" target="T_TOPIC_5" id="417" weight="30.097417508329453" />
+      <edge source="W_global" target="T_TOPIC_11" id="418" weight="329.0001577659434" />
+      <edge source="W_global" target="T_TOPIC_15" id="419" weight="1.0537008255706992" />
+      <edge source="W_global" target="T_TOPIC_25" id="420" weight="44.651586189414694" />
+      <edge source="W_global" target="T_TOPIC_27" id="421" weight="117.89289025887629" />
+      <edge source="W_global" target="T_TOPIC_34" id="422" weight="66.1155462822665" />
+      <edge source="W_global" target="T_TOPIC_37" id="423" weight="470.4397091406793" />
+      <edge source="W_et" target="T_TOPIC_20" id="424" weight="0.6266432032448215" />
+      <edge source="W_et" target="T_TOPIC_26" id="425" weight="2023.5759887624831" />
+      <edge source="W_et" target="T_TOPIC_29" id="426" weight="0.5002801625558531" />
+      <edge source="W_et" target="T_TOPIC_31" id="427" weight="936.4490251374123" />
+      <edge source="W_et" target="T_TOPIC_36" id="428" weight="0.9818187715655355" />
+      <edge source="W_polar" target="T_TOPIC_10" id="429" weight="143.98009266633784" />
+      <edge source="W_polar" target="T_TOPIC_19" id="430" weight="570.5546037572757" />
+      <edge source="W_al" target="T_TOPIC_29" id="431" weight="0.40471777371837037" />
+      <edge source="W_al" target="T_TOPIC_31" id="432" weight="955.7539785178787" />
+      <edge source="W_greenland" target="T_TOPIC_10" id="433" weight="137.44025781821648" />
+      <edge source="W_greenland" target="T_TOPIC_32" id="434" weight="257.5793876996052" />
+      <edge source="W_snow" target="T_TOPIC_24" id="435" weight="3.9733270821697673" />
+      <edge source="W_snow" target="T_TOPIC_29" id="436" weight="0.7185025214435166" />
+      <edge source="W_surface" target="T_TOPIC_6" id="437" weight="37.87502044271653" />
+      <edge source="T_TOPIC_5" target="W_china" id="438" weight="60.28279032315427" />
+      <edge source="T_TOPIC_5" target="W_space" id="439" weight="50.90130790695385" />
+      <edge source="T_TOPIC_5" target="W_passage" id="440" weight="32.60146182058864" />
+      <edge source="T_TOPIC_5" target="W_like" id="441" weight="30.460366498791732" />
+      <edge source="T_TOPIC_5" target="W_women" id="442" weight="28.951231603321006" />
+      <edge source="T_TOPIC_5" target="W_iceland" id="443" weight="27.98381026213702" />
+      <edge source="T_TOPIC_5" target="W_countries" id="444" weight="26.876439888533643" />
+      <edge source="T_TOPIC_5" target="W_just" id="445" weight="26.650980316163345" />
+      <edge source="T_TOPIC_5" target="W_route" id="446" weight="25.2396059763254" />
+      <edge source="T_TOPIC_5" target="W_chinese" id="447" weight="25.116582166988984" />
+      <edge source="T_TOPIC_5" target="W_circle" id="448" weight="22.8023305441429" />
+      <edge source="T_TOPIC_5" target="W_new" id="449" weight="22.378398874303358" />
+      <edge source="W_china" target="T_TOPIC_13" id="450" weight="1.3068696393627424" />
+      <edge source="W_china" target="T_TOPIC_29" id="451" weight="0.3890888208227897" />
+      <edge source="W_china" target="T_TOPIC_32" id="452" weight="466.71397824106583" />
+      <edge source="W_like" target="T_TOPIC_7" id="453" weight="56.63999845482358" />
+      <edge source="W_like" target="T_TOPIC_21" id="454" weight="288.4319898539669" />
+      <edge source="W_women" target="T_TOPIC_11" id="455" weight="187.80430345491195" />
+      <edge source="W_iceland" target="T_TOPIC_15" id="456" weight="0.9563834818664054" />
+      <edge source="W_iceland" target="T_TOPIC_25" id="457" weight="87.7037707997094" />
+      <edge source="W_iceland" target="T_TOPIC_33" id="458" weight="346.67379185935323" />
+      <edge source="W_iceland" target="T_TOPIC_34" id="459" weight="123.07865265872009" />
+      <edge source="W_iceland" target="T_TOPIC_35" id="460" weight="1.2534896888789426" />
+      <edge source="W_countries" target="T_TOPIC_25" id="461" weight="57.11249568240199" />
+      <edge source="W_countries" target="T_TOPIC_33" id="462" weight="11.223926515749978" />
+      <edge source="W_countries" target="T_TOPIC_38" id="463" weight="289.6167466444726" />
+      <edge source="W_just" target="T_TOPIC_7" id="464" weight="56.52570986733215" />
+      <edge source="W_just" target="T_TOPIC_21" id="465" weight="181.1540848271164" />
+      <edge source="W_new" target="T_TOPIC_7" id="466" weight="33.02808819442962" />
+      <edge source="W_new" target="T_TOPIC_10" id="467" weight="90.38132202631377" />
+      <edge source="W_new" target="T_TOPIC_11" id="468" weight="200.52740661638933" />
+      <edge source="W_new" target="T_TOPIC_13" id="469" weight="1.260792633258302" />
+      <edge source="W_new" target="T_TOPIC_18" id="470" weight="9.808650651853437" />
+      <edge source="W_new" target="T_TOPIC_20" id="471" weight="0.6518525614074064" />
+      <edge source="W_new" target="T_TOPIC_21" id="472" weight="197.3569727472269" />
+      <edge source="W_new" target="T_TOPIC_27" id="473" weight="35.85913644170256" />
+      <edge source="W_new" target="T_TOPIC_32" id="474" weight="236.5100849957821" />
+      <edge source="W_new" target="T_TOPIC_36" id="475" weight="0.8004780274515647" />
+      <edge source="W_new" target="T_TOPIC_37" id="476" weight="477.52907315461596" />
+      <edge source="W_new" target="T_TOPIC_39" id="477" weight="167.32545690100346" />
+      <edge source="T_TOPIC_6" target="W_glaciers" id="478" weight="165.6716538472604" />
+      <edge source="T_TOPIC_6" target="W_diamonds" id="479" weight="157.78771540358392" />
+      <edge source="T_TOPIC_6" target="W_area" id="480" weight="127.32477011113602" />
+      <edge source="T_TOPIC_6" target="W_reference" id="481" weight="108.70368751439736" />
+      <edge source="T_TOPIC_6" target="W_glacier" id="482" weight="97.21163148927452" />
+      <edge source="T_TOPIC_6" target="W_loss" id="483" weight="46.44697371437507" />
+      <edge source="T_TOPIC_6" target="W_island" id="484" weight="46.036993859109" />
+      <edge source="T_TOPIC_6" target="W_http" id="485" weight="41.58426190118097" />
+      <edge source="T_TOPIC_6" target="W_2015" id="486" weight="41.49083679528595" />
+      <edge source="T_TOPIC_6" target="W_10" id="487" weight="37.68292248914723" />
+      <edge source="T_TOPIC_6" target="W_small" id="488" weight="33.47495124716138" />
+      <edge source="T_TOPIC_6" target="W_study" id="489" weight="32.42172379640954" />
+      <edge source="T_TOPIC_6" target="W_km" id="490" weight="28.62921174715506" />
+      <edge source="T_TOPIC_6" target="W_2000" id="491" weight="25.667113134940884" />
+      <edge source="T_TOPIC_6" target="W_period" id="492" weight="24.69296331531202" />
+      <edge source="T_TOPIC_6" target="W_total" id="493" weight="24.234713882420976" />
+      <edge source="T_TOPIC_6" target="W_org" id="494" weight="23.203043902127718" />
+      <edge source="T_TOPIC_6" target="W_doi" id="495" weight="22.202498877390077" />
+      <edge source="W_diamonds" target="T_TOPIC_12" id="496" weight="0.7459731770000814" />
+      <edge source="W_area" target="T_TOPIC_9" id="497" weight="0.5756691154894202" />
+      <edge source="W_area" target="T_TOPIC_17" id="498" weight="104.66506834182921" />
+      <edge source="W_area" target="T_TOPIC_22" id="499" weight="220.70590048076184" />
+      <edge source="W_http" target="T_TOPIC_12" id="500" weight="0.35784745281388114" />
+      <edge source="W_10" target="T_TOPIC_12" id="501" weight="0.4429604441706279" />
+      <edge source="W_10" target="T_TOPIC_13" id="502" weight="1.453969454061314" />
+      <edge source="W_10" target="T_TOPIC_16" id="503" weight="214.8232898532032" />
+      <edge source="W_10" target="T_TOPIC_31" id="504" weight="233.4459719701223" />
+      <edge source="W_total" target="T_TOPIC_8" id="505" weight="323.5204695806561" />
+      <edge source="T_TOPIC_7" target="W_think" id="506" weight="103.64025166173968" />
+      <edge source="T_TOPIC_7" target="W_going" id="507" weight="64.32027135009974" />
+      <edge source="T_TOPIC_7" target="W_circular" id="508" weight="51.07186526748446" />
+      <edge source="T_TOPIC_7" target="W_economy" id="509" weight="50.453086853543994" />
+      <edge source="T_TOPIC_7" target="W_know" id="510" weight="48.572581976004415" />
+      <edge source="T_TOPIC_7" target="W_ve" id="511" weight="42.693432979514014" />
+      <edge source="T_TOPIC_7" target="W_work" id="512" weight="38.686920617301666" />
+      <edge source="T_TOPIC_7" target="W_time" id="513" weight="35.41582636824263" />
+      <edge source="T_TOPIC_7" target="W_look" id="514" weight="30.027792390397906" />
+      <edge source="T_TOPIC_7" target="W_research" id="515" weight="28.87830003497332" />
+      <edge source="T_TOPIC_7" target="W_coast" id="516" weight="28.02511819243801" />
+      <edge source="T_TOPIC_7" target="W_things" id="517" weight="27.62521391117725" />
+      <edge source="T_TOPIC_7" target="W_regulatory" id="518" weight="26.121542506225747" />
+      <edge source="T_TOPIC_7" target="W_don" id="519" weight="25.596316043453246" />
+      <edge source="W_economy" target="T_TOPIC_20" id="520" weight="0.6796473676368979" />
+      <edge source="W_economy" target="T_TOPIC_33" id="521" weight="19.150381204305" />
+      <edge source="W_work" target="T_TOPIC_33" id="522" weight="11.168374605222294" />
+      <edge source="W_work" target="T_TOPIC_37" id="523" weight="266.5075360367551" />
+      <edge source="W_time" target="T_TOPIC_19" id="524" weight="173.70042528883934" />
+      <edge source="W_research" target="T_TOPIC_10" id="525" weight="118.01845000824444" />
+      <edge source="W_research" target="T_TOPIC_16" id="526" weight="594.6346260762878" />
+      <edge source="W_research" target="T_TOPIC_20" id="527" weight="0.658834720339221" />
+      <edge source="W_research" target="T_TOPIC_29" id="528" weight="0.46716669997500865" />
+      <edge source="T_TOPIC_8" target="W_emissions" id="529" weight="1023.0386717566381" />
+      <edge source="T_TOPIC_8" target="W_ranked" id="530" weight="699.2567819457844" />
+      <edge source="T_TOPIC_8" target="W_water" id="531" weight="604.3880077426146" />
+      <edge source="T_TOPIC_8" target="W_gas" id="532" weight="385.80962359537" />
+      <edge source="T_TOPIC_8" target="W_pollution" id="533" weight="345.14425471318145" />
+      <edge source="T_TOPIC_8" target="W_united" id="534" weight="339.22706050284813" />
+      <edge source="T_TOPIC_8" target="W_co2" id="535" weight="330.32261542667516" />
+      <edge source="T_TOPIC_8" target="W_population" id="536" weight="292.2711759946123" />
+      <edge source="T_TOPIC_8" target="W_energy" id="537" weight="283.95502187731944" />
+      <edge source="T_TOPIC_8" target="W_carbon" id="538" weight="259.41751544079324" />
+      <edge source="T_TOPIC_8" target="W_greenhouse" id="539" weight="234.1144221310276" />
+      <edge source="T_TOPIC_8" target="W_fuel" id="540" weight="219.12223457311936" />
+      <edge source="T_TOPIC_8" target="W_million" id="541" weight="205.7123473648688" />
+      <edge source="T_TOPIC_8" target="W_states" id="542" weight="202.38571714127036" />
+      <edge source="T_TOPIC_8" target="W_dioxide" id="543" weight="190.03795760874377" />
+      <edge source="T_TOPIC_8" target="W_electricity" id="544" weight="186.973143611837" />
+      <edge source="T_TOPIC_8" target="W_times" id="545" weight="181.7682239784871" />
+      <edge source="T_TOPIC_8" target="W_organic" id="546" weight="179.30536355414117" />
+      <edge source="T_TOPIC_8" target="W_savings" id="547" weight="165.48131833018064" />
+      <edge source="W_emissions" target="T_TOPIC_38" id="548" weight="206.65504681736243" />
+      <edge source="W_water" target="T_TOPIC_21" id="549" weight="275.4626349237638" />
+      <edge source="W_water" target="T_TOPIC_24" id="550" weight="4.011127587992358" />
+      <edge source="W_water" target="T_TOPIC_25" id="551" weight="59.3065146590193" />
+      <edge source="W_water" target="T_TOPIC_31" id="552" weight="291.21188534360255" />
+      <edge source="W_water" target="T_TOPIC_38" id="553" weight="607.9327645472102" />
+      <edge source="W_gas" target="T_TOPIC_32" id="554" weight="218.83527999656215" />
+      <edge source="W_pollution" target="T_TOPIC_17" id="555" weight="87.0933105316625" />
+      <edge source="W_pollution" target="T_TOPIC_38" id="556" weight="453.5180043645533" />
+      <edge source="W_united" target="T_TOPIC_25" id="557" weight="153.9141443635613" />
+      <edge source="W_united" target="T_TOPIC_32" id="558" weight="268.7637744079985" />
+      <edge source="W_population" target="T_TOPIC_25" id="559" weight="49.6447791244109" />
+      <edge source="W_energy" target="T_TOPIC_11" id="560" weight="1422.6705431693113" />
+      <edge source="W_energy" target="T_TOPIC_14" id="561" weight="241.82018739621017" />
+      <edge source="W_energy" target="T_TOPIC_18" id="562" weight="31.772215243205686" />
+      <edge source="W_energy" target="T_TOPIC_25" id="563" weight="54.8816050013367" />
+      <edge source="W_energy" target="T_TOPIC_34" id="564" weight="63.11006379590597" />
+      <edge source="W_energy" target="T_TOPIC_35" id="565" weight="1.1472386250475612" />
+      <edge source="W_energy" target="T_TOPIC_38" id="566" weight="152.89565554074815" />
+      <edge source="W_carbon" target="T_TOPIC_37" id="567" weight="305.0375161624753" />
+      <edge source="W_million" target="T_TOPIC_12" id="568" weight="0.33981793019843315" />
+      <edge source="W_million" target="T_TOPIC_27" id="569" weight="29.60695874337499" />
+      <edge source="W_million" target="T_TOPIC_31" id="570" weight="500.70910016753976" />
+      <edge source="W_million" target="T_TOPIC_39" id="571" weight="92.91724812230404" />
+      <edge source="W_states" target="T_TOPIC_25" id="572" weight="102.32083878088477" />
+      <edge source="W_states" target="T_TOPIC_32" id="573" weight="401.8096704960653" />
+      <edge source="T_TOPIC_9" target="W_marginal" id="574" weight="2.332990630314738" />
+      <edge source="T_TOPIC_9" target="W_paragraph" id="575" weight="0.7599742165369926" />
+      <edge source="T_TOPIC_9" target="W_note" id="576" weight="0.6942975810344661" />
+      <edge source="T_TOPIC_9" target="W_act" id="577" weight="0.5720020496347503" />
+      <edge source="T_TOPIC_9" target="W_commission" id="578" weight="0.5649942353238212" />
+      <edge source="T_TOPIC_9" target="W_subsection" id="579" weight="0.5219057249285242" />
+      <edge source="T_TOPIC_9" target="W_norway" id="580" weight="0.5173867208831862" />
+      <edge source="T_TOPIC_9" target="W_designated" id="581" weight="0.5005499776539141" />
+      <edge source="T_TOPIC_9" target="W_environment" id="582" weight="0.4958646628632141" />
+      <edge source="T_TOPIC_9" target="W_economic" id="583" weight="0.48015534965359163" />
+      <edge source="W_marginal" target="T_TOPIC_22" id="584" weight="1049.791221179899" />
+      <edge source="W_paragraph" target="T_TOPIC_22" id="585" weight="317.6254846789616" />
+      <edge source="W_note" target="T_TOPIC_22" id="586" weight="1031.7472707339912" />
+      <edge source="W_act" target="T_TOPIC_15" id="587" weight="0.8590368760057386" />
+      <edge source="W_act" target="T_TOPIC_17" id="588" weight="124.45749468731393" />
+      <edge source="W_act" target="T_TOPIC_22" id="589" weight="279.4858603648245" />
+      <edge source="W_commission" target="T_TOPIC_17" id="590" weight="68.97999475413545" />
+      <edge source="W_commission" target="T_TOPIC_22" id="591" weight="348.3768612554398" />
+      <edge source="W_subsection" target="T_TOPIC_22" id="592" weight="677.1267036495108" />
+      <edge source="W_norway" target="T_TOPIC_17" id="593" weight="77.17346669922328" />
+      <edge source="W_norway" target="T_TOPIC_21" id="594" weight="266.24710204336805" />
+      <edge source="W_norway" target="T_TOPIC_27" id="595" weight="37.33125699009249" />
+      <edge source="W_designated" target="T_TOPIC_22" id="596" weight="249.5634741636749" />
+      <edge source="W_environment" target="T_TOPIC_11" id="597" weight="213.033139367543" />
+      <edge source="W_environment" target="T_TOPIC_15" id="598" weight="0.9628598726908129" />
+      <edge source="W_environment" target="T_TOPIC_16" id="599" weight="185.49163846112313" />
+      <edge source="W_environment" target="T_TOPIC_17" id="600" weight="87.19624596450218" />
+      <edge source="W_environment" target="T_TOPIC_20" id="601" weight="0.76944248932419" />
+      <edge source="W_environment" target="T_TOPIC_21" id="602" weight="229.68237286591184" />
+      <edge source="W_environment" target="T_TOPIC_29" id="603" weight="0.4665153993616762" />
+      <edge source="W_environment" target="T_TOPIC_31" id="604" weight="210.44151283037607" />
+      <edge source="W_environment" target="T_TOPIC_35" id="605" weight="0.9374051515001959" />
+      <edge source="W_environment" target="T_TOPIC_37" id="606" weight="244.28369370908186" />
+      <edge source="W_environment" target="T_TOPIC_38" id="607" weight="538.2039749885832" />
+      <edge source="W_economic" target="T_TOPIC_11" id="608" weight="190.16959565885202" />
+      <edge source="W_economic" target="T_TOPIC_13" id="609" weight="1.3989040111384525" />
+      <edge source="W_economic" target="T_TOPIC_18" id="610" weight="28.034902183540833" />
+      <edge source="W_economic" target="T_TOPIC_20" id="611" weight="0.7109446269540526" />
+      <edge source="W_economic" target="T_TOPIC_32" id="612" weight="249.46725242796273" />
+      <edge source="W_economic" target="T_TOPIC_35" id="613" weight="0.9208570399685244" />
+      <edge source="W_economic" target="T_TOPIC_36" id="614" weight="0.755246478081948" />
+      <edge source="W_economic" target="T_TOPIC_38" id="615" weight="143.16249028182276" />
+      <edge source="T_TOPIC_10" target="W_finland" id="616" weight="72.77735692513605" />
+      <edge source="T_TOPIC_10" target="W_cooperation" id="617" weight="67.93795210973613" />
+      <edge source="T_TOPIC_10" target="W_tourism" id="618" weight="67.84892802072294" />
+      <edge source="T_TOPIC_10" target="W_policy" id="619" weight="55.47288610907751" />
+      <edge source="T_TOPIC_10" target="W_future" id="620" weight="54.503216681692145" />
+      <edge source="T_TOPIC_10" target="W_denmark" id="621" weight="54.427312581947994" />
+      <edge source="W_cooperation" target="T_TOPIC_33" id="622" weight="15.041666377061215" />
+      <edge source="W_tourism" target="T_TOPIC_19" id="623" weight="205.52255262796183" />
+      <edge source="W_tourism" target="T_TOPIC_33" id="624" weight="97.91491788509562" />
+      <edge source="W_policy" target="T_TOPIC_11" id="625" weight="206.5127855553242" />
+      <edge source="W_policy" target="T_TOPIC_13" id="626" weight="1.3352382779443406" />
+      <edge source="W_policy" target="T_TOPIC_16" id="627" weight="147.70884748386786" />
+      <edge source="W_policy" target="T_TOPIC_20" id="628" weight="0.8427872616316368" />
+      <edge source="W_policy" target="T_TOPIC_28" id="629" weight="192.28782176128925" />
+      <edge source="W_policy" target="T_TOPIC_32" id="630" weight="223.5971547606689" />
+      <edge source="W_policy" target="T_TOPIC_33" id="631" weight="10.282044465426724" />
+      <edge source="W_policy" target="T_TOPIC_36" id="632" weight="1.0559369454598941" />
+      <edge source="T_TOPIC_11" target="W_special" id="633" weight="407.8985066796196" />
+      <edge source="T_TOPIC_11" target="W_sustainable" id="634" weight="368.5286403800496" />
+      <edge source="T_TOPIC_11" target="W_eu" id="635" weight="364.0965944158596" />
+      <edge source="T_TOPIC_11" target="W_renewable" id="636" weight="345.8213094928727" />
+      <edge source="T_TOPIC_11" target="W_power" id="637" weight="337.5843443526968" />
+      <edge source="T_TOPIC_11" target="W_issue" id="638" weight="272.8104764397057" />
+      <edge source="T_TOPIC_11" target="W_systems" id="639" weight="266.6036745994042" />
+      <edge source="T_TOPIC_11" target="W_issues" id="640" weight="244.72997022782445" />
+      <edge source="T_TOPIC_11" target="W_sustainability" id="641" weight="233.83099271397077" />
+      <edge source="T_TOPIC_11" target="W_european" id="642" weight="211.39563310338906" />
+      <edge source="T_TOPIC_11" target="W_interests" id="643" weight="204.16624235175405" />
+      <edge source="T_TOPIC_11" target="W_gender" id="644" weight="180.00616047061544" />
+      <edge source="W_sustainable" target="T_TOPIC_12" id="645" weight="0.33783789595974983" />
+      <edge source="W_sustainable" target="T_TOPIC_15" id="646" weight="1.1208835935065395" />
+      <edge source="W_sustainable" target="T_TOPIC_16" id="647" weight="258.8742404636979" />
+      <edge source="W_sustainable" target="T_TOPIC_20" id="648" weight="1.0613722948727455" />
+      <edge source="W_sustainable" target="T_TOPIC_25" id="649" weight="117.86603424429128" />
+      <edge source="W_sustainable" target="T_TOPIC_29" id="650" weight="0.39192571516805325" />
+      <edge source="W_sustainable" target="T_TOPIC_33" id="651" weight="17.974975469009504" />
+      <edge source="W_sustainable" target="T_TOPIC_34" id="652" weight="100.16676010786387" />
+      <edge source="W_sustainable" target="T_TOPIC_35" id="653" weight="1.4787016424610737" />
+      <edge source="W_sustainable" target="T_TOPIC_37" id="654" weight="1143.369692976206" />
+      <edge source="W_eu" target="T_TOPIC_20" id="655" weight="1.4494717623023596" />
+      <edge source="W_systems" target="T_TOPIC_14" id="656" weight="96.95573685641676" />
+      <edge source="W_sustainability" target="T_TOPIC_37" id="657" weight="1425.6502582960088" />
+      <edge source="W_european" target="T_TOPIC_20" id="658" weight="0.628120825234675" />
+      <edge source="T_TOPIC_12" target="W_mining" id="659" weight="0.5176249028894805" />
+      <edge source="T_TOPIC_12" target="W_operations" id="660" weight="0.40591139637014806" />
+      <edge source="T_TOPIC_12" target="W_20" id="661" weight="0.3937065335625783" />
+      <edge source="T_TOPIC_12" target="W_samples" id="662" weight="0.37939785727872233" />
+      <edge source="T_TOPIC_12" target="W_site" id="663" weight="0.35819608897179706" />
+      <edge source="T_TOPIC_12" target="W_report" id="664" weight="0.3541512317259677" />
+      <edge source="T_TOPIC_12" target="W_production" id="665" weight="0.3437902860137575" />
+      <edge source="T_TOPIC_12" target="W_lake" id="666" weight="0.3413969589763111" />
+      <edge source="T_TOPIC_12" target="W_years" id="667" weight="0.3367624449533507" />
+      <edge source="W_mining" target="T_TOPIC_39" id="668" weight="428.72100685174433" />
+      <edge source="W_operations" target="T_TOPIC_18" id="669" weight="12.173631229344243" />
+      <edge source="W_operations" target="T_TOPIC_39" id="670" weight="112.03004525157259" />
+      <edge source="W_samples" target="T_TOPIC_27" id="671" weight="45.30539078901058" />
+      <edge source="W_site" target="T_TOPIC_14" id="672" weight="79.2441581554961" />
+      <edge source="W_site" target="T_TOPIC_28" id="673" weight="200.68888053340194" />
+      <edge source="W_site" target="T_TOPIC_36" id="674" weight="0.713622086461768" />
+      <edge source="W_site" target="T_TOPIC_39" id="675" weight="116.79691311576651" />
+      <edge source="W_report" target="T_TOPIC_13" id="676" weight="1.3604600746943047" />
+      <edge source="W_report" target="T_TOPIC_16" id="677" weight="173.2795045431831" />
+      <edge source="W_report" target="T_TOPIC_22" id="678" weight="171.4186831241789" />
+      <edge source="W_production" target="T_TOPIC_39" id="679" weight="162.6668087819646" />
+      <edge source="W_years" target="T_TOPIC_21" id="680" weight="270.1823627041196" />
+      <edge source="T_TOPIC_13" target="W_account" id="681" weight="2.6733381747278213" />
+      <edge source="T_TOPIC_13" target="W_search" id="682" weight="1.9541969651027473" />
+      <edge source="T_TOPIC_13" target="W_russia" id="683" weight="1.5435394886475664" />
+      <edge source="T_TOPIC_13" target="W_2020" id="684" weight="1.3855613716385202" />
+      <edge source="T_TOPIC_13" target="W_resources" id="685" weight="1.3104782826887718" />
+      <edge source="W_russia" target="T_TOPIC_32" id="686" weight="510.73898705559566" />
+      <edge source="W_2020" target="T_TOPIC_18" id="687" weight="18.39510127900918" />
+      <edge source="W_2020" target="T_TOPIC_23" id="688" weight="40.48339927691911" />
+      <edge source="W_2020" target="T_TOPIC_25" id="689" weight="45.70643890181308" />
+      <edge source="W_2020" target="T_TOPIC_29" id="690" weight="0.39823535599141846" />
+      <edge source="W_2020" target="T_TOPIC_32" id="691" weight="229.07341128462141" />
+      <edge source="W_2020" target="T_TOPIC_34" id="692" weight="61.781470178041204" />
+      <edge source="W_resources" target="T_TOPIC_25" id="693" weight="46.799547295364235" />
+      <edge source="W_resources" target="T_TOPIC_32" id="694" weight="235.8771571098604" />
+      <edge source="W_resources" target="T_TOPIC_38" id="695" weight="181.67105192094004" />
+      <edge source="W_resources" target="T_TOPIC_39" id="696" weight="105.21197791382603" />
+      <edge source="T_TOPIC_14" target="W_website" id="697" weight="396.1911534278918" />
+      <edge source="T_TOPIC_14" target="W_cookies" id="698" weight="395.9485479324298" />
+      <edge source="T_TOPIC_14" target="W_program" id="699" weight="324.4286839279792" />
+      <edge source="T_TOPIC_14" target="W_department" id="700" weight="320.79498584361033" />
+      <edge source="T_TOPIC_14" target="W_information" id="701" weight="262.56846719428006" />
+      <edge source="T_TOPIC_14" target="W_corporation" id="702" weight="232.1830697241914" />
+      <edge source="T_TOPIC_14" target="W_students" id="703" weight="217.4439659792449" />
+      <edge source="T_TOPIC_14" target="W_solar" id="704" weight="162.13396775814235" />
+      <edge source="T_TOPIC_14" target="W_project" id="705" weight="156.33203010629776" />
+      <edge source="T_TOPIC_14" target="W_education" id="706" weight="150.13682929879914" />
+      <edge source="T_TOPIC_14" target="W_school" id="707" weight="137.17556672511208" />
+      <edge source="T_TOPIC_14" target="W_necessary" id="708" weight="135.84148861939786" />
+      <edge source="T_TOPIC_14" target="W_programs" id="709" weight="128.37696391168816" />
+      <edge source="T_TOPIC_14" target="W_used" id="710" weight="111.44446100150199" />
+      <edge source="T_TOPIC_14" target="W_buildings" id="711" weight="108.81655285992" />
+      <edge source="T_TOPIC_14" target="W_learning" id="712" weight="89.19790295615792" />
+      <edge source="T_TOPIC_14" target="W_services" id="713" weight="86.41003595449739" />
+      <edge source="W_program" target="T_TOPIC_16" id="714" weight="143.24059149293967" />
+      <edge source="W_department" target="T_TOPIC_18" id="715" weight="12.56930926947982" />
+      <edge source="W_information" target="T_TOPIC_16" id="716" weight="167.1406012148597" />
+      <edge source="W_project" target="T_TOPIC_22" id="717" weight="751.4134858653042" />
+      <edge source="W_project" target="T_TOPIC_39" id="718" weight="475.8283673538973" />
+      <edge source="W_services" target="T_TOPIC_18" id="719" weight="67.51187891623192" />
+      <edge source="W_services" target="T_TOPIC_38" id="720" weight="173.68806179456422" />
+      <edge source="T_TOPIC_15" target="W_developed" id="721" weight="1.8976224031034234" />
+      <edge source="T_TOPIC_15" target="W_019" id="722" weight="1.2897542884651192" />
+      <edge source="T_TOPIC_15" target="W_002" id="723" weight="1.284103100593971" />
+      <edge source="T_TOPIC_15" target="W_142" id="724" weight="0.9739071496625021" />
+      <edge source="T_TOPIC_15" target="W_europe" id="725" weight="0.9725966864172101" />
+      <edge source="T_TOPIC_15" target="W_150" id="726" weight="0.9714253957374778" />
+      <edge source="T_TOPIC_15" target="W_202" id="727" weight="0.9534470433433472" />
+      <edge source="W_developed" target="T_TOPIC_18" id="728" weight="10.91806729361604" />
+      <edge source="W_developed" target="T_TOPIC_25" id="729" weight="50.75399796976083" />
+      <edge source="W_developed" target="T_TOPIC_34" id="730" weight="248.98348986689356" />
+      <edge source="W_developed" target="T_TOPIC_35" id="731" weight="2.3361380924151187" />
+      <edge source="W_019" target="T_TOPIC_34" id="732" weight="196.54851476153814" />
+      <edge source="W_019" target="T_TOPIC_35" id="733" weight="1.0992313378502951" />
+      <edge source="W_002" target="T_TOPIC_34" id="734" weight="214.0164401868054" />
+      <edge source="W_002" target="T_TOPIC_35" id="735" weight="1.7853021903061415" />
+      <edge source="W_142" target="T_TOPIC_34" id="736" weight="177.9594482783705" />
+      <edge source="W_142" target="T_TOPIC_35" id="737" weight="1.7621295643954453" />
+      <edge source="W_europe" target="T_TOPIC_29" id="738" weight="0.3998531924915559" />
+      <edge source="W_europe" target="T_TOPIC_34" id="739" weight="131.4939915480778" />
+      <edge source="W_europe" target="T_TOPIC_35" id="740" weight="1.053313119264735" />
+      <edge source="W_150" target="T_TOPIC_34" id="741" weight="191.73466272453064" />
+      <edge source="W_150" target="T_TOPIC_35" id="742" weight="1.8052479189337034" />
+      <edge source="W_202" target="T_TOPIC_34" id="743" weight="190.08702453180703" />
+      <edge source="W_202" target="T_TOPIC_35" id="744" weight="1.37294956195671" />
+      <edge source="T_TOPIC_16" target="W_management" id="745" weight="405.5736943137392" />
+      <edge source="T_TOPIC_16" target="W_science" id="746" weight="285.23987690171936" />
+      <edge source="T_TOPIC_16" target="W_university" id="747" weight="261.670778909569" />
+      <edge source="T_TOPIC_16" target="W_2021" id="748" weight="252.34219935848924" />
+      <edge source="T_TOPIC_16" target="W_nordic" id="749" weight="167.29968070741845" />
+      <edge source="T_TOPIC_16" target="W_institute" id="750" weight="166.1936023952048" />
+      <edge source="T_TOPIC_16" target="W_social" id="751" weight="160.9406230689056" />
+      <edge source="T_TOPIC_16" target="W_2012" id="752" weight="154.0530484394852" />
+      <edge source="T_TOPIC_16" target="W_www" id="753" weight="146.6828970728067" />
+      <edge source="T_TOPIC_16" target="W_2013" id="754" weight="141.55927149834847" />
+      <edge source="T_TOPIC_16" target="W_national" id="755" weight="138.58764884634965" />
+      <edge source="T_TOPIC_16" target="W_april" id="756" weight="134.89086539006087" />
+      <edge source="W_management" target="T_TOPIC_18" id="757" weight="17.281749294350007" />
+      <edge source="W_science" target="T_TOPIC_29" id="758" weight="0.4575801911565249" />
+      <edge source="W_2021" target="T_TOPIC_19" id="759" weight="147.76079437153993" />
+      <edge source="W_social" target="T_TOPIC_37" id="760" weight="315.2508062745244" />
+      <edge source="W_www" target="T_TOPIC_24" id="761" weight="16.17042337638486" />
+      <edge source="W_national" target="T_TOPIC_25" id="762" weight="45.7851533061967" />
+      <edge source="T_TOPIC_17" target="W_regulations" id="763" weight="147.08178084456742" />
+      <edge source="T_TOPIC_17" target="W_accordance" id="764" weight="84.55833221802833" />
+      <edge source="T_TOPIC_17" target="W_damage" id="765" weight="76.8988396241058" />
+      <edge source="T_TOPIC_17" target="W_protection" id="766" weight="73.55703697809982" />
+      <edge source="T_TOPIC_17" target="W_force" id="767" weight="60.81353556997663" />
+      <edge source="T_TOPIC_17" target="W_norwegian" id="768" weight="55.62836780221793" />
+      <edge source="T_TOPIC_17" target="W_person" id="769" weight="52.822710232016796" />
+      <edge source="W_norwegian" target="T_TOPIC_21" id="770" weight="230.1250964517645" />
+      <edge source="W_norwegian" target="T_TOPIC_27" id="771" weight="42.10833760615839" />
+      <edge source="T_TOPIC_18" target="W_ca" id="772" weight="37.11724567790737" />
+      <edge source="T_TOPIC_18" target="W_transportation" id="773" weight="22.87894792834314" />
+      <edge source="T_TOPIC_18" target="W_staff" id="774" weight="18.185872907092048" />
+      <edge source="T_TOPIC_18" target="W_building" id="775" weight="17.14722905675932" />
+      <edge source="T_TOPIC_18" target="W_caribou" id="776" weight="16.79076679844277" />
+      <edge source="T_TOPIC_18" target="W_office" id="777" weight="15.064374757989286" />
+      <edge source="T_TOPIC_18" target="W_business" id="778" weight="15.06223806682757" />
+      <edge source="T_TOPIC_18" target="W_general" id="779" weight="13.456703013766175" />
+      <edge source="T_TOPIC_18" target="W_businesses" id="780" weight="12.27608263221671" />
+      <edge source="T_TOPIC_18" target="W_non" id="781" weight="12.150840750163548" />
+      <edge source="T_TOPIC_18" target="W_committee" id="782" weight="11.01112350161194" />
+      <edge source="T_TOPIC_18" target="W_covid" id="783" weight="9.740825516268723" />
+      <edge source="W_business" target="T_TOPIC_37" id="784" weight="1052.0138054629865" />
+      <edge source="W_covid" target="T_TOPIC_38" id="785" weight="145.59666063494635" />
+      <edge source="T_TOPIC_19" target="W_svalbard" id="786" weight="1179.9836083297305" />
+      <edge source="T_TOPIC_19" target="W_bears" id="787" weight="296.6683170667539" />
+      <edge source="T_TOPIC_19" target="W_longyearbyen" id="788" weight="282.16474613537713" />
+      <edge source="T_TOPIC_19" target="W_expedition" id="789" weight="273.6722211653303" />
+      <edge source="T_TOPIC_19" target="W_day" id="790" weight="246.6374531148248" />
+      <edge source="T_TOPIC_19" target="W_travel" id="791" weight="228.07370651570528" />
+      <edge source="T_TOPIC_19" target="W_bear" id="792" weight="180.54567742499208" />
+      <edge source="T_TOPIC_19" target="W_local" id="793" weight="173.35789013838962" />
+      <edge source="T_TOPIC_19" target="W_cruise" id="794" weight="172.78375758967582" />
+      <edge source="T_TOPIC_19" target="W_wildlife" id="795" weight="170.5001746489257" />
+      <edge source="T_TOPIC_19" target="W_park" id="796" weight="143.2854599584988" />
+      <edge source="T_TOPIC_19" target="W_visit" id="797" weight="139.49340185995305" />
+      <edge source="T_TOPIC_19" target="W_archipelago" id="798" weight="129.25762431637253" />
+      <edge source="T_TOPIC_19" target="W_town" id="799" weight="124.68478359206654" />
+      <edge source="T_TOPIC_19" target="W_experience" id="800" weight="121.93868079052355" />
+      <edge source="W_svalbard" target="T_TOPIC_21" id="801" weight="224.59856163738758" />
+      <edge source="W_svalbard" target="T_TOPIC_27" id="802" weight="164.5427961424556" />
+      <edge source="W_svalbard" target="T_TOPIC_36" id="803" weight="0.8958327033628692" />
+      <edge source="T_TOPIC_21" target="W_fish" id="804" weight="422.77672199824707" />
+      <edge source="T_TOPIC_21" target="W_salmon" id="805" weight="395.5426409687311" />
+      <edge source="T_TOPIC_21" target="W_wild" id="806" weight="261.42752959997534" />
+      <edge source="T_TOPIC_21" target="W_says" id="807" weight="232.3743232305792" />
+      <edge source="T_TOPIC_21" target="W_animals" id="808" weight="231.5222403329886" />
+      <edge source="T_TOPIC_21" target="W_species" id="809" weight="231.4773917202501" />
+      <edge source="W_says" target="T_TOPIC_27" id="810" weight="38.48756913096572" />
+      <edge source="T_TOPIC_22" target="W_minister" id="811" weight="539.384727890924" />
+      <edge source="T_TOPIC_22" target="W_board" id="812" weight="502.7704292618493" />
+      <edge source="T_TOPIC_22" target="W_respect" id="813" weight="308.3748100551923" />
+      <edge source="T_TOPIC_22" target="W_claim" id="814" weight="296.1989197779884" />
+      <edge source="T_TOPIC_22" target="W_referred" id="815" weight="295.1945956177711" />
+      <edge source="T_TOPIC_22" target="W_responsible" id="816" weight="225.34466618489625" />
+      <edge source="T_TOPIC_22" target="W_plan" id="817" weight="221.22260741495674" />
+      <edge source="T_TOPIC_22" target="W_panel" id="818" weight="191.1780959953771" />
+      <edge source="T_TOPIC_22" target="W_public" id="819" weight="189.23762494091514" />
+      <edge source="T_TOPIC_22" target="W_assessment" id="820" weight="185.57859471562148" />
+      <edge source="T_TOPIC_22" target="W_review" id="821" weight="177.8949436128052" />
+      <edge source="W_respect" target="T_TOPIC_28" id="822" weight="152.91728611271157" />
+      <edge source="T_TOPIC_23" target="W_um" id="823" weight="866.1475332269833" />
+      <edge source="T_TOPIC_23" target="W_av" id="824" weight="842.2620111002" />
+      <edge source="T_TOPIC_23" target="W_við" id="825" weight="834.2113453023383" />
+      <edge source="T_TOPIC_23" target="W_sum" id="826" weight="822.7170043188954" />
+      <edge source="T_TOPIC_23" target="W_fyri" id="827" weight="771.9404286513718" />
+      <edge source="T_TOPIC_23" target="W_eru" id="828" weight="407.44532521731014" />
+      <edge source="T_TOPIC_23" target="W_vit" id="829" weight="406.3369751709716" />
+      <edge source="T_TOPIC_23" target="W_tað" id="830" weight="389.17588761184476" />
+      <edge source="T_TOPIC_23" target="W_hava" id="831" weight="387.26750841237396" />
+      <edge source="T_TOPIC_23" target="W_hevur" id="832" weight="383.11990302113463" />
+      <edge source="T_TOPIC_23" target="W_og" id="833" weight="365.3681608092498" />
+      <edge source="T_TOPIC_23" target="W_ein" id="834" weight="353.26904972842743" />
+      <edge source="T_TOPIC_23" target="W_verður" id="835" weight="350.90170608860194" />
+      <edge source="T_TOPIC_23" target="W_ið" id="836" weight="343.3202549027551" />
+      <edge source="T_TOPIC_23" target="W_hjá" id="837" weight="333.345468652503" />
+      <edge source="T_TOPIC_23" target="W_frá" id="838" weight="303.84618199857175" />
+      <edge source="T_TOPIC_23" target="W_ikki" id="839" weight="299.1529000578154" />
+      <edge source="T_TOPIC_23" target="W_ella" id="840" weight="277.5743575919985" />
+      <edge source="T_TOPIC_23" target="W_hetta" id="841" weight="249.4692250666171" />
+      <edge source="T_TOPIC_23" target="W_er" id="842" weight="228.76787236862492" />
+      <edge source="T_TOPIC_23" target="W_til" id="843" weight="147.14397097544483" />
+      <edge source="T_TOPIC_23" target="W_var" id="844" weight="120.66314772893465" />
+      <edge source="T_TOPIC_23" target="W_men" id="845" weight="95.32022913266641" />
+      <edge source="T_TOPIC_23" target="W_skal" id="846" weight="38.760534064462384" />
+      <edge source="W_og" target="T_TOPIC_26" id="847" weight="13654.58597377491" />
+      <edge source="W_og" target="T_TOPIC_36" id="848" weight="0.8371265627972466" />
+      <edge source="W_er" target="T_TOPIC_26" id="849" weight="6670.207613677303" />
+      <edge source="W_til" target="T_TOPIC_26" id="850" weight="5935.709281624944" />
+      <edge source="W_skal" target="T_TOPIC_26" id="851" weight="1744.1680282526095" />
+      <edge source="T_TOPIC_24" target="W_tundra" id="852" weight="85.66423352288463" />
+      <edge source="T_TOPIC_24" target="W_permafrost" id="853" weight="19.18058512978085" />
+      <edge source="T_TOPIC_24" target="W_plants" id="854" weight="14.034116198841902" />
+      <edge source="T_TOPIC_24" target="W_winter" id="855" weight="10.906006612205333" />
+      <edge source="T_TOPIC_24" target="W_cold" id="856" weight="8.528882334903436" />
+      <edge source="T_TOPIC_24" target="W_com" id="857" weight="8.002311142064007" />
+      <edge source="T_TOPIC_24" target="W_grow" id="858" weight="7.59421130380184" />
+      <edge source="T_TOPIC_24" target="W_soil" id="859" weight="7.36325067842716" />
+      <edge source="T_TOPIC_24" target="W_season" id="860" weight="6.343497686186721" />
+      <edge source="T_TOPIC_24" target="W_ground" id="861" weight="6.3331573625313204" />
+      <edge source="T_TOPIC_24" target="W_make" id="862" weight="5.143570028955068" />
+      <edge source="T_TOPIC_24" target="W_living" id="863" weight="4.475076393146992" />
+      <edge source="T_TOPIC_24" target="W_large" id="864" weight="4.269279141448671" />
+      <edge source="W_season" target="T_TOPIC_27" id="865" weight="23.016196209074337" />
+      <edge source="T_TOPIC_25" target="W_pdf" id="866" weight="369.86499775916224" />
+      <edge source="T_TOPIC_25" target="W_geothermal" id="867" weight="164.5665917875717" />
+      <edge source="T_TOPIC_25" target="W_country" id="868" weight="76.17131050288198" />
+      <edge source="T_TOPIC_25" target="W_statistics" id="869" weight="49.29954279097636" />
+      <edge source="T_TOPIC_25" target="W_nations" id="870" weight="48.5411376378358" />
+      <edge source="T_TOPIC_25" target="W_natural" id="871" weight="43.50707005627466" />
+      <edge source="W_country" target="T_TOPIC_33" id="872" weight="69.92976942364598" />
+      <edge source="T_TOPIC_26" target="W_af" id="873" weight="4556.519010260431" />
+      <edge source="T_TOPIC_26" target="W_en" id="874" weight="3788.2278454297257" />
+      <edge source="T_TOPIC_26" target="W_på" id="875" weight="3688.9344771878687" />
+      <edge source="T_TOPIC_26" target="W_det" id="876" weight="3559.7467446183714" />
+      <edge source="T_TOPIC_26" target="W_med" id="877" weight="3093.9874879943536" />
+      <edge source="T_TOPIC_26" target="W_som" id="878" weight="2953.8868036173044" />
+      <edge source="T_TOPIC_26" target="W_om" id="879" weight="2835.2930367050903" />
+      <edge source="T_TOPIC_26" target="W_kan" id="880" weight="2706.2964036300614" />
+      <edge source="T_TOPIC_26" target="W_der" id="881" weight="2422.4722927809385" />
+      <edge source="T_TOPIC_26" target="W_vi" id="882" weight="2284.3189609434335" />
+      <edge source="T_TOPIC_26" target="W_har" id="883" weight="1943.7150574396871" />
+      <edge source="T_TOPIC_26" target="W_den" id="884" weight="1653.4759738307255" />
+      <edge source="T_TOPIC_26" target="W_eller" id="885" weight="1642.1684301589373" />
+      <edge source="T_TOPIC_26" target="W_du" id="886" weight="1567.7917161678295" />
+      <edge source="T_TOPIC_26" target="W_mere" id="887" weight="1209.8654238866575" />
+      <edge source="T_TOPIC_26" target="W_fra" id="888" weight="1200.160644605986" />
+      <edge source="T_TOPIC_26" target="W_ikke" id="889" weight="1183.3222718879697" />
+      <edge source="T_TOPIC_26" target="W_ved" id="890" weight="931.9348224884343" />
+      <edge source="T_TOPIC_26" target="W_vil" id="891" weight="869.0930377373061" />
+      <edge source="T_TOPIC_26" target="W_være" id="892" weight="855.5282894851952" />
+      <edge source="T_TOPIC_27" target="W_seed" id="893" weight="284.7618324907924" />
+      <edge source="T_TOPIC_27" target="W_vault" id="894" weight="252.6660205618822" />
+      <edge source="T_TOPIC_27" target="W_diversity" id="895" weight="56.4630278522871" />
+      <edge source="T_TOPIC_27" target="W_bank" id="896" weight="43.98307371983293" />
+      <edge source="T_TOPIC_27" target="W_plant" id="897" weight="43.83583727269707" />
+      <edge source="T_TOPIC_27" target="W_agriculture" id="898" weight="43.45966132269022" />
+      <edge source="T_TOPIC_27" target="W_today" id="899" weight="32.67007364423112" />
+      <edge source="T_TOPIC_27" target="W_important" id="900" weight="23.94155813216915" />
+      <edge source="T_TOPIC_27" target="W_ministry" id="901" weight="21.130027326247138" />
+      <edge source="W_ministry" target="T_TOPIC_33" id="902" weight="9.508407941216914" />
+      <edge source="T_TOPIC_28" target="W_reclamation" id="903" weight="177.80898715978392" />
+      <edge source="T_TOPIC_28" target="W_territorial" id="904" weight="154.6014398055446" />
+      <edge source="T_TOPIC_30" target="W_line" id="905" weight="3343.541131824762" />
+      <edge source="T_TOPIC_30" target="W_array" id="906" weight="2893.182190292885" />
+      <edge source="T_TOPIC_30" target="W_core" id="907" weight="1781.9667488830642" />
+      <edge source="T_TOPIC_30" target="W_render" id="908" weight="1610.5701310155519" />
+      <edge source="T_TOPIC_30" target="W_object" id="909" weight="1529.9966542626203" />
+      <edge source="T_TOPIC_30" target="W_handle" id="910" weight="530.604058896272" />
+      <edge source="T_TOPIC_30" target="W_html" id="911" weight="484.2071605198702" />
+      <edge source="T_TOPIC_30" target="W_theme" id="912" weight="318.640000629787" />
+      <edge source="T_TOPIC_30" target="W_arcticnet" id="913" weight="317.2281298632289" />
+      <edge source="T_TOPIC_30" target="W_195" id="914" weight="254.0481736755518" />
+      <edge source="T_TOPIC_30" target="W_themes" id="915" weight="253.67199479537982" />
+      <edge source="T_TOPIC_30" target="W_437" id="916" weight="252.35511720902096" />
+      <edge source="T_TOPIC_30" target="W_view" id="917" weight="226.36112210820156" />
+      <edge source="T_TOPIC_30" target="W_component" id="918" weight="198.73503530831942" />
+      <edge source="T_TOPIC_30" target="W_null" id="919" weight="193.41531275222334" />
+      <edge source="T_TOPIC_30" target="W_display" id="920" weight="190.80998071885315" />
+      <edge source="T_TOPIC_30" target="W_490" id="921" weight="187.24809549872526" />
+      <edge source="T_TOPIC_30" target="W_64" id="922" weight="186.9078513172652" />
+      <edge source="T_TOPIC_30" target="W_template" id="923" weight="186.0904630505471" />
+      <edge source="T_TOPIC_30" target="W_403" id="924" weight="186.08775151450163" />
+      <edge source="T_TOPIC_30" target="W_384" id="925" weight="186.04780102308112" />
+      <edge source="T_TOPIC_30" target="W_templates" id="926" weight="186.04534410198164" />
+      <edge source="T_TOPIC_30" target="W_411" id="927" weight="186.03603908351107" />
+      <edge source="T_TOPIC_30" target="W_432" id="928" weight="185.98619260820803" />
+      <edge source="T_TOPIC_30" target="W_block" id="929" weight="166.77090720970833" />
+      <edge source="T_TOPIC_31" target="W_monitoring" id="930" weight="774.2623583328682" />
+      <edge source="T_TOPIC_31" target="W_table" id="931" weight="679.928552854826" />
+      <edge source="T_TOPIC_31" target="W_market" id="932" weight="674.568531364239" />
+      <edge source="T_TOPIC_31" target="W_2018" id="933" weight="649.7342874028444" />
+      <edge source="T_TOPIC_31" target="W_size" id="934" weight="630.8231010330173" />
+      <edge source="T_TOPIC_31" target="W_2017" id="935" weight="588.4101424820883" />
+      <edge source="T_TOPIC_31" target="W_microplastics" id="936" weight="579.8714818250506" />
+      <edge source="T_TOPIC_31" target="W_2019" id="937" weight="460.35312021586424" />
+      <edge source="T_TOPIC_31" target="W_plastic" id="938" weight="383.9135935672471" />
+      <edge source="T_TOPIC_31" target="W_figure" id="939" weight="318.34462821106194" />
+      <edge source="T_TOPIC_31" target="W_2025" id="940" weight="315.0878448602133" />
+      <edge source="T_TOPIC_31" target="W_2016" id="941" weight="306.2569120599718" />
+      <edge source="T_TOPIC_31" target="W_particles" id="942" weight="291.4061306808878" />
+      <edge source="T_TOPIC_31" target="W_microplastic" id="943" weight="243.63681507001854" />
+      <edge source="T_TOPIC_31" target="W_type" id="944" weight="234.93187151362218" />
+      <edge source="T_TOPIC_31" target="W_effects" id="945" weight="232.23139770214985" />
+      <edge source="T_TOPIC_31" target="W_exposure" id="946" weight="216.39660885468032" />
+      <edge source="T_TOPIC_31" target="W_studies" id="947" weight="202.3012829452028" />
+      <edge source="W_market" target="T_TOPIC_37" id="948" weight="437.5978291398685" />
+      <edge source="W_microplastics" target="T_TOPIC_33" id="949" weight="10.7537051316756" />
+      <edge source="W_2019" target="T_TOPIC_33" id="950" weight="19.73446062859531" />
+      <edge source="T_TOPIC_32" target="W_oil" id="951" weight="353.1680212078145" />
+      <edge source="T_TOPIC_32" target="W_council" id="952" weight="336.33416684095175" />
+      <edge source="T_TOPIC_32" target="W_military" id="953" weight="235.09717570190926" />
+      <edge source="T_TOPIC_32" target="W_russian" id="954" weight="231.94456939703807" />
+      <edge source="T_TOPIC_32" target="W_shipping" id="955" weight="224.22671515526275" />
+      <edge source="T_TOPIC_33" target="W_icelandic" id="956" weight="77.07408089312062" />
+      <edge source="T_TOPIC_33" target="W_whales" id="957" weight="15.406585413636432" />
+      <edge source="T_TOPIC_33" target="W_number" id="958" weight="14.704444869205277" />
+      <edge source="T_TOPIC_33" target="W_action" id="959" weight="13.625994025467845" />
+      <edge source="T_TOPIC_33" target="W_foreign" id="960" weight="12.093133836325274" />
+      <edge source="T_TOPIC_33" target="W_industry" id="961" weight="11.859560216742784" />
+      <edge source="T_TOPIC_33" target="W_funding" id="962" weight="9.769830172994318" />
+      <edge source="W_action" target="T_TOPIC_34" id="963" weight="57.21400280301493" />
+      <edge source="W_industry" target="T_TOPIC_37" id="964" weight="349.1852455707851" />
+      <edge source="T_TOPIC_34" target="W_419" id="965" weight="184.6597426326452" />
+      <edge source="T_TOPIC_34" target="W_asia" id="966" weight="123.53837206785407" />
+      <edge source="T_TOPIC_34" target="W_africa" id="967" weight="121.33200698633051" />
+      <edge source="T_TOPIC_34" target="W_goal" id="968" weight="75.85812772843164" />
+      <edge source="T_TOPIC_34" target="W_america" id="969" weight="64.93845250571344" />
+      <edge source="W_419" target="T_TOPIC_35" id="970" weight="1.6897965343915333" />
+      <edge source="W_asia" target="T_TOPIC_35" id="971" weight="1.036647167492174" />
+      <edge source="W_africa" target="T_TOPIC_35" id="972" weight="1.9742826447385458" />
+      <edge source="T_TOPIC_37" target="W_green" id="973" weight="569.7161986147033" />
+      <edge source="T_TOPIC_37" target="W_company" id="974" weight="550.5964173142526" />
+      <edge source="T_TOPIC_37" target="W_companies" id="975" weight="462.8184251406546" />
+      <edge source="T_TOPIC_37" target="W_products" id="976" weight="411.09030971257397" />
+      <edge source="T_TOPIC_37" target="W_impact" id="977" weight="330.7294787679988" />
+      <edge source="T_TOPIC_37" target="W_product" id="978" weight="299.82198175053094" />
+      <edge source="T_TOPIC_37" target="W_help" id="979" weight="296.43098227080645" />
+      <edge source="T_TOPIC_37" target="W_solutions" id="980" weight="282.78229793036064" />
+      <edge source="T_TOPIC_37" target="W_value" id="981" weight="272.7185592093083" />
+      <edge source="W_company" target="T_TOPIC_39" id="982" weight="105.88012646270916" />
+      <edge source="T_TOPIC_38" target="W_air" id="983" weight="423.97824719770324" />
+      <edge source="T_TOPIC_38" target="W_quality" id="984" weight="326.143048615618" />
+      <edge source="T_TOPIC_38" target="W_human" id="985" weight="286.3808126976089" />
+      <edge source="T_TOPIC_38" target="W_oecd" id="986" weight="283.15980133875365" />
+      <edge source="T_TOPIC_38" target="W_reduce" id="987" weight="202.65936557603467" />
+      <edge source="T_TOPIC_38" target="W_clean" id="988" weight="153.34562372283423" />
+      <edge source="T_TOPIC_39" target="W_gold" id="989" weight="234.8613514075114" />
+      <edge source="T_TOPIC_39" target="W_mineral" id="990" weight="224.36177727746988" />
+      <edge source="T_TOPIC_39" target="W_minerals" id="991" weight="166.25373634807167" />
+      <edge source="T_TOPIC_39" target="W_exploration" id="992" weight="160.91525129357584" />
+      <edge source="T_TOPIC_39" target="W_metals" id="993" weight="144.4220411388509" />
+      <edge source="T_TOPIC_39" target="W_open" id="994" weight="131.0212560652563" />
+      <edge source="T_TOPIC_39" target="W_000" id="995" weight="129.82386573137404" />
+      <edge source="T_TOPIC_39" target="W_potential" id="996" weight="113.33278611878787" />
+      <edge source="T_TOPIC_39" target="W_process" id="997" weight="108.74650237499134" />
+      <edge source="T_TOPIC_39" target="W_construction" id="998" weight="105.505334804197" />
+      <edge source="T_TOPIC_39" target="W_river" id="999" weight="91.3505889118293" />
+    </edges>
+  </graph>
+</gexf>

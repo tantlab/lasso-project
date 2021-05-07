@@ -1,0 +1,1215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-29">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_00" label="00">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_published" label="published">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_av" label="av">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_nordisk" label="nordisk">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_um" label="um">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_burturkast" label="burturkast">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_14" label="14">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fæst" label="fæst">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tín" label="tín">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kl" label="kl">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_16" label="16">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_velja" label="velja">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ini" label="ini">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_óljóð" label="óljóð">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kommuna" label="kommuna">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sín" label="sín">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_móti" label="móti">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_17" label="17">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fylgja" label="fylgja">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_aðrar" label="aðrar">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_23" label="23">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_house" label="house">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_lógini" label="lógini">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_danish" label="danish">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_stovnin" label="stovnin">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_streymoy" label="streymoy">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_faroe" label="faroe">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_faroese" label="faroese">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_islands" label="islands">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_nordic" label="nordic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sum" label="sum">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fyri" label="fyri">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_council" label="council">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_gásadalur" label="gásadalur">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_common" label="common">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vega" label="vega">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_úr" label="úr">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_environment" label="environment">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_jens" label="jens">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_jensen" label="jensen">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_year" label="year">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_eisini" label="eisini">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sera" label="sera">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_færøerne" label="færøerne">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tað" label="tað">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ikki" label="ikki">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tú" label="tú">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_pdf" label="pdf">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ein" label="ein">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ið" label="ið">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ella" label="ella">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hevur" label="hevur">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_eitt" label="eitt">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hava" label="hava">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kann" label="kann">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vit" label="vit">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_survey" label="survey">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_10" label="10">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_september" label="september">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_okkara" label="okkara">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_report" label="report">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_skulu" label="skulu">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_lesandi" label="lesandi">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_hetta" label="hetta">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_verða" label="verða">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tí" label="tí">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tá" label="tá">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kunnu" label="kunnu">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tey" label="tey">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_enn" label="enn">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_føroyum" label="føroyum">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_seg" label="seg">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_gjørt" label="gjørt">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hon" label="hon">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ár" label="ár">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_sustainability" label="sustainability">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_university" label="university">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_group" label="group">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_sustainable" label="sustainable">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_members" label="members">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_network" label="network">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_activities" label="activities">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_education" label="education">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_global" label="global">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_future" label="future">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_well" label="well">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_climate" label="climate">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_action" label="action">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2014" label="2014">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_projects" label="projects">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_development" label="development">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2019" label="2019">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_bank" label="bank">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_news" label="news">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_address" label="address">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_javascript" label="javascript">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_protected" label="protected">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_enabled" label="enabled">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_spambots" label="spambots">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_føroyabanka" label="føroyabanka">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_view" label="view">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fish" label="fish">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_mail" label="mail">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_ects" label="ects">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_need" label="need">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_radio" label="radio">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_øll" label="øll">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_2020" label="2020">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_15" label="15">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_fáa" label="fáa">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_føroyar" label="føroyar">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kunning" label="kunning">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_tjóðir" label="tjóðir">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_march" label="march">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_virksemi" label="virksemi">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_standa" label="standa">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_vegna" label="vegna">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_norðurlond" label="norðurlond">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_næstan" label="næstan">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_kommununi" label="kommununi">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_loysnir" label="loysnir">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_havstovuni" label="havstovuni">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_nógv" label="nógv">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_articon" label="articon">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_eg" label="eg">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_salmon" label="salmon">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_business" label="business">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_industry" label="industry">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_bakkafrost" label="bakkafrost">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_environmental" label="environmental">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_people" label="people">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_hvussu" label="hvussu">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_world" label="world">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_economic" label="economic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_one" label="one">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_ocean" label="ocean">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_research" label="research">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_years" label="years">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_part" label="part">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_board" label="board">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_us" label="us">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_energy" label="energy">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_also" label="also">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_growing" label="growing">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_project" label="project">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_atlantic" label="atlantic">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_management" label="management">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="W_undir" label="undir">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="W_eina" label="eina">
+        <attvalues>
+          <attvalue for="0" value="word" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_0" target="W_00" id="0" weight="1.2196722277952678" />
+      <edge source="T_TOPIC_0" target="W_published" id="1" weight="1.0651654709055531" />
+      <edge source="T_TOPIC_0" target="W_av" id="2" weight="1.0452385166122444" />
+      <edge source="T_TOPIC_0" target="W_nordisk" id="3" weight="1.0180462000563424" />
+      <edge source="T_TOPIC_0" target="W_um" id="4" weight="1.0086881105906047" />
+      <edge source="T_TOPIC_0" target="W_burturkast" id="5" weight="1.0052985243720707" />
+      <edge source="T_TOPIC_0" target="W_14" id="6" weight="1.0038822631411124" />
+      <edge source="T_TOPIC_0" target="W_fæst" id="7" weight="0.9564089540723215" />
+      <edge source="T_TOPIC_0" target="W_tín" id="8" weight="0.9561215297677573" />
+      <edge source="T_TOPIC_0" target="W_kl" id="9" weight="0.954622104313071" />
+      <edge source="T_TOPIC_0" target="W_16" id="10" weight="0.9429347813425707" />
+      <edge source="T_TOPIC_0" target="W_velja" id="11" weight="0.9425308334144702" />
+      <edge source="T_TOPIC_0" target="W_ini" id="12" weight="0.9405655532892545" />
+      <edge source="T_TOPIC_0" target="W_óljóð" id="13" weight="0.9372286892737046" />
+      <edge source="T_TOPIC_0" target="W_kommuna" id="14" weight="0.9365244011677079" />
+      <edge source="T_TOPIC_0" target="W_sín" id="15" weight="0.9355086160959614" />
+      <edge source="T_TOPIC_0" target="W_móti" id="16" weight="0.9348259703006961" />
+      <edge source="T_TOPIC_0" target="W_17" id="17" weight="0.9324316969222594" />
+      <edge source="T_TOPIC_0" target="W_fylgja" id="18" weight="0.9321681078907882" />
+      <edge source="T_TOPIC_0" target="W_aðrar" id="19" weight="0.9296658617123139" />
+      <edge source="T_TOPIC_0" target="W_23" id="20" weight="0.9290318037869868" />
+      <edge source="T_TOPIC_0" target="W_house" id="21" weight="0.9284187892565053" />
+      <edge source="T_TOPIC_0" target="W_lógini" id="22" weight="0.9255421199868717" />
+      <edge source="T_TOPIC_0" target="W_danish" id="23" weight="0.9234374024096446" />
+      <edge source="T_TOPIC_0" target="W_stovnin" id="24" weight="0.921712009407019" />
+      <edge source="W_00" target="T_TOPIC_9" id="25" weight="1.3677616354718993" />
+      <edge source="W_published" target="T_TOPIC_7" id="26" weight="2.7486919128535465" />
+      <edge source="W_av" target="T_TOPIC_1" id="27" weight="9.054954474034092" />
+      <edge source="W_av" target="T_TOPIC_2" id="28" weight="2.4340388841882232" />
+      <edge source="W_av" target="T_TOPIC_3" id="29" weight="212.87071494975822" />
+      <edge source="W_av" target="T_TOPIC_4" id="30" weight="2.537221776154481" />
+      <edge source="W_av" target="T_TOPIC_5" id="31" weight="1.5107161094154848" />
+      <edge source="W_av" target="T_TOPIC_6" id="32" weight="14.321443432486607" />
+      <edge source="W_av" target="T_TOPIC_7" id="33" weight="4.90866091173988" />
+      <edge source="W_av" target="T_TOPIC_8" id="34" weight="1.1980923991026518" />
+      <edge source="W_av" target="T_TOPIC_9" id="35" weight="3.1285524490520715" />
+      <edge source="W_av" target="T_TOPIC_10" id="36" weight="4.829821700722255" />
+      <edge source="W_av" target="T_TOPIC_11" id="37" weight="1.6778764837456708" />
+      <edge source="W_av" target="T_TOPIC_12" id="38" weight="1.9799591103244258" />
+      <edge source="W_av" target="T_TOPIC_13" id="39" weight="2.2035426822788047" />
+      <edge source="W_av" target="T_TOPIC_14" id="40" weight="3.158994779093189" />
+      <edge source="W_um" target="T_TOPIC_1" id="41" weight="5.244355091895288" />
+      <edge source="W_um" target="T_TOPIC_2" id="42" weight="2.065163527314631" />
+      <edge source="W_um" target="T_TOPIC_3" id="43" weight="221.14748370352703" />
+      <edge source="W_um" target="T_TOPIC_4" id="44" weight="3.0173033182527442" />
+      <edge source="W_um" target="T_TOPIC_5" id="45" weight="1.7450927760392798" />
+      <edge source="W_um" target="T_TOPIC_6" id="46" weight="14.843456161113226" />
+      <edge source="W_um" target="T_TOPIC_7" id="47" weight="3.9601704194008067" />
+      <edge source="W_um" target="T_TOPIC_8" id="48" weight="1.1096536437447961" />
+      <edge source="W_um" target="T_TOPIC_9" id="49" weight="3.040666713610845" />
+      <edge source="W_um" target="T_TOPIC_10" id="50" weight="5.757757838266677" />
+      <edge source="W_um" target="T_TOPIC_11" id="51" weight="2.0733944194163905" />
+      <edge source="W_um" target="T_TOPIC_12" id="52" weight="1.7446731248584153" />
+      <edge source="W_um" target="T_TOPIC_13" id="53" weight="3.1210113723343644" />
+      <edge source="W_um" target="T_TOPIC_14" id="54" weight="3.1861356376808057" />
+      <edge source="W_kommuna" target="T_TOPIC_7" id="55" weight="1.6887339191115682" />
+      <edge source="T_TOPIC_1" target="W_streymoy" id="56" weight="7.20306389566528" />
+      <edge source="T_TOPIC_1" target="W_faroe" id="57" weight="5.738972071257321" />
+      <edge source="T_TOPIC_1" target="W_faroese" id="58" weight="5.719521634862884" />
+      <edge source="T_TOPIC_1" target="W_islands" id="59" weight="5.533229114055774" />
+      <edge source="T_TOPIC_1" target="W_nordic" id="60" weight="3.880287798151314" />
+      <edge source="T_TOPIC_1" target="W_sum" id="61" weight="3.729697134623553" />
+      <edge source="T_TOPIC_1" target="W_fyri" id="62" weight="3.65182895291356" />
+      <edge source="T_TOPIC_1" target="W_council" id="63" weight="3.4144911095333947" />
+      <edge source="T_TOPIC_1" target="W_gásadalur" id="64" weight="3.4000211118822454" />
+      <edge source="T_TOPIC_1" target="W_common" id="65" weight="3.3830900563208495" />
+      <edge source="T_TOPIC_1" target="W_vega" id="66" weight="3.180686838724628" />
+      <edge source="T_TOPIC_1" target="W_úr" id="67" weight="3.155688054199672" />
+      <edge source="T_TOPIC_1" target="W_environment" id="68" weight="2.91558444105379" />
+      <edge source="T_TOPIC_1" target="W_jens" id="69" weight="2.8814413089190154" />
+      <edge source="T_TOPIC_1" target="W_nature" id="70" weight="2.8460549941019915" />
+      <edge source="T_TOPIC_1" target="W_jensen" id="71" weight="2.7539324719727865" />
+      <edge source="T_TOPIC_1" target="W_year" id="72" weight="2.751528763814419" />
+      <edge source="T_TOPIC_1" target="W_eisini" id="73" weight="2.7131602082425594" />
+      <edge source="T_TOPIC_1" target="W_sera" id="74" weight="2.691208240852409" />
+      <edge source="T_TOPIC_1" target="W_færøerne" id="75" weight="2.6101688215957495" />
+      <edge source="T_TOPIC_1" target="W_tað" id="76" weight="2.4680118524614056" />
+      <edge source="T_TOPIC_1" target="W_ikki" id="77" weight="2.3748465077530048" />
+      <edge source="T_TOPIC_1" target="W_tú" id="78" weight="2.3652913694037303" />
+      <edge source="W_faroe" target="T_TOPIC_2" id="79" weight="1.9202483609321002" />
+      <edge source="W_faroe" target="T_TOPIC_6" id="80" weight="24.418689023995086" />
+      <edge source="W_faroe" target="T_TOPIC_8" id="81" weight="0.957841419120727" />
+      <edge source="W_faroe" target="T_TOPIC_12" id="82" weight="2.088724419288088" />
+      <edge source="W_faroe" target="T_TOPIC_14" id="83" weight="1.6227347689537983" />
+      <edge source="W_faroese" target="T_TOPIC_2" id="84" weight="1.836259942054348" />
+      <edge source="W_faroese" target="T_TOPIC_6" id="85" weight="34.801456720901086" />
+      <edge source="W_faroese" target="T_TOPIC_7" id="86" weight="1.4678118193019343" />
+      <edge source="W_faroese" target="T_TOPIC_12" id="87" weight="1.3801931782264911" />
+      <edge source="W_faroese" target="T_TOPIC_14" id="88" weight="2.084339645134091" />
+      <edge source="W_islands" target="T_TOPIC_6" id="89" weight="10.563629367035524" />
+      <edge source="W_islands" target="T_TOPIC_12" id="90" weight="2.1139652653548864" />
+      <edge source="W_nordic" target="T_TOPIC_5" id="91" weight="4.667788299121378" />
+      <edge source="W_sum" target="T_TOPIC_2" id="92" weight="1.5879299729616552" />
+      <edge source="W_sum" target="T_TOPIC_3" id="93" weight="215.38756327966658" />
+      <edge source="W_sum" target="T_TOPIC_4" id="94" weight="3.2959823823283365" />
+      <edge source="W_sum" target="T_TOPIC_5" id="95" weight="1.7732251565585866" />
+      <edge source="W_sum" target="T_TOPIC_6" id="96" weight="10.931915523541264" />
+      <edge source="W_sum" target="T_TOPIC_7" id="97" weight="4.184264829455079" />
+      <edge source="W_sum" target="T_TOPIC_8" id="98" weight="1.2326288837721255" />
+      <edge source="W_sum" target="T_TOPIC_9" id="99" weight="2.863843395412398" />
+      <edge source="W_sum" target="T_TOPIC_10" id="100" weight="6.502792521537713" />
+      <edge source="W_sum" target="T_TOPIC_11" id="101" weight="1.5193146037584404" />
+      <edge source="W_sum" target="T_TOPIC_12" id="102" weight="1.8742770731155705" />
+      <edge source="W_sum" target="T_TOPIC_13" id="103" weight="2.4927180496675962" />
+      <edge source="W_sum" target="T_TOPIC_14" id="104" weight="3.0996949805336516" />
+      <edge source="W_fyri" target="T_TOPIC_2" id="105" weight="1.9396210293865728" />
+      <edge source="W_fyri" target="T_TOPIC_3" id="106" weight="198.86666063448766" />
+      <edge source="W_fyri" target="T_TOPIC_4" id="107" weight="2.514928003257105" />
+      <edge source="W_fyri" target="T_TOPIC_5" id="108" weight="2.120456633898713" />
+      <edge source="W_fyri" target="T_TOPIC_6" id="109" weight="13.66600481173835" />
+      <edge source="W_fyri" target="T_TOPIC_7" id="110" weight="3.9162367147110726" />
+      <edge source="W_fyri" target="T_TOPIC_8" id="111" weight="1.191970448329199" />
+      <edge source="W_fyri" target="T_TOPIC_9" id="112" weight="2.3659912682877935" />
+      <edge source="W_fyri" target="T_TOPIC_10" id="113" weight="4.549977226526483" />
+      <edge source="W_fyri" target="T_TOPIC_11" id="114" weight="2.068255604707723" />
+      <edge source="W_fyri" target="T_TOPIC_12" id="115" weight="1.8768491660167839" />
+      <edge source="W_fyri" target="T_TOPIC_13" id="116" weight="3.538623613748503" />
+      <edge source="W_fyri" target="T_TOPIC_14" id="117" weight="3.6443680480730087" />
+      <edge source="W_úr" target="T_TOPIC_14" id="118" weight="1.3332455904217053" />
+      <edge source="W_environment" target="T_TOPIC_12" id="119" weight="1.3433161008574297" />
+      <edge source="W_environment" target="T_TOPIC_13" id="120" weight="2.1719288232393623" />
+      <edge source="W_eisini" target="T_TOPIC_3" id="121" weight="55.48226643078501" />
+      <edge source="W_eisini" target="T_TOPIC_4" id="122" weight="1.1286489263499886" />
+      <edge source="W_eisini" target="T_TOPIC_7" id="123" weight="1.741472676120418" />
+      <edge source="W_eisini" target="T_TOPIC_8" id="124" weight="0.9599632484701546" />
+      <edge source="W_eisini" target="T_TOPIC_9" id="125" weight="1.2732739254964758" />
+      <edge source="W_eisini" target="T_TOPIC_10" id="126" weight="2.299509118119635" />
+      <edge source="W_eisini" target="T_TOPIC_13" id="127" weight="1.37812077074629" />
+      <edge source="W_eisini" target="T_TOPIC_14" id="128" weight="1.638380790066278" />
+      <edge source="W_tað" target="T_TOPIC_2" id="129" weight="1.4838399417129862" />
+      <edge source="W_tað" target="T_TOPIC_3" id="130" weight="100.52151280580132" />
+      <edge source="W_tað" target="T_TOPIC_4" id="131" weight="1.8724768142154056" />
+      <edge source="W_tað" target="T_TOPIC_7" id="132" weight="2.766489986015438" />
+      <edge source="W_tað" target="T_TOPIC_8" id="133" weight="0.9569267821480181" />
+      <edge source="W_tað" target="T_TOPIC_9" id="134" weight="1.7270578243495542" />
+      <edge source="W_tað" target="T_TOPIC_10" id="135" weight="3.835174930301294" />
+      <edge source="W_tað" target="T_TOPIC_11" id="136" weight="1.3926386254718994" />
+      <edge source="W_tað" target="T_TOPIC_13" id="137" weight="2.112621437791656" />
+      <edge source="W_tað" target="T_TOPIC_14" id="138" weight="2.479794264018816" />
+      <edge source="W_ikki" target="T_TOPIC_2" id="139" weight="1.3881200086535583" />
+      <edge source="W_ikki" target="T_TOPIC_3" id="140" weight="79.69718920723368" />
+      <edge source="W_ikki" target="T_TOPIC_4" id="141" weight="1.4866441936765085" />
+      <edge source="W_ikki" target="T_TOPIC_5" id="142" weight="1.4306746681113491" />
+      <edge source="W_ikki" target="T_TOPIC_7" id="143" weight="2.6382652690834285" />
+      <edge source="W_ikki" target="T_TOPIC_8" id="144" weight="0.997597966450763" />
+      <edge source="W_ikki" target="T_TOPIC_9" id="145" weight="1.4697365770141717" />
+      <edge source="W_ikki" target="T_TOPIC_10" id="146" weight="2.193390979637646" />
+      <edge source="W_ikki" target="T_TOPIC_11" id="147" weight="1.304484527896087" />
+      <edge source="W_ikki" target="T_TOPIC_14" id="148" weight="1.3392636975507017" />
+      <edge source="W_tú" target="T_TOPIC_2" id="149" weight="1.8796660055655585" />
+      <edge source="W_tú" target="T_TOPIC_4" id="150" weight="1.5951375178484237" />
+      <edge source="W_tú" target="T_TOPIC_9" id="151" weight="1.2539435507778565" />
+      <edge source="W_tú" target="T_TOPIC_13" id="152" weight="1.3825522906275047" />
+      <edge source="T_TOPIC_2" target="W_pdf" id="153" weight="2.2206908241133827" />
+      <edge source="T_TOPIC_2" target="W_ein" id="154" weight="1.9513626365279473" />
+      <edge source="T_TOPIC_2" target="W_ið" id="155" weight="1.5543922676788744" />
+      <edge source="T_TOPIC_2" target="W_ella" id="156" weight="1.4301740359934771" />
+      <edge source="T_TOPIC_2" target="W_hevur" id="157" weight="1.4023999418040842" />
+      <edge source="T_TOPIC_2" target="W_eitt" id="158" weight="1.3687695357704295" />
+      <edge source="T_TOPIC_2" target="W_hava" id="159" weight="1.2998737343645208" />
+      <edge source="T_TOPIC_2" target="W_kann" id="160" weight="1.2648935024611285" />
+      <edge source="T_TOPIC_2" target="W_vit" id="161" weight="1.2249357796455373" />
+      <edge source="T_TOPIC_2" target="W_survey" id="162" weight="1.1893164993602112" />
+      <edge source="T_TOPIC_2" target="W_10" id="163" weight="1.1720851218478607" />
+      <edge source="T_TOPIC_2" target="W_september" id="164" weight="1.1510210710814794" />
+      <edge source="T_TOPIC_2" target="W_okkara" id="165" weight="1.1470857930671499" />
+      <edge source="T_TOPIC_2" target="W_report" id="166" weight="1.146813066217664" />
+      <edge source="T_TOPIC_2" target="W_skulu" id="167" weight="1.1463436121093342" />
+      <edge source="T_TOPIC_2" target="W_lesandi" id="168" weight="1.1421426411804705" />
+      <edge source="W_pdf" target="T_TOPIC_6" id="169" weight="33.086975611606874" />
+      <edge source="W_pdf" target="T_TOPIC_14" id="170" weight="1.5182130284842599" />
+      <edge source="W_ein" target="T_TOPIC_3" id="171" weight="89.63043861938607" />
+      <edge source="W_ein" target="T_TOPIC_4" id="172" weight="1.9479145349715714" />
+      <edge source="W_ein" target="T_TOPIC_7" id="173" weight="2.914778407237658" />
+      <edge source="W_ein" target="T_TOPIC_9" id="174" weight="1.540120218594673" />
+      <edge source="W_ein" target="T_TOPIC_10" id="175" weight="2.604561630225789" />
+      <edge source="W_ein" target="T_TOPIC_13" id="176" weight="1.3406979708291282" />
+      <edge source="W_ein" target="T_TOPIC_14" id="177" weight="1.9760723977891868" />
+      <edge source="W_ið" target="T_TOPIC_3" id="178" weight="90.37051773226872" />
+      <edge source="W_ið" target="T_TOPIC_4" id="179" weight="1.6512795239886002" />
+      <edge source="W_ið" target="T_TOPIC_7" id="180" weight="2.006544000979553" />
+      <edge source="W_ið" target="T_TOPIC_9" id="181" weight="1.558779239951098" />
+      <edge source="W_ið" target="T_TOPIC_10" id="182" weight="3.3429775928123466" />
+      <edge source="W_ið" target="T_TOPIC_11" id="183" weight="1.311063644504141" />
+      <edge source="W_ið" target="T_TOPIC_13" id="184" weight="1.7119544516578922" />
+      <edge source="W_ið" target="T_TOPIC_14" id="185" weight="1.9071594061533053" />
+      <edge source="W_ella" target="T_TOPIC_3" id="186" weight="74.29772137298184" />
+      <edge source="W_ella" target="T_TOPIC_4" id="187" weight="1.5084474187360484" />
+      <edge source="W_ella" target="T_TOPIC_9" id="188" weight="1.4509682755936897" />
+      <edge source="W_ella" target="T_TOPIC_12" id="189" weight="1.3741323264648728" />
+      <edge source="W_ella" target="T_TOPIC_13" id="190" weight="1.385246199118514" />
+      <edge source="W_hevur" target="T_TOPIC_3" id="191" weight="96.66088351934741" />
+      <edge source="W_hevur" target="T_TOPIC_4" id="192" weight="1.8106094774358488" />
+      <edge source="W_hevur" target="T_TOPIC_6" id="193" weight="8.426115188906577" />
+      <edge source="W_hevur" target="T_TOPIC_7" id="194" weight="2.492774057642061" />
+      <edge source="W_hevur" target="T_TOPIC_9" id="195" weight="2.0558135119738337" />
+      <edge source="W_hevur" target="T_TOPIC_10" id="196" weight="3.0380850939995923" />
+      <edge source="W_hevur" target="T_TOPIC_11" id="197" weight="1.4105777470659888" />
+      <edge source="W_hevur" target="T_TOPIC_14" id="198" weight="2.620657131412567" />
+      <edge source="W_eitt" target="T_TOPIC_3" id="199" weight="55.27961026621502" />
+      <edge source="W_eitt" target="T_TOPIC_4" id="200" weight="1.6230998374394094" />
+      <edge source="W_eitt" target="T_TOPIC_9" id="201" weight="1.557244749943608" />
+      <edge source="W_eitt" target="T_TOPIC_10" id="202" weight="2.609641773472335" />
+      <edge source="W_eitt" target="T_TOPIC_14" id="203" weight="1.5143805508338428" />
+      <edge source="W_hava" target="T_TOPIC_3" id="204" weight="98.77273146544067" />
+      <edge source="W_hava" target="T_TOPIC_4" id="205" weight="1.4197827774757756" />
+      <edge source="W_hava" target="T_TOPIC_7" id="206" weight="2.2967776286033743" />
+      <edge source="W_hava" target="T_TOPIC_8" id="207" weight="0.977795259221967" />
+      <edge source="W_hava" target="T_TOPIC_9" id="208" weight="1.818997088637159" />
+      <edge source="W_hava" target="T_TOPIC_10" id="209" weight="4.7246445384651015" />
+      <edge source="W_hava" target="T_TOPIC_11" id="210" weight="1.4180456842983706" />
+      <edge source="W_hava" target="T_TOPIC_13" id="211" weight="1.4054034162614046" />
+      <edge source="W_hava" target="T_TOPIC_14" id="212" weight="2.069971394162219" />
+      <edge source="W_kann" target="T_TOPIC_3" id="213" weight="59.58025805925067" />
+      <edge source="W_kann" target="T_TOPIC_4" id="214" weight="1.6607422625414991" />
+      <edge source="W_kann" target="T_TOPIC_5" id="215" weight="1.4282761110087334" />
+      <edge source="W_kann" target="T_TOPIC_7" id="216" weight="1.5964705311181375" />
+      <edge source="W_kann" target="T_TOPIC_9" id="217" weight="1.6813741293488471" />
+      <edge source="W_kann" target="T_TOPIC_10" id="218" weight="2.0999187686503102" />
+      <edge source="W_kann" target="T_TOPIC_13" id="219" weight="1.2611373642943542" />
+      <edge source="W_vit" target="T_TOPIC_3" id="220" weight="103.37234266696292" />
+      <edge source="W_vit" target="T_TOPIC_4" id="221" weight="1.6689872693290164" />
+      <edge source="W_vit" target="T_TOPIC_5" id="222" weight="1.5997370932394566" />
+      <edge source="W_vit" target="T_TOPIC_7" id="223" weight="2.438350978185293" />
+      <edge source="W_vit" target="T_TOPIC_8" id="224" weight="1.1678581927491785" />
+      <edge source="W_vit" target="T_TOPIC_9" id="225" weight="1.7912954608419813" />
+      <edge source="W_vit" target="T_TOPIC_10" id="226" weight="8.281436558055551" />
+      <edge source="W_vit" target="T_TOPIC_11" id="227" weight="1.675872622197353" />
+      <edge source="W_vit" target="T_TOPIC_13" id="228" weight="1.965474833542837" />
+      <edge source="W_vit" target="T_TOPIC_14" id="229" weight="1.547067910005146" />
+      <edge source="W_10" target="T_TOPIC_6" id="230" weight="7.867278540469717" />
+      <edge source="W_september" target="T_TOPIC_6" id="231" weight="8.221395673783821" />
+      <edge source="W_okkara" target="T_TOPIC_3" id="232" weight="48.561534375415675" />
+      <edge source="W_okkara" target="T_TOPIC_7" id="233" weight="1.7375275169795743" />
+      <edge source="W_okkara" target="T_TOPIC_8" id="234" weight="1.0741839419202013" />
+      <edge source="W_okkara" target="T_TOPIC_10" id="235" weight="2.91956544636401" />
+      <edge source="W_okkara" target="T_TOPIC_13" id="236" weight="1.7836640959039065" />
+      <edge source="W_okkara" target="T_TOPIC_14" id="237" weight="1.5130643664644603" />
+      <edge source="W_skulu" target="T_TOPIC_3" id="238" weight="41.619475311779084" />
+      <edge source="W_skulu" target="T_TOPIC_7" id="239" weight="1.5204907261536214" />
+      <edge source="W_skulu" target="T_TOPIC_8" id="240" weight="0.9993943211890955" />
+      <edge source="W_skulu" target="T_TOPIC_10" id="241" weight="2.0046819666121976" />
+      <edge source="W_skulu" target="T_TOPIC_13" id="242" weight="1.525009541183931" />
+      <edge source="T_TOPIC_3" target="W_hetta" id="243" weight="63.778683748603555" />
+      <edge source="T_TOPIC_3" target="W_verða" id="244" weight="61.404153590625" />
+      <edge source="T_TOPIC_3" target="W_tí" id="245" weight="52.58389189539106" />
+      <edge source="T_TOPIC_3" target="W_tá" id="246" weight="38.62636842336948" />
+      <edge source="T_TOPIC_3" target="W_kunnu" id="247" weight="37.69374969694405" />
+      <edge source="T_TOPIC_3" target="W_tey" id="248" weight="36.821724507769254" />
+      <edge source="T_TOPIC_3" target="W_enn" id="249" weight="36.66424372135192" />
+      <edge source="T_TOPIC_3" target="W_føroyum" id="250" weight="34.9782526586507" />
+      <edge source="W_hetta" target="T_TOPIC_4" id="251" weight="1.555828348241436" />
+      <edge source="W_hetta" target="T_TOPIC_7" id="252" weight="2.887734615608978" />
+      <edge source="W_hetta" target="T_TOPIC_8" id="253" weight="1.152665245088068" />
+      <edge source="W_hetta" target="T_TOPIC_9" id="254" weight="1.5714049944899025" />
+      <edge source="W_hetta" target="T_TOPIC_10" id="255" weight="2.3853184063939494" />
+      <edge source="W_hetta" target="T_TOPIC_13" id="256" weight="1.6676935702515043" />
+      <edge source="W_hetta" target="T_TOPIC_14" id="257" weight="1.4685263820246197" />
+      <edge source="W_verða" target="T_TOPIC_4" id="258" weight="1.4716585201537293" />
+      <edge source="W_verða" target="T_TOPIC_9" id="259" weight="1.475927512537466" />
+      <edge source="W_verða" target="T_TOPIC_13" id="260" weight="1.8137104220702056" />
+      <edge source="W_verða" target="T_TOPIC_14" id="261" weight="1.2864848349338915" />
+      <edge source="W_tí" target="T_TOPIC_4" id="262" weight="1.301986810286939" />
+      <edge source="W_tí" target="T_TOPIC_7" id="263" weight="1.861867512246461" />
+      <edge source="W_tí" target="T_TOPIC_9" id="264" weight="1.2367451884071992" />
+      <edge source="W_tí" target="T_TOPIC_10" id="265" weight="2.3112033818057385" />
+      <edge source="W_tí" target="T_TOPIC_13" id="266" weight="1.7172154319126078" />
+      <edge source="W_tí" target="T_TOPIC_14" id="267" weight="1.6082941671445377" />
+      <edge source="W_tá" target="T_TOPIC_4" id="268" weight="1.3881735844577037" />
+      <edge source="W_tá" target="T_TOPIC_10" id="269" weight="2.2029960371476807" />
+      <edge source="W_kunnu" target="T_TOPIC_8" id="270" weight="1.0415742784200939" />
+      <edge source="W_kunnu" target="T_TOPIC_10" id="271" weight="1.9865883286392436" />
+      <edge source="W_tey" target="T_TOPIC_9" id="272" weight="1.2229083753794807" />
+      <edge source="W_enn" target="T_TOPIC_4" id="273" weight="1.2624252448188826" />
+      <edge source="W_enn" target="T_TOPIC_9" id="274" weight="1.3181517948674724" />
+      <edge source="W_enn" target="T_TOPIC_10" id="275" weight="2.0230942097622973" />
+      <edge source="W_føroyum" target="T_TOPIC_10" id="276" weight="2.256906783185203" />
+      <edge source="W_føroyum" target="T_TOPIC_14" id="277" weight="1.5079309940110452" />
+      <edge source="T_TOPIC_4" target="W_seg" id="278" weight="1.2784024466277646" />
+      <edge source="T_TOPIC_4" target="W_gjørt" id="279" weight="1.248992237525927" />
+      <edge source="T_TOPIC_4" target="W_hon" id="280" weight="1.1962320752932873" />
+      <edge source="T_TOPIC_4" target="W_ár" id="281" weight="1.1859323524367669" />
+      <edge source="W_seg" target="T_TOPIC_13" id="282" weight="1.282072478537324" />
+      <edge source="W_seg" target="T_TOPIC_14" id="283" weight="1.4064681439733944" />
+      <edge source="W_hon" target="T_TOPIC_7" id="284" weight="1.5179857040849944" />
+      <edge source="W_hon" target="T_TOPIC_14" id="285" weight="1.4092598098917022" />
+      <edge source="W_ár" target="T_TOPIC_9" id="286" weight="1.4114298680012785" />
+      <edge source="T_TOPIC_5" target="W_sustainability" id="287" weight="3.9363527175586257" />
+      <edge source="T_TOPIC_5" target="W_university" id="288" weight="3.613769485915408" />
+      <edge source="T_TOPIC_5" target="W_group" id="289" weight="3.4181668623661086" />
+      <edge source="T_TOPIC_5" target="W_sustainable" id="290" weight="3.301107621001342" />
+      <edge source="T_TOPIC_5" target="W_members" id="291" weight="3.0876783259287675" />
+      <edge source="T_TOPIC_5" target="W_network" id="292" weight="2.991215657769834" />
+      <edge source="T_TOPIC_5" target="W_activities" id="293" weight="1.9694445387606276" />
+      <edge source="T_TOPIC_5" target="W_education" id="294" weight="1.9019766557581232" />
+      <edge source="T_TOPIC_5" target="W_global" id="295" weight="1.7683698490291913" />
+      <edge source="T_TOPIC_5" target="W_future" id="296" weight="1.7574740809388267" />
+      <edge source="T_TOPIC_5" target="W_well" id="297" weight="1.7038990887964762" />
+      <edge source="T_TOPIC_5" target="W_climate" id="298" weight="1.6913249464065976" />
+      <edge source="T_TOPIC_5" target="W_action" id="299" weight="1.634755576096983" />
+      <edge source="T_TOPIC_5" target="W_2014" id="300" weight="1.591914495142917" />
+      <edge source="T_TOPIC_5" target="W_projects" id="301" weight="1.5765438483856202" />
+      <edge source="T_TOPIC_5" target="W_development" id="302" weight="1.4884626924857387" />
+      <edge source="T_TOPIC_5" target="W_2019" id="303" weight="1.4679785000457177" />
+      <edge source="W_sustainability" target="T_TOPIC_11" id="304" weight="2.073751103423884" />
+      <edge source="W_activities" target="T_TOPIC_13" id="305" weight="2.0004826460912404" />
+      <edge source="W_projects" target="T_TOPIC_12" id="306" weight="1.5507515691096037" />
+      <edge source="W_2019" target="T_TOPIC_11" id="307" weight="1.6093022981400935" />
+      <edge source="T_TOPIC_6" target="W_bank" id="308" weight="15.128036129666024" />
+      <edge source="T_TOPIC_6" target="W_news" id="309" weight="9.335675490779105" />
+      <edge source="T_TOPIC_6" target="W_address" id="310" weight="9.138007600253463" />
+      <edge source="T_TOPIC_6" target="W_javascript" id="311" weight="9.05811434502856" />
+      <edge source="T_TOPIC_6" target="W_protected" id="312" weight="8.990464922798363" />
+      <edge source="T_TOPIC_6" target="W_enabled" id="313" weight="8.937963087871251" />
+      <edge source="T_TOPIC_6" target="W_spambots" id="314" weight="8.839771008083057" />
+      <edge source="T_TOPIC_6" target="W_føroyabanka" id="315" weight="8.828860166872076" />
+      <edge source="T_TOPIC_6" target="W_view" id="316" weight="8.74230117513692" />
+      <edge source="T_TOPIC_6" target="W_fish" id="317" weight="8.70637171990325" />
+      <edge source="T_TOPIC_6" target="W_mail" id="318" weight="8.496582693684308" />
+      <edge source="T_TOPIC_6" target="W_ects" id="319" weight="8.467454354861443" />
+      <edge source="T_TOPIC_6" target="W_need" id="320" weight="8.216212092244437" />
+      <edge source="T_TOPIC_6" target="W_radio" id="321" weight="8.212810606405828" />
+      <edge source="W_address" target="T_TOPIC_11" id="322" weight="1.2352635198769668" />
+      <edge source="W_enabled" target="T_TOPIC_12" id="323" weight="1.4469332353052071" />
+      <edge source="W_fish" target="T_TOPIC_11" id="324" weight="1.1985817153925158" />
+      <edge source="W_mail" target="T_TOPIC_12" id="325" weight="1.4811940578722576" />
+      <edge source="T_TOPIC_7" target="W_øll" id="326" weight="1.7314383604857855" />
+      <edge source="T_TOPIC_7" target="W_2020" id="327" weight="1.5336715580068017" />
+      <edge source="T_TOPIC_7" target="W_15" id="328" weight="1.5141560890618777" />
+      <edge source="T_TOPIC_7" target="W_fáa" id="329" weight="1.4812342086201002" />
+      <edge source="W_2020" target="T_TOPIC_11" id="330" weight="1.3196342465220536" />
+      <edge source="W_fáa" target="T_TOPIC_10" id="331" weight="1.8756178359188584" />
+      <edge source="T_TOPIC_8" target="W_føroyar" id="332" weight="1.0028428722858216" />
+      <edge source="T_TOPIC_8" target="W_kunning" id="333" weight="0.9977769362615219" />
+      <edge source="T_TOPIC_8" target="W_tjóðir" id="334" weight="0.9941337643488097" />
+      <edge source="T_TOPIC_8" target="W_march" id="335" weight="0.992158030790319" />
+      <edge source="T_TOPIC_8" target="W_virksemi" id="336" weight="0.9697057275095432" />
+      <edge source="T_TOPIC_8" target="W_standa" id="337" weight="0.967860223732359" />
+      <edge source="T_TOPIC_8" target="W_vegna" id="338" weight="0.96469150297201" />
+      <edge source="T_TOPIC_8" target="W_norðurlond" id="339" weight="0.9592048898411536" />
+      <edge source="T_TOPIC_8" target="W_næstan" id="340" weight="0.9525002502310816" />
+      <edge source="T_TOPIC_8" target="W_kommununi" id="341" weight="0.9516121215124944" />
+      <edge source="T_TOPIC_8" target="W_loysnir" id="342" weight="0.9499043325169074" />
+      <edge source="T_TOPIC_9" target="W_havstovuni" id="343" weight="1.2727356049624328" />
+      <edge source="T_TOPIC_9" target="W_nógv" id="344" weight="1.204438987484746" />
+      <edge source="T_TOPIC_10" target="W_articon" id="345" weight="2.3149806835661604" />
+      <edge source="T_TOPIC_10" target="W_eg" id="346" weight="1.891499135777122" />
+      <edge source="T_TOPIC_11" target="W_salmon" id="347" weight="3.139903844596164" />
+      <edge source="T_TOPIC_11" target="W_business" id="348" weight="2.0850833935247706" />
+      <edge source="T_TOPIC_11" target="W_industry" id="349" weight="1.7553157355700666" />
+      <edge source="T_TOPIC_11" target="W_bakkafrost" id="350" weight="1.679914855783482" />
+      <edge source="T_TOPIC_11" target="W_environmental" id="351" weight="1.5163257166069966" />
+      <edge source="T_TOPIC_11" target="W_people" id="352" weight="1.4484931370700824" />
+      <edge source="T_TOPIC_11" target="W_hvussu" id="353" weight="1.4186363945125848" />
+      <edge source="T_TOPIC_11" target="W_world" id="354" weight="1.327906889430726" />
+      <edge source="T_TOPIC_11" target="W_economic" id="355" weight="1.3015479781550066" />
+      <edge source="T_TOPIC_11" target="W_one" id="356" weight="1.2724169356758164" />
+      <edge source="W_business" target="T_TOPIC_12" id="357" weight="1.463189415711309" />
+      <edge source="W_industry" target="T_TOPIC_12" id="358" weight="1.8491137308091343" />
+      <edge source="W_environmental" target="T_TOPIC_13" id="359" weight="1.5448863315367243" />
+      <edge source="W_people" target="T_TOPIC_12" id="360" weight="1.3785662907783174" />
+      <edge source="T_TOPIC_12" target="W_ocean" id="361" weight="3.8754377719374378" />
+      <edge source="T_TOPIC_12" target="W_research" id="362" weight="2.7151923103937907" />
+      <edge source="T_TOPIC_12" target="W_years" id="363" weight="1.9671366669629424" />
+      <edge source="T_TOPIC_12" target="W_part" id="364" weight="1.9003371228141197" />
+      <edge source="T_TOPIC_12" target="W_board" id="365" weight="1.7891703999814892" />
+      <edge source="T_TOPIC_12" target="W_us" id="366" weight="1.5700903273473998" />
+      <edge source="T_TOPIC_12" target="W_energy" id="367" weight="1.4590476798303595" />
+      <edge source="T_TOPIC_12" target="W_also" id="368" weight="1.4476466044406988" />
+      <edge source="T_TOPIC_12" target="W_growing" id="369" weight="1.4201569823129714" />
+      <edge source="T_TOPIC_12" target="W_project" id="370" weight="1.3416249134076461" />
+      <edge source="T_TOPIC_13" target="W_atlantic" id="371" weight="1.6249652270697144" />
+      <edge source="T_TOPIC_13" target="W_management" id="372" weight="1.3832983386439528" />
+      <edge source="T_TOPIC_13" target="W_undir" id="373" weight="1.271879066047749" />
+      <edge source="T_TOPIC_14" target="W_eina" id="374" weight="1.3481634624690015" />
+    </edges>
+  </graph>
+</gexf>

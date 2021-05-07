@@ -1,0 +1,1703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_lu" label="lu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_nbim" label="nbim">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_europa" label="europa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iwgia" label="iwgia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_northvolt" label="northvolt">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_boliden" label="boliden">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nordregio" label="nordregio">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_helloscience" label="helloscience">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_usaid" label="usaid">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_un" label="un">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iyil2019" label="iyil2019">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ssb" label="ssb">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_regjeringen" label="regjeringen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_economist" label="economist">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sysselmannen" label="sysselmannen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theguardian" label="theguardian">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rcinet" label="rcinet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_coggle" label="coggle">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unis" label="unis">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hurtigruten" label="hurtigruten">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sios-svalbard" label="sios-svalbard">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_coolgeography" label="coolgeography">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_euractiv" label="euractiv">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bbc" label="bbc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_npolar" label="npolar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_springer" label="springer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_learningarcticbiology" label="learningarcticbiology">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_researchgate" label="researchgate">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_everythingasked" label="everythingasked">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_maritime-executive" label="maritime-executive">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_panda" label="panda">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mdpi" label="mdpi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aeco" label="aeco">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eurasiareview" label="eurasiareview">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sfgate" label="sfgate">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_inhabitat" label="inhabitat">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thenation" label="thenation">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_issuu" label="issuu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mosj" label="mosj">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_independent" label="independent">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cnn" label="cnn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sintef" label="sintef">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iisd" label="iisd">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bigissue" label="bigissue">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_loc" label="loc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_statkraft" label="statkraft">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_livemint" label="livemint">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_norwegianscitechnews" label="norwegianscitechnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_osti" label="osti">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_osce" label="osce">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_seedvault" label="seedvault">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_croptrust" label="croptrust">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fao" label="fao">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sustainability-times" label="sustainability-times">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unsdgadvocates" label="unsdgadvocates">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_filmfreeway" label="filmfreeway">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ksat" label="ksat">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sciencedirect" label="sciencedirect">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_norwaytoday" label="norwaytoday">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_plasticbank" label="plasticbank">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_uit" label="uit">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_riksrevisjonen" label="riksrevisjonen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_globalfestivalofaction" label="globalfestivalofaction">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_svalbardislands" label="svalbardislands">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ssab" label="ssab">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cgdev" label="cgdev">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_morningagclips" label="morningagclips">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unesco" label="unesco">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_icrisat" label="icrisat">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_reddit" label="reddit">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_lifeinnorway" label="lifeinnorway">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticwwf" label="arcticwwf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_newscientist" label="newscientist">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_worldbank" label="worldbank">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_visitsvalbard" label="visitsvalbard">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_goconqr" label="goconqr">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_visitnorway" label="visitnorway">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mby" label="mby">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theconversation" label="theconversation">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_discover-the-world" label="discover-the-world">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_owlcation" label="owlcation">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thebarentsobserver" label="thebarentsobserver">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tripadvisor" label="tripadvisor">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cgiar" label="cgiar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wired" label="wired">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ncdalliance" label="ncdalliance">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalgeographic" label="nationalgeographic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sciencedaily" label="sciencedaily">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_climatechangenews" label="climatechangenews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theatlantic" label="theatlantic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_atlasofthefuture" label="atlasofthefuture">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_archdaily" label="archdaily">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unece" label="unece">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nasa" label="nasa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_oecd-ilibrary" label="oecd-ilibrary">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_scidev" label="scidev">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_livescience" label="livescience">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_pirelli" label="pirelli">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_finnmarksauna" label="finnmarksauna">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_abc" label="abc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_highnorthnews" label="highnorthnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_internetgeography" label="internetgeography">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_quarkexpeditions" label="quarkexpeditions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fni" label="fni">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_innovasjonnorge" label="innovasjonnorge">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mpora" label="mpora">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_news" label="news">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aau" label="aau">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dezeen" label="dezeen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ramboll" label="ramboll">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_routledge" label="routledge">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_smh" label="smh">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aewa" label="aewa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_enn" label="enn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aak" label="aak">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticeconomiccouncil" label="arcticeconomiccouncil">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_faifarms" label="faifarms">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_norlandpark" label="norlandpark">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_reuters" label="reuters">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_albatros-expeditions" label="albatros-expeditions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hyperallergic" label="hyperallergic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bizcommunity" label="bizcommunity">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_salmar" label="salmar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_acces-arctic" label="acces-arctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unilever" label="unilever">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cermaq" label="cermaq">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_politico" label="politico">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_troyhunt" label="troyhunt">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_flysas" label="flysas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ft" label="ft">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_forbes" label="forbes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_traveller" label="traveller">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_greendiary" label="greendiary">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_lifegate" label="lifegate">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_amherst" label="amherst">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_norden" label="norden">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_baltictravelcompany" label="baltictravelcompany">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_slideshare" label="slideshare">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nordicchoicehotels" label="nordicchoicehotels">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theculturetrip" label="theculturetrip">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_oceanwide-expeditions" label="oceanwide-expeditions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_seatrade-cruise" label="seatrade-cruise">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_isaccoemiliani" label="isaccoemiliani">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_infoq" label="infoq">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theexplorer" label="theexplorer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_polar-quest" label="polar-quest">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aimspress" label="aimspress">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tes" label="tes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_woolandthegang" label="woolandthegang">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_foodunfolded" label="foodunfolded">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wilsonart" label="wilsonart">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_youtube" label="youtube">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fiaformulae" label="fiaformulae">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sustainableplatform" label="sustainableplatform">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_borgenproject" label="borgenproject">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_undercurrentnews" label="undercurrentnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_lonelyplanet" label="lonelyplanet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_basecampexplorer" label="basecampexplorer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thewaterfrontrestaurant" label="thewaterfrontrestaurant">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_northland" label="northland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aramex" label="aramex">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_carboncraftgroup" label="carboncraftgroup">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iberdrola" label="iberdrola">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hurtigrutensvalbard" label="hurtigrutensvalbard">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sunchemical" label="sunchemical">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_oecd" label="oecd">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_secretatlastravel" label="secretatlastravel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_booking" label="booking">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_0" target="A_lu" id="0" weight="0.002020207916286204" />
+      <edge source="T_TOPIC_0" target="A_northvolt" id="1" weight="0.004166672836441283" />
+      <edge source="T_TOPIC_0" target="A_boliden" id="2" weight="0.0013605477339595118" />
+      <edge source="T_TOPIC_0" target="A_usaid" id="3" weight="0.0027777833352241703" />
+      <edge source="T_TOPIC_0" target="A_un" id="4" weight="0.06627856838058342" />
+      <edge source="T_TOPIC_0" target="A_theguardian" id="5" weight="0.13381574249690809" />
+      <edge source="T_TOPIC_0" target="A_rcinet" id="6" weight="0.3888703659815517" />
+      <edge source="T_TOPIC_0" target="A_coggle" id="7" weight="0.006666675077341786" />
+      <edge source="T_TOPIC_0" target="A_euractiv" id="8" weight="0.9983654384110571" />
+      <edge source="T_TOPIC_0" target="A_bbc" id="9" weight="0.05172563068146062" />
+      <edge source="T_TOPIC_0" target="A_springer" id="10" weight="0.13132525439964232" />
+      <edge source="T_TOPIC_0" target="A_maritime-executive" id="11" weight="0.9951640672784875" />
+      <edge source="T_TOPIC_0" target="A_panda" id="12" weight="0.042610377276266896" />
+      <edge source="T_TOPIC_0" target="A_eurasiareview" id="13" weight="0.9966305606960398" />
+      <edge source="T_TOPIC_0" target="A_issuu" id="14" weight="0.0031746074208520657" />
+      <edge source="T_TOPIC_0" target="A_sciencedirect" id="15" weight="0.10255836470064589" />
+      <edge source="T_TOPIC_0" target="A_plasticbank" id="16" weight="0.23510482451414252" />
+      <edge source="T_TOPIC_0" target="A_uit" id="17" weight="0.0020833371846911584" />
+      <edge source="T_TOPIC_0" target="A_riksrevisjonen" id="18" weight="0.005128218959347493" />
+      <edge source="T_TOPIC_0" target="A_globalfestivalofaction" id="19" weight="0.002564106370567599" />
+      <edge source="T_TOPIC_0" target="A_icrisat" id="20" weight="0.0013605474664596042" />
+      <edge source="T_TOPIC_0" target="A_arcticwwf" id="21" weight="0.08180549627470414" />
+      <edge source="T_TOPIC_0" target="A_worldbank" id="22" weight="0.0027777798436392203" />
+      <edge source="T_TOPIC_0" target="A_goconqr" id="23" weight="0.0010928968841725027" />
+      <edge source="T_TOPIC_0" target="A_livescience" id="24" weight="0.3252250849442319" />
+      <edge source="T_TOPIC_0" target="A_pirelli" id="25" weight="0.007407410300402851" />
+      <edge source="T_TOPIC_0" target="A_innovasjonnorge" id="26" weight="0.7175202561380724" />
+      <edge source="T_TOPIC_0" target="A_mpora" id="27" weight="0.0013888922553373908" />
+      <edge source="T_TOPIC_0" target="A_enn" id="28" weight="0.0010928982212230543" />
+      <edge source="T_TOPIC_0" target="A_aak" id="29" weight="0.0010929008399834794" />
+      <edge source="T_TOPIC_0" target="A_arcticeconomiccouncil" id="30" weight="0.0019047670218471499" />
+      <edge source="T_TOPIC_0" target="A_nature" id="31" weight="0.008361686925068673" />
+      <edge source="T_TOPIC_0" target="A_norlandpark" id="32" weight="0.0020202080156195203" />
+      <edge source="T_TOPIC_0" target="A_bizcommunity" id="33" weight="0.0017543903167418428" />
+      <edge source="T_TOPIC_0" target="A_cermaq" id="34" weight="0.001025645105124212" />
+      <edge source="T_TOPIC_0" target="A_forbes" id="35" weight="0.999168891693063" />
+      <edge source="T_TOPIC_0" target="A_lifegate" id="36" weight="0.001149427628525036" />
+      <edge source="T_TOPIC_0" target="A_slideshare" id="37" weight="0.003174607523294852" />
+      <edge source="T_TOPIC_0" target="A_tes" id="38" weight="0.0019047650195262696" />
+      <edge source="T_TOPIC_0" target="A_woolandthegang" id="39" weight="0.013333344256370977" />
+      <edge source="T_TOPIC_0" target="A_youtube" id="40" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_0" target="A_fiaformulae" id="41" weight="0.0018018087037287242" />
+      <edge source="T_TOPIC_0" target="A_sustainableplatform" id="42" weight="0.002083337449950631" />
+      <edge source="T_TOPIC_0" target="A_undercurrentnews" id="43" weight="0.0013888914755743771" />
+      <edge source="T_TOPIC_0" target="A_lonelyplanet" id="44" weight="0.0010101026362132582" />
+      <edge source="T_TOPIC_0" target="A_basecampexplorer" id="45" weight="0.0011904774789372886" />
+      <edge source="T_TOPIC_0" target="A_aramex" id="46" weight="0.0019047645512546068" />
+      <edge source="T_TOPIC_0" target="A_sunchemical" id="47" weight="0.0013071910458698642" />
+      <edge source="A_lu" target="T_TOPIC_1" id="48" weight="0.00202020385451652" />
+      <edge source="A_lu" target="T_TOPIC_2" id="49" weight="0.002020204020718837" />
+      <edge source="A_lu" target="T_TOPIC_3" id="50" weight="0.8564018002571905" />
+      <edge source="A_lu" target="T_TOPIC_4" id="51" weight="0.0020202080887981554" />
+      <edge source="A_lu" target="T_TOPIC_5" id="52" weight="0.002020206452696676" />
+      <edge source="A_lu" target="T_TOPIC_6" id="53" weight="0.002020205156715706" />
+      <edge source="A_lu" target="T_TOPIC_7" id="54" weight="0.0020202038804960805" />
+      <edge source="A_lu" target="T_TOPIC_8" id="55" weight="0.002020204213710051" />
+      <edge source="A_lu" target="T_TOPIC_9" id="56" weight="0.002020204144810666" />
+      <edge source="A_lu" target="T_TOPIC_10" id="57" weight="0.0020202071406144177" />
+      <edge source="A_lu" target="T_TOPIC_11" id="58" weight="0.0020202040000611285" />
+      <edge source="A_lu" target="T_TOPIC_12" id="59" weight="0.11733552948257256" />
+      <edge source="A_lu" target="T_TOPIC_13" id="60" weight="0.0020202073865623303" />
+      <edge source="A_lu" target="T_TOPIC_14" id="61" weight="0.002020204004250429" />
+      <edge source="T_TOPIC_1" target="A_northvolt" id="62" weight="0.004166671349376279" />
+      <edge source="T_TOPIC_1" target="A_boliden" id="63" weight="0.0013605463242035995" />
+      <edge source="T_TOPIC_1" target="A_usaid" id="64" weight="0.0027777814900777882" />
+      <edge source="T_TOPIC_1" target="A_coggle" id="65" weight="0.006666671115587487" />
+      <edge source="T_TOPIC_1" target="A_issuu" id="66" weight="0.0031746056231769246" />
+      <edge source="T_TOPIC_1" target="A_uit" id="67" weight="0.002083336451889359" />
+      <edge source="T_TOPIC_1" target="A_riksrevisjonen" id="68" weight="0.005128212045936485" />
+      <edge source="T_TOPIC_1" target="A_globalfestivalofaction" id="69" weight="0.0025641067814000137" />
+      <edge source="T_TOPIC_1" target="A_icrisat" id="70" weight="0.0013605460722560352" />
+      <edge source="T_TOPIC_1" target="A_worldbank" id="71" weight="0.002777780620094457" />
+      <edge source="T_TOPIC_1" target="A_goconqr" id="72" weight="0.0010928974176680913" />
+      <edge source="T_TOPIC_1" target="A_pirelli" id="73" weight="0.007407412185238967" />
+      <edge source="T_TOPIC_1" target="A_innovasjonnorge" id="74" weight="0.003921572263147229" />
+      <edge source="T_TOPIC_1" target="A_mpora" id="75" weight="0.0013888906800583391" />
+      <edge source="T_TOPIC_1" target="A_enn" id="76" weight="0.0010928972322507382" />
+      <edge source="T_TOPIC_1" target="A_aak" id="77" weight="0.0010928975754710003" />
+      <edge source="T_TOPIC_1" target="A_arcticeconomiccouncil" id="78" weight="0.0019047643101372292" />
+      <edge source="T_TOPIC_1" target="A_norlandpark" id="79" weight="0.002020205080624987" />
+      <edge source="T_TOPIC_1" target="A_bizcommunity" id="80" weight="0.00175438894093444" />
+      <edge source="T_TOPIC_1" target="A_cermaq" id="81" weight="0.0010256424974736079" />
+      <edge source="T_TOPIC_1" target="A_lifegate" id="82" weight="0.0011494267832097293" />
+      <edge source="T_TOPIC_1" target="A_slideshare" id="83" weight="0.0031746051265750877" />
+      <edge source="T_TOPIC_1" target="A_tes" id="84" weight="0.001904764176478041" />
+      <edge source="T_TOPIC_1" target="A_woolandthegang" id="85" weight="0.013333346680671453" />
+      <edge source="T_TOPIC_1" target="A_youtube" id="86" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_1" target="A_fiaformulae" id="87" weight="0.0018018038683548106" />
+      <edge source="T_TOPIC_1" target="A_sustainableplatform" id="88" weight="0.0020833351903243188" />
+      <edge source="T_TOPIC_1" target="A_undercurrentnews" id="89" weight="0.0013888903013819928" />
+      <edge source="T_TOPIC_1" target="A_lonelyplanet" id="90" weight="0.0010101016902068027" />
+      <edge source="T_TOPIC_1" target="A_basecampexplorer" id="91" weight="0.0011904768731187956" />
+      <edge source="T_TOPIC_1" target="A_aramex" id="92" weight="0.0019047629038102722" />
+      <edge source="T_TOPIC_1" target="A_sunchemical" id="93" weight="0.0013071903870624463" />
+      <edge source="T_TOPIC_2" target="A_northvolt" id="94" weight="0.00416667106690975" />
+      <edge source="T_TOPIC_2" target="A_boliden" id="95" weight="0.0013605461462361035" />
+      <edge source="T_TOPIC_2" target="A_usaid" id="96" weight="0.0027777811739364377" />
+      <edge source="T_TOPIC_2" target="A_coggle" id="97" weight="0.0066666704319313045" />
+      <edge source="T_TOPIC_2" target="A_issuu" id="98" weight="0.0031746063568556956" />
+      <edge source="T_TOPIC_2" target="A_uit" id="99" weight="0.002083336335643612" />
+      <edge source="T_TOPIC_2" target="A_riksrevisjonen" id="100" weight="0.005128213995493229" />
+      <edge source="T_TOPIC_2" target="A_globalfestivalofaction" id="101" weight="0.002564106463571272" />
+      <edge source="T_TOPIC_2" target="A_icrisat" id="102" weight="0.001360545664810736" />
+      <edge source="T_TOPIC_2" target="A_worldbank" id="103" weight="0.002777780266884296" />
+      <edge source="T_TOPIC_2" target="A_goconqr" id="104" weight="0.0010928973303114767" />
+      <edge source="T_TOPIC_2" target="A_pirelli" id="105" weight="0.007407414037687169" />
+      <edge source="T_TOPIC_2" target="A_innovasjonnorge" id="106" weight="0.003921571970585201" />
+      <edge source="T_TOPIC_2" target="A_mpora" id="107" weight="0.001388890619982081" />
+      <edge source="T_TOPIC_2" target="A_enn" id="108" weight="0.001092897191326347" />
+      <edge source="T_TOPIC_2" target="A_aak" id="109" weight="0.0010928974111119583" />
+      <edge source="T_TOPIC_2" target="A_arcticeconomiccouncil" id="110" weight="0.0019047640770814911" />
+      <edge source="T_TOPIC_2" target="A_norlandpark" id="111" weight="0.002020204507650926" />
+      <edge source="T_TOPIC_2" target="A_bizcommunity" id="112" weight="0.0017543893664878497" />
+      <edge source="T_TOPIC_2" target="A_cermaq" id="113" weight="0.0010256425566245232" />
+      <edge source="T_TOPIC_2" target="A_lifegate" id="114" weight="0.001149426735625318" />
+      <edge source="T_TOPIC_2" target="A_slideshare" id="115" weight="0.0031746050729060567" />
+      <edge source="T_TOPIC_2" target="A_tes" id="116" weight="0.0019047641987124627" />
+      <edge source="T_TOPIC_2" target="A_woolandthegang" id="117" weight="0.01333334247985496" />
+      <edge source="T_TOPIC_2" target="A_youtube" id="118" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_2" target="A_fiaformulae" id="119" weight="0.0018018034464079486" />
+      <edge source="T_TOPIC_2" target="A_sustainableplatform" id="120" weight="0.0020833352797101526" />
+      <edge source="T_TOPIC_2" target="A_undercurrentnews" id="121" weight="0.0013888904420767826" />
+      <edge source="T_TOPIC_2" target="A_lonelyplanet" id="122" weight="0.0010101018019059585" />
+      <edge source="T_TOPIC_2" target="A_basecampexplorer" id="123" weight="0.0011904769358702788" />
+      <edge source="T_TOPIC_2" target="A_aramex" id="124" weight="0.0019047630413243847" />
+      <edge source="T_TOPIC_2" target="A_sunchemical" id="125" weight="0.0013071904286257685" />
+      <edge source="T_TOPIC_3" target="A_nbim" id="126" weight="0.5715181332788513" />
+      <edge source="T_TOPIC_3" target="A_europa" id="127" weight="0.9996705489588313" />
+      <edge source="T_TOPIC_3" target="A_iwgia" id="128" weight="0.9959595900695746" />
+      <edge source="T_TOPIC_3" target="A_northvolt" id="129" weight="0.4683943724387407" />
+      <edge source="T_TOPIC_3" target="A_boliden" id="130" weight="0.5922895068940324" />
+      <edge source="T_TOPIC_3" target="A_nordregio" id="131" weight="0.993137242858796" />
+      <edge source="T_TOPIC_3" target="A_helloscience" id="132" weight="0.854689191523974" />
+      <edge source="T_TOPIC_3" target="A_usaid" id="133" weight="0.5728652858912159" />
+      <edge source="T_TOPIC_3" target="A_un" id="134" weight="0.8378744093431387" />
+      <edge source="T_TOPIC_3" target="A_iyil2019" id="135" weight="0.993427220774964" />
+      <edge source="T_TOPIC_3" target="A_theguardian" id="136" weight="0.030055066326222526" />
+      <edge source="T_TOPIC_3" target="A_coggle" id="137" weight="0.006666682465068784" />
+      <edge source="T_TOPIC_3" target="A_unis" id="138" weight="0.061028986526155966" />
+      <edge source="T_TOPIC_3" target="A_panda" id="139" weight="0.07159701203827276" />
+      <edge source="T_TOPIC_3" target="A_mdpi" id="140" weight="0.24406741286678393" />
+      <edge source="T_TOPIC_3" target="A_sfgate" id="141" weight="0.7795404145804958" />
+      <edge source="T_TOPIC_3" target="A_issuu" id="142" weight="0.003174607723640278" />
+      <edge source="T_TOPIC_3" target="A_iisd" id="143" weight="0.8707840572061684" />
+      <edge source="T_TOPIC_3" target="A_osce" id="144" weight="0.4406458492435588" />
+      <edge source="T_TOPIC_3" target="A_unsdgadvocates" id="145" weight="0.26132560705570124" />
+      <edge source="T_TOPIC_3" target="A_filmfreeway" id="146" weight="0.4399786065991516" />
+      <edge source="T_TOPIC_3" target="A_ksat" id="147" weight="0.2528288797344943" />
+      <edge source="T_TOPIC_3" target="A_plasticbank" id="148" weight="0.26693618831375787" />
+      <edge source="T_TOPIC_3" target="A_uit" id="149" weight="0.0020833426510219236" />
+      <edge source="T_TOPIC_3" target="A_riksrevisjonen" id="150" weight="0.6374276312824413" />
+      <edge source="T_TOPIC_3" target="A_globalfestivalofaction" id="151" weight="0.5333288366055379" />
+      <edge source="T_TOPIC_3" target="A_cgdev" id="152" weight="0.9872145944494205" />
+      <edge source="T_TOPIC_3" target="A_icrisat" id="153" weight="0.0013605477921390893" />
+      <edge source="T_TOPIC_3" target="A_worldbank" id="154" weight="0.8256398336216659" />
+      <edge source="T_TOPIC_3" target="A_goconqr" id="155" weight="0.33752359816123306" />
+      <edge source="T_TOPIC_3" target="A_thebarentsobserver" id="156" weight="0.09422341742354036" />
+      <edge source="T_TOPIC_3" target="A_cgiar" id="157" weight="0.06528881381835834" />
+      <edge source="T_TOPIC_3" target="A_ncdalliance" id="158" weight="0.9988835705295525" />
+      <edge source="T_TOPIC_3" target="A_nationalgeographic" id="159" weight="0.18096179819724184" />
+      <edge source="T_TOPIC_3" target="A_oecd-ilibrary" id="160" weight="0.9951134310935998" />
+      <edge source="T_TOPIC_3" target="A_pirelli" id="161" weight="0.007407414321782277" />
+      <edge source="T_TOPIC_3" target="A_finnmarksauna" id="162" weight="0.16833034689524726" />
+      <edge source="T_TOPIC_3" target="A_abc" id="163" weight="0.034775973995459473" />
+      <edge source="T_TOPIC_3" target="A_highnorthnews" id="164" weight="0.05091569100708825" />
+      <edge source="T_TOPIC_3" target="A_quarkexpeditions" id="165" weight="0.23636640485634683" />
+      <edge source="T_TOPIC_3" target="A_fni" id="166" weight="0.6473476459129421" />
+      <edge source="T_TOPIC_3" target="A_innovasjonnorge" id="167" weight="0.003921584408118893" />
+      <edge source="T_TOPIC_3" target="A_mpora" id="168" weight="0.0013888904901538037" />
+      <edge source="T_TOPIC_3" target="A_aau" id="169" weight="0.7397852002815897" />
+      <edge source="T_TOPIC_3" target="A_ramboll" id="170" weight="0.7389774286547393" />
+      <edge source="T_TOPIC_3" target="A_routledge" id="171" weight="0.9930864072878439" />
+      <edge source="T_TOPIC_3" target="A_enn" id="172" weight="0.0010928984797164765" />
+      <edge source="T_TOPIC_3" target="A_aak" id="173" weight="0.9846994249040772" />
+      <edge source="T_TOPIC_3" target="A_arcticeconomiccouncil" id="174" weight="0.0019047673843735238" />
+      <edge source="T_TOPIC_3" target="A_faifarms" id="175" weight="0.445946395396408" />
+      <edge source="T_TOPIC_3" target="A_norlandpark" id="176" weight="0.7888587198649605" />
+      <edge source="T_TOPIC_3" target="A_reuters" id="177" weight="0.1222269832234714" />
+      <edge source="T_TOPIC_3" target="A_bizcommunity" id="178" weight="0.8680407905175904" />
+      <edge source="T_TOPIC_3" target="A_salmar" id="179" weight="0.07816623813238573" />
+      <edge source="T_TOPIC_3" target="A_acces-arctic" id="180" weight="0.2883182839604331" />
+      <edge source="T_TOPIC_3" target="A_unilever" id="181" weight="0.9944444343305767" />
+      <edge source="T_TOPIC_3" target="A_cermaq" id="182" weight="0.23674693429514235" />
+      <edge source="T_TOPIC_3" target="A_lifegate" id="183" weight="0.6716525885834295" />
+      <edge source="T_TOPIC_3" target="A_slideshare" id="184" weight="0.9555555030610028" />
+      <edge source="T_TOPIC_3" target="A_seatrade-cruise" id="185" weight="0.11122029593638749" />
+      <edge source="T_TOPIC_3" target="A_infoq" id="186" weight="0.9874781211583955" />
+      <edge source="T_TOPIC_3" target="A_tes" id="187" weight="0.28371198347995413" />
+      <edge source="T_TOPIC_3" target="A_woolandthegang" id="188" weight="0.013333357679169424" />
+      <edge source="T_TOPIC_3" target="A_youtube" id="189" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_3" target="A_fiaformulae" id="190" weight="0.001801806638497573" />
+      <edge source="T_TOPIC_3" target="A_sustainableplatform" id="191" weight="0.002083339307672407" />
+      <edge source="T_TOPIC_3" target="A_undercurrentnews" id="192" weight="0.3332977310516593" />
+      <edge source="T_TOPIC_3" target="A_lonelyplanet" id="193" weight="0.0010101021018193536" />
+      <edge source="T_TOPIC_3" target="A_basecampexplorer" id="194" weight="0.0011904769378222253" />
+      <edge source="T_TOPIC_3" target="A_northland" id="195" weight="0.41446489336109055" />
+      <edge source="T_TOPIC_3" target="A_aramex" id="196" weight="0.9733333070324993" />
+      <edge source="T_TOPIC_3" target="A_iberdrola" id="197" weight="0.21484780709544396" />
+      <edge source="T_TOPIC_3" target="A_sunchemical" id="198" weight="0.98169932719002" />
+      <edge source="T_TOPIC_3" target="A_oecd" id="199" weight="0.9915915823113062" />
+      <edge source="T_TOPIC_4" target="A_northvolt" id="200" weight="0.0041666755608167835" />
+      <edge source="T_TOPIC_4" target="A_boliden" id="201" weight="0.001360547702120469" />
+      <edge source="T_TOPIC_4" target="A_usaid" id="202" weight="0.002777784881714212" />
+      <edge source="T_TOPIC_4" target="A_ssb" id="203" weight="0.07965122932861651" />
+      <edge source="T_TOPIC_4" target="A_coggle" id="204" weight="0.9066665226058741" />
+      <edge source="T_TOPIC_4" target="A_sios-svalbard" id="205" weight="0.8078493888339152" />
+      <edge source="T_TOPIC_4" target="A_springer" id="206" weight="0.7716925742187787" />
+      <edge source="T_TOPIC_4" target="A_researchgate" id="207" weight="0.9743095462271896" />
+      <edge source="T_TOPIC_4" target="A_mdpi" id="208" weight="0.4131848556952882" />
+      <edge source="T_TOPIC_4" target="A_aeco" id="209" weight="0.08310344571984618" />
+      <edge source="T_TOPIC_4" target="A_issuu" id="210" weight="0.22074312492757805" />
+      <edge source="T_TOPIC_4" target="A_mosj" id="211" weight="0.99934086527278" />
+      <edge source="T_TOPIC_4" target="A_osti" id="212" weight="0.4853009232186103" />
+      <edge source="T_TOPIC_4" target="A_ksat" id="213" weight="0.20911694127177607" />
+      <edge source="T_TOPIC_4" target="A_sciencedirect" id="214" weight="0.1583480395642863" />
+      <edge source="T_TOPIC_4" target="A_uit" id="215" weight="0.0020833393296017543" />
+      <edge source="T_TOPIC_4" target="A_riksrevisjonen" id="216" weight="0.2959055627092685" />
+      <edge source="T_TOPIC_4" target="A_globalfestivalofaction" id="217" weight="0.0025641096330153565" />
+      <edge source="T_TOPIC_4" target="A_ssab" id="218" weight="0.13599037829239485" />
+      <edge source="T_TOPIC_4" target="A_icrisat" id="219" weight="0.001360547606454077" />
+      <edge source="T_TOPIC_4" target="A_arcticwwf" id="220" weight="0.04271831009555903" />
+      <edge source="T_TOPIC_4" target="A_worldbank" id="221" weight="0.0027777847282849277" />
+      <edge source="T_TOPIC_4" target="A_goconqr" id="222" weight="0.15296672071943218" />
+      <edge source="T_TOPIC_4" target="A_cgiar" id="223" weight="0.2374025971215638" />
+      <edge source="T_TOPIC_4" target="A_nasa" id="224" weight="0.26413716333198733" />
+      <edge source="T_TOPIC_4" target="A_livescience" id="225" weight="0.3415408544985803" />
+      <edge source="T_TOPIC_4" target="A_pirelli" id="226" weight="0.00740743075150241" />
+      <edge source="T_TOPIC_4" target="A_quarkexpeditions" id="227" weight="0.057730201776090215" />
+      <edge source="T_TOPIC_4" target="A_innovasjonnorge" id="228" weight="0.003921576349589947" />
+      <edge source="T_TOPIC_4" target="A_mpora" id="229" weight="0.00138889248035142" />
+      <edge source="T_TOPIC_4" target="A_enn" id="230" weight="0.0010928977637480945" />
+      <edge source="T_TOPIC_4" target="A_aak" id="231" weight="0.0010928976026974627" />
+      <edge source="T_TOPIC_4" target="A_arcticeconomiccouncil" id="232" weight="0.001904767471863818" />
+      <edge source="T_TOPIC_4" target="A_nature" id="233" weight="0.9806168877519623" />
+      <edge source="T_TOPIC_4" target="A_faifarms" id="234" weight="0.02725286870479512" />
+      <edge source="T_TOPIC_4" target="A_norlandpark" id="235" weight="0.002020205972782758" />
+      <edge source="T_TOPIC_4" target="A_bizcommunity" id="236" weight="0.0017543901219947034" />
+      <edge source="T_TOPIC_4" target="A_cermaq" id="237" weight="0.001025642875672452" />
+      <edge source="T_TOPIC_4" target="A_lifegate" id="238" weight="0.001149427402392356" />
+      <edge source="T_TOPIC_4" target="A_slideshare" id="239" weight="0.0031746082038090727" />
+      <edge source="T_TOPIC_4" target="A_aimspress" id="240" weight="0.9961272423018259" />
+      <edge source="T_TOPIC_4" target="A_tes" id="241" weight="0.0019047667653453693" />
+      <edge source="T_TOPIC_4" target="A_woolandthegang" id="242" weight="0.013333340210944932" />
+      <edge source="T_TOPIC_4" target="A_youtube" id="243" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_4" target="A_fiaformulae" id="244" weight="0.9747747283614296" />
+      <edge source="T_TOPIC_4" target="A_sustainableplatform" id="245" weight="0.6437833746904473" />
+      <edge source="T_TOPIC_4" target="A_undercurrentnews" id="246" weight="0.001388891957419111" />
+      <edge source="T_TOPIC_4" target="A_lonelyplanet" id="247" weight="0.0010101028421846423" />
+      <edge source="T_TOPIC_4" target="A_basecampexplorer" id="248" weight="0.0011904770920516514" />
+      <edge source="T_TOPIC_4" target="A_aramex" id="249" weight="0.0019047655803735967" />
+      <edge source="T_TOPIC_4" target="A_sunchemical" id="250" weight="0.001307190963393615" />
+      <edge source="T_TOPIC_5" target="A_nbim" id="251" weight="0.08947709158356117" />
+      <edge source="T_TOPIC_5" target="A_northvolt" id="252" weight="0.47743888348940144" />
+      <edge source="T_TOPIC_5" target="A_boliden" id="253" weight="0.39002337920721974" />
+      <edge source="T_TOPIC_5" target="A_helloscience" id="254" weight="0.14352753997937973" />
+      <edge source="T_TOPIC_5" target="A_usaid" id="255" weight="0.39102352866554085" />
+      <edge source="T_TOPIC_5" target="A_ssb" id="256" weight="0.06928078821545458" />
+      <edge source="T_TOPIC_5" target="A_economist" id="257" weight="0.5033225418697848" />
+      <edge source="T_TOPIC_5" target="A_theguardian" id="258" weight="0.15367526270185738" />
+      <edge source="T_TOPIC_5" target="A_rcinet" id="259" weight="0.05003757881704349" />
+      <edge source="T_TOPIC_5" target="A_coggle" id="260" weight="0.006666682016825024" />
+      <edge source="T_TOPIC_5" target="A_unis" id="261" weight="0.08162467207606243" />
+      <edge source="T_TOPIC_5" target="A_hurtigruten" id="262" weight="0.5533431141020387" />
+      <edge source="T_TOPIC_5" target="A_coolgeography" id="263" weight="0.24677290478575847" />
+      <edge source="T_TOPIC_5" target="A_learningarcticbiology" id="264" weight="0.1118066908939077" />
+      <edge source="T_TOPIC_5" target="A_researchgate" id="265" weight="0.024873612818996672" />
+      <edge source="T_TOPIC_5" target="A_everythingasked" id="266" weight="0.6056353440340327" />
+      <edge source="T_TOPIC_5" target="A_panda" id="267" weight="0.43070866673819613" />
+      <edge source="T_TOPIC_5" target="A_mdpi" id="268" weight="0.20595133694049678" />
+      <edge source="T_TOPIC_5" target="A_thenation" id="269" weight="0.7218976878819238" />
+      <edge source="T_TOPIC_5" target="A_issuu" id="270" weight="0.0031746073964872626" />
+      <edge source="T_TOPIC_5" target="A_independent" id="271" weight="0.16413604404717044" />
+      <edge source="T_TOPIC_5" target="A_cnn" id="272" weight="0.668163093287573" />
+      <edge source="T_TOPIC_5" target="A_bigissue" id="273" weight="0.08299735139002136" />
+      <edge source="T_TOPIC_5" target="A_osce" id="274" weight="0.12657563048333678" />
+      <edge source="T_TOPIC_5" target="A_filmfreeway" id="275" weight="0.5567875562000795" />
+      <edge source="T_TOPIC_5" target="A_ksat" id="276" weight="0.1525343541625631" />
+      <edge source="T_TOPIC_5" target="A_norwaytoday" id="277" weight="0.2585013148935308" />
+      <edge source="T_TOPIC_5" target="A_plasticbank" id="278" weight="0.3410853743714596" />
+      <edge source="T_TOPIC_5" target="A_uit" id="279" weight="0.0020833399639650922" />
+      <edge source="T_TOPIC_5" target="A_riksrevisjonen" id="280" weight="0.00512822113303594" />
+      <edge source="T_TOPIC_5" target="A_globalfestivalofaction" id="281" weight="0.21252812834794382" />
+      <edge source="T_TOPIC_5" target="A_svalbardislands" id="282" weight="0.1600578174523081" />
+      <edge source="T_TOPIC_5" target="A_ssab" id="283" weight="0.5475133885405546" />
+      <edge source="T_TOPIC_5" target="A_unesco" id="284" weight="0.15306875726038327" />
+      <edge source="T_TOPIC_5" target="A_icrisat" id="285" weight="0.0013605484232178243" />
+      <edge source="T_TOPIC_5" target="A_reddit" id="286" weight="0.5189116640691186" />
+      <edge source="T_TOPIC_5" target="A_lifeinnorway" id="287" weight="0.7261125101529955" />
+      <edge source="T_TOPIC_5" target="A_worldbank" id="288" weight="0.0027777817334899636" />
+      <edge source="T_TOPIC_5" target="A_visitsvalbard" id="289" weight="0.999570089866726" />
+      <edge source="T_TOPIC_5" target="A_goconqr" id="290" weight="0.4587623679523706" />
+      <edge source="T_TOPIC_5" target="A_visitnorway" id="291" weight="0.9573292822102224" />
+      <edge source="T_TOPIC_5" target="A_mby" id="292" weight="0.8265962144350321" />
+      <edge source="T_TOPIC_5" target="A_theconversation" id="293" weight="0.031403291237622394" />
+      <edge source="T_TOPIC_5" target="A_discover-the-world" id="294" weight="0.7670919874126544" />
+      <edge source="T_TOPIC_5" target="A_owlcation" id="295" weight="0.11897951481170052" />
+      <edge source="T_TOPIC_5" target="A_thebarentsobserver" id="296" weight="0.2296379413735135" />
+      <edge source="T_TOPIC_5" target="A_tripadvisor" id="297" weight="0.9932367045612721" />
+      <edge source="T_TOPIC_5" target="A_wired" id="298" weight="0.1785096042192874" />
+      <edge source="T_TOPIC_5" target="A_nationalgeographic" id="299" weight="0.8180408851003417" />
+      <edge source="T_TOPIC_5" target="A_sciencedaily" id="300" weight="0.13578516939854215" />
+      <edge source="T_TOPIC_5" target="A_climatechangenews" id="301" weight="0.30558051842930206" />
+      <edge source="T_TOPIC_5" target="A_theatlantic" id="302" weight="0.9877192858158422" />
+      <edge source="T_TOPIC_5" target="A_archdaily" id="303" weight="0.6045066138187135" />
+      <edge source="T_TOPIC_5" target="A_nasa" id="304" weight="0.1278815404500599" />
+      <edge source="T_TOPIC_5" target="A_pirelli" id="305" weight="0.007407410500236064" />
+      <edge source="T_TOPIC_5" target="A_finnmarksauna" id="306" weight="0.8252970924497597" />
+      <edge source="T_TOPIC_5" target="A_abc" id="307" weight="0.7532158394683092" />
+      <edge source="T_TOPIC_5" target="A_highnorthnews" id="308" weight="0.3785054968930913" />
+      <edge source="T_TOPIC_5" target="A_internetgeography" id="309" weight="0.6945931529780704" />
+      <edge source="T_TOPIC_5" target="A_quarkexpeditions" id="310" weight="0.5014919761960296" />
+      <edge source="T_TOPIC_5" target="A_fni" id="311" weight="0.21575431328335046" />
+      <edge source="T_TOPIC_5" target="A_innovasjonnorge" id="312" weight="0.003921583118036956" />
+      <edge source="T_TOPIC_5" target="A_mpora" id="313" weight="0.593177666269834" />
+      <edge source="T_TOPIC_5" target="A_aau" id="314" weight="0.07053966558039114" />
+      <edge source="T_TOPIC_5" target="A_dezeen" id="315" weight="0.6142427438745421" />
+      <edge source="T_TOPIC_5" target="A_ramboll" id="316" weight="0.2550455497112706" />
+      <edge source="T_TOPIC_5" target="A_smh" id="317" weight="0.4128739887909503" />
+      <edge source="T_TOPIC_5" target="A_enn" id="318" weight="0.001092899261147225" />
+      <edge source="T_TOPIC_5" target="A_aak" id="319" weight="0.0010928987182018883" />
+      <edge source="T_TOPIC_5" target="A_arcticeconomiccouncil" id="320" weight="0.33811461008702787" />
+      <edge source="T_TOPIC_5" target="A_faifarms" id="321" weight="0.15096537523414685" />
+      <edge source="T_TOPIC_5" target="A_norlandpark" id="322" weight="0.1848786005458146" />
+      <edge source="T_TOPIC_5" target="A_albatros-expeditions" id="323" weight="0.5127069059755969" />
+      <edge source="T_TOPIC_5" target="A_hyperallergic" id="324" weight="0.3541566398780721" />
+      <edge source="T_TOPIC_5" target="A_bizcommunity" id="325" weight="0.0017543924440314473" />
+      <edge source="T_TOPIC_5" target="A_salmar" id="326" weight="0.4417282712815479" />
+      <edge source="T_TOPIC_5" target="A_cermaq" id="327" weight="0.7098206537206837" />
+      <edge source="T_TOPIC_5" target="A_politico" id="328" weight="0.49876178124586723" />
+      <edge source="T_TOPIC_5" target="A_troyhunt" id="329" weight="0.9988448826817683" />
+      <edge source="T_TOPIC_5" target="A_flysas" id="330" weight="0.9950089052639902" />
+      <edge source="T_TOPIC_5" target="A_ft" id="331" weight="0.9983739797225138" />
+      <edge source="T_TOPIC_5" target="A_traveller" id="332" weight="0.9314734215407805" />
+      <edge source="T_TOPIC_5" target="A_lifegate" id="333" weight="0.2347903212159526" />
+      <edge source="T_TOPIC_5" target="A_amherst" id="334" weight="0.997246799734869" />
+      <edge source="T_TOPIC_5" target="A_baltictravelcompany" id="335" weight="0.98974357765235" />
+      <edge source="T_TOPIC_5" target="A_slideshare" id="336" weight="0.003174606695437158" />
+      <edge source="T_TOPIC_5" target="A_nordicchoicehotels" id="337" weight="0.9945097968035728" />
+      <edge source="T_TOPIC_5" target="A_theculturetrip" id="338" weight="0.9959942703708806" />
+      <edge source="T_TOPIC_5" target="A_seatrade-cruise" id="339" weight="0.7167296961336983" />
+      <edge source="T_TOPIC_5" target="A_isaccoemiliani" id="340" weight="0.9937360073109074" />
+      <edge source="T_TOPIC_5" target="A_infoq" id="341" weight="0.009323842367082377" />
+      <edge source="T_TOPIC_5" target="A_theexplorer" id="342" weight="0.9963541601187852" />
+      <edge source="T_TOPIC_5" target="A_tes" id="343" weight="0.001904767402788852" />
+      <edge source="T_TOPIC_5" target="A_woolandthegang" id="344" weight="0.8133331193507836" />
+      <edge source="T_TOPIC_5" target="A_foodunfolded" id="345" weight="0.997400180793318" />
+      <edge source="T_TOPIC_5" target="A_youtube" id="346" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_5" target="A_fiaformulae" id="347" weight="0.0018018064848501958" />
+      <edge source="T_TOPIC_5" target="A_sustainableplatform" id="348" weight="0.3291332516446619" />
+      <edge source="T_TOPIC_5" target="A_undercurrentnews" id="349" weight="0.24726375117605195" />
+      <edge source="T_TOPIC_5" target="A_lonelyplanet" id="350" weight="0.9858585668602357" />
+      <edge source="T_TOPIC_5" target="A_basecampexplorer" id="351" weight="0.9833333130528569" />
+      <edge source="T_TOPIC_5" target="A_northland" id="352" weight="0.5837257789934763" />
+      <edge source="T_TOPIC_5" target="A_aramex" id="353" weight="0.001904764389573746" />
+      <edge source="T_TOPIC_5" target="A_hurtigrutensvalbard" id="354" weight="0.9917403993379013" />
+      <edge source="T_TOPIC_5" target="A_sunchemical" id="355" weight="0.0013071920634943727" />
+      <edge source="T_TOPIC_5" target="A_secretatlastravel" id="356" weight="0.3680227811624925" />
+      <edge source="T_TOPIC_6" target="A_nbim" id="357" weight="0.11778264056489733" />
+      <edge source="T_TOPIC_6" target="A_northvolt" id="358" weight="0.004166676281347806" />
+      <edge source="T_TOPIC_6" target="A_boliden" id="359" weight="0.0013605476803299427" />
+      <edge source="T_TOPIC_6" target="A_usaid" id="360" weight="0.0027777854709092704" />
+      <edge source="T_TOPIC_6" target="A_regjeringen" id="361" weight="0.002409342221448313" />
+      <edge source="T_TOPIC_6" target="A_economist" id="362" weight="0.4940270965536116" />
+      <edge source="T_TOPIC_6" target="A_coggle" id="363" weight="0.006666687437280776" />
+      <edge source="T_TOPIC_6" target="A_coolgeography" id="364" weight="0.2644696088955912" />
+      <edge source="T_TOPIC_6" target="A_panda" id="365" weight="0.11748283053149342" />
+      <edge source="T_TOPIC_6" target="A_issuu" id="366" weight="0.0031746075012297663" />
+      <edge source="T_TOPIC_6" target="A_independent" id="367" weight="0.01638622865240787" />
+      <edge source="T_TOPIC_6" target="A_bigissue" id="368" weight="0.915523692952737" />
+      <edge source="T_TOPIC_6" target="A_livemint" id="369" weight="0.9981068263611982" />
+      <edge source="T_TOPIC_6" target="A_seedvault" id="370" weight="0.9937360098941712" />
+      <edge source="T_TOPIC_6" target="A_croptrust" id="371" weight="0.9992673978629978" />
+      <edge source="T_TOPIC_6" target="A_fao" id="372" weight="0.998274796735434" />
+      <edge source="T_TOPIC_6" target="A_sustainability-times" id="373" weight="0.9984313706449298" />
+      <edge source="T_TOPIC_6" target="A_unsdgadvocates" id="374" weight="0.7362669817004346" />
+      <edge source="T_TOPIC_6" target="A_norwaytoday" id="375" weight="0.7314211482239493" />
+      <edge source="T_TOPIC_6" target="A_plasticbank" id="376" weight="0.15144150468568546" />
+      <edge source="T_TOPIC_6" target="A_uit" id="377" weight="0.0020833374943106868" />
+      <edge source="T_TOPIC_6" target="A_riksrevisjonen" id="378" weight="0.0051282210635886245" />
+      <edge source="T_TOPIC_6" target="A_globalfestivalofaction" id="379" weight="0.0025641088134658093" />
+      <edge source="T_TOPIC_6" target="A_svalbardislands" id="380" weight="0.24513627056083095" />
+      <edge source="T_TOPIC_6" target="A_morningagclips" id="381" weight="0.9962666619068752" />
+      <edge source="T_TOPIC_6" target="A_icrisat" id="382" weight="0.9809523393959612" />
+      <edge source="T_TOPIC_6" target="A_newscientist" id="383" weight="0.9977935344393521" />
+      <edge source="T_TOPIC_6" target="A_worldbank" id="384" weight="0.13824901105116813" />
+      <edge source="T_TOPIC_6" target="A_goconqr" id="385" weight="0.0010928977125807704" />
+      <edge source="T_TOPIC_6" target="A_theconversation" id="386" weight="0.683746643574747" />
+      <edge source="T_TOPIC_6" target="A_cgiar" id="387" weight="0.6896162688249297" />
+      <edge source="T_TOPIC_6" target="A_wired" id="388" weight="0.8189927933267434" />
+      <edge source="T_TOPIC_6" target="A_atlasofthefuture" id="389" weight="0.9949549447601636" />
+      <edge source="T_TOPIC_6" target="A_scidev" id="390" weight="0.9910256266382741" />
+      <edge source="T_TOPIC_6" target="A_pirelli" id="391" weight="0.0074074119417558825" />
+      <edge source="T_TOPIC_6" target="A_abc" id="392" weight="0.21016486483698502" />
+      <edge source="T_TOPIC_6" target="A_innovasjonnorge" id="393" weight="0.0039215759960553025" />
+      <edge source="T_TOPIC_6" target="A_mpora" id="394" weight="0.0013888920565952774" />
+      <edge source="T_TOPIC_6" target="A_news" id="395" weight="0.995447147607228" />
+      <edge source="T_TOPIC_6" target="A_dezeen" id="396" weight="0.38289696648370314" />
+      <edge source="T_TOPIC_6" target="A_smh" id="397" weight="0.023444041295977228" />
+      <edge source="T_TOPIC_6" target="A_enn" id="398" weight="0.0010928979074782683" />
+      <edge source="T_TOPIC_6" target="A_aak" id="399" weight="0.001092900746948508" />
+      <edge source="T_TOPIC_6" target="A_arcticeconomiccouncil" id="400" weight="0.001904766200990039" />
+      <edge source="T_TOPIC_6" target="A_norlandpark" id="401" weight="0.002020207321859435" />
+      <edge source="T_TOPIC_6" target="A_hyperallergic" id="402" weight="0.27452543138214486" />
+      <edge source="T_TOPIC_6" target="A_bizcommunity" id="403" weight="0.0017543915953227164" />
+      <edge source="T_TOPIC_6" target="A_cermaq" id="404" weight="0.001025643895511089" />
+      <edge source="T_TOPIC_6" target="A_greendiary" id="405" weight="0.9971104199531093" />
+      <edge source="T_TOPIC_6" target="A_lifegate" id="406" weight="0.07976396416244498" />
+      <edge source="T_TOPIC_6" target="A_slideshare" id="407" weight="0.0031746056737041732" />
+      <edge source="T_TOPIC_6" target="A_tes" id="408" weight="0.0019047656118445194" />
+      <edge source="T_TOPIC_6" target="A_woolandthegang" id="409" weight="0.013333343685462191" />
+      <edge source="T_TOPIC_6" target="A_youtube" id="410" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_6" target="A_fiaformulae" id="411" weight="0.0018018055354304926" />
+      <edge source="T_TOPIC_6" target="A_sustainableplatform" id="412" weight="0.0020833370300798403" />
+      <edge source="T_TOPIC_6" target="A_borgenproject" id="413" weight="0.9932853591532547" />
+      <edge source="T_TOPIC_6" target="A_undercurrentnews" id="414" weight="0.0013888921336377294" />
+      <edge source="T_TOPIC_6" target="A_lonelyplanet" id="415" weight="0.0010101025821201042" />
+      <edge source="T_TOPIC_6" target="A_basecampexplorer" id="416" weight="0.0011904776114484328" />
+      <edge source="T_TOPIC_6" target="A_aramex" id="417" weight="0.0019047636275636708" />
+      <edge source="T_TOPIC_6" target="A_carboncraftgroup" id="418" weight="0.9963109297755837" />
+      <edge source="T_TOPIC_6" target="A_sunchemical" id="419" weight="0.0013071909948420342" />
+      <edge source="T_TOPIC_7" target="A_northvolt" id="420" weight="0.004166671392705187" />
+      <edge source="T_TOPIC_7" target="A_boliden" id="421" weight="0.0013605463519686146" />
+      <edge source="T_TOPIC_7" target="A_usaid" id="422" weight="0.0027777830536929826" />
+      <edge source="T_TOPIC_7" target="A_coggle" id="423" weight="0.0066666772413462435" />
+      <edge source="T_TOPIC_7" target="A_issuu" id="424" weight="0.0031746077529957862" />
+      <edge source="T_TOPIC_7" target="A_osti" id="425" weight="0.5106110190663616" />
+      <edge source="T_TOPIC_7" target="A_uit" id="426" weight="0.002083337314766746" />
+      <edge source="T_TOPIC_7" target="A_riksrevisjonen" id="427" weight="0.005128225047815016" />
+      <edge source="T_TOPIC_7" target="A_globalfestivalofaction" id="428" weight="0.00256411018017966" />
+      <edge source="T_TOPIC_7" target="A_icrisat" id="429" weight="0.0013605486536543735" />
+      <edge source="T_TOPIC_7" target="A_worldbank" id="430" weight="0.0027777821988213065" />
+      <edge source="T_TOPIC_7" target="A_goconqr" id="431" weight="0.0010928976245712667" />
+      <edge source="T_TOPIC_7" target="A_livescience" id="432" weight="0.09661536948225419" />
+      <edge source="T_TOPIC_7" target="A_pirelli" id="433" weight="0.007407411646336983" />
+      <edge source="T_TOPIC_7" target="A_highnorthnews" id="434" weight="0.5617221578116197" />
+      <edge source="T_TOPIC_7" target="A_innovasjonnorge" id="435" weight="0.003921575349527513" />
+      <edge source="T_TOPIC_7" target="A_mpora" id="436" weight="0.0013888909370959111" />
+      <edge source="T_TOPIC_7" target="A_enn" id="437" weight="0.0010928978252021757" />
+      <edge source="T_TOPIC_7" target="A_aak" id="438" weight="0.0010928976043653087" />
+      <edge source="T_TOPIC_7" target="A_arcticeconomiccouncil" id="439" weight="0.00190476584702007" />
+      <edge source="T_TOPIC_7" target="A_norlandpark" id="440" weight="0.0020202086814732493" />
+      <edge source="T_TOPIC_7" target="A_bizcommunity" id="441" weight="0.0017543909774429755" />
+      <edge source="T_TOPIC_7" target="A_cermaq" id="442" weight="0.0010256425845698183" />
+      <edge source="T_TOPIC_7" target="A_lifegate" id="443" weight="0.001149426984587937" />
+      <edge source="T_TOPIC_7" target="A_slideshare" id="444" weight="0.0031746131963953155" />
+      <edge source="T_TOPIC_7" target="A_tes" id="445" weight="0.00190476646912708" />
+      <edge source="T_TOPIC_7" target="A_woolandthegang" id="446" weight="0.013333340420131082" />
+      <edge source="T_TOPIC_7" target="A_youtube" id="447" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_7" target="A_fiaformulae" id="448" weight="0.0018018046595810085" />
+      <edge source="T_TOPIC_7" target="A_sustainableplatform" id="449" weight="0.0020833365478799123" />
+      <edge source="T_TOPIC_7" target="A_undercurrentnews" id="450" weight="0.0013888910544297658" />
+      <edge source="T_TOPIC_7" target="A_lonelyplanet" id="451" weight="0.00101010203747797" />
+      <edge source="T_TOPIC_7" target="A_basecampexplorer" id="452" weight="0.00119047734765802" />
+      <edge source="T_TOPIC_7" target="A_aramex" id="453" weight="0.001904763471319556" />
+      <edge source="T_TOPIC_7" target="A_sunchemical" id="454" weight="0.0013071910735168023" />
+      <edge source="T_TOPIC_7" target="A_booking" id="455" weight="0.9960113922457385" />
+      <edge source="T_TOPIC_8" target="A_northvolt" id="456" weight="0.004166670722888771" />
+      <edge source="T_TOPIC_8" target="A_boliden" id="457" weight="0.001360546177402365" />
+      <edge source="T_TOPIC_8" target="A_usaid" id="458" weight="0.0027777817065336332" />
+      <edge source="T_TOPIC_8" target="A_coggle" id="459" weight="0.006666671344977915" />
+      <edge source="T_TOPIC_8" target="A_issuu" id="460" weight="0.0031746061558933915" />
+      <edge source="T_TOPIC_8" target="A_uit" id="461" weight="0.002083336445706708" />
+      <edge source="T_TOPIC_8" target="A_riksrevisjonen" id="462" weight="0.0051282112219495695" />
+      <edge source="T_TOPIC_8" target="A_globalfestivalofaction" id="463" weight="0.0025641070647530466" />
+      <edge source="T_TOPIC_8" target="A_icrisat" id="464" weight="0.001360546130897844" />
+      <edge source="T_TOPIC_8" target="A_worldbank" id="465" weight="0.002777780422422672" />
+      <edge source="T_TOPIC_8" target="A_goconqr" id="466" weight="0.0010928972466376584" />
+      <edge source="T_TOPIC_8" target="A_pirelli" id="467" weight="0.007407412222549319" />
+      <edge source="T_TOPIC_8" target="A_innovasjonnorge" id="468" weight="0.003921571985422981" />
+      <edge source="T_TOPIC_8" target="A_mpora" id="469" weight="0.0013888910937349132" />
+      <edge source="T_TOPIC_8" target="A_enn" id="470" weight="0.0010928972306058847" />
+      <edge source="T_TOPIC_8" target="A_aak" id="471" weight="0.001092897426747194" />
+      <edge source="T_TOPIC_8" target="A_arcticeconomiccouncil" id="472" weight="0.0019047639515413267" />
+      <edge source="T_TOPIC_8" target="A_norlandpark" id="473" weight="0.0020202049213063544" />
+      <edge source="T_TOPIC_8" target="A_bizcommunity" id="474" weight="0.0017543889071768572" />
+      <edge source="T_TOPIC_8" target="A_cermaq" id="475" weight="0.0010256423936227273" />
+      <edge source="T_TOPIC_8" target="A_lifegate" id="476" weight="0.0011494267727026155" />
+      <edge source="T_TOPIC_8" target="A_slideshare" id="477" weight="0.003174605304844807" />
+      <edge source="T_TOPIC_8" target="A_tes" id="478" weight="0.0019047644297835054" />
+      <edge source="T_TOPIC_8" target="A_woolandthegang" id="479" weight="0.013333344534515745" />
+      <edge source="T_TOPIC_8" target="A_youtube" id="480" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_8" target="A_fiaformulae" id="481" weight="0.001801803469268698" />
+      <edge source="T_TOPIC_8" target="A_sustainableplatform" id="482" weight="0.00208333547090889" />
+      <edge source="T_TOPIC_8" target="A_undercurrentnews" id="483" weight="0.0013888902871472212" />
+      <edge source="T_TOPIC_8" target="A_lonelyplanet" id="484" weight="0.001010101821910479" />
+      <edge source="T_TOPIC_8" target="A_basecampexplorer" id="485" weight="0.0011904770457422187" />
+      <edge source="T_TOPIC_8" target="A_aramex" id="486" weight="0.0019047630460273747" />
+      <edge source="T_TOPIC_8" target="A_sunchemical" id="487" weight="0.0013071904161826404" />
+      <edge source="T_TOPIC_9" target="A_northvolt" id="488" weight="0.004166671150482667" />
+      <edge source="T_TOPIC_9" target="A_boliden" id="489" weight="0.0013605463932847856" />
+      <edge source="T_TOPIC_9" target="A_usaid" id="490" weight="0.0027777813292860325" />
+      <edge source="T_TOPIC_9" target="A_coggle" id="491" weight="0.006666671943006768" />
+      <edge source="T_TOPIC_9" target="A_issuu" id="492" weight="0.0031746058301262343" />
+      <edge source="T_TOPIC_9" target="A_uit" id="493" weight="0.0020833361721016345" />
+      <edge source="T_TOPIC_9" target="A_riksrevisjonen" id="494" weight="0.005128210605044686" />
+      <edge source="T_TOPIC_9" target="A_globalfestivalofaction" id="495" weight="0.00256410794106367" />
+      <edge source="T_TOPIC_9" target="A_icrisat" id="496" weight="0.001360546053716859" />
+      <edge source="T_TOPIC_9" target="A_worldbank" id="497" weight="0.0027777801319215246" />
+      <edge source="T_TOPIC_9" target="A_goconqr" id="498" weight="0.0010928974004481996" />
+      <edge source="T_TOPIC_9" target="A_pirelli" id="499" weight="0.007407414661647488" />
+      <edge source="T_TOPIC_9" target="A_innovasjonnorge" id="500" weight="0.003921571712393199" />
+      <edge source="T_TOPIC_9" target="A_mpora" id="501" weight="0.0013888908474447798" />
+      <edge source="T_TOPIC_9" target="A_enn" id="502" weight="0.0010928971595061136" />
+      <edge source="T_TOPIC_9" target="A_aak" id="503" weight="0.001092897262754" />
+      <edge source="T_TOPIC_9" target="A_arcticeconomiccouncil" id="504" weight="0.001904764062688117" />
+      <edge source="T_TOPIC_9" target="A_norlandpark" id="505" weight="0.002020205248787912" />
+      <edge source="T_TOPIC_9" target="A_bizcommunity" id="506" weight="0.0017543885017636748" />
+      <edge source="T_TOPIC_9" target="A_cermaq" id="507" weight="0.0010256423038251818" />
+      <edge source="T_TOPIC_9" target="A_lifegate" id="508" weight="0.0011494266491553916" />
+      <edge source="T_TOPIC_9" target="A_slideshare" id="509" weight="0.003174605610860573" />
+      <edge source="T_TOPIC_9" target="A_tes" id="510" weight="0.0019047644046037329" />
+      <edge source="T_TOPIC_9" target="A_woolandthegang" id="511" weight="0.013333346066825708" />
+      <edge source="T_TOPIC_9" target="A_youtube" id="512" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_9" target="A_fiaformulae" id="513" weight="0.001801803604630428" />
+      <edge source="T_TOPIC_9" target="A_sustainableplatform" id="514" weight="0.0020833353964911094" />
+      <edge source="T_TOPIC_9" target="A_undercurrentnews" id="515" weight="0.0013888903968890924" />
+      <edge source="T_TOPIC_9" target="A_lonelyplanet" id="516" weight="0.0010101018824925857" />
+      <edge source="T_TOPIC_9" target="A_basecampexplorer" id="517" weight="0.0011904769898995592" />
+      <edge source="T_TOPIC_9" target="A_aramex" id="518" weight="0.0019047632488163805" />
+      <edge source="T_TOPIC_9" target="A_sunchemical" id="519" weight="0.00130719037140414" />
+      <edge source="T_TOPIC_10" target="A_nbim" id="520" weight="0.2158299672642279" />
+      <edge source="T_TOPIC_10" target="A_northvolt" id="521" weight="0.004166674915269248" />
+      <edge source="T_TOPIC_10" target="A_boliden" id="522" weight="0.0013605481170576388" />
+      <edge source="T_TOPIC_10" target="A_usaid" id="523" weight="0.0027777849707924327" />
+      <edge source="T_TOPIC_10" target="A_un" id="524" weight="0.06437987373635527" />
+      <edge source="T_TOPIC_10" target="A_ssb" id="525" weight="0.8495809910171971" />
+      <edge source="T_TOPIC_10" target="A_regjeringen" id="526" weight="0.9974194133764948" />
+      <edge source="T_TOPIC_10" target="A_sysselmannen" id="527" weight="0.9937360056014494" />
+      <edge source="T_TOPIC_10" target="A_theguardian" id="528" weight="0.6814642730742765" />
+      <edge source="T_TOPIC_10" target="A_rcinet" id="529" weight="0.4541309465484877" />
+      <edge source="T_TOPIC_10" target="A_coggle" id="530" weight="0.006666682977365982" />
+      <edge source="T_TOPIC_10" target="A_unis" id="531" weight="0.7886264152972602" />
+      <edge source="T_TOPIC_10" target="A_hurtigruten" id="532" weight="0.2969614878971616" />
+      <edge source="T_TOPIC_10" target="A_coolgeography" id="533" weight="0.48579451729620743" />
+      <edge source="T_TOPIC_10" target="A_bbc" id="534" weight="0.9434861471649985" />
+      <edge source="T_TOPIC_10" target="A_npolar" id="535" weight="0.9990956056169499" />
+      <edge source="T_TOPIC_10" target="A_springer" id="536" weight="0.09341073630150495" />
+      <edge source="T_TOPIC_10" target="A_everythingasked" id="537" weight="0.3935099537586581" />
+      <edge source="T_TOPIC_10" target="A_mdpi" id="538" weight="0.13332087604470896" />
+      <edge source="T_TOPIC_10" target="A_aeco" id="539" weight="0.9161349829534433" />
+      <edge source="T_TOPIC_10" target="A_sfgate" id="540" weight="0.2158249949498109" />
+      <edge source="T_TOPIC_10" target="A_inhabitat" id="541" weight="0.9971457639557165" />
+      <edge source="T_TOPIC_10" target="A_thenation" id="542" weight="0.2772390966998405" />
+      <edge source="T_TOPIC_10" target="A_issuu" id="543" weight="0.7379869871298689" />
+      <edge source="T_TOPIC_10" target="A_independent" id="544" weight="0.8175864707967728" />
+      <edge source="T_TOPIC_10" target="A_cnn" id="545" weight="0.329287882667554" />
+      <edge source="T_TOPIC_10" target="A_sintef" id="546" weight="0.997270950306708" />
+      <edge source="T_TOPIC_10" target="A_iisd" id="547" weight="0.1257071648858204" />
+      <edge source="T_TOPIC_10" target="A_norwegianscitechnews" id="548" weight="0.9992702620212804" />
+      <edge source="T_TOPIC_10" target="A_osce" id="549" weight="0.4289870445839093" />
+      <edge source="T_TOPIC_10" target="A_ksat" id="550" weight="0.3827629270482968" />
+      <edge source="T_TOPIC_10" target="A_sciencedirect" id="551" weight="0.7349051065288168" />
+      <edge source="T_TOPIC_10" target="A_uit" id="552" weight="0.9708332726127582" />
+      <edge source="T_TOPIC_10" target="A_riksrevisjonen" id="553" weight="0.00512822189001104" />
+      <edge source="T_TOPIC_10" target="A_globalfestivalofaction" id="554" weight="0.22337373645972852" />
+      <edge source="T_TOPIC_10" target="A_svalbardislands" id="555" weight="0.5881392333546202" />
+      <edge source="T_TOPIC_10" target="A_ssab" id="556" weight="0.14341734730168124" />
+      <edge source="T_TOPIC_10" target="A_unesco" id="557" weight="0.8453554821302927" />
+      <edge source="T_TOPIC_10" target="A_icrisat" id="558" weight="0.0013605485015285108" />
+      <edge source="T_TOPIC_10" target="A_reddit" id="559" weight="0.4784935215424065" />
+      <edge source="T_TOPIC_10" target="A_lifeinnorway" id="560" weight="0.27304030684680136" />
+      <edge source="T_TOPIC_10" target="A_arcticwwf" id="561" weight="0.8265630598799062" />
+      <edge source="T_TOPIC_10" target="A_worldbank" id="562" weight="0.0027777824948698386" />
+      <edge source="T_TOPIC_10" target="A_goconqr" id="563" weight="0.0010928976369211038" />
+      <edge source="T_TOPIC_10" target="A_visitnorway" id="564" weight="0.04149954479545715" />
+      <edge source="T_TOPIC_10" target="A_mby" id="565" weight="0.17145183063233865" />
+      <edge source="T_TOPIC_10" target="A_theconversation" id="566" weight="0.28331160106262804" />
+      <edge source="T_TOPIC_10" target="A_discover-the-world" id="567" weight="0.22839411770913143" />
+      <edge source="T_TOPIC_10" target="A_owlcation" id="568" weight="0.30464786353069595" />
+      <edge source="T_TOPIC_10" target="A_thebarentsobserver" id="569" weight="0.6744292359004078" />
+      <edge source="T_TOPIC_10" target="A_climatechangenews" id="570" weight="0.6894098374288433" />
+      <edge source="T_TOPIC_10" target="A_archdaily" id="571" weight="0.3840898538506756" />
+      <edge source="T_TOPIC_10" target="A_nasa" id="572" weight="0.6011436777605722" />
+      <edge source="T_TOPIC_10" target="A_pirelli" id="573" weight="0.007407441753349542" />
+      <edge source="T_TOPIC_10" target="A_highnorthnews" id="574" weight="0.00814536952930024" />
+      <edge source="T_TOPIC_10" target="A_internetgeography" id="575" weight="0.23447688921058285" />
+      <edge source="T_TOPIC_10" target="A_quarkexpeditions" id="576" weight="0.17484493348519628" />
+      <edge source="T_TOPIC_10" target="A_fni" id="577" weight="0.03751244753690821" />
+      <edge source="T_TOPIC_10" target="A_innovasjonnorge" id="578" weight="0.0039215770272755185" />
+      <edge source="T_TOPIC_10" target="A_mpora" id="579" weight="0.38876674617627693" />
+      <edge source="T_TOPIC_10" target="A_aau" id="580" weight="0.1829524336845705" />
+      <edge source="T_TOPIC_10" target="A_smh" id="581" weight="0.5626693097214455" />
+      <edge source="T_TOPIC_10" target="A_aewa" id="582" weight="0.9921568470298943" />
+      <edge source="T_TOPIC_10" target="A_enn" id="583" weight="0.9846994304193749" />
+      <edge source="T_TOPIC_10" target="A_aak" id="584" weight="0.0010928982079640725" />
+      <edge source="T_TOPIC_10" target="A_arcticeconomiccouncil" id="585" weight="0.001904766012218748" />
+      <edge source="T_TOPIC_10" target="A_nature" id="586" weight="0.010746510766861976" />
+      <edge source="T_TOPIC_10" target="A_faifarms" id="587" weight="0.3735649749332391" />
+      <edge source="T_TOPIC_10" target="A_norlandpark" id="588" weight="0.002020206507859426" />
+      <edge source="T_TOPIC_10" target="A_albatros-expeditions" id="589" weight="0.2921504425125675" />
+      <edge source="T_TOPIC_10" target="A_hyperallergic" id="590" weight="0.3640451901868355" />
+      <edge source="T_TOPIC_10" target="A_bizcommunity" id="591" weight="0.0017543917902167452" />
+      <edge source="T_TOPIC_10" target="A_salmar" id="592" weight="0.4686768954996835" />
+      <edge source="T_TOPIC_10" target="A_acces-arctic" id="593" weight="0.7054466942972458" />
+      <edge source="T_TOPIC_10" target="A_cermaq" id="594" weight="0.0010256434512601442" />
+      <edge source="T_TOPIC_10" target="A_politico" id="595" weight="0.009246657172795271" />
+      <edge source="T_TOPIC_10" target="A_traveller" id="596" weight="0.06736947842709029" />
+      <edge source="T_TOPIC_10" target="A_lifegate" id="597" weight="0.0011494280808645493" />
+      <edge source="T_TOPIC_10" target="A_norden" id="598" weight="0.9964240041692312" />
+      <edge source="T_TOPIC_10" target="A_slideshare" id="599" weight="0.0031746079398886897" />
+      <edge source="T_TOPIC_10" target="A_oceanwide-expeditions" id="600" weight="0.9135941180212124" />
+      <edge source="T_TOPIC_10" target="A_seatrade-cruise" id="601" weight="0.16388672539635446" />
+      <edge source="T_TOPIC_10" target="A_tes" id="602" weight="0.6915260682264297" />
+      <edge source="T_TOPIC_10" target="A_woolandthegang" id="603" weight="0.013333356270801955" />
+      <edge source="T_TOPIC_10" target="A_youtube" id="604" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_10" target="A_fiaformulae" id="605" weight="0.0018018049374548173" />
+      <edge source="T_TOPIC_10" target="A_sustainableplatform" id="606" weight="0.0020833376815986714" />
+      <edge source="T_TOPIC_10" target="A_undercurrentnews" id="607" weight="0.0013888925788027983" />
+      <edge source="T_TOPIC_10" target="A_lonelyplanet" id="608" weight="0.0010101043061923915" />
+      <edge source="T_TOPIC_10" target="A_basecampexplorer" id="609" weight="0.0011904783904721436" />
+      <edge source="T_TOPIC_10" target="A_thewaterfrontrestaurant" id="610" weight="0.9897435732770479" />
+      <edge source="T_TOPIC_10" target="A_aramex" id="611" weight="0.0019047648785253779" />
+      <edge source="T_TOPIC_10" target="A_iberdrola" id="612" weight="0.781713034066426" />
+      <edge source="T_TOPIC_10" target="A_sunchemical" id="613" weight="0.001307190903443739" />
+      <edge source="T_TOPIC_11" target="A_northvolt" id="614" weight="0.004166671505528791" />
+      <edge source="T_TOPIC_11" target="A_boliden" id="615" weight="0.0013605474201318223" />
+      <edge source="T_TOPIC_11" target="A_usaid" id="616" weight="0.0027777853670823884" />
+      <edge source="T_TOPIC_11" target="A_coggle" id="617" weight="0.00666667102332108" />
+      <edge source="T_TOPIC_11" target="A_learningarcticbiology" id="618" weight="0.8824155206701976" />
+      <edge source="T_TOPIC_11" target="A_issuu" id="619" weight="0.0031746042548460116" />
+      <edge source="T_TOPIC_11" target="A_loc" id="620" weight="0.9995045994286604" />
+      <edge source="T_TOPIC_11" target="A_uit" id="621" weight="0.002083336485439985" />
+      <edge source="T_TOPIC_11" target="A_riksrevisjonen" id="622" weight="0.005128215532223559" />
+      <edge source="T_TOPIC_11" target="A_globalfestivalofaction" id="623" weight="0.002564107112911324" />
+      <edge source="T_TOPIC_11" target="A_icrisat" id="624" weight="0.001360548919669489" />
+      <edge source="T_TOPIC_11" target="A_worldbank" id="625" weight="0.002777780495137204" />
+      <edge source="T_TOPIC_11" target="A_goconqr" id="626" weight="0.001092898264213443" />
+      <edge source="T_TOPIC_11" target="A_pirelli" id="627" weight="0.007407417512416714" />
+      <edge source="T_TOPIC_11" target="A_innovasjonnorge" id="628" weight="0.003921575153901109" />
+      <edge source="T_TOPIC_11" target="A_mpora" id="629" weight="0.0013888918987405672" />
+      <edge source="T_TOPIC_11" target="A_enn" id="630" weight="0.0010928974844621427" />
+      <edge source="T_TOPIC_11" target="A_aak" id="631" weight="0.0010928985053179053" />
+      <edge source="T_TOPIC_11" target="A_arcticeconomiccouncil" id="632" weight="0.001904765881062194" />
+      <edge source="T_TOPIC_11" target="A_norlandpark" id="633" weight="0.002020206340537023" />
+      <edge source="T_TOPIC_11" target="A_bizcommunity" id="634" weight="0.0017543927099327322" />
+      <edge source="T_TOPIC_11" target="A_cermaq" id="635" weight="0.001025642434316663" />
+      <edge source="T_TOPIC_11" target="A_lifegate" id="636" weight="0.0011494278894196997" />
+      <edge source="T_TOPIC_11" target="A_slideshare" id="637" weight="0.0031746111818507956" />
+      <edge source="T_TOPIC_11" target="A_tes" id="638" weight="0.0019047648978637725" />
+      <edge source="T_TOPIC_11" target="A_woolandthegang" id="639" weight="0.01333339348435042" />
+      <edge source="T_TOPIC_11" target="A_wilsonart" id="640" weight="0.997588283640728" />
+      <edge source="T_TOPIC_11" target="A_youtube" id="641" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_11" target="A_fiaformulae" id="642" weight="0.001801805003939067" />
+      <edge source="T_TOPIC_11" target="A_sustainableplatform" id="643" weight="0.002083337506968806" />
+      <edge source="T_TOPIC_11" target="A_undercurrentnews" id="644" weight="0.0013888907420615897" />
+      <edge source="T_TOPIC_11" target="A_lonelyplanet" id="645" weight="0.0010101017529555764" />
+      <edge source="T_TOPIC_11" target="A_basecampexplorer" id="646" weight="0.0011904770088680499" />
+      <edge source="T_TOPIC_11" target="A_aramex" id="647" weight="0.0019047641484405675" />
+      <edge source="T_TOPIC_11" target="A_sunchemical" id="648" weight="0.0013071906111170005" />
+      <edge source="T_TOPIC_12" target="A_northvolt" id="649" weight="0.004166671551476436" />
+      <edge source="T_TOPIC_12" target="A_boliden" id="650" weight="0.001360550374193638" />
+      <edge source="T_TOPIC_12" target="A_usaid" id="651" weight="0.0027777889357188572" />
+      <edge source="T_TOPIC_12" target="A_un" id="652" weight="0.0275870705513596" />
+      <edge source="T_TOPIC_12" target="A_rcinet" id="653" weight="0.1059523952832951" />
+      <edge source="T_TOPIC_12" target="A_coggle" id="654" weight="0.006666684786909777" />
+      <edge source="T_TOPIC_12" target="A_hurtigruten" id="655" weight="0.14944437786581669" />
+      <edge source="T_TOPIC_12" target="A_sios-svalbard" id="656" weight="0.1878172720517774" />
+      <edge source="T_TOPIC_12" target="A_issuu" id="657" weight="0.003174609403079687" />
+      <edge source="T_TOPIC_12" target="A_uit" id="658" weight="0.0020833378324140446" />
+      <edge source="T_TOPIC_12" target="A_riksrevisjonen" id="659" weight="0.005128210830286261" />
+      <edge source="T_TOPIC_12" target="A_globalfestivalofaction" id="660" weight="0.0025641142064285936" />
+      <edge source="T_TOPIC_12" target="A_icrisat" id="661" weight="0.001360546974736049" />
+      <edge source="T_TOPIC_12" target="A_worldbank" id="662" weight="0.002777781238887152" />
+      <edge source="T_TOPIC_12" target="A_goconqr" id="663" weight="0.038725439665762335" />
+      <edge source="T_TOPIC_12" target="A_sciencedaily" id="664" weight="0.06760042094806713" />
+      <edge source="T_TOPIC_12" target="A_pirelli" id="665" weight="0.896296162488647" />
+      <edge source="T_TOPIC_12" target="A_quarkexpeditions" id="666" weight="0.028690441997688308" />
+      <edge source="T_TOPIC_12" target="A_innovasjonnorge" id="667" weight="0.003921573826882271" />
+      <edge source="T_TOPIC_12" target="A_mpora" id="668" weight="0.0013888920063381102" />
+      <edge source="T_TOPIC_12" target="A_enn" id="669" weight="0.001092897942874256" />
+      <edge source="T_TOPIC_12" target="A_aak" id="670" weight="0.0010928969291973901" />
+      <edge source="T_TOPIC_12" target="A_arcticeconomiccouncil" id="671" weight="0.001904766567479632" />
+      <edge source="T_TOPIC_12" target="A_norlandpark" id="672" weight="0.0020202051745213455" />
+      <edge source="T_TOPIC_12" target="A_albatros-expeditions" id="673" weight="0.19384394851596454" />
+      <edge source="T_TOPIC_12" target="A_bizcommunity" id="674" weight="0.10915213546062257" />
+      <edge source="T_TOPIC_12" target="A_cermaq" id="675" weight="0.0010256430320732125" />
+      <edge source="T_TOPIC_12" target="A_lifegate" id="676" weight="0.001149427107240452" />
+      <edge source="T_TOPIC_12" target="A_slideshare" id="677" weight="0.00317460401369955" />
+      <edge source="T_TOPIC_12" target="A_oceanwide-expeditions" id="678" weight="0.08515347207182818" />
+      <edge source="T_TOPIC_12" target="A_polar-quest" id="679" weight="0.9997008544061521" />
+      <edge source="T_TOPIC_12" target="A_tes" id="680" weight="0.0019047644100214083" />
+      <edge source="T_TOPIC_12" target="A_woolandthegang" id="681" weight="0.013333340756020058" />
+      <edge source="T_TOPIC_12" target="A_youtube" id="682" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_12" target="A_fiaformulae" id="683" weight="0.0018018045924564695" />
+      <edge source="T_TOPIC_12" target="A_sustainableplatform" id="684" weight="0.0020833355754825327" />
+      <edge source="T_TOPIC_12" target="A_undercurrentnews" id="685" weight="0.4027718244950858" />
+      <edge source="T_TOPIC_12" target="A_lonelyplanet" id="686" weight="0.001010103490201867" />
+      <edge source="T_TOPIC_12" target="A_basecampexplorer" id="687" weight="0.0011904831145362583" />
+      <edge source="T_TOPIC_12" target="A_aramex" id="688" weight="0.0019047628907849549" />
+      <edge source="T_TOPIC_12" target="A_sunchemical" id="689" weight="0.0013071916473877605" />
+      <edge source="T_TOPIC_12" target="A_secretatlastravel" id="690" weight="0.6256046594712918" />
+      <edge source="T_TOPIC_13" target="A_northvolt" id="691" weight="0.004166674618336485" />
+      <edge source="T_TOPIC_13" target="A_boliden" id="692" weight="0.0013605473032921207" />
+      <edge source="T_TOPIC_13" target="A_usaid" id="693" weight="0.0027777823441160004" />
+      <edge source="T_TOPIC_13" target="A_coggle" id="694" weight="0.006666679703446556" />
+      <edge source="T_TOPIC_13" target="A_unis" id="695" weight="0.06811185429154193" />
+      <edge source="T_TOPIC_13" target="A_panda" id="696" weight="0.3337024712648845" />
+      <edge source="T_TOPIC_13" target="A_issuu" id="697" weight="0.003174606655519287" />
+      <edge source="T_TOPIC_13" target="A_statkraft" id="698" weight="0.9994829170769116" />
+      <edge source="T_TOPIC_13" target="A_uit" id="699" weight="0.0020833374977112574" />
+      <edge source="T_TOPIC_13" target="A_riksrevisjonen" id="700" weight="0.005128211637422503" />
+      <edge source="T_TOPIC_13" target="A_globalfestivalofaction" id="701" weight="0.0025641072016042276" />
+      <edge source="T_TOPIC_13" target="A_ssab" id="702" weight="0.16780309550389022" />
+      <edge source="T_TOPIC_13" target="A_icrisat" id="703" weight="0.001360546496051899" />
+      <edge source="T_TOPIC_13" target="A_arcticwwf" id="704" weight="0.04677513190728204" />
+      <edge source="T_TOPIC_13" target="A_worldbank" id="705" weight="0.0027777808137707974" />
+      <edge source="T_TOPIC_13" target="A_goconqr" id="706" weight="0.0010928986488944878" />
+      <edge source="T_TOPIC_13" target="A_owlcation" id="707" weight="0.5755495750093995" />
+      <edge source="T_TOPIC_13" target="A_sciencedaily" id="708" weight="0.794440492877154" />
+      <edge source="T_TOPIC_13" target="A_unece" id="709" weight="0.9897435632481255" />
+      <edge source="T_TOPIC_13" target="A_livescience" id="710" weight="0.2316637267256997" />
+      <edge source="T_TOPIC_13" target="A_pirelli" id="711" weight="0.007407422112643612" />
+      <edge source="T_TOPIC_13" target="A_internetgeography" id="712" weight="0.06767791964574592" />
+      <edge source="T_TOPIC_13" target="A_fni" id="713" weight="0.0965321511795326" />
+      <edge source="T_TOPIC_13" target="A_innovasjonnorge" id="714" weight="0.23149926319322725" />
+      <edge source="T_TOPIC_13" target="A_mpora" id="715" weight="0.0013888914324942036" />
+      <edge source="T_TOPIC_13" target="A_enn" id="716" weight="0.0010928987633545006" />
+      <edge source="T_TOPIC_13" target="A_aak" id="717" weight="0.0010928989860130402" />
+      <edge source="T_TOPIC_13" target="A_arcticeconomiccouncil" id="718" weight="0.6371234374948846" />
+      <edge source="T_TOPIC_13" target="A_norlandpark" id="719" weight="0.0020202073961887407" />
+      <edge source="T_TOPIC_13" target="A_reuters" id="720" weight="0.8699651946016003" />
+      <edge source="T_TOPIC_13" target="A_bizcommunity" id="721" weight="0.001754389555538232" />
+      <edge source="T_TOPIC_13" target="A_cermaq" id="722" weight="0.04112469664294583" />
+      <edge source="T_TOPIC_13" target="A_politico" id="723" weight="0.4898410200919535" />
+      <edge source="T_TOPIC_13" target="A_lifegate" id="724" weight="0.001149427319862881" />
+      <edge source="T_TOPIC_13" target="A_slideshare" id="725" weight="0.0031746061406673826" />
+      <edge source="T_TOPIC_13" target="A_tes" id="726" weight="0.0019047664777006334" />
+      <edge source="T_TOPIC_13" target="A_woolandthegang" id="727" weight="0.013333338954429265" />
+      <edge source="T_TOPIC_13" target="A_youtube" id="728" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_13" target="A_fiaformulae" id="729" weight="0.001801807138200819" />
+      <edge source="T_TOPIC_13" target="A_sustainableplatform" id="730" weight="0.002083336005396749" />
+      <edge source="T_TOPIC_13" target="A_undercurrentnews" id="731" weight="0.001388891782748442" />
+      <edge source="T_TOPIC_13" target="A_lonelyplanet" id="732" weight="0.0010101024572519747" />
+      <edge source="T_TOPIC_13" target="A_basecampexplorer" id="733" weight="0.001190477289534254" />
+      <edge source="T_TOPIC_13" target="A_aramex" id="734" weight="0.0019047642025897666" />
+      <edge source="T_TOPIC_13" target="A_sunchemical" id="735" weight="0.001307191572082568" />
+      <edge source="T_TOPIC_14" target="A_northvolt" id="736" weight="0.0041666711202784975" />
+      <edge source="T_TOPIC_14" target="A_boliden" id="737" weight="0.0013605461745672543" />
+      <edge source="T_TOPIC_14" target="A_usaid" id="738" weight="0.0027777813841589625" />
+      <edge source="T_TOPIC_14" target="A_coggle" id="739" weight="0.006666669829716212" />
+      <edge source="T_TOPIC_14" target="A_issuu" id="740" weight="0.0031746058678506694" />
+      <edge source="T_TOPIC_14" target="A_uit" id="741" weight="0.0020833362279779844" />
+      <edge source="T_TOPIC_14" target="A_riksrevisjonen" id="742" weight="0.005128212046135654" />
+      <edge source="T_TOPIC_14" target="A_globalfestivalofaction" id="743" weight="0.0025641068178292627" />
+      <edge source="T_TOPIC_14" target="A_icrisat" id="744" weight="0.0013605458484463818" />
+      <edge source="T_TOPIC_14" target="A_worldbank" id="745" weight="0.002777780338942555" />
+      <edge source="T_TOPIC_14" target="A_goconqr" id="746" weight="0.0010928973347828688" />
+      <edge source="T_TOPIC_14" target="A_pirelli" id="747" weight="0.007407413563803644" />
+      <edge source="T_TOPIC_14" target="A_innovasjonnorge" id="748" weight="0.003921571507764297" />
+      <edge source="T_TOPIC_14" target="A_mpora" id="749" weight="0.001388890755562184" />
+      <edge source="T_TOPIC_14" target="A_enn" id="750" weight="0.001092897117729748" />
+      <edge source="T_TOPIC_14" target="A_aak" id="751" weight="0.0010928972791496155" />
+      <edge source="T_TOPIC_14" target="A_arcticeconomiccouncil" id="752" weight="0.0019047636297840774" />
+      <edge source="T_TOPIC_14" target="A_norlandpark" id="753" weight="0.0020202044200132527" />
+      <edge source="T_TOPIC_14" target="A_bizcommunity" id="754" weight="0.0017543887942028393" />
+      <edge source="T_TOPIC_14" target="A_cermaq" id="755" weight="0.001025642211154335" />
+      <edge source="T_TOPIC_14" target="A_lifegate" id="756" weight="0.0011494266845869126" />
+      <edge source="T_TOPIC_14" target="A_slideshare" id="757" weight="0.003174605255063642" />
+      <edge source="T_TOPIC_14" target="A_tes" id="758" weight="0.0019047640298204072" />
+      <edge source="T_TOPIC_14" target="A_woolandthegang" id="759" weight="0.013333345169668456" />
+      <edge source="T_TOPIC_14" target="A_youtube" id="760" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_14" target="A_fiaformulae" id="761" weight="0.00180180355576923" />
+      <edge source="T_TOPIC_14" target="A_sustainableplatform" id="762" weight="0.0020833352224267415" />
+      <edge source="T_TOPIC_14" target="A_undercurrentnews" id="763" weight="0.001388890125034021" />
+      <edge source="T_TOPIC_14" target="A_lonelyplanet" id="764" weight="0.0010101017368312208" />
+      <edge source="T_TOPIC_14" target="A_basecampexplorer" id="765" weight="0.0011904768311838294" />
+      <edge source="T_TOPIC_14" target="A_aramex" id="766" weight="0.0019047629870961504" />
+      <edge source="T_TOPIC_14" target="A_sunchemical" id="767" weight="0.0013071903315570474" />
+    </edges>
+  </graph>
+</gexf>

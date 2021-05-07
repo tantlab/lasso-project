@@ -1,0 +1,3177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-04-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="type" type="string"></attribute>
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="W_project" label="project">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="526.2886276245117"></attvalue>
+        </attvalues>
+        <viz:size value="5.4145403"></viz:size>
+        <viz:position x="-103.7559" y="188.80716"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_section" label="section">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="88.63634490966797"></attvalue>
+        </attvalues>
+        <viz:size value="5.068684"></viz:size>
+        <viz:position x="175.4894" y="251.49553"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_act" label="act">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="228.91653442382812"></attvalue>
+        </attvalues>
+        <viz:size value="5.179541"></viz:size>
+        <viz:position x="199.15878" y="188.01303"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_land" label="land">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="442.03864884376526"></attvalue>
+        </attvalues>
+        <viz:size value="5.3479614"></viz:size>
+        <viz:position x="64.54505" y="223.90392"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_use" label="use">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="735.9544010162354"></attvalue>
+        </attvalues>
+        <viz:size value="5.5802293"></viz:size>
+        <viz:position x="127.80643" y="73.38249"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_area" label="area">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="163.54563879966736"></attvalue>
+        </attvalues>
+        <viz:size value="5.1278815"></viz:size>
+        <viz:position x="213.80357" y="119.28503"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_federal" label="federal">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="359.4297180175781"></attvalue>
+        </attvalues>
+        <viz:size value="5.2826796"></viz:size>
+        <viz:position x="8.395267" y="217.35593"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_1" label="Indigenous and international perspectives on climate change">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="74.87775135040283"></attvalue>
+        </attvalues>
+        <viz:size value="5.0578113"></viz:size>
+        <viz:position x="99.383865" y="43.81862"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_ranked" label="ranked">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="768.0206508636475"></attvalue>
+        </attvalues>
+        <viz:size value="5.60557"></viz:size>
+        <viz:position x="112.99079" y="-105.06057"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_adjusted" label="adjusted">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="5.873641490936279"></attvalue>
+        </attvalues>
+        <viz:size value="5.0032806"></viz:size>
+        <viz:position x="203.0151" y="60.56649"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_canada" label="canada">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2278.658866405487"></attvalue>
+        </attvalues>
+        <viz:size value="6.7993565"></viz:size>
+        <viz:position x="85.64508" y="89.90782"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_savings" label="savings">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="4.164259910583496"></attvalue>
+        </attvalues>
+        <viz:size value="5.0019298"></viz:size>
+        <viz:position x="229.87764" y="74.89467"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_arctic" label="arctic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="8499.532642364502"></attvalue>
+        </attvalues>
+        <viz:size value="11.715421"></viz:size>
+        <viz:position x="-62.91937" y="64.893875"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_climate" label="climate">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="3176.791665792465"></attvalue>
+        </attvalues>
+        <viz:size value="7.5091085"></viz:size>
+        <viz:position x="-44.2044" y="-35.38859"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_ice" label="ice">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1820.2599363327026"></attvalue>
+        </attvalues>
+        <viz:size value="6.437105"></viz:size>
+        <viz:position x="-139.69028" y="73.5841"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_eu" label="eu">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="244.90008735656738"></attvalue>
+        </attvalues>
+        <viz:size value="5.192172"></viz:size>
+        <viz:position x="-53.232048" y="-85.926186"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_development" label="development">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2136.248692750931"></attvalue>
+        </attvalues>
+        <viz:size value="6.686816"></viz:size>
+        <viz:position x="-121.73347" y="-31.427986"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_total" label="total">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="425.2663218975067"></attvalue>
+        </attvalues>
+        <viz:size value="5.3347073"></viz:size>
+        <viz:position x="161.7476" y="-91.57134"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_services" label="services">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.164724111557007"></attvalue>
+        </attvalues>
+        <viz:size value="5.0003495"></viz:size>
+        <viz:position x="285.63266" y="124.77372"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_environment" label="environment">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1202.052364706993"></attvalue>
+        </attvalues>
+        <viz:size value="5.9485645"></viz:size>
+        <viz:position x="185.07733" y="2.4446259"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_glaciers" label="glaciers">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="274.71749246120453"></attvalue>
+        </attvalues>
+        <viz:size value="5.2157354"></viz:size>
+        <viz:position x="-163.10423" y="146.22296"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_northern" label="northern">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="425.8615826368332"></attvalue>
+        </attvalues>
+        <viz:size value="5.3351774"></viz:size>
+        <viz:position x="45.6208" y="188.13991"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_indigenous" label="indigenous">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="546.9322113990784"></attvalue>
+        </attvalues>
+        <viz:size value="5.430854"></viz:size>
+        <viz:position x="28.269033" y="202.76404"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_sustainable" label="sustainable">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2030.0115562677383"></attvalue>
+        </attvalues>
+        <viz:size value="6.602862"></viz:size>
+        <viz:position x="-11.467379" y="-131.044"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_economic" label="economic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="493.49369263648987"></attvalue>
+        </attvalues>
+        <viz:size value="5.388624"></viz:size>
+        <viz:position x="-20.216902" y="58.41179"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_international" label="international">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="640.8045287132263"></attvalue>
+        </attvalues>
+        <viz:size value="5.505037"></viz:size>
+        <viz:position x="-93.015434" y="-8.557706"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_change" label="change">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2292.1315636634827"></attvalue>
+        </attvalues>
+        <viz:size value="6.8100033"></viz:size>
+        <viz:position x="-61.13284" y="-21.818762"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_energy" label="energy">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2585.219205737114"></attvalue>
+        </attvalues>
+        <viz:size value="7.0416164"></viz:size>
+        <viz:position x="2.0034623" y="-100.61223"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_north" label="north">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1157.956055879593"></attvalue>
+        </attvalues>
+        <viz:size value="5.9137173"></viz:size>
+        <viz:position x="-65.5099" y="169.43747"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_water" label="water">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1542.592024922371"></attvalue>
+        </attvalues>
+        <viz:size value="6.217677"></viz:size>
+        <viz:position x="201.90967" y="-151.1515"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_region" label="region">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="710.4172439575195"></attvalue>
+        </attvalues>
+        <viz:size value="5.5600486"></viz:size>
+        <viz:position x="-96.5512" y="76.690315"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_2" label="Sustainable development broadly">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="18982.983642578125"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="31.422567" y="-50.253788"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_sustainability" label="sustainability">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1648.1759033203125"></attvalue>
+        </attvalues>
+        <viz:size value="6.301115"></viz:size>
+        <viz:position x="68.58138" y="-64.38816"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_environmental" label="environmental">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2367.520421743393"></attvalue>
+        </attvalues>
+        <viz:size value="6.8695793"></viz:size>
+        <viz:position x="116.803406" y="-29.96278"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_business" label="business">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1169.4115300178528"></attvalue>
+        </attvalues>
+        <viz:size value="5.92277"></viz:size>
+        <viz:position x="-31.264114" y="-107.914314"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_health" label="health">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="981.576171875"></attvalue>
+        </attvalues>
+        <viz:size value="5.7743325"></viz:size>
+        <viz:position x="6.6471663" y="98.15272"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_new" label="new">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1129.9048297405243"></attvalue>
+        </attvalues>
+        <viz:size value="5.89155"></viz:size>
+        <viz:position x="-92.09171" y="30.315678"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_green" label="green">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="739.1093292236328"></attvalue>
+        </attvalues>
+        <viz:size value="5.5827227"></viz:size>
+        <viz:position x="148.32648" y="-148.1801"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_social" label="social">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="547.2816162109375"></attvalue>
+        </attvalues>
+        <viz:size value="5.43113"></viz:size>
+        <viz:position x="64.41633" y="-80.463104"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_food" label="food">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1144.2762451171875"></attvalue>
+        </attvalues>
+        <viz:size value="5.902907"></viz:size>
+        <viz:position x="-10.821898" y="120.05052"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_systems" label="systems">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="522.0789794921875"></attvalue>
+        </attvalues>
+        <viz:size value="5.4112134"></viz:size>
+        <viz:position x="74.58743" y="-27.974117"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_management" label="management">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="841.8265686035156"></attvalue>
+        </attvalues>
+        <viz:size value="5.663895"></viz:size>
+        <viz:position x="163.71236" y="19.456095"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_global" label="global">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1704.5275039672852"></attvalue>
+        </attvalues>
+        <viz:size value="6.3456473"></viz:size>
+        <viz:position x="30.8253" y="-163.59201"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_world" label="world">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2121.058934688568"></attvalue>
+        </attvalues>
+        <viz:size value="6.6748123"></viz:size>
+        <viz:position x="-88.83142" y="-82.853065"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_special" label="special">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="476.0234375"></attvalue>
+        </attvalues>
+        <viz:size value="5.374818"></viz:size>
+        <viz:position x="99.298935" y="-63.976105"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_impact" label="impact">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="470.6486511230469"></attvalue>
+        </attvalues>
+        <viz:size value="5.3705707"></viz:size>
+        <viz:position x="89.23365" y="-36.059525"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_work" label="work">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="636.3311710357666"></attvalue>
+        </attvalues>
+        <viz:size value="5.5015016"></viz:size>
+        <viz:position x="-173.18593" y="-43.52996"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_research" label="research">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="811.5696277618408"></attvalue>
+        </attvalues>
+        <viz:size value="5.6399846"></viz:size>
+        <viz:position x="-93.72122" y="-37.276146"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_help" label="help">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="448.2204895019531"></attvalue>
+        </attvalues>
+        <viz:size value="5.3528466"></viz:size>
+        <viz:position x="37.445442" y="-92.3869"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_renewable" label="renewable">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="438.429443359375"></attvalue>
+        </attvalues>
+        <viz:size value="5.3451095"></viz:size>
+        <viz:position x="84.106674" y="-75.936325"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_3" label="Arctic nature and ecology">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="11846.321792602539"></attvalue>
+        </attvalues>
+        <viz:size value="14.36023"></viz:size>
+        <viz:position x="-188.29875" y="106.20134"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_svalbard" label="svalbard">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1854.0079808235168"></attvalue>
+        </attvalues>
+        <viz:size value="6.4637747"></viz:size>
+        <viz:position x="-35.98371" y="104.04446"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_polar" label="polar">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1042.0526123046875"></attvalue>
+        </attvalues>
+        <viz:size value="5.8221245"></viz:size>
+        <viz:position x="-199.78123" y="62.42515"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_sea" label="sea">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1167.2513408660889"></attvalue>
+        </attvalues>
+        <viz:size value="5.921063"></viz:size>
+        <viz:position x="-21.91902" y="82.24455"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_bears" label="bears">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="400.465576171875"></attvalue>
+        </attvalues>
+        <viz:size value="5.3151083"></viz:size>
+        <viz:position x="-217.74234" y="147.70735"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_longyearbyen" label="longyearbyen">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="334.7306213378906"></attvalue>
+        </attvalues>
+        <viz:size value="5.263161"></viz:size>
+        <viz:position x="-231.37613" y="136.1003"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_summer" label="summer">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="330.6073303222656"></attvalue>
+        </attvalues>
+        <viz:size value="5.2599025"></viz:size>
+        <viz:position x="-242.14995" y="121.9768"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_expedition" label="expedition">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="298.6185607910156"></attvalue>
+        </attvalues>
+        <viz:size value="5.2346234"></viz:size>
+        <viz:position x="-220.90178" y="164.90752"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_time" label="time">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="417.7338638305664"></attvalue>
+        </attvalues>
+        <viz:size value="5.3287544"></viz:size>
+        <viz:position x="-275.0173" y="119.25489"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_year" label="year">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="750.1491794586182"></attvalue>
+        </attvalues>
+        <viz:size value="5.591447"></viz:size>
+        <viz:position x="-186.92526" y="-23.846455"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_greenland" label="greenland">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="386.52428436279297"></attvalue>
+        </attvalues>
+        <viz:size value="5.304091"></viz:size>
+        <viz:position x="-221.06183" y="65.65983"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_days" label="days">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="259.0185546875"></attvalue>
+        </attvalues>
+        <viz:size value="5.203329"></viz:size>
+        <viz:position x="-237.77223" y="153.32703"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_snow" label="snow">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="258.4845886230469"></attvalue>
+        </attvalues>
+        <viz:size value="5.202907"></viz:size>
+        <viz:position x="-255.15877" y="140.57571"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_people" label="people">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="749.1603627204895"></attvalue>
+        </attvalues>
+        <viz:size value="5.5906653"></viz:size>
+        <viz:position x="-194.00005" y="167.10355"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_like" label="like">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="353.66968536376953"></attvalue>
+        </attvalues>
+        <viz:size value="5.2781277"></viz:size>
+        <viz:position x="-292.18668" y="115.03951"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_years" label="years">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="376.55537128448486"></attvalue>
+        </attvalues>
+        <viz:size value="5.296213"></viz:size>
+        <viz:position x="-283.37723" y="26.55863"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_winter" label="winter">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="241.18714904785156"></attvalue>
+        </attvalues>
+        <viz:size value="5.189238"></viz:size>
+        <viz:position x="-255.87743" y="157.83405"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_bear" label="bear">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="240.97406005859375"></attvalue>
+        </attvalues>
+        <viz:size value="5.1890697"></viz:size>
+        <viz:position x="-239.13098" y="171.42906"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_just" label="just">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="354.59236907958984"></attvalue>
+        </attvalues>
+        <viz:size value="5.2788568"></viz:size>
+        <viz:position x="-271.0684" y="95.95924"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_information" label="information">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="157.68099975585938"></attvalue>
+        </attvalues>
+        <viz:size value="5.123247"></viz:size>
+        <viz:position x="233.45787" y="154.83931"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_number" label="number">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="17.743968963623047"></attvalue>
+        </attvalues>
+        <viz:size value="5.0126615"></viz:size>
+        <viz:position x="-341.86307" y="-206.06781"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_activities" label="activities">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="162.68499755859375"></attvalue>
+        </attvalues>
+        <viz:size value="5.1272016"></viz:size>
+        <viz:position x="210.81543" y="161.54329"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_including" label="including">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="419.4628677368164"></attvalue>
+        </attvalues>
+        <viz:size value="5.330121"></viz:size>
+        <viz:position x="88.29469" y="169.39523"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_site" label="site">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="404.89247131347656"></attvalue>
+        </attvalues>
+        <viz:size value="5.3186064"></viz:size>
+        <viz:position x="-165.50253" y="169.32495"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_policy" label="policy">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="503.4107472896576"></attvalue>
+        </attvalues>
+        <viz:size value="5.396461"></viz:size>
+        <viz:position x="-97.93521" y="159.87572"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_used" label="used">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="189.60792541503906"></attvalue>
+        </attvalues>
+        <viz:size value="5.1484776"></viz:size>
+        <viz:position x="425.393" y="-205.56622"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_security" label="security">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="506.92229104042053"></attvalue>
+        </attvalues>
+        <viz:size value="5.3992357"></viz:size>
+        <viz:position x="7.4717216" y="139.72424"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_agreement" label="agreement">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="404.2352600097656"></attvalue>
+        </attvalues>
+        <viz:size value="5.318087"></viz:size>
+        <viz:position x="-14.517478" y="221.88641"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_6" label="Sustainable marine business in Arctic Norway">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="281.3668169975281"></attvalue>
+        </attvalues>
+        <viz:size value="5.22099"></viz:size>
+        <viz:position x="-162.73691" y="-163.76155"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_nordic" label="nordic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="78.23883819580078"></attvalue>
+        </attvalues>
+        <viz:size value="5.0604677"></viz:size>
+        <viz:position x="-191.88763" y="-231.0191"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_programme" label="programme">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="24.65888786315918"></attvalue>
+        </attvalues>
+        <viz:size value="5.018126"></viz:size>
+        <viz:position x="-233.41809" y="-233.75719"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_council" label="council">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="229.10437202453613"></attvalue>
+        </attvalues>
+        <viz:size value="5.1796894"></viz:size>
+        <viz:position x="-204.63623" y="-175.69283"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_norwegian" label="norwegian">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="221.28259658813477"></attvalue>
+        </attvalues>
+        <viz:size value="5.173508"></viz:size>
+        <viz:position x="181.6315" y="-106.3342"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_based" label="based">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="12.313515663146973"></attvalue>
+        </attvalues>
+        <viz:size value="5.00837"></viz:size>
+        <viz:position x="-221.3717" y="-259.48306"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_products" label="products">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="9.163445472717285"></attvalue>
+        </attvalues>
+        <viz:size value="5.0058804"></viz:size>
+        <viz:position x="-250.09285" y="-259.80435"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_operation" label="operation">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="7.231438159942627"></attvalue>
+        </attvalues>
+        <viz:size value="5.0043535"></viz:size>
+        <viz:position x="-228.45926" y="-285.14987"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_company" label="company">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="222.98026132583618"></attvalue>
+        </attvalues>
+        <viz:size value="5.17485"></viz:size>
+        <viz:position x="-313.77042" y="-6.4169803"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2018" label="2018">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="665.3289842605591"></attvalue>
+        </attvalues>
+        <viz:size value="5.5244174"></viz:size>
+        <viz:position x="267.19742" y="-197.71002"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_marine" label="marine">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="478.9453248977661"></attvalue>
+        </attvalues>
+        <viz:size value="5.377127"></viz:size>
+        <viz:position x="244.6192" y="-60.39681"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_unique" label="unique">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="5.701737403869629"></attvalue>
+        </attvalues>
+        <viz:size value="5.0031447"></viz:size>
+        <viz:position x="-274.55554" y="-250.29561"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_applications" label="applications">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="5.664086818695068"></attvalue>
+        </attvalues>
+        <viz:size value="5.003115"></viz:size>
+        <viz:position x="-267.7541" y="-278.6638"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_norway" label="norway">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="339.03687715530396"></attvalue>
+        </attvalues>
+        <viz:size value="5.266564"></viz:size>
+        <viz:position x="46.998558" y="87.655846"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_developing" label="developing">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="780.3697319030762"></attvalue>
+        </attvalues>
+        <viz:size value="5.615329"></viz:size>
+        <viz:position x="-120.27862" y="-244.67961"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2021" label="2021">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="227.91489267349243"></attvalue>
+        </attvalues>
+        <viz:size value="5.1787496"></viz:size>
+        <viz:position x="-71.08605" y="-63.020687"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_local" label="local">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="4.051470756530762"></attvalue>
+        </attvalues>
+        <viz:size value="5.0018406"></viz:size>
+        <viz:position x="-251.25162" y="-303.0524"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_7" label="Climate change">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="12516.488220214844"></attvalue>
+        </attvalues>
+        <viz:size value="14.8898325"></viz:size>
+        <viz:position x="73.07916" y="-142.0277"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_emissions" label="emissions">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1321.5633544921875"></attvalue>
+        </attvalues>
+        <viz:size value="6.0430083"></viz:size>
+        <viz:position x="94.80343" y="-181.04866"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_pollution" label="pollution">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="863.648811340332"></attvalue>
+        </attvalues>
+        <viz:size value="5.6811404"></viz:size>
+        <viz:position x="144.55136" y="-63.95534"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_gas" label="gas">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="694.3292846679688"></attvalue>
+        </attvalues>
+        <viz:size value="5.5473347"></viz:size>
+        <viz:position x="55.35307" y="-96.45885"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_united" label="united">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="925.2191524505615"></attvalue>
+        </attvalues>
+        <viz:size value="5.7297964"></viz:size>
+        <viz:position x="-35.177467" y="-169.4236"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_carbon" label="carbon">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="458.748291015625"></attvalue>
+        </attvalues>
+        <viz:size value="5.3611665"></viz:size>
+        <viz:position x="78.4582" y="-194.00284"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_population" label="population">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="465.5587387084961"></attvalue>
+        </attvalues>
+        <viz:size value="5.3665485"></viz:size>
+        <viz:position x="166.60226" y="-125.71125"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_co2" label="co2">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="398.0205383300781"></attvalue>
+        </attvalues>
+        <viz:size value="5.313176"></viz:size>
+        <viz:position x="112.83069" y="-191.97673"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_air" label="air">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="382.378662109375"></attvalue>
+        </attvalues>
+        <viz:size value="5.300815"></viz:size>
+        <viz:position x="115.66575" y="-173.28778"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_million" label="million">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="823.4263000488281"></attvalue>
+        </attvalues>
+        <viz:size value="5.649354"></viz:size>
+        <viz:position x="186.63939" y="-221.47552"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_greenhouse" label="greenhouse">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="320.0638122558594"></attvalue>
+        </attvalues>
+        <viz:size value="5.2515707"></viz:size>
+        <viz:position x="97.41859" y="-202.83322"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_countries" label="countries">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="419.59681129455566"></attvalue>
+        </attvalues>
+        <viz:size value="5.330227"></viz:size>
+        <viz:position x="-31.231903" y="-222.0988"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_states" label="states">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="714.1250610351562"></attvalue>
+        </attvalues>
+        <viz:size value="5.5629787"></viz:size>
+        <viz:position x="13.548021" y="-121.465"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_waste" label="waste">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="291.1136169433594"></attvalue>
+        </attvalues>
+        <viz:size value="5.2286925"></viz:size>
+        <viz:position x="112.882965" y="-210.11266"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_national" label="national">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="387.41507720947266"></attvalue>
+        </attvalues>
+        <viz:size value="5.3047953"></viz:size>
+        <viz:position x="-22.485487" y="-85.30037"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_organic" label="organic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="275.3480529785156"></attvalue>
+        </attvalues>
+        <viz:size value="5.2162337"></viz:size>
+        <viz:position x="82.04816" y="-213.58707"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_9" label="Fish markets and environmental monitoring">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="8271.429054260254"></attvalue>
+        </attvalues>
+        <viz:size value="11.535161"></viz:size>
+        <viz:position x="270.65332" y="-244.55592"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_market" label="market">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="923.3012084960938"></attvalue>
+        </attvalues>
+        <viz:size value="5.7282805"></viz:size>
+        <viz:position x="273.73895" y="-283.818"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_monitoring" label="monitoring">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="732.239013671875"></attvalue>
+        </attvalues>
+        <viz:size value="5.5772934"></viz:size>
+        <viz:position x="295.75015" y="-273.48856"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_table" label="table">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="729.019775390625"></attvalue>
+        </attvalues>
+        <viz:size value="5.574749"></viz:size>
+        <viz:position x="332.16403" y="-236.103"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2017" label="2017">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="426.12933349609375"></attvalue>
+        </attvalues>
+        <viz:size value="5.335389"></viz:size>
+        <viz:position x="257.33435" y="-290.39163"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_size" label="size">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="661.5376434326172"></attvalue>
+        </attvalues>
+        <viz:size value="5.5214214"></viz:size>
+        <viz:position x="325.23816" y="-215.27655"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_salmon" label="salmon">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="362.6416320800781"></attvalue>
+        </attvalues>
+        <viz:size value="5.285218"></viz:size>
+        <viz:position x="293.75055" y="-291.83585"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_al" label="al">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1067.6669006347656"></attvalue>
+        </attvalues>
+        <viz:size value="5.842366"></viz:size>
+        <viz:position x="346.57147" y="-214.71115"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_et" label="et">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1106.2800559997559"></attvalue>
+        </attvalues>
+        <viz:size value="5.87288"></viz:size>
+        <viz:position x="318.92276" y="-171.8363"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2025" label="2025">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="333.5791320800781"></attvalue>
+        </attvalues>
+        <viz:size value="5.262251"></viz:size>
+        <viz:position x="309.10358" y="-286.5538"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_figure" label="figure">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="257.14398193359375"></attvalue>
+        </attvalues>
+        <viz:size value="5.201848"></viz:size>
+        <viz:position x="318.116" y="-268.94977"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2019" label="2019">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="726.2483215332031"></attvalue>
+        </attvalues>
+        <viz:size value="5.572559"></viz:size>
+        <viz:position x="206.93697" y="-198.07993"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_fish" label="fish">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="280.73656463623047"></attvalue>
+        </attvalues>
+        <viz:size value="5.220492"></viz:size>
+        <viz:position x="286.72073" y="-156.19946"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_wild" label="wild">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="203.5198516845703"></attvalue>
+        </attvalues>
+        <viz:size value="5.159471"></viz:size>
+        <viz:position x="327.29578" y="-286.098"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_key" label="key">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="171.2332000732422"></attvalue>
+        </attvalues>
+        <viz:size value="5.1339564"></viz:size>
+        <viz:position x="314.8904" y="-304.91147"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_product" label="product">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="167.02879333496094"></attvalue>
+        </attvalues>
+        <viz:size value="5.1306343"></viz:size>
+        <viz:position x="297.42227" y="-313.44446"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2016" label="2016">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="352.0498046875"></attvalue>
+        </attvalues>
+        <viz:size value="5.2768474"></viz:size>
+        <viz:position x="356.20636" y="-235.27538"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_sensors" label="sensors">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="142.9281768798828"></attvalue>
+        </attvalues>
+        <viz:size value="5.1115885"></viz:size>
+        <viz:position x="262.29968" y="-310.7459"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_type" label="type">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="123.90631866455078"></attvalue>
+        </attvalues>
+        <viz:size value="5.0965567"></viz:size>
+        <viz:position x="282.25735" y="-324.41647"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_application" label="application">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="122.68772888183594"></attvalue>
+        </attvalues>
+        <viz:size value="5.0955935"></viz:size>
+        <viz:position x="280.36826" y="-305.16568"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_10" label="Polar research and international cooperation">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="5724.600067138672"></attvalue>
+        </attvalues>
+        <viz:size value="9.522522"></viz:size>
+        <viz:position x="-147.56561" y="23.47455"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_science" label="science">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="202.7020721435547"></attvalue>
+        </attvalues>
+        <viz:size value="5.158825"></viz:size>
+        <viz:position x="-190.51898" y="12.85577"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_china" label="china">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="570.7059020996094"></attvalue>
+        </attvalues>
+        <viz:size value="5.449641"></viz:size>
+        <viz:position x="-116.58464" y="-66.149506"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_read" label="read">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="150.8431854248047"></attvalue>
+        </attvalues>
+        <viz:size value="5.117843"></viz:size>
+        <viz:position x="-202.48808" y="-1.265147"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_university" label="university">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="135.9499969482422"></attvalue>
+        </attvalues>
+        <viz:size value="5.106074"></viz:size>
+        <viz:position x="-199.3765" y="31.033587"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_tundra" label="tundra">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="117.44818878173828"></attvalue>
+        </attvalues>
+        <viz:size value="5.091453"></viz:size>
+        <viz:position x="-216.13292" y="14.834851"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_alaska" label="alaska">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="105.41797637939453"></attvalue>
+        </attvalues>
+        <viz:size value="5.081946"></viz:size>
+        <viz:position x="-216.90686" y="-14.828344"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_report" label="report">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="104.70967102050781"></attvalue>
+        </attvalues>
+        <viz:size value="5.081386"></viz:size>
+        <viz:position x="-226.32076" y="3.0984228"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_scientific" label="scientific">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="101.82650756835938"></attvalue>
+        </attvalues>
+        <viz:size value="5.0791078"></viz:size>
+        <viz:position x="-229.38911" y="30.492035"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_cooperation" label="cooperation">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="161.9139633178711"></attvalue>
+        </attvalues>
+        <viz:size value="5.126592"></viz:size>
+        <viz:position x="-116.96106" y="56.33243"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_11" label="Regulation of land use and the marine environment">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="3516.0781021118164"></attvalue>
+        </attvalues>
+        <viz:size value="7.7772303"></viz:size>
+        <viz:position x="168.40663" y="126.44735"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_regulations" label="regulations">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="218.76248168945312"></attvalue>
+        </attvalues>
+        <viz:size value="5.171517"></viz:size>
+        <viz:position x="219.77794" y="143.25851"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_shall" label="shall">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="548.2080926895142"></attvalue>
+        </attvalues>
+        <viz:size value="5.4318624"></viz:size>
+        <viz:position x="95.54053" y="201.40543"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_government" label="government">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1346.69677734375"></attvalue>
+        </attvalues>
+        <viz:size value="6.06287"></viz:size>
+        <viz:position x="32.81234" y="228.55777"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_areas" label="areas">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="248.6343536376953"></attvalue>
+        </attvalues>
+        <viz:size value="5.195123"></viz:size>
+        <viz:position x="243.37154" y="120.07271"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_law" label="law">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="134.7737274169922"></attvalue>
+        </attvalues>
+        <viz:size value="5.1051445"></viz:size>
+        <viz:position x="226.8453" y="175.83554"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_protection" label="protection">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="159.88525581359863"></attvalue>
+        </attvalues>
+        <viz:size value="5.124989"></viz:size>
+        <viz:position x="212.29898" y="203.66707"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_article" label="article">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="109.27140045166016"></attvalue>
+        </attvalues>
+        <viz:size value="5.084991"></viz:size>
+        <viz:position x="247.17572" y="170.17485"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_walrus" label="walrus">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="422.30298614501953"></attvalue>
+        </attvalues>
+        <viz:size value="5.332365"></viz:size>
+        <viz:position x="262.52753" y="49.786686"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_protected" label="protected">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="136.4670867919922"></attvalue>
+        </attvalues>
+        <viz:size value="5.1064825"></viz:size>
+        <viz:position x="266.81503" y="81.983116"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_12" label="Mining and resources">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="3567.189033508301"></attvalue>
+        </attvalues>
+        <viz:size value="7.817621"></viz:size>
+        <viz:position x="-295.01566" y="67.57643"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_mining" label="mining">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="292.6611633300781"></attvalue>
+        </attvalues>
+        <viz:size value="5.2299156"></viz:size>
+        <viz:position x="-347.35556" y="64.93342"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_gold" label="gold">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="206.54312133789062"></attvalue>
+        </attvalues>
+        <viz:size value="5.1618605"></viz:size>
+        <viz:position x="-343.1502" y="89.94152"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_mineral" label="mineral">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="133.45846557617188"></attvalue>
+        </attvalues>
+        <viz:size value="5.104105"></viz:size>
+        <viz:position x="-363.2369" y="84.1375"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_process" label="process">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="132.79986572265625"></attvalue>
+        </attvalues>
+        <viz:size value="5.103585"></viz:size>
+        <viz:position x="-364.75064" y="54.378117"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_operations" label="operations">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="130.65762329101562"></attvalue>
+        </attvalues>
+        <viz:size value="5.1018915"></viz:size>
+        <viz:position x="-345.98453" y="113.84663"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_production" label="production">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="122.28853607177734"></attvalue>
+        </attvalues>
+        <viz:size value="5.095278"></viz:size>
+        <viz:position x="-377.16562" y="95.19916"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_think" label="think">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="120.82261657714844"></attvalue>
+        </attvalues>
+        <viz:size value="5.0941195"></viz:size>
+        <viz:position x="-352.44586" y="42.13162"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_exploration" label="exploration">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="118.68280029296875"></attvalue>
+        </attvalues>
+        <viz:size value="5.0924287"></viz:size>
+        <viz:position x="-378.1958" y="70.44222"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_open" label="open">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="112.52296447753906"></attvalue>
+        </attvalues>
+        <viz:size value="5.0875607"></viz:size>
+        <viz:position x="-359.79926" y="102.05074"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_industry" label="industry">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="131.03478240966797"></attvalue>
+        </attvalues>
+        <viz:size value="5.1021895"></viz:size>
+        <viz:position x="-343.34555" y="-26.833248"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_000" label="000">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="102.31778717041016"></attvalue>
+        </attvalues>
+        <viz:size value="5.079496"></viz:size>
+        <viz:position x="-369.57004" y="117.55879"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_high" label="high">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="225.1561737060547"></attvalue>
+        </attvalues>
+        <viz:size value="5.1765695"></viz:size>
+        <viz:position x="-84.0853" y="313.864"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_14" label="Arctic cooperation and tourism">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1125.6110334396362"></attvalue>
+        </attvalues>
+        <viz:size value="5.888157"></viz:size>
+        <viz:position x="-278.22125" y="-130.55847"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_iceland" label="iceland">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="577.0069274902344"></attvalue>
+        </attvalues>
+        <viz:size value="5.4546204"></viz:size>
+        <viz:position x="-208.45052" y="-217.80568"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_tourism" label="tourism">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="156.08714294433594"></attvalue>
+        </attvalues>
+        <viz:size value="5.1219873"></viz:size>
+        <viz:position x="-326.7995" y="-152.76668"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_country" label="country">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="89.05278015136719"></attvalue>
+        </attvalues>
+        <viz:size value="5.069013"></viz:size>
+        <viz:position x="-343.06418" y="-137.29529"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_icelandic" label="icelandic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="72.11416625976562"></attvalue>
+        </attvalues>
+        <viz:size value="5.0556273"></viz:size>
+        <viz:position x="-327.5988" y="-175.74643"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_islands" label="islands">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="31.392902374267578"></attvalue>
+        </attvalues>
+        <viz:size value="5.0234475"></viz:size>
+        <viz:position x="-352.73843" y="-162.50577"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_finland" label="finland">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="25.899723052978516"></attvalue>
+        </attvalues>
+        <viz:size value="5.0191064"></viz:size>
+        <viz:position x="-370.9119" y="-144.2325"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="20.524200439453125"></attvalue>
+        </attvalues>
+        <viz:size value="5.0148582"></viz:size>
+        <viz:position x="-352.00784" y="-186.603"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_whales" label="whales">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="16.889360427856445"></attvalue>
+        </attvalues>
+        <viz:size value="5.011986"></viz:size>
+        <viz:position x="-375.16476" y="-195.78632"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_action" label="action">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="15.995635032653809"></attvalue>
+        </attvalues>
+        <viz:size value="5.0112796"></viz:size>
+        <viz:position x="-389.8384" y="-151.59694"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_said" label="said">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="470.9388790130615"></attvalue>
+        </attvalues>
+        <viz:size value="5.3708"></viz:size>
+        <viz:position x="-121.9879" y="129.99751"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_meeting" label="meeting">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="15.15329647064209"></attvalue>
+        </attvalues>
+        <viz:size value="5.010614"></viz:size>
+        <viz:position x="-393.54007" y="-177.53423"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_travel" label="travel">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="15.133930206298828"></attvalue>
+        </attvalues>
+        <viz:size value="5.0105987"></viz:size>
+        <viz:position x="-373.09012" y="-170.84995"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_15" label="Geothermal energy on Iceland and international development">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="5731.872749328613"></attvalue>
+        </attvalues>
+        <viz:size value="9.528269"></viz:size>
+        <viz:position x="-71.8712" y="-261.99866"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_001" label="001">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="982.557363986969"></attvalue>
+        </attvalues>
+        <viz:size value="5.775108"></viz:size>
+        <viz:position x="21.782259" y="-211.44484"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_developed" label="developed">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="290.42071533203125"></attvalue>
+        </attvalues>
+        <viz:size value="5.228145"></viz:size>
+        <viz:position x="-87.94737" y="-307.07678"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_pdf" label="pdf">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="252.97494506835938"></attvalue>
+        </attvalues>
+        <viz:size value="5.198553"></viz:size>
+        <viz:position x="-56.143127" y="-322.18066"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_002" label="002">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="229.8765411376953"></attvalue>
+        </attvalues>
+        <viz:size value="5.1802998"></viz:size>
+        <viz:position x="-91.12415" y="-326.8355"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_019" label="019">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="218.21583557128906"></attvalue>
+        </attvalues>
+        <viz:size value="5.171085"></viz:size>
+        <viz:position x="-107.0938" y="-308.30563"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_202" label="202">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="205.61785888671875"></attvalue>
+        </attvalues>
+        <viz:size value="5.161129"></viz:size>
+        <viz:position x="-72.75066" y="-327.14835"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_150" label="150">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="205.4678955078125"></attvalue>
+        </attvalues>
+        <viz:size value="5.1610107"></viz:size>
+        <viz:position x="-105.75719" y="-334.54916"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_419" label="419">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="195.7095184326172"></attvalue>
+        </attvalues>
+        <viz:size value="5.1532993"></viz:size>
+        <viz:position x="-68.82013" y="-308.67755"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_142" label="142">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="191.6695556640625"></attvalue>
+        </attvalues>
+        <viz:size value="5.1501064"></viz:size>
+        <viz:position x="-40.906086" y="-315.18716"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_europe" label="europe">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="156.87281799316406"></attvalue>
+        </attvalues>
+        <viz:size value="5.122608"></viz:size>
+        <viz:position x="-79.13965" y="-345.1843"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_asia" label="asia">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="147.82431030273438"></attvalue>
+        </attvalues>
+        <viz:size value="5.1154575"></viz:size>
+        <viz:position x="-120.254425" y="-320.60052"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_africa" label="africa">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="145.9098358154297"></attvalue>
+        </attvalues>
+        <viz:size value="5.113945"></viz:size>
+        <viz:position x="-56.75109" y="-341.81787"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_geothermal" label="geothermal">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="132.6171417236328"></attvalue>
+        </attvalues>
+        <viz:size value="5.1034403"></viz:size>
+        <viz:position x="-96.34807" y="-350.37943"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2020" label="2020">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="410.41960310935974"></attvalue>
+        </attvalues>
+        <viz:size value="5.322974"></viz:size>
+        <viz:position x="-84.73572" y="-180.15154"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_16" label="International geopolitics and resources in Arctic Norway">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="6832.994689941406"></attvalue>
+        </attvalues>
+        <viz:size value="10.398434"></viz:size>
+        <viz:position x="-16.030521" y="13.146999"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_oil" label="oil">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="466.7227478027344"></attvalue>
+        </attvalues>
+        <viz:size value="5.3674684"></viz:size>
+        <viz:position x="17.323036" y="33.656456"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_russia" label="russia">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="359.9338684082031"></attvalue>
+        </attvalues>
+        <viz:size value="5.2830777"></viz:size>
+        <viz:position x="4.856106" y="50.012177"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_ocean" label="ocean">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="306.92210388183594"></attvalue>
+        </attvalues>
+        <viz:size value="5.241185"></viz:size>
+        <viz:position x="142.15703" y="-0.9493369"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_vault" label="vault">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="186.80255126953125"></attvalue>
+        </attvalues>
+        <viz:size value="5.1462603"></viz:size>
+        <viz:position x="34.16008" y="38.205135"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_russian" label="russian">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="157.71905517578125"></attvalue>
+        </attvalues>
+        <viz:size value="5.123277"></viz:size>
+        <viz:position x="9.082567" y="67.433426"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_shipping" label="shipping">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="157.5218505859375"></attvalue>
+        </attvalues>
+        <viz:size value="5.1231213"></viz:size>
+        <viz:position x="24.574364" y="55.737408"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_military" label="military">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="141.22412109375"></attvalue>
+        </attvalues>
+        <viz:size value="5.110242"></viz:size>
+        <viz:position x="40.64061" y="23.629927"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_natural" label="natural">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="137.4664306640625"></attvalue>
+        </attvalues>
+        <viz:size value="5.107272"></viz:size>
+        <viz:position x="31.131779" y="5.4066477"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_18" label="Communities, food and health in Arctic Canada">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="12209.887893676758"></attvalue>
+        </attvalues>
+        <viz:size value="14.64754"></viz:size>
+        <viz:position x="-69.33293" y="249.76604"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_nunavut" label="nunavut">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2831.2213287353516"></attvalue>
+        </attvalues>
+        <viz:size value="7.23602"></viz:size>
+        <viz:position x="-32.523193" y="275.68042"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_inuit" label="inuit">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1471.906982421875"></attvalue>
+        </attvalues>
+        <viz:size value="6.161818"></viz:size>
+        <viz:position x="-81.742065" y="292.75476"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_community" label="community">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="622.39794921875"></attvalue>
+        </attvalues>
+        <viz:size value="5.490491"></viz:size>
+        <viz:position x="-63.339596" y="302.45566"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_communities" label="communities">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="915.0509643554688"></attvalue>
+        </attvalues>
+        <viz:size value="5.7217607"></viz:size>
+        <viz:position x="-23.679653" y="239.96225"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_territory" label="territory">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="352.2809753417969"></attvalue>
+        </attvalues>
+        <viz:size value="5.27703"></viz:size>
+        <viz:position x="-63.61992" y="321.41138"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_iqaluit" label="iqaluit">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="351.1644287109375"></attvalue>
+        </attvalues>
+        <viz:size value="5.276148"></viz:size>
+        <viz:position x="-46.85573" y="311.44418"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_bay" label="bay">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="323.2530212402344"></attvalue>
+        </attvalues>
+        <viz:size value="5.254091"></viz:size>
+        <viz:position x="-102.12173" y="301.30157"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_canadian" label="canadian">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="602.5292358398438"></attvalue>
+        </attvalues>
+        <viz:size value="5.4747896"></viz:size>
+        <viz:position x="-15.877756" y="261.8191"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_hunting" label="hunting">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="236.5788116455078"></attvalue>
+        </attvalues>
+        <viz:size value="5.185596"></viz:size>
+        <viz:position x="-80.474144" y="332.1568"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_department" label="department">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="235.1196746826172"></attvalue>
+        </attvalues>
+        <viz:size value="5.184443"></viz:size>
+        <viz:position x="-111.23556" y="315.20438"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_traditional" label="traditional">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="222.42958068847656"></attvalue>
+        </attvalues>
+        <viz:size value="5.1744146"></viz:size>
+        <viz:position x="-50.693863" y="332.78534"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_corporation" label="corporation">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="214.06076049804688"></attvalue>
+        </attvalues>
+        <viz:size value="5.1678014"></viz:size>
+        <viz:position x="-99.009445" y="326.76923"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_housing" label="housing">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="211.4639434814453"></attvalue>
+        </attvalues>
+        <viz:size value="5.165749"></viz:size>
+        <viz:position x="-117.53967" y="293.81152"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_19" label="Indigenous communities and development policies in Arctic Canada">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="9819.774841308594"></attvalue>
+        </attvalues>
+        <viz:size value="12.758747"></viz:size>
+        <viz:position x="-14.874562" y="178.98444"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_peoples" label="peoples">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="279.9623775482178"></attvalue>
+        </attvalues>
+        <viz:size value="5.21988"></viz:size>
+        <viz:position x="10.052091" y="259.80844"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_infrastructure" label="infrastructure">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="261.3594970703125"></attvalue>
+        </attvalues>
+        <viz:size value="5.205179"></viz:size>
+        <viz:position x="-2.4249487" y="235.119"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_gc" label="gc">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="237.56910705566406"></attvalue>
+        </attvalues>
+        <viz:size value="5.186379"></viz:size>
+        <viz:position x="28.149101" y="260.2281"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_gn" label="gn">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="233.33580017089844"></attvalue>
+        </attvalues>
+        <viz:size value="5.1830335"></viz:size>
+        <viz:position x="16.133814" y="239.50346"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_20" label="Environmental change and sustainable and indigenous development">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="67.96919977664948"></attvalue>
+        </attvalues>
+        <viz:size value="5.052352"></viz:size>
+        <viz:position x="-77.29271" y="125.16157"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_european" label="european">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="203.49779772758484"></attvalue>
+        </attvalues>
+        <viz:size value="5.159454"></viz:size>
+        <viz:position x="-115.71527" y="-122.095566"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_resources" label="resources">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1.7887877225875854"></attvalue>
+        </attvalues>
+        <viz:size value="5.0000525"></viz:size>
+        <viz:position x="-181.73744" y="316.88025"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_framework" label="framework">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1.7221369743347168"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-204.48885" y="296.2725"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_21" label="International business">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="6366.115509033203"></attvalue>
+        </attvalues>
+        <viz:size value="10.029482"></viz:size>
+        <viz:position x="-75.28758" y="-138.05559"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_www" label="www">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="313.50390625"></attvalue>
+        </attvalues>
+        <viz:size value="5.2463865"></viz:size>
+        <viz:position x="-67.38206" y="-191.85414"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_executive" label="executive">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="251.30540466308594"></attvalue>
+        </attvalues>
+        <viz:size value="5.197234"></viz:size>
+        <viz:position x="-108.14962" y="-171.13852"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_https" label="https">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="230.70379638671875"></attvalue>
+        </attvalues>
+        <viz:size value="5.1809535"></viz:size>
+        <viz:position x="-100.51639" y="-193.33585"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_com" label="com">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="225.5963897705078"></attvalue>
+        </attvalues>
+        <viz:size value="5.176917"></viz:size>
+        <viz:position x="-81.21943" y="-202.04816"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_investment" label="investment">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="211.33885192871094"></attvalue>
+        </attvalues>
+        <viz:size value="5.1656504"></viz:size>
+        <viz:position x="-118.89399" y="-183.69235"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_chief" label="chief">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="183.0211181640625"></attvalue>
+        </attvalues>
+        <viz:size value="5.143272"></viz:size>
+        <viz:position x="-98.37205" y="-210.22305"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_director" label="director">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="179.51109313964844"></attvalue>
+        </attvalues>
+        <viz:size value="5.140498"></viz:size>
+        <viz:position x="-117.85718" y="-202.10114"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_22" label="Environmental protection">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="1259.1421222686768"></attvalue>
+        </attvalues>
+        <viz:size value="5.99368"></viz:size>
+        <viz:position x="146.675" y="198.83131"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_governor" label="governor">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="62.64844512939453"></attvalue>
+        </attvalues>
+        <viz:size value="5.048147"></viz:size>
+        <viz:position x="205.36818" y="250.52861"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2012" label="2012">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="56.260467529296875"></attvalue>
+        </attvalues>
+        <viz:size value="5.043099"></viz:size>
+        <viz:position x="172.35812" y="277.78357"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_20" label="20">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="48.81104278564453"></attvalue>
+        </attvalues>
+        <viz:size value="5.0372124"></viz:size>
+        <viz:position x="195.27809" y="271.1855"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_ministry" label="ministry">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="36.36283874511719"></attvalue>
+        </attvalues>
+        <viz:size value="5.0273747"></viz:size>
+        <viz:position x="226.62515" y="256.29327"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_april" label="april">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="32.8676643371582"></attvalue>
+        </attvalues>
+        <viz:size value="5.024613"></viz:size>
+        <viz:position x="181.67264" y="297.2434"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_activity" label="activity">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="32.420345306396484"></attvalue>
+        </attvalues>
+        <viz:size value="5.0242596"></viz:size>
+        <viz:position x="211.15442" y="282.86063"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_planning" label="planning">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="31.69756507873535"></attvalue>
+        </attvalues>
+        <viz:size value="5.0236883"></viz:size>
+        <viz:position x="233.34703" y="273.62186"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_measures" label="measures">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="27.41621208190918"></attvalue>
+        </attvalues>
+        <viz:size value="5.0203047"></viz:size>
+        <viz:position x="200.03748" y="303.80838"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_provisions" label="provisions">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="27.35235023498535"></attvalue>
+        </attvalues>
+        <viz:size value="5.020254"></viz:size>
+        <viz:position x="224.75095" y="295.94815"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_23" label="Oceans and marine wildlife/resources">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2190.909980773926"></attvalue>
+        </attvalues>
+        <viz:size value="6.7300124"></viz:size>
+        <viz:position x="269.87363" y="-22.030922"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_fisheries" label="fisheries">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="137.90347290039062"></attvalue>
+        </attvalues>
+        <viz:size value="5.107618"></viz:size>
+        <viz:position x="320.21048" y="-14.5109005"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_stock" label="stock">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="125.19010925292969"></attvalue>
+        </attvalues>
+        <viz:size value="5.097571"></viz:size>
+        <viz:position x="324.03467" y="7.014384"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_harvest" label="harvest">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="115.45216369628906"></attvalue>
+        </attvalues>
+        <viz:size value="5.0898757"></viz:size>
+        <viz:position x="323.62872" y="-36.00183"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_fishing" label="fishing">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="104.5316162109375"></attvalue>
+        </attvalues>
+        <viz:size value="5.0812454"></viz:size>
+        <viz:position x="339.73782" y="-10.119116"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_species" label="species">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="96.81364440917969"></attvalue>
+        </attvalues>
+        <viz:size value="5.075146"></viz:size>
+        <viz:position x="340.92358" y="12.478167"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_atlantic" label="atlantic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="83.91466522216797"></attvalue>
+        </attvalues>
+        <viz:size value="5.064953"></viz:size>
+        <viz:position x="342.09683" y="-33.332138"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_oceans" label="oceans">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="54.92245101928711"></attvalue>
+        </attvalues>
+        <viz:size value="5.042042"></viz:size>
+        <viz:position x="356.4968" y="-16.574665"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_warming" label="warming">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="48.431983947753906"></attvalue>
+        </attvalues>
+        <viz:size value="5.0369124"></viz:size>
+        <viz:position x="361.23862" y="11.227354"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_ecological" label="ecological">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="47.245140075683594"></attvalue>
+        </attvalues>
+        <viz:size value="5.0359745"></viz:size>
+        <viz:position x="345.86908" y="-52.725826"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_levels" label="levels">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="43.97307586669922"></attvalue>
+        </attvalues>
+        <viz:size value="5.033389"></viz:size>
+        <viz:position x="365.97723" y="-32.34682"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_conservation" label="conservation">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="41.161128997802734"></attvalue>
+        </attvalues>
+        <viz:size value="5.0311666"></viz:size>
+        <viz:position x="373.10178" y="-3.6154177"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="T_TOPIC_24" label="Plastic in marine environments">
+        <attvalues>
+          <attvalue for="0" value="topic"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="7233.669876098633"></attvalue>
+        </attvalues>
+        <viz:size value="10.715069"></viz:size>
+        <viz:position x="363.21414" y="-163.06502"></viz:position>
+        <viz:color r="204" g="228" b="255"></viz:color>
+      </node>
+      <node id="W_microplastics" label="microplastics">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="587.4715576171875"></attvalue>
+        </attvalues>
+        <viz:size value="5.46289"></viz:size>
+        <viz:position x="400.39508" y="-185.87056"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_plastic" label="plastic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="395.0030822753906"></attvalue>
+        </attvalues>
+        <viz:size value="5.3107915"></viz:size>
+        <viz:position x="410.5918" y="-170.49492"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_10" label="10">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="296.5501403808594"></attvalue>
+        </attvalues>
+        <viz:size value="5.232989"></viz:size>
+        <viz:position x="423.8607" y="-174.205"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_particles" label="particles">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="277.8992919921875"></attvalue>
+        </attvalues>
+        <viz:size value="5.21825"></viz:size>
+        <viz:position x="409.00592" y="-147.5191"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_microplastic" label="microplastic">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="250.9479522705078"></attvalue>
+        </attvalues>
+        <viz:size value="5.1969514"></viz:size>
+        <viz:position x="402.65955" y="-205.5688"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_effects" label="effects">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="230.07261657714844"></attvalue>
+        </attvalues>
+        <viz:size value="5.1804547"></viz:size>
+        <viz:position x="435.36002" y="-187.8833"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_studies" label="studies">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="222.49893188476562"></attvalue>
+        </attvalues>
+        <viz:size value="5.1744695"></viz:size>
+        <viz:position x="421.60464" y="-135.88855"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_exposure" label="exposure">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="212.9237060546875"></attvalue>
+        </attvalues>
+        <viz:size value="5.1669025"></viz:size>
+        <viz:position x="411.74835" y="-219.01416"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_plastics" label="plastics">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="210.27056884765625"></attvalue>
+        </attvalues>
+        <viz:size value="5.164806"></viz:size>
+        <viz:position x="428.041" y="-155.79106"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_study" label="study">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="199.1260528564453"></attvalue>
+        </attvalues>
+        <viz:size value="5.155999"></viz:size>
+        <viz:position x="402.3236" y="-131.19485"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_2015" label="2015">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="197.1084442138672"></attvalue>
+        </attvalues>
+        <viz:size value="5.1544046"></viz:size>
+        <viz:position x="416.76138" y="-190.92233"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_surface" label="surface">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="183.0504150390625"></attvalue>
+        </attvalues>
+        <viz:size value="5.1432953"></viz:size>
+        <viz:position x="442.51306" y="-149.22292"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+      <node id="W_reported" label="reported">
+        <attvalues>
+          <attvalue for="0" value="word"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="weighted degree" value="173.4921112060547"></attvalue>
+        </attvalues>
+        <viz:size value="5.1357417"></viz:size>
+        <viz:position x="443.4647" y="-171.65994"></viz:position>
+        <viz:color r="86" g="86" b="102"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="28" source="W_project" target="T_TOPIC_11" weight="115.27532196044922"></edge>
+      <edge id="29" source="W_project" target="T_TOPIC_12" weight="195.41864013671875"></edge>
+      <edge id="30" source="W_project" target="T_TOPIC_18" weight="215.59466552734375"></edge>
+      <edge id="32" source="W_section" target="T_TOPIC_22" weight="88.63634490966797"></edge>
+      <edge id="35" source="W_act" target="T_TOPIC_11" weight="186.22274780273438"></edge>
+      <edge id="36" source="W_act" target="T_TOPIC_22" weight="42.69378662109375"></edge>
+      <edge id="37" source="W_land" target="T_TOPIC_1" weight="1.3894587755203247"></edge>
+      <edge id="38" source="W_land" target="T_TOPIC_11" weight="176.92935180664062"></edge>
+      <edge id="39" source="W_land" target="T_TOPIC_18" weight="261.9192810058594"></edge>
+      <edge id="40" source="W_land" target="T_TOPIC_20" weight="1.800557255744934"></edge>
+      <edge id="41" source="W_use" target="T_TOPIC_2" weight="513.0968017578125"></edge>
+      <edge id="43" source="W_use" target="T_TOPIC_11" weight="191.6977996826172"></edge>
+      <edge id="44" source="W_use" target="T_TOPIC_22" weight="31.159799575805664"></edge>
+      <edge id="45" source="W_area" target="T_TOPIC_1" weight="2.0617520809173584"></edge>
+      <edge id="46" source="W_area" target="T_TOPIC_11" weight="161.48388671875"></edge>
+      <edge id="50" source="W_federal" target="T_TOPIC_19" weight="359.4297180175781"></edge>
+      <edge id="52" source="T_TOPIC_1" target="W_ranked" weight="18.96303367614746"></edge>
+      <edge id="53" source="T_TOPIC_1" target="W_adjusted" weight="5.873641490936279"></edge>
+      <edge id="54" source="T_TOPIC_1" target="W_canada" weight="4.683323860168457"></edge>
+      <edge id="55" source="T_TOPIC_1" target="W_savings" weight="4.164259910583496"></edge>
+      <edge id="56" source="T_TOPIC_1" target="W_arctic" weight="4.130464553833008"></edge>
+      <edge id="57" source="T_TOPIC_1" target="W_climate" weight="2.667073965072632"></edge>
+      <edge id="58" source="T_TOPIC_1" target="W_ice" weight="2.4344663619995117"></edge>
+      <edge id="59" source="T_TOPIC_1" target="W_eu" weight="2.343942642211914"></edge>
+      <edge id="60" source="T_TOPIC_1" target="W_development" weight="2.3295061588287354"></edge>
+      <edge id="61" source="T_TOPIC_1" target="W_total" weight="2.2535693645477295"></edge>
+      <edge id="62" source="T_TOPIC_1" target="W_services" weight="2.164724111557007"></edge>
+      <edge id="63" source="T_TOPIC_1" target="W_environment" weight="1.9939121007919312"></edge>
+      <edge id="64" source="T_TOPIC_1" target="W_glaciers" weight="1.9046567678451538"></edge>
+      <edge id="65" source="T_TOPIC_1" target="W_northern" weight="1.706229329109192"></edge>
+      <edge id="66" source="T_TOPIC_1" target="W_indigenous" weight="1.6444127559661865"></edge>
+      <edge id="67" source="T_TOPIC_1" target="W_sustainable" weight="1.6364762783050537"></edge>
+      <edge id="68" source="T_TOPIC_1" target="W_economic" weight="1.5747063159942627"></edge>
+      <edge id="69" source="T_TOPIC_1" target="W_international" weight="1.5722041130065918"></edge>
+      <edge id="70" source="T_TOPIC_1" target="W_change" weight="1.569795846939087"></edge>
+      <edge id="71" source="T_TOPIC_1" target="W_energy" weight="1.5133951902389526"></edge>
+      <edge id="72" source="T_TOPIC_1" target="W_north" weight="1.4915745258331299"></edge>
+      <edge id="73" source="T_TOPIC_1" target="W_water" weight="1.4219504594802856"></edge>
+      <edge id="74" source="T_TOPIC_1" target="W_region" weight="1.3892207145690918"></edge>
+      <edge id="75" source="W_ranked" target="T_TOPIC_7" weight="749.0576171875"></edge>
+      <edge id="76" source="W_canada" target="T_TOPIC_7" weight="358.5888671875"></edge>
+      <edge id="77" source="W_canada" target="T_TOPIC_11" weight="111.42039489746094"></edge>
+      <edge id="78" source="W_canada" target="T_TOPIC_18" weight="738.4949951171875"></edge>
+      <edge id="79" source="W_canada" target="T_TOPIC_19" weight="878.7822875976562"></edge>
+      <edge id="80" source="W_canada" target="T_TOPIC_20" weight="3.1541314125061035"></edge>
+      <edge id="81" source="W_canada" target="T_TOPIC_24" weight="183.5348663330078"></edge>
+      <edge id="82" source="W_arctic" target="T_TOPIC_3" weight="1912.924560546875"></edge>
+      <edge id="85" source="W_arctic" target="T_TOPIC_6" weight="16.795799255371094"></edge>
+      <edge id="86" source="W_arctic" target="T_TOPIC_10" weight="2186.364013671875"></edge>
+      <edge id="87" source="W_arctic" target="T_TOPIC_11" weight="124.53968048095703"></edge>
+      <edge id="88" source="W_arctic" target="T_TOPIC_12" weight="100.48539733886719"></edge>
+      <edge id="90" source="W_arctic" target="T_TOPIC_14" weight="26.24102210998535"></edge>
+      <edge id="91" source="W_arctic" target="T_TOPIC_16" weight="1768.089599609375"></edge>
+      <edge id="93" source="W_arctic" target="T_TOPIC_18" weight="341.5241394042969"></edge>
+      <edge id="94" source="W_arctic" target="T_TOPIC_19" weight="1197.26513671875"></edge>
+      <edge id="95" source="W_arctic" target="T_TOPIC_20" weight="13.582931518554688"></edge>
+      <edge id="96" source="W_arctic" target="T_TOPIC_21" weight="595.05859375"></edge>
+      <edge id="97" source="W_arctic" target="T_TOPIC_22" weight="111.57695007324219"></edge>
+      <edge id="98" source="W_arctic" target="T_TOPIC_23" weight="100.95435333251953"></edge>
+      <edge id="99" source="W_climate" target="T_TOPIC_2" weight="885.0377807617188"></edge>
+      <edge id="100" source="W_climate" target="T_TOPIC_3" weight="327.5918273925781"></edge>
+      <edge id="101" source="W_climate" target="T_TOPIC_7" weight="926.792236328125"></edge>
+      <edge id="102" source="W_climate" target="T_TOPIC_10" weight="213.2250518798828"></edge>
+      <edge id="103" source="W_climate" target="T_TOPIC_15" weight="154.8118896484375"></edge>
+      <edge id="104" source="W_climate" target="T_TOPIC_16" weight="142.65023803710938"></edge>
+      <edge id="106" source="W_climate" target="T_TOPIC_19" weight="266.40179443359375"></edge>
+      <edge id="107" source="W_climate" target="T_TOPIC_20" weight="2.6992835998535156"></edge>
+      <edge id="108" source="W_climate" target="T_TOPIC_21" weight="254.91448974609375"></edge>
+      <edge id="109" source="W_ice" target="T_TOPIC_3" weight="1415.87060546875"></edge>
+      <edge id="110" source="W_ice" target="T_TOPIC_10" weight="219.1656951904297"></edge>
+      <edge id="111" source="W_ice" target="T_TOPIC_16" weight="182.78916931152344"></edge>
+      <edge id="113" source="W_eu" target="T_TOPIC_20" weight="2.1757278442382812"></edge>
+      <edge id="114" source="W_eu" target="T_TOPIC_21" weight="240.3804168701172"></edge>
+      <edge id="115" source="W_development" target="T_TOPIC_2" weight="812.2591552734375"></edge>
+      <edge id="117" source="W_development" target="T_TOPIC_6" weight="8.228017807006836"></edge>
+      <edge id="118" source="W_development" target="T_TOPIC_10" weight="113.43769836425781"></edge>
+      <edge id="119" source="W_development" target="T_TOPIC_12" weight="136.25555419921875"></edge>
+      <edge id="120" source="W_development" target="T_TOPIC_14" weight="32.29893112182617"></edge>
+      <edge id="121" source="W_development" target="T_TOPIC_15" weight="165.13180541992188"></edge>
+      <edge id="122" source="W_development" target="T_TOPIC_19" weight="565.63916015625"></edge>
+      <edge id="123" source="W_development" target="T_TOPIC_20" weight="2.9467573165893555"></edge>
+      <edge id="124" source="W_development" target="T_TOPIC_21" weight="297.72210693359375"></edge>
+      <edge id="125" source="W_total" target="T_TOPIC_7" weight="382.7023620605469"></edge>
+      <edge id="126" source="W_total" target="T_TOPIC_23" weight="40.31039047241211"></edge>
+      <edge id="127" source="W_environment" target="T_TOPIC_2" weight="839.2084350585938"></edge>
+      <edge id="128" source="W_environment" target="T_TOPIC_11" weight="126.21064758300781"></edge>
+      <edge id="129" source="W_environment" target="T_TOPIC_22" weight="50.26899337768555"></edge>
+      <edge id="130" source="W_environment" target="T_TOPIC_24" weight="184.37037658691406"></edge>
+      <edge id="131" source="W_glaciers" target="T_TOPIC_3" weight="272.8128356933594"></edge>
+      <edge id="133" source="W_northern" target="T_TOPIC_19" weight="421.7160339355469"></edge>
+      <edge id="134" source="W_northern" target="T_TOPIC_20" weight="2.439319372177124"></edge>
+      <edge id="135" source="W_indigenous" target="T_TOPIC_19" weight="542.677490234375"></edge>
+      <edge id="136" source="W_indigenous" target="T_TOPIC_20" weight="2.6103084087371826"></edge>
+      <edge id="137" source="W_sustainable" target="T_TOPIC_2" weight="1520.442626953125"></edge>
+      <edge id="138" source="W_sustainable" target="T_TOPIC_6" weight="10.76361083984375"></edge>
+      <edge id="139" source="W_sustainable" target="T_TOPIC_14" weight="30.564762115478516"></edge>
+      <edge id="140" source="W_sustainable" target="T_TOPIC_15" weight="181.4122772216797"></edge>
+      <edge id="141" source="W_sustainable" target="T_TOPIC_20" weight="1.697585940361023"></edge>
+      <edge id="142" source="W_sustainable" target="T_TOPIC_21" weight="214.7005157470703"></edge>
+      <edge id="143" source="W_sustainable" target="T_TOPIC_23" weight="68.793701171875"></edge>
+      <edge id="144" source="W_economic" target="T_TOPIC_19" weight="260.9327087402344"></edge>
+      <edge id="145" source="W_economic" target="T_TOPIC_20" weight="2.1369123458862305"></edge>
+      <edge id="146" source="W_economic" target="T_TOPIC_21" weight="228.849365234375"></edge>
+      <edge id="147" source="W_international" target="T_TOPIC_14" weight="31.999292373657227"></edge>
+      <edge id="148" source="W_international" target="T_TOPIC_19" weight="320.777099609375"></edge>
+      <edge id="149" source="W_international" target="T_TOPIC_21" weight="286.4559326171875"></edge>
+      <edge id="150" source="W_change" target="T_TOPIC_2" weight="744.3165283203125"></edge>
+      <edge id="151" source="W_change" target="T_TOPIC_3" weight="252.91555786132812"></edge>
+      <edge id="152" source="W_change" target="T_TOPIC_7" weight="623.0606079101562"></edge>
+      <edge id="153" source="W_change" target="T_TOPIC_10" weight="143.7392120361328"></edge>
+      <edge id="154" source="W_change" target="T_TOPIC_15" weight="118.51422882080078"></edge>
+      <edge id="156" source="W_change" target="T_TOPIC_18" weight="218.3210906982422"></edge>
+      <edge id="157" source="W_change" target="T_TOPIC_20" weight="2.842613458633423"></edge>
+      <edge id="158" source="W_change" target="T_TOPIC_21" weight="186.8519287109375"></edge>
+      <edge id="159" source="W_energy" target="T_TOPIC_2" weight="1892.879150390625"></edge>
+      <edge id="160" source="W_energy" target="T_TOPIC_7" weight="453.3853454589844"></edge>
+      <edge id="161" source="W_energy" target="T_TOPIC_10" weight="130.4417266845703"></edge>
+      <edge id="162" source="W_energy" target="T_TOPIC_15" weight="106.99958801269531"></edge>
+      <edge id="163" source="W_north" target="T_TOPIC_3" weight="382.6315002441406"></edge>
+      <edge id="164" source="W_north" target="T_TOPIC_16" weight="175.27850341796875"></edge>
+      <edge id="165" source="W_north" target="T_TOPIC_18" weight="217.08912658691406"></edge>
+      <edge id="166" source="W_north" target="T_TOPIC_19" weight="319.9284362792969"></edge>
+      <edge id="167" source="W_north" target="T_TOPIC_20" weight="2.8993568420410156"></edge>
+      <edge id="168" source="W_north" target="T_TOPIC_22" weight="58.63755798339844"></edge>
+      <edge id="169" source="W_water" target="T_TOPIC_7" weight="1225.920654296875"></edge>
+      <edge id="170" source="W_water" target="T_TOPIC_24" weight="315.2494201660156"></edge>
+      <edge id="171" source="W_region" target="T_TOPIC_6" weight="10.013184547424316"></edge>
+      <edge id="172" source="W_region" target="T_TOPIC_10" weight="156.19232177734375"></edge>
+      <edge id="173" source="W_region" target="T_TOPIC_16" weight="253.6322479248047"></edge>
+      <edge id="175" source="W_region" target="T_TOPIC_19" weight="287.0989990234375"></edge>
+      <edge id="176" source="W_region" target="T_TOPIC_20" weight="2.0912699699401855"></edge>
+      <edge id="177" source="T_TOPIC_2" target="W_sustainability" weight="1648.1759033203125"></edge>
+      <edge id="178" source="T_TOPIC_2" target="W_environmental" weight="1325.8179931640625"></edge>
+      <edge id="179" source="T_TOPIC_2" target="W_business" weight="981.7898559570312"></edge>
+      <edge id="180" source="T_TOPIC_2" target="W_health" weight="713.1574096679688"></edge>
+      <edge id="181" source="T_TOPIC_2" target="W_new" weight="645.7925415039062"></edge>
+      <edge id="182" source="T_TOPIC_2" target="W_green" weight="579.8447875976562"></edge>
+      <edge id="183" source="T_TOPIC_2" target="W_social" weight="547.2816162109375"></edge>
+      <edge id="184" source="T_TOPIC_2" target="W_food" weight="526.4161987304688"></edge>
+      <edge id="185" source="T_TOPIC_2" target="W_systems" weight="522.0789794921875"></edge>
+      <edge id="186" source="T_TOPIC_2" target="W_management" weight="517.2216796875"></edge>
+      <edge id="187" source="T_TOPIC_2" target="W_global" weight="514.33251953125"></edge>
+      <edge id="188" source="T_TOPIC_2" target="W_world" weight="500.38055419921875"></edge>
+      <edge id="189" source="T_TOPIC_2" target="W_special" weight="476.0234375"></edge>
+      <edge id="190" source="T_TOPIC_2" target="W_impact" weight="470.6486511230469"></edge>
+      <edge id="191" source="T_TOPIC_2" target="W_work" weight="470.2830505371094"></edge>
+      <edge id="192" source="T_TOPIC_2" target="W_research" weight="449.8480529785156"></edge>
+      <edge id="193" source="T_TOPIC_2" target="W_help" weight="448.2204895019531"></edge>
+      <edge id="194" source="T_TOPIC_2" target="W_renewable" weight="438.429443359375"></edge>
+      <edge id="195" source="W_environmental" target="T_TOPIC_9" weight="753.5318603515625"></edge>
+      <edge id="196" source="W_environmental" target="T_TOPIC_10" weight="124.64264678955078"></edge>
+      <edge id="197" source="W_environmental" target="T_TOPIC_11" weight="111.27892303466797"></edge>
+      <edge id="200" source="W_environmental" target="T_TOPIC_20" weight="2.7592217922210693"></edge>
+      <edge id="201" source="W_environmental" target="T_TOPIC_22" weight="49.489776611328125"></edge>
+      <edge id="202" source="W_business" target="T_TOPIC_6" weight="4.456085681915283"></edge>
+      <edge id="203" source="W_business" target="T_TOPIC_21" weight="183.16558837890625"></edge>
+      <edge id="204" source="W_health" target="T_TOPIC_18" weight="268.41876220703125"></edge>
+      <edge id="205" source="W_new" target="T_TOPIC_10" weight="127.47622680664062"></edge>
+      <edge id="206" source="W_new" target="T_TOPIC_12" weight="202.63182067871094"></edge>
+      <edge id="207" source="W_new" target="T_TOPIC_16" weight="152.01583862304688"></edge>
+      <edge id="208" source="W_new" target="T_TOPIC_20" weight="1.9884021282196045"></edge>
+      <edge id="209" source="W_green" target="T_TOPIC_9" weight="159.26454162597656"></edge>
+      <edge id="210" source="W_food" target="T_TOPIC_18" weight="617.8600463867188"></edge>
+      <edge id="211" source="W_management" target="T_TOPIC_11" weight="170.10340881347656"></edge>
+      <edge id="212" source="W_management" target="T_TOPIC_23" weight="154.50148010253906"></edge>
+      <edge id="213" source="W_global" target="T_TOPIC_7" weight="271.0208435058594"></edge>
+      <edge id="214" source="W_global" target="T_TOPIC_9" weight="205.15554809570312"></edge>
+      <edge id="215" source="W_global" target="T_TOPIC_15" weight="113.43004608154297"></edge>
+      <edge id="216" source="W_global" target="T_TOPIC_16" weight="151.96669006347656"></edge>
+      <edge id="217" source="W_global" target="T_TOPIC_21" weight="448.6218566894531"></edge>
+      <edge id="218" source="W_world" target="T_TOPIC_3" weight="286.29486083984375"></edge>
+      <edge id="219" source="W_world" target="T_TOPIC_6" weight="4.2739081382751465"></edge>
+      <edge id="220" source="W_world" target="T_TOPIC_7" weight="458.7537536621094"></edge>
+      <edge id="221" source="W_world" target="T_TOPIC_12" weight="116.50444793701172"></edge>
+      <edge id="222" source="W_world" target="T_TOPIC_15" weight="295.9853820800781"></edge>
+      <edge id="223" source="W_world" target="T_TOPIC_16" weight="166.598876953125"></edge>
+      <edge id="224" source="W_world" target="T_TOPIC_21" weight="292.26715087890625"></edge>
+      <edge id="226" source="W_work" target="T_TOPIC_12" weight="145.5704803466797"></edge>
+      <edge id="227" source="W_work" target="T_TOPIC_14" weight="20.47764015197754"></edge>
+      <edge id="229" source="W_research" target="T_TOPIC_6" weight="6.14366340637207"></edge>
+      <edge id="230" source="W_research" target="T_TOPIC_10" weight="355.5779113769531"></edge>
+      <edge id="232" source="T_TOPIC_3" target="W_svalbard" weight="1252.5321044921875"></edge>
+      <edge id="233" source="T_TOPIC_3" target="W_polar" weight="889.875732421875"></edge>
+      <edge id="234" source="T_TOPIC_3" target="W_sea" weight="666.416259765625"></edge>
+      <edge id="235" source="T_TOPIC_3" target="W_bears" weight="400.465576171875"></edge>
+      <edge id="236" source="T_TOPIC_3" target="W_longyearbyen" weight="334.7306213378906"></edge>
+      <edge id="237" source="T_TOPIC_3" target="W_summer" weight="330.6073303222656"></edge>
+      <edge id="238" source="T_TOPIC_3" target="W_expedition" weight="298.6185607910156"></edge>
+      <edge id="239" source="T_TOPIC_3" target="W_time" weight="295.4933166503906"></edge>
+      <edge id="240" source="T_TOPIC_3" target="W_year" weight="273.907470703125"></edge>
+      <edge id="241" source="T_TOPIC_3" target="W_greenland" weight="264.86944580078125"></edge>
+      <edge id="242" source="T_TOPIC_3" target="W_days" weight="259.0185546875"></edge>
+      <edge id="243" source="T_TOPIC_3" target="W_snow" weight="258.4845886230469"></edge>
+      <edge id="244" source="T_TOPIC_3" target="W_people" weight="256.3847961425781"></edge>
+      <edge id="245" source="T_TOPIC_3" target="W_like" weight="250.67141723632812"></edge>
+      <edge id="246" source="T_TOPIC_3" target="W_years" weight="246.6483612060547"></edge>
+      <edge id="247" source="T_TOPIC_3" target="W_winter" weight="241.18714904785156"></edge>
+      <edge id="248" source="T_TOPIC_3" target="W_bear" weight="240.97406005859375"></edge>
+      <edge id="249" source="T_TOPIC_3" target="W_just" weight="234.3946990966797"></edge>
+      <edge id="250" source="W_svalbard" target="T_TOPIC_6" weight="7.183193683624268"></edge>
+      <edge id="251" source="W_svalbard" target="T_TOPIC_11" weight="116.89653015136719"></edge>
+      <edge id="252" source="W_svalbard" target="T_TOPIC_16" weight="433.0712890625"></edge>
+      <edge id="253" source="W_svalbard" target="T_TOPIC_22" weight="44.32486343383789"></edge>
+      <edge id="254" source="W_polar" target="T_TOPIC_10" weight="152.1768798828125"></edge>
+      <edge id="255" source="W_sea" target="T_TOPIC_10" weight="146.56906127929688"></edge>
+      <edge id="256" source="W_sea" target="T_TOPIC_16" weight="279.73236083984375"></edge>
+      <edge id="257" source="W_sea" target="T_TOPIC_22" weight="31.944169998168945"></edge>
+      <edge id="258" source="W_sea" target="T_TOPIC_23" weight="42.5894889831543"></edge>
+      <edge id="260" source="W_time" target="T_TOPIC_12" weight="122.24054718017578"></edge>
+      <edge id="262" source="W_year" target="T_TOPIC_7" weight="293.78155517578125"></edge>
+      <edge id="263" source="W_year" target="T_TOPIC_12" weight="162.97085571289062"></edge>
+      <edge id="264" source="W_year" target="T_TOPIC_14" weight="19.48929786682129"></edge>
+      <edge id="265" source="W_greenland" target="T_TOPIC_10" weight="121.65483856201172"></edge>
+      <edge id="266" source="W_people" target="T_TOPIC_6" weight="4.101181507110596"></edge>
+      <edge id="267" source="W_people" target="T_TOPIC_12" weight="102.31012725830078"></edge>
+      <edge id="268" source="W_people" target="T_TOPIC_18" weight="386.3642578125"></edge>
+      <edge id="269" source="W_like" target="T_TOPIC_12" weight="102.9982681274414"></edge>
+      <edge id="270" source="W_years" target="T_TOPIC_12" weight="114.67700958251953"></edge>
+      <edge id="271" source="W_years" target="T_TOPIC_14" weight="15.230000495910645"></edge>
+      <edge id="272" source="W_just" target="T_TOPIC_12" weight="120.19766998291016"></edge>
+      <edge id="286" source="W_information" target="T_TOPIC_11" weight="157.68099975585938"></edge>
+      <edge id="287" source="W_number" target="T_TOPIC_14" weight="17.743968963623047"></edge>
+      <edge id="288" source="W_activities" target="T_TOPIC_11" weight="162.68499755859375"></edge>
+      <edge id="289" source="W_including" target="T_TOPIC_11" weight="104.2735366821289"></edge>
+      <edge id="290" source="W_including" target="T_TOPIC_19" weight="315.1893310546875"></edge>
+      <edge id="310" source="W_site" target="T_TOPIC_12" weight="151.111572265625"></edge>
+      <edge id="311" source="W_site" target="T_TOPIC_19" weight="253.78089904785156"></edge>
+      <edge id="312" source="W_policy" target="T_TOPIC_10" weight="101.08808135986328"></edge>
+      <edge id="313" source="W_policy" target="T_TOPIC_19" weight="400.2319030761719"></edge>
+      <edge id="314" source="W_policy" target="T_TOPIC_20" weight="2.0907628536224365"></edge>
+      <edge id="315" source="W_used" target="T_TOPIC_24" weight="189.60792541503906"></edge>
+      <edge id="316" source="W_security" target="T_TOPIC_10" weight="127.23809814453125"></edge>
+      <edge id="317" source="W_security" target="T_TOPIC_19" weight="347.98541259765625"></edge>
+      <edge id="318" source="W_security" target="T_TOPIC_20" weight="2.06404709815979"></edge>
+      <edge id="319" source="W_security" target="T_TOPIC_22" weight="29.634733200073242"></edge>
+      <edge id="320" source="W_agreement" target="T_TOPIC_19" weight="404.2352600097656"></edge>
+      <edge id="321" source="T_TOPIC_6" target="W_nordic" weight="78.23883819580078"></edge>
+      <edge id="322" source="T_TOPIC_6" target="W_programme" weight="24.65888786315918"></edge>
+      <edge id="323" source="T_TOPIC_6" target="W_council" weight="16.265321731567383"></edge>
+      <edge id="324" source="T_TOPIC_6" target="W_norwegian" weight="12.83148193359375"></edge>
+      <edge id="325" source="T_TOPIC_6" target="W_based" weight="12.313515663146973"></edge>
+      <edge id="326" source="T_TOPIC_6" target="W_products" weight="9.163445472717285"></edge>
+      <edge id="327" source="T_TOPIC_6" target="W_operation" weight="7.231438159942627"></edge>
+      <edge id="328" source="T_TOPIC_6" target="W_company" weight="6.778540134429932"></edge>
+      <edge id="329" source="T_TOPIC_6" target="W_2018" weight="6.596196174621582"></edge>
+      <edge id="330" source="T_TOPIC_6" target="W_marine" weight="5.936490058898926"></edge>
+      <edge id="331" source="T_TOPIC_6" target="W_unique" weight="5.701737403869629"></edge>
+      <edge id="332" source="T_TOPIC_6" target="W_applications" weight="5.664086818695068"></edge>
+      <edge id="333" source="T_TOPIC_6" target="W_norway" weight="5.117031574249268"></edge>
+      <edge id="334" source="T_TOPIC_6" target="W_developing" weight="4.603488922119141"></edge>
+      <edge id="335" source="T_TOPIC_6" target="W_2021" weight="4.256201267242432"></edge>
+      <edge id="336" source="T_TOPIC_6" target="W_local" weight="4.051470756530762"></edge>
+      <edge id="337" source="W_council" target="T_TOPIC_14" weight="30.372833251953125"></edge>
+      <edge id="338" source="W_council" target="T_TOPIC_21" weight="182.46621704101562"></edge>
+      <edge id="339" source="W_norwegian" target="T_TOPIC_9" weight="164.44085693359375"></edge>
+      <edge id="340" source="W_norwegian" target="T_TOPIC_22" weight="44.010257720947266"></edge>
+      <edge id="341" source="W_company" target="T_TOPIC_12" weight="216.20172119140625"></edge>
+      <edge id="342" source="W_2018" target="T_TOPIC_9" weight="270.04583740234375"></edge>
+      <edge id="343" source="W_2018" target="T_TOPIC_24" weight="388.68695068359375"></edge>
+      <edge id="344" source="W_marine" target="T_TOPIC_11" weight="112.70823669433594"></edge>
+      <edge id="345" source="W_marine" target="T_TOPIC_23" weight="184.31417846679688"></edge>
+      <edge id="346" source="W_marine" target="T_TOPIC_24" weight="175.98641967773438"></edge>
+      <edge id="347" source="W_norway" target="T_TOPIC_16" weight="202.7674102783203"></edge>
+      <edge id="348" source="W_norway" target="T_TOPIC_22" weight="131.15243530273438"></edge>
+      <edge id="349" source="W_developing" target="T_TOPIC_15" weight="773.5692138671875"></edge>
+      <edge id="350" source="W_developing" target="T_TOPIC_20" weight="2.1970291137695312"></edge>
+      <edge id="351" source="W_2021" target="T_TOPIC_16" weight="223.65869140625"></edge>
+      <edge id="352" source="T_TOPIC_7" target="W_emissions" weight="1321.5633544921875"></edge>
+      <edge id="353" source="T_TOPIC_7" target="W_pollution" weight="755.737060546875"></edge>
+      <edge id="354" source="T_TOPIC_7" target="W_gas" weight="465.046142578125"></edge>
+      <edge id="355" source="T_TOPIC_7" target="W_united" weight="461.896728515625"></edge>
+      <edge id="356" source="T_TOPIC_7" target="W_carbon" weight="458.748291015625"></edge>
+      <edge id="357" source="T_TOPIC_7" target="W_population" weight="419.3377685546875"></edge>
+      <edge id="358" source="T_TOPIC_7" target="W_co2" weight="398.0205383300781"></edge>
+      <edge id="359" source="T_TOPIC_7" target="W_air" weight="382.378662109375"></edge>
+      <edge id="360" source="T_TOPIC_7" target="W_million" weight="327.0579528808594"></edge>
+      <edge id="361" source="T_TOPIC_7" target="W_greenhouse" weight="320.0638122558594"></edge>
+      <edge id="362" source="T_TOPIC_7" target="W_countries" weight="312.05303955078125"></edge>
+      <edge id="363" source="T_TOPIC_7" target="W_states" weight="308.06103515625"></edge>
+      <edge id="364" source="T_TOPIC_7" target="W_waste" weight="291.1136169433594"></edge>
+      <edge id="365" source="T_TOPIC_7" target="W_national" weight="276.9983215332031"></edge>
+      <edge id="366" source="T_TOPIC_7" target="W_organic" weight="275.3480529785156"></edge>
+      <edge id="367" source="W_pollution" target="T_TOPIC_11" weight="107.91175079345703"></edge>
+      <edge id="368" source="W_gas" target="T_TOPIC_16" weight="229.28314208984375"></edge>
+      <edge id="369" source="W_united" target="T_TOPIC_14" weight="16.20844078063965"></edge>
+      <edge id="370" source="W_united" target="T_TOPIC_15" weight="84.52951049804688"></edge>
+      <edge id="371" source="W_united" target="T_TOPIC_16" weight="150.16880798339844"></edge>
+      <edge id="372" source="W_united" target="T_TOPIC_21" weight="212.41566467285156"></edge>
+      <edge id="373" source="W_population" target="T_TOPIC_23" weight="46.220970153808594"></edge>
+      <edge id="374" source="W_million" target="T_TOPIC_9" weight="496.36834716796875"></edge>
+      <edge id="375" source="W_countries" target="T_TOPIC_14" weight="15.069849014282227"></edge>
+      <edge id="376" source="W_countries" target="T_TOPIC_15" weight="92.47392272949219"></edge>
+      <edge id="377" source="W_states" target="T_TOPIC_16" weight="216.525146484375"></edge>
+      <edge id="378" source="W_states" target="T_TOPIC_21" weight="189.53887939453125"></edge>
+      <edge id="379" source="W_national" target="T_TOPIC_10" weight="110.41675567626953"></edge>
+      <edge id="407" source="T_TOPIC_9" target="W_market" weight="923.3012084960938"></edge>
+      <edge id="408" source="T_TOPIC_9" target="W_monitoring" weight="732.239013671875"></edge>
+      <edge id="409" source="T_TOPIC_9" target="W_table" weight="538.0913696289062"></edge>
+      <edge id="410" source="T_TOPIC_9" target="W_2017" weight="426.12933349609375"></edge>
+      <edge id="411" source="T_TOPIC_9" target="W_size" weight="409.3222351074219"></edge>
+      <edge id="412" source="T_TOPIC_9" target="W_salmon" weight="362.6416320800781"></edge>
+      <edge id="413" source="T_TOPIC_9" target="W_al" weight="356.8941955566406"></edge>
+      <edge id="414" source="T_TOPIC_9" target="W_et" weight="352.3792419433594"></edge>
+      <edge id="415" source="T_TOPIC_9" target="W_2025" weight="333.5791320800781"></edge>
+      <edge id="416" source="T_TOPIC_9" target="W_figure" weight="257.14398193359375"></edge>
+      <edge id="417" source="T_TOPIC_9" target="W_2019" weight="221.82032775878906"></edge>
+      <edge id="418" source="T_TOPIC_9" target="W_fish" weight="219.2543487548828"></edge>
+      <edge id="419" source="T_TOPIC_9" target="W_wild" weight="203.5198516845703"></edge>
+      <edge id="420" source="T_TOPIC_9" target="W_key" weight="171.2332000732422"></edge>
+      <edge id="421" source="T_TOPIC_9" target="W_product" weight="167.02879333496094"></edge>
+      <edge id="422" source="T_TOPIC_9" target="W_2016" weight="158.52197265625"></edge>
+      <edge id="423" source="T_TOPIC_9" target="W_sensors" weight="142.9281768798828"></edge>
+      <edge id="424" source="T_TOPIC_9" target="W_type" weight="123.90631866455078"></edge>
+      <edge id="425" source="T_TOPIC_9" target="W_application" weight="122.68772888183594"></edge>
+      <edge id="426" source="W_table" target="T_TOPIC_24" weight="190.92840576171875"></edge>
+      <edge id="427" source="W_size" target="T_TOPIC_24" weight="252.2154083251953"></edge>
+      <edge id="428" source="W_al" target="T_TOPIC_24" weight="710.772705078125"></edge>
+      <edge id="429" source="W_et" target="T_TOPIC_23" weight="41.678524017333984"></edge>
+      <edge id="430" source="W_et" target="T_TOPIC_24" weight="712.2222900390625"></edge>
+      <edge id="431" source="W_2019" target="T_TOPIC_21" weight="204.2755889892578"></edge>
+      <edge id="432" source="W_2019" target="T_TOPIC_24" weight="300.15240478515625"></edge>
+      <edge id="433" source="W_fish" target="T_TOPIC_23" weight="61.482215881347656"></edge>
+      <edge id="434" source="W_2016" target="T_TOPIC_24" weight="193.52783203125"></edge>
+      <edge id="435" source="T_TOPIC_10" target="W_science" weight="202.7020721435547"></edge>
+      <edge id="436" source="T_TOPIC_10" target="W_china" weight="176.21719360351562"></edge>
+      <edge id="437" source="T_TOPIC_10" target="W_read" weight="150.8431854248047"></edge>
+      <edge id="438" source="T_TOPIC_10" target="W_university" weight="135.9499969482422"></edge>
+      <edge id="439" source="T_TOPIC_10" target="W_tundra" weight="117.44818878173828"></edge>
+      <edge id="440" source="T_TOPIC_10" target="W_alaska" weight="105.41797637939453"></edge>
+      <edge id="441" source="T_TOPIC_10" target="W_report" weight="104.70967102050781"></edge>
+      <edge id="442" source="T_TOPIC_10" target="W_scientific" weight="101.82650756835938"></edge>
+      <edge id="443" source="T_TOPIC_10" target="W_cooperation" weight="100.07905578613281"></edge>
+      <edge id="444" source="W_china" target="T_TOPIC_16" weight="148.39012145996094"></edge>
+      <edge id="445" source="W_china" target="T_TOPIC_21" weight="246.0985870361328"></edge>
+      <edge id="448" source="W_cooperation" target="T_TOPIC_14" weight="22.54357147216797"></edge>
+      <edge id="449" source="W_cooperation" target="T_TOPIC_22" weight="39.29133605957031"></edge>
+      <edge id="450" source="T_TOPIC_11" target="W_regulations" weight="218.76248168945312"></edge>
+      <edge id="451" source="T_TOPIC_11" target="W_shall" weight="186.05377197265625"></edge>
+      <edge id="452" source="T_TOPIC_11" target="W_government" weight="156.54141235351562"></edge>
+      <edge id="453" source="T_TOPIC_11" target="W_areas" weight="142.34625244140625"></edge>
+      <edge id="454" source="T_TOPIC_11" target="W_law" weight="134.7737274169922"></edge>
+      <edge id="455" source="T_TOPIC_11" target="W_protection" weight="129.55642700195312"></edge>
+      <edge id="456" source="T_TOPIC_11" target="W_article" weight="109.27140045166016"></edge>
+      <edge id="457" source="T_TOPIC_11" target="W_walrus" weight="103.35819244384766"></edge>
+      <edge id="458" source="T_TOPIC_11" target="W_protected" weight="98.09622192382812"></edge>
+      <edge id="459" source="W_shall" target="T_TOPIC_19" weight="291.8227233886719"></edge>
+      <edge id="460" source="W_shall" target="T_TOPIC_20" weight="1.9529657363891602"></edge>
+      <edge id="461" source="W_shall" target="T_TOPIC_22" weight="68.37863159179688"></edge>
+      <edge id="462" source="W_government" target="T_TOPIC_18" weight="695.4716796875"></edge>
+      <edge id="463" source="W_government" target="T_TOPIC_19" weight="494.6836853027344"></edge>
+      <edge id="466" source="W_areas" target="T_TOPIC_22" weight="51.77672576904297"></edge>
+      <edge id="467" source="W_areas" target="T_TOPIC_23" weight="54.511375427246094"></edge>
+      <edge id="468" source="W_protection" target="T_TOPIC_22" weight="30.328828811645508"></edge>
+      <edge id="469" source="W_walrus" target="T_TOPIC_23" weight="318.9447937011719"></edge>
+      <edge id="470" source="W_protected" target="T_TOPIC_23" weight="38.37086486816406"></edge>
+      <edge id="471" source="T_TOPIC_12" target="W_mining" weight="292.6611633300781"></edge>
+      <edge id="472" source="T_TOPIC_12" target="W_gold" weight="206.54312133789062"></edge>
+      <edge id="473" source="T_TOPIC_12" target="W_mineral" weight="133.45846557617188"></edge>
+      <edge id="474" source="T_TOPIC_12" target="W_process" weight="132.79986572265625"></edge>
+      <edge id="475" source="T_TOPIC_12" target="W_operations" weight="130.65762329101562"></edge>
+      <edge id="476" source="T_TOPIC_12" target="W_production" weight="122.28853607177734"></edge>
+      <edge id="477" source="T_TOPIC_12" target="W_think" weight="120.82261657714844"></edge>
+      <edge id="478" source="T_TOPIC_12" target="W_exploration" weight="118.68280029296875"></edge>
+      <edge id="479" source="T_TOPIC_12" target="W_open" weight="112.52296447753906"></edge>
+      <edge id="480" source="T_TOPIC_12" target="W_industry" weight="104.85997772216797"></edge>
+      <edge id="481" source="T_TOPIC_12" target="W_000" weight="102.31778717041016"></edge>
+      <edge id="482" source="W_industry" target="T_TOPIC_14" weight="26.1748046875"></edge>
+      <edge id="514" source="W_high" target="T_TOPIC_18" weight="225.1561737060547"></edge>
+      <edge id="516" source="T_TOPIC_14" target="W_iceland" weight="347.14459228515625"></edge>
+      <edge id="517" source="T_TOPIC_14" target="W_tourism" weight="156.08714294433594"></edge>
+      <edge id="518" source="T_TOPIC_14" target="W_country" weight="89.05278015136719"></edge>
+      <edge id="519" source="T_TOPIC_14" target="W_icelandic" weight="72.11416625976562"></edge>
+      <edge id="520" source="T_TOPIC_14" target="W_islands" weight="31.392902374267578"></edge>
+      <edge id="521" source="T_TOPIC_14" target="W_finland" weight="25.899723052978516"></edge>
+      <edge id="522" source="T_TOPIC_14" target="W_nature" weight="20.524200439453125"></edge>
+      <edge id="523" source="T_TOPIC_14" target="W_whales" weight="16.889360427856445"></edge>
+      <edge id="524" source="T_TOPIC_14" target="W_action" weight="15.995635032653809"></edge>
+      <edge id="525" source="T_TOPIC_14" target="W_said" weight="15.808889389038086"></edge>
+      <edge id="526" source="T_TOPIC_14" target="W_meeting" weight="15.15329647064209"></edge>
+      <edge id="527" source="T_TOPIC_14" target="W_travel" weight="15.133930206298828"></edge>
+      <edge id="528" source="W_iceland" target="T_TOPIC_15" weight="229.86233520507812"></edge>
+      <edge id="529" source="W_said" target="T_TOPIC_16" weight="140.2609405517578"></edge>
+      <edge id="530" source="W_said" target="T_TOPIC_18" weight="314.8690490722656"></edge>
+      <edge id="531" source="T_TOPIC_15" target="W_001" weight="939.5701293945312"></edge>
+      <edge id="532" source="T_TOPIC_15" target="W_developed" weight="290.42071533203125"></edge>
+      <edge id="533" source="T_TOPIC_15" target="W_pdf" weight="252.97494506835938"></edge>
+      <edge id="534" source="T_TOPIC_15" target="W_002" weight="229.8765411376953"></edge>
+      <edge id="535" source="T_TOPIC_15" target="W_019" weight="218.21583557128906"></edge>
+      <edge id="536" source="T_TOPIC_15" target="W_202" weight="205.61785888671875"></edge>
+      <edge id="537" source="T_TOPIC_15" target="W_150" weight="205.4678955078125"></edge>
+      <edge id="538" source="T_TOPIC_15" target="W_419" weight="195.7095184326172"></edge>
+      <edge id="539" source="T_TOPIC_15" target="W_142" weight="191.6695556640625"></edge>
+      <edge id="540" source="T_TOPIC_15" target="W_europe" weight="156.87281799316406"></edge>
+      <edge id="541" source="T_TOPIC_15" target="W_asia" weight="147.82431030273438"></edge>
+      <edge id="542" source="T_TOPIC_15" target="W_africa" weight="145.9098358154297"></edge>
+      <edge id="543" source="T_TOPIC_15" target="W_geothermal" weight="132.6171417236328"></edge>
+      <edge id="544" source="T_TOPIC_15" target="W_2020" weight="102.40544891357422"></edge>
+      <edge id="545" source="W_001" target="T_TOPIC_20" weight="2.4861550331115723"></edge>
+      <edge id="546" source="W_001" target="T_TOPIC_23" weight="40.50107955932617"></edge>
+      <edge id="547" source="W_2020" target="T_TOPIC_20" weight="2.2921082973480225"></edge>
+      <edge id="548" source="W_2020" target="T_TOPIC_21" weight="305.7220458984375"></edge>
+      <edge id="549" source="T_TOPIC_16" target="W_oil" weight="466.7227478027344"></edge>
+      <edge id="550" source="T_TOPIC_16" target="W_russia" weight="359.9338684082031"></edge>
+      <edge id="551" source="T_TOPIC_16" target="W_ocean" weight="208.72499084472656"></edge>
+      <edge id="552" source="T_TOPIC_16" target="W_vault" weight="186.80255126953125"></edge>
+      <edge id="553" source="T_TOPIC_16" target="W_russian" weight="157.71905517578125"></edge>
+      <edge id="554" source="T_TOPIC_16" target="W_shipping" weight="157.5218505859375"></edge>
+      <edge id="555" source="T_TOPIC_16" target="W_military" weight="141.22412109375"></edge>
+      <edge id="556" source="T_TOPIC_16" target="W_natural" weight="137.4664306640625"></edge>
+      <edge id="557" source="W_ocean" target="T_TOPIC_23" weight="98.19711303710938"></edge>
+      <edge id="560" source="T_TOPIC_18" target="W_nunavut" weight="2594.4970703125"></edge>
+      <edge id="561" source="T_TOPIC_18" target="W_inuit" weight="1471.906982421875"></edge>
+      <edge id="562" source="T_TOPIC_18" target="W_community" weight="622.39794921875"></edge>
+      <edge id="563" source="T_TOPIC_18" target="W_communities" weight="562.777099609375"></edge>
+      <edge id="564" source="T_TOPIC_18" target="W_territory" weight="352.2809753417969"></edge>
+      <edge id="565" source="T_TOPIC_18" target="W_iqaluit" weight="351.1644287109375"></edge>
+      <edge id="566" source="T_TOPIC_18" target="W_bay" weight="323.2530212402344"></edge>
+      <edge id="567" source="T_TOPIC_18" target="W_canadian" weight="310.87432861328125"></edge>
+      <edge id="568" source="T_TOPIC_18" target="W_hunting" weight="236.5788116455078"></edge>
+      <edge id="569" source="T_TOPIC_18" target="W_department" weight="235.1196746826172"></edge>
+      <edge id="570" source="T_TOPIC_18" target="W_traditional" weight="222.42958068847656"></edge>
+      <edge id="571" source="T_TOPIC_18" target="W_corporation" weight="214.06076049804688"></edge>
+      <edge id="572" source="T_TOPIC_18" target="W_housing" weight="211.4639434814453"></edge>
+      <edge id="573" source="W_nunavut" target="T_TOPIC_19" weight="236.72425842285156"></edge>
+      <edge id="574" source="W_communities" target="T_TOPIC_19" weight="352.27386474609375"></edge>
+      <edge id="575" source="W_canadian" target="T_TOPIC_19" weight="291.6549072265625"></edge>
+      <edge id="576" source="T_TOPIC_19" target="W_peoples" weight="278.2793273925781"></edge>
+      <edge id="577" source="T_TOPIC_19" target="W_infrastructure" weight="261.3594970703125"></edge>
+      <edge id="578" source="T_TOPIC_19" target="W_gc" weight="237.56910705566406"></edge>
+      <edge id="579" source="T_TOPIC_19" target="W_gn" weight="233.33580017089844"></edge>
+      <edge id="580" source="W_peoples" target="T_TOPIC_20" weight="1.6830501556396484"></edge>
+      <edge id="581" source="T_TOPIC_20" target="W_european" weight="1.8677775859832764"></edge>
+      <edge id="582" source="T_TOPIC_20" target="W_resources" weight="1.7887877225875854"></edge>
+      <edge id="583" source="T_TOPIC_20" target="W_framework" weight="1.7221369743347168"></edge>
+      <edge id="584" source="W_european" target="T_TOPIC_21" weight="201.63002014160156"></edge>
+      <edge id="585" source="T_TOPIC_21" target="W_www" weight="313.50390625"></edge>
+      <edge id="586" source="T_TOPIC_21" target="W_executive" weight="251.30540466308594"></edge>
+      <edge id="587" source="T_TOPIC_21" target="W_https" weight="230.70379638671875"></edge>
+      <edge id="588" source="T_TOPIC_21" target="W_com" weight="225.5963897705078"></edge>
+      <edge id="589" source="T_TOPIC_21" target="W_investment" weight="211.33885192871094"></edge>
+      <edge id="590" source="T_TOPIC_21" target="W_chief" weight="183.0211181640625"></edge>
+      <edge id="591" source="T_TOPIC_21" target="W_director" weight="179.51109313964844"></edge>
+      <edge id="592" source="T_TOPIC_22" target="W_governor" weight="62.64844512939453"></edge>
+      <edge id="593" source="T_TOPIC_22" target="W_2012" weight="56.260467529296875"></edge>
+      <edge id="594" source="T_TOPIC_22" target="W_20" weight="48.81104278564453"></edge>
+      <edge id="595" source="T_TOPIC_22" target="W_ministry" weight="36.36283874511719"></edge>
+      <edge id="596" source="T_TOPIC_22" target="W_april" weight="32.8676643371582"></edge>
+      <edge id="597" source="T_TOPIC_22" target="W_activity" weight="32.420345306396484"></edge>
+      <edge id="598" source="T_TOPIC_22" target="W_planning" weight="31.69756507873535"></edge>
+      <edge id="599" source="T_TOPIC_22" target="W_measures" weight="27.41621208190918"></edge>
+      <edge id="600" source="T_TOPIC_22" target="W_provisions" weight="27.35235023498535"></edge>
+      <edge id="601" source="T_TOPIC_23" target="W_fisheries" weight="137.90347290039062"></edge>
+      <edge id="602" source="T_TOPIC_23" target="W_stock" weight="125.19010925292969"></edge>
+      <edge id="603" source="T_TOPIC_23" target="W_harvest" weight="115.45216369628906"></edge>
+      <edge id="604" source="T_TOPIC_23" target="W_fishing" weight="104.5316162109375"></edge>
+      <edge id="605" source="T_TOPIC_23" target="W_species" weight="96.81364440917969"></edge>
+      <edge id="606" source="T_TOPIC_23" target="W_atlantic" weight="83.91466522216797"></edge>
+      <edge id="607" source="T_TOPIC_23" target="W_oceans" weight="54.92245101928711"></edge>
+      <edge id="608" source="T_TOPIC_23" target="W_warming" weight="48.431983947753906"></edge>
+      <edge id="609" source="T_TOPIC_23" target="W_ecological" weight="47.245140075683594"></edge>
+      <edge id="610" source="T_TOPIC_23" target="W_levels" weight="43.97307586669922"></edge>
+      <edge id="611" source="T_TOPIC_23" target="W_conservation" weight="41.161128997802734"></edge>
+      <edge id="612" source="T_TOPIC_24" target="W_microplastics" weight="587.4715576171875"></edge>
+      <edge id="613" source="T_TOPIC_24" target="W_plastic" weight="395.0030822753906"></edge>
+      <edge id="614" source="T_TOPIC_24" target="W_10" weight="296.5501403808594"></edge>
+      <edge id="615" source="T_TOPIC_24" target="W_particles" weight="277.8992919921875"></edge>
+      <edge id="616" source="T_TOPIC_24" target="W_microplastic" weight="250.9479522705078"></edge>
+      <edge id="617" source="T_TOPIC_24" target="W_effects" weight="230.07261657714844"></edge>
+      <edge id="618" source="T_TOPIC_24" target="W_studies" weight="222.49893188476562"></edge>
+      <edge id="619" source="T_TOPIC_24" target="W_exposure" weight="212.9237060546875"></edge>
+      <edge id="620" source="T_TOPIC_24" target="W_plastics" weight="210.27056884765625"></edge>
+      <edge id="621" source="T_TOPIC_24" target="W_study" weight="199.1260528564453"></edge>
+      <edge id="622" source="T_TOPIC_24" target="W_2015" weight="197.1084442138672"></edge>
+      <edge id="623" source="T_TOPIC_24" target="W_surface" weight="183.0504150390625"></edge>
+      <edge id="624" source="T_TOPIC_24" target="W_reported" weight="173.4921112060547"></edge>
+    </edges>
+  </graph>
+</gexf>

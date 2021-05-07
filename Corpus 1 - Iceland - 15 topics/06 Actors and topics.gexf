@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_icelandreview" label="icelandreview">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_fao" label="fao">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_scientificamerican" label="scientificamerican">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theguardian" label="theguardian">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unicef" label="unicef">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_newsweek" label="newsweek">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_weforum" label="weforum">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_government" label="government">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iceland" label="iceland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_guidetoiceland" label="guidetoiceland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thewire" label="thewire">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wipo" label="wipo">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_who" label="who">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ruv" label="ruv">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_euobserver" label="euobserver">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_worldbank" label="worldbank">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nytimes" label="nytimes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_prospects" label="prospects">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aljazeera" label="aljazeera">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sjavarklasinn" label="sjavarklasinn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalgeographic" label="nationalgeographic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cia" label="cia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thegreenprogram" label="thegreenprogram">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_europa" label="europa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hi" label="hi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_matadornetwork" label="matadornetwork">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_salmon-from-the-faroe-islands" label="salmon-from-the-faroe-islands">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ru" label="ru">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_circularsolutions" label="circularsolutions">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hihostels" label="hihostels">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_blueandgreentomorrow" label="blueandgreentomorrow">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bluelagoon" label="bluelagoon">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eco-business" label="eco-business">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hiddeniceland" label="hiddeniceland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_un" label="un">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_huffpost" label="huffpost">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_siceland" label="siceland">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_matorka" label="matorka">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_reykjavikforum" label="reykjavikforum">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_oecd" label="oecd">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_12" target="A_icelandreview" id="0" weight="0.997921302611948" />
+      <edge source="T_TOPIC_12" target="A_fao" id="1" weight="0.5333322165374985" />
+      <edge source="T_TOPIC_12" target="A_scientificamerican" id="2" weight="0.998022595325194" />
+      <edge source="T_TOPIC_12" target="A_theguardian" id="3" weight="0.9654320527910114" />
+      <edge source="T_TOPIC_12" target="A_unicef" id="4" weight="0.7302332902715015" />
+      <edge source="T_TOPIC_12" target="A_weforum" id="5" weight="0.047287704211631205" />
+      <edge source="T_TOPIC_12" target="A_government" id="6" weight="0.9990102492234085" />
+      <edge source="T_TOPIC_12" target="A_iceland" id="7" weight="0.9975882823848043" />
+      <edge source="T_TOPIC_12" target="A_guidetoiceland" id="8" weight="0.9996297759425797" />
+      <edge source="T_TOPIC_12" target="A_thewire" id="9" weight="0.9986233993908521" />
+      <edge source="T_TOPIC_12" target="A_wipo" id="10" weight="0.7666663536595305" />
+      <edge source="T_TOPIC_12" target="A_who" id="11" weight="0.6419904395817779" />
+      <edge source="T_TOPIC_12" target="A_euobserver" id="12" weight="0.9935185069010791" />
+      <edge source="T_TOPIC_12" target="A_worldbank" id="13" weight="0.9508771130305599" />
+      <edge source="T_TOPIC_12" target="A_nytimes" id="14" weight="0.9981627264033976" />
+      <edge source="T_TOPIC_12" target="A_prospects" id="15" weight="0.9763652639961632" />
+      <edge source="T_TOPIC_12" target="A_aljazeera" id="16" weight="0.15477223950352273" />
+      <edge source="T_TOPIC_12" target="A_sjavarklasinn" id="17" weight="0.9717171187645172" />
+      <edge source="T_TOPIC_12" target="A_nationalgeographic" id="18" weight="0.9953098751042306" />
+      <edge source="T_TOPIC_12" target="A_cia" id="19" weight="0.3247937923574818" />
+      <edge source="T_TOPIC_12" target="A_europa" id="20" weight="0.9941666566492094" />
+      <edge source="T_TOPIC_12" target="A_hi" id="21" weight="0.4852248263468268" />
+      <edge source="T_TOPIC_12" target="A_matadornetwork" id="22" weight="0.9977235738130024" />
+      <edge source="T_TOPIC_12" target="A_salmon-from-the-faroe-islands" id="23" weight="0.9941299695397909" />
+      <edge source="T_TOPIC_12" target="A_ru" id="24" weight="0.7412752659947862" />
+      <edge source="T_TOPIC_12" target="A_circularsolutions" id="25" weight="0.48468779744882384" />
+      <edge source="T_TOPIC_12" target="A_hihostels" id="26" weight="0.0027777857774906197" />
+      <edge source="T_TOPIC_12" target="A_blueandgreentomorrow" id="27" weight="0.9971802572880915" />
+      <edge source="T_TOPIC_12" target="A_bluelagoon" id="28" weight="0.9956386221624638" />
+      <edge source="T_TOPIC_12" target="A_eco-business" id="29" weight="0.9979797947975183" />
+      <edge source="T_TOPIC_12" target="A_hiddeniceland" id="30" weight="0.9984623808068943" />
+      <edge source="T_TOPIC_12" target="A_un" id="31" weight="0.9998698096306873" />
+      <edge source="T_TOPIC_12" target="A_huffpost" id="32" weight="0.9982747968210013" />
+      <edge source="T_TOPIC_12" target="A_siceland" id="33" weight="0.6482414295485264" />
+      <edge source="T_TOPIC_12" target="A_matorka" id="34" weight="0.9747747417754982" />
+      <edge source="T_TOPIC_12" target="A_oecd" id="35" weight="0.9940928187003196" />
+      <edge source="T_TOPIC_0" target="A_fao" id="36" weight="0.03333348240878147" />
+      <edge source="T_TOPIC_0" target="A_theguardian" id="37" weight="0.002469139021382089" />
+      <edge source="T_TOPIC_0" target="A_unicef" id="38" weight="0.0013605462069223983" />
+      <edge source="T_TOPIC_0" target="A_wipo" id="39" weight="0.016666687704088162" />
+      <edge source="T_TOPIC_0" target="A_worldbank" id="40" weight="0.003508775907243603" />
+      <edge source="T_TOPIC_0" target="A_sjavarklasinn" id="41" weight="0.0020202048633310376" />
+      <edge source="T_TOPIC_0" target="A_hi" id="42" weight="0.0025641067424890807" />
+      <edge source="T_TOPIC_0" target="A_hihostels" id="43" weight="0.0027777823847264056" />
+      <edge source="T_TOPIC_0" target="A_siceland" id="44" weight="0.0016260191125474954" />
+      <edge source="T_TOPIC_0" target="A_matorka" id="45" weight="0.0018018039945308648" />
+      <edge source="A_fao" target="T_TOPIC_1" id="46" weight="0.03333341907509374" />
+      <edge source="A_fao" target="T_TOPIC_2" id="47" weight="0.03333346000936574" />
+      <edge source="A_fao" target="T_TOPIC_3" id="48" weight="0.03333338102765263" />
+      <edge source="A_fao" target="T_TOPIC_4" id="49" weight="0.03333340660090647" />
+      <edge source="A_fao" target="T_TOPIC_5" id="50" weight="0.033333395535993175" />
+      <edge source="A_fao" target="T_TOPIC_6" id="51" weight="0.03333339067214315" />
+      <edge source="A_fao" target="T_TOPIC_7" id="52" weight="0.033333395171860465" />
+      <edge source="A_fao" target="T_TOPIC_8" id="53" weight="0.03333341743056606" />
+      <edge source="A_fao" target="T_TOPIC_9" id="54" weight="0.03333340083056009" />
+      <edge source="A_fao" target="T_TOPIC_10" id="55" weight="0.03333339717232914" />
+      <edge source="A_fao" target="T_TOPIC_11" id="56" weight="0.03333342030478545" />
+      <edge source="A_fao" target="T_TOPIC_13" id="57" weight="0.03333338657046809" />
+      <edge source="A_fao" target="T_TOPIC_14" id="58" weight="0.03333343065199586" />
+      <edge source="T_TOPIC_1" target="A_theguardian" id="59" weight="0.002469138803094414" />
+      <edge source="T_TOPIC_1" target="A_unicef" id="60" weight="0.0013605461607364266" />
+      <edge source="T_TOPIC_1" target="A_wipo" id="61" weight="0.01666668676671799" />
+      <edge source="T_TOPIC_1" target="A_worldbank" id="62" weight="0.0035087765118691867" />
+      <edge source="T_TOPIC_1" target="A_sjavarklasinn" id="63" weight="0.0020202048118862534" />
+      <edge source="T_TOPIC_1" target="A_hi" id="64" weight="0.002564106353600192" />
+      <edge source="T_TOPIC_1" target="A_hihostels" id="65" weight="0.002777782492197789" />
+      <edge source="T_TOPIC_1" target="A_siceland" id="66" weight="0.0016260191464700204" />
+      <edge source="T_TOPIC_1" target="A_matorka" id="67" weight="0.001801804667923963" />
+      <edge source="T_TOPIC_2" target="A_theguardian" id="68" weight="0.0024691389753949164" />
+      <edge source="T_TOPIC_2" target="A_unicef" id="69" weight="0.001360546347572667" />
+      <edge source="T_TOPIC_2" target="A_wipo" id="70" weight="0.016666687084858457" />
+      <edge source="T_TOPIC_2" target="A_who" id="71" weight="0.35374026011846643" />
+      <edge source="T_TOPIC_2" target="A_worldbank" id="72" weight="0.003508778313558576" />
+      <edge source="T_TOPIC_2" target="A_sjavarklasinn" id="73" weight="0.0020202060140048876" />
+      <edge source="T_TOPIC_2" target="A_hi" id="74" weight="0.002564105806524879" />
+      <edge source="T_TOPIC_2" target="A_hihostels" id="75" weight="0.47242337392808503" />
+      <edge source="T_TOPIC_2" target="A_siceland" id="76" weight="0.0016260193335657618" />
+      <edge source="T_TOPIC_2" target="A_matorka" id="77" weight="0.0018018040340602817" />
+      <edge source="T_TOPIC_3" target="A_theguardian" id="78" weight="0.0024691383165704995" />
+      <edge source="T_TOPIC_3" target="A_unicef" id="79" weight="0.001360546255220864" />
+      <edge source="T_TOPIC_3" target="A_wipo" id="80" weight="0.01666668669357427" />
+      <edge source="T_TOPIC_3" target="A_worldbank" id="81" weight="0.003508789054678227" />
+      <edge source="T_TOPIC_3" target="A_sjavarklasinn" id="82" weight="0.002020205404895588" />
+      <edge source="T_TOPIC_3" target="A_hi" id="83" weight="0.0025641079378873246" />
+      <edge source="T_TOPIC_3" target="A_circularsolutions" id="84" weight="0.5068979495299847" />
+      <edge source="T_TOPIC_3" target="A_hihostels" id="85" weight="0.0027777825764511302" />
+      <edge source="T_TOPIC_3" target="A_siceland" id="86" weight="0.0659423436912193" />
+      <edge source="T_TOPIC_3" target="A_matorka" id="87" weight="0.001801803776869972" />
+      <edge source="T_TOPIC_3" target="A_reykjavikforum" id="88" weight="0.9992405740871216" />
+      <edge source="T_TOPIC_4" target="A_theguardian" id="89" weight="0.00246914006616776" />
+      <edge source="T_TOPIC_4" target="A_unicef" id="90" weight="0.0013605461101854394" />
+      <edge source="T_TOPIC_4" target="A_wipo" id="91" weight="0.0166667160438066" />
+      <edge source="T_TOPIC_4" target="A_worldbank" id="92" weight="0.003508778083608189" />
+      <edge source="T_TOPIC_4" target="A_sjavarklasinn" id="93" weight="0.0020202065998440144" />
+      <edge source="T_TOPIC_4" target="A_cia" id="94" weight="0.6746295822760975" />
+      <edge source="T_TOPIC_4" target="A_hi" id="95" weight="0.0025641055677877857" />
+      <edge source="T_TOPIC_4" target="A_hihostels" id="96" weight="0.002777781941179898" />
+      <edge source="T_TOPIC_4" target="A_siceland" id="97" weight="0.0016260186087227269" />
+      <edge source="T_TOPIC_4" target="A_matorka" id="98" weight="0.0018018039818347938" />
+      <edge source="T_TOPIC_5" target="A_theguardian" id="99" weight="0.002469139470805994" />
+      <edge source="T_TOPIC_5" target="A_unicef" id="100" weight="0.252079609119348" />
+      <edge source="T_TOPIC_5" target="A_newsweek" id="101" weight="0.997718008569746" />
+      <edge source="T_TOPIC_5" target="A_wipo" id="102" weight="0.016666682878878267" />
+      <edge source="T_TOPIC_5" target="A_worldbank" id="103" weight="0.0035087780748430213" />
+      <edge source="T_TOPIC_5" target="A_sjavarklasinn" id="104" weight="0.002020205143814101" />
+      <edge source="T_TOPIC_5" target="A_hi" id="105" weight="0.002564106340655227" />
+      <edge source="T_TOPIC_5" target="A_hihostels" id="106" weight="0.002777782743967212" />
+      <edge source="T_TOPIC_5" target="A_siceland" id="107" weight="0.0016260188221679198" />
+      <edge source="T_TOPIC_5" target="A_matorka" id="108" weight="0.001801803779534547" />
+      <edge source="T_TOPIC_6" target="A_theguardian" id="109" weight="0.0024691388861243914" />
+      <edge source="T_TOPIC_6" target="A_unicef" id="110" weight="0.0013605460654220825" />
+      <edge source="T_TOPIC_6" target="A_weforum" id="111" weight="0.9511944887277125" />
+      <edge source="T_TOPIC_6" target="A_wipo" id="112" weight="0.016666683842483276" />
+      <edge source="T_TOPIC_6" target="A_worldbank" id="113" weight="0.0035087770640542843" />
+      <edge source="T_TOPIC_6" target="A_aljazeera" id="114" weight="0.8409793873115513" />
+      <edge source="T_TOPIC_6" target="A_sjavarklasinn" id="115" weight="0.002020205183985318" />
+      <edge source="T_TOPIC_6" target="A_hi" id="116" weight="0.0025641064677462406" />
+      <edge source="T_TOPIC_6" target="A_hihostels" id="117" weight="0.0027777836457828706" />
+      <edge source="T_TOPIC_6" target="A_siceland" id="118" weight="0.0016260193506872828" />
+      <edge source="T_TOPIC_6" target="A_matorka" id="119" weight="0.0018018041088105699" />
+      <edge source="T_TOPIC_7" target="A_theguardian" id="120" weight="0.002469139046747679" />
+      <edge source="T_TOPIC_7" target="A_unicef" id="121" weight="0.0013605459896817815" />
+      <edge source="T_TOPIC_7" target="A_wipo" id="122" weight="0.0166666879018921" />
+      <edge source="T_TOPIC_7" target="A_ruv" id="123" weight="0.9914373046232771" />
+      <edge source="T_TOPIC_7" target="A_worldbank" id="124" weight="0.003508776000202591" />
+      <edge source="T_TOPIC_7" target="A_sjavarklasinn" id="125" weight="0.002020211884863461" />
+      <edge source="T_TOPIC_7" target="A_hi" id="126" weight="0.002564106438996214" />
+      <edge source="T_TOPIC_7" target="A_hihostels" id="127" weight="0.0027777826903156496" />
+      <edge source="T_TOPIC_7" target="A_siceland" id="128" weight="0.001626018873267367" />
+      <edge source="T_TOPIC_7" target="A_matorka" id="129" weight="0.0018018041233337206" />
+      <edge source="T_TOPIC_8" target="A_theguardian" id="130" weight="0.0024691392497403018" />
+      <edge source="T_TOPIC_8" target="A_unicef" id="131" weight="0.0013605463637057398" />
+      <edge source="T_TOPIC_8" target="A_wipo" id="132" weight="0.016666693090750175" />
+      <edge source="T_TOPIC_8" target="A_worldbank" id="133" weight="0.003508776672318478" />
+      <edge source="T_TOPIC_8" target="A_sjavarklasinn" id="134" weight="0.002020205490368776" />
+      <edge source="T_TOPIC_8" target="A_hi" id="135" weight="0.0025641063369165906" />
+      <edge source="T_TOPIC_8" target="A_hihostels" id="136" weight="0.0027777829026630406" />
+      <edge source="T_TOPIC_8" target="A_siceland" id="137" weight="0.0016260187155373459" />
+      <edge source="T_TOPIC_8" target="A_matorka" id="138" weight="0.001801803998517078" />
+      <edge source="T_TOPIC_9" target="A_theguardian" id="139" weight="0.0024691389320471925" />
+      <edge source="T_TOPIC_9" target="A_unicef" id="140" weight="0.001360546145182539" />
+      <edge source="T_TOPIC_9" target="A_wipo" id="141" weight="0.0166666863471391" />
+      <edge source="T_TOPIC_9" target="A_worldbank" id="142" weight="0.003508776018547243" />
+      <edge source="T_TOPIC_9" target="A_sjavarklasinn" id="143" weight="0.002020205042524836" />
+      <edge source="T_TOPIC_9" target="A_hi" id="144" weight="0.002564105785594067" />
+      <edge source="T_TOPIC_9" target="A_hihostels" id="145" weight="0.00277778289404367" />
+      <edge source="T_TOPIC_9" target="A_siceland" id="146" weight="0.0016260203106218936" />
+      <edge source="T_TOPIC_9" target="A_matorka" id="147" weight="0.0018018042498936175" />
+      <edge source="T_TOPIC_10" target="A_theguardian" id="148" weight="0.0024691390206242297" />
+      <edge source="T_TOPIC_10" target="A_unicef" id="149" weight="0.0013605462758286013" />
+      <edge source="T_TOPIC_10" target="A_wipo" id="150" weight="0.016666687473177434" />
+      <edge source="T_TOPIC_10" target="A_worldbank" id="151" weight="0.003508776808039517" />
+      <edge source="T_TOPIC_10" target="A_sjavarklasinn" id="152" weight="0.002020204844130512" />
+      <edge source="T_TOPIC_10" target="A_hi" id="153" weight="0.0025641059192034075" />
+      <edge source="T_TOPIC_10" target="A_hihostels" id="154" weight="0.0027777825593712354" />
+      <edge source="T_TOPIC_10" target="A_siceland" id="155" weight="0.0016260190018935155" />
+      <edge source="T_TOPIC_10" target="A_matorka" id="156" weight="0.0018018041238215" />
+      <edge source="T_TOPIC_11" target="A_theguardian" id="157" weight="0.0024691388624111968" />
+      <edge source="T_TOPIC_11" target="A_unicef" id="158" weight="0.0013605462339834837" />
+      <edge source="T_TOPIC_11" target="A_wipo" id="159" weight="0.01666668455360387" />
+      <edge source="T_TOPIC_11" target="A_worldbank" id="160" weight="0.0035087760024534037" />
+      <edge source="T_TOPIC_11" target="A_sjavarklasinn" id="161" weight="0.002020205560204553" />
+      <edge source="T_TOPIC_11" target="A_hi" id="162" weight="0.0025641063677009053" />
+      <edge source="T_TOPIC_11" target="A_hihostels" id="163" weight="0.002777782964766688" />
+      <edge source="T_TOPIC_11" target="A_siceland" id="164" weight="0.0016260190661134479" />
+      <edge source="T_TOPIC_11" target="A_matorka" id="165" weight="0.0018018042491080278" />
+      <edge source="T_TOPIC_13" target="A_theguardian" id="166" weight="0.002469139692149543" />
+      <edge source="T_TOPIC_13" target="A_unicef" id="167" weight="0.0013605461550926822" />
+      <edge source="T_TOPIC_13" target="A_wipo" id="168" weight="0.016666689212623466" />
+      <edge source="T_TOPIC_13" target="A_worldbank" id="169" weight="0.0035087766520719506" />
+      <edge source="T_TOPIC_13" target="A_prospects" id="170" weight="0.021642395254282232" />
+      <edge source="T_TOPIC_13" target="A_sjavarklasinn" id="171" weight="0.0020202053478859216" />
+      <edge source="T_TOPIC_13" target="A_thegreenprogram" id="172" weight="0.9996332675108497" />
+      <edge source="T_TOPIC_13" target="A_hi" id="173" weight="0.48144179114101654" />
+      <edge source="T_TOPIC_13" target="A_ru" id="174" weight="0.2547673447357798" />
+      <edge source="T_TOPIC_13" target="A_hihostels" id="175" weight="0.49146544798531017" />
+      <edge source="T_TOPIC_13" target="A_siceland" id="176" weight="0.2663039968048144" />
+      <edge source="T_TOPIC_13" target="A_matorka" id="177" weight="0.0018018051472365982" />
+      <edge source="T_TOPIC_14" target="A_theguardian" id="178" weight="0.00246913886572844" />
+      <edge source="T_TOPIC_14" target="A_unicef" id="179" weight="0.0013605462996155971" />
+      <edge source="T_TOPIC_14" target="A_wipo" id="180" weight="0.016666686746876318" />
+      <edge source="T_TOPIC_14" target="A_worldbank" id="181" weight="0.0035087758059519653" />
+      <edge source="T_TOPIC_14" target="A_sjavarklasinn" id="182" weight="0.0020202050437436287" />
+      <edge source="T_TOPIC_14" target="A_hi" id="183" weight="0.002564106447054808" />
+      <edge source="T_TOPIC_14" target="A_hihostels" id="184" weight="0.0027777825136486647" />
+      <edge source="T_TOPIC_14" target="A_siceland" id="185" weight="0.001626019613845038" />
+      <edge source="T_TOPIC_14" target="A_matorka" id="186" weight="0.0018018039890261798" />
+    </edges>
+  </graph>
+</gexf>

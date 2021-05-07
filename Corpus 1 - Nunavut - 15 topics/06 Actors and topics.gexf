@@ -1,0 +1,1219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_canada" label="canada">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_rcinet" label="rcinet">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gov" label="gov">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_worldatlas" label="worldatlas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_ejatlas" label="ejatlas">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_stantec" label="stantec">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_investingnews" label="investingnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_mongabay" label="mongabay">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_learnalberta" label="learnalberta">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_rcaanc-cirnac" label="rcaanc-cirnac">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cbc" label="cbc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_nrcan" label="nrcan">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ctvnews" label="ctvnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_infrastructure" label="infrastructure">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_miragenews" label="miragenews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_modernfarmer" label="modernfarmer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_asc-csa" label="asc-csa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_Nunavut Wildlife Management Board" label="Nunavut Wildlife Management Board">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_mromagazine" label="mromagazine">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_irpp" label="irpp">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aadnc-aandc" label="aadnc-aandc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theglobeandmail" label="theglobeandmail">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_oag-bvg" label="oag-bvg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_newswire" label="newswire">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cambridge" label="cambridge">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadianminingjournal" label="canadianminingjournal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thenarwhal" label="thenarwhal">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thestar" label="thestar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_biomedcentral" label="biomedcentral">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_justice" label="justice">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thecanadianencyclopedia" label="thecanadianencyclopedia">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sciencedaily" label="sciencedaily">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_businessinsider" label="businessinsider">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wsp" label="wsp">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadiangeographic" label="canadiangeographic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_yahoo" label="yahoo">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_huffingtonpost" label="huffingtonpost">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ecolex" label="ecolex">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalpost" label="nationalpost">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadiantire" label="canadiantire">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_atlasobscura" label="atlasobscura">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalgeographic" label="nationalgeographic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_dfo-mpo" label="dfo-mpo">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadavisa" label="canadavisa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_intercontinentalcry" label="intercontinentalcry">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_agnicoeagle" label="agnicoeagle">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_indeed" label="indeed">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_collegesinstitutes" label="collegesinstitutes">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_foodsecurecanada" label="foodsecurecanada">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ourcommons" label="ourcommons">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nunatsiaq" label="nunatsiaq">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mironline" label="mironline">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wwf" label="wwf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_globalcitizen" label="globalcitizen">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_atco" label="atco">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ssir" label="ssir">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_inuitcircumpolar" label="inuitcircumpolar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mdpi" label="mdpi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_polarcom" label="polarcom">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_un" label="un">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ncgc" label="ncgc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_researchgate" label="researchgate">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_utoronto" label="utoronto">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mcmaster" label="mcmaster">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sagepub" label="sagepub">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ualberta" label="ualberta">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_vanierinstitute" label="vanierinstitute">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eventscloud" label="eventscloud">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gowlingwlg" label="gowlingwlg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nccih" label="nccih">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nih" label="nih">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadian-media" label="canadian-media">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_msn" label="msn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_unece" label="unece">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_getprepared" label="getprepared">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_rdee" label="rdee">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_aljazeera" label="aljazeera">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cnn" label="cnn">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theguardian" label="theguardian">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thewalrus" label="thewalrus">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_globalnews" label="globalnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_theatlantic" label="theatlantic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ubcpress" label="ubcpress">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nationalparkstraveler" label="nationalparkstraveler">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_phys" label="phys">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_time" label="time">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_apnews" label="apnews">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_infoplease" label="infoplease">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ibc" label="ibc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cmaj" label="cmaj">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_microsoft" label="microsoft">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_destinationnunavut" label="destinationnunavut">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_pc" label="pc">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_uarctic" label="uarctic">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Nunavut Qiviut" label="Nunavut Qiviut">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_miningandenergy" label="miningandenergy">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_franchisedirect" label="franchisedirect">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_thearcticinstitute" label="thearcticinstitute">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_airport-technology" label="airport-technology">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_iqaluit" label="iqaluit">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_climatechangenunavut" label="climatechangenunavut">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nunavutqiviut" label="nunavutqiviut">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadianimmigrant" label="canadianimmigrant">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadashistory" label="canadashistory">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nccig" label="nccig">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_indigenoustourism" label="indigenoustourism">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_advancedbiofuelsusa" label="advancedbiofuelsusa">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nunavutparks" label="nunavutparks">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mmg" label="mmg">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_wikivoyage" label="wikivoyage">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_alphabetcreative" label="alphabetcreative">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mining" label="mining">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_adventures" label="adventures">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_whenonearth" label="whenonearth">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_panda" label="panda">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_energyhub" label="energyhub">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nunavutoutfitters" label="nunavutoutfitters">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_canadianliving" label="canadianliving">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_jooble" label="jooble">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_smartertravel" label="smartertravel">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_investcanadanorth" label="investcanadanorth">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_cangea" label="cangea">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_powertecsolar" label="powertecsolar">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tbs-sct" label="tbs-sct">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_worldwidetrophyadventures" label="worldwidetrophyadventures">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_crrf" label="crrf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_travelnunavut" label="travelnunavut">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_5" target="A_canada" id="0" weight="0.5708813446699685" />
+      <edge source="T_TOPIC_5" target="A_rcinet" id="1" weight="0.9995549188052693" />
+      <edge source="T_TOPIC_5" target="A_worldatlas" id="2" weight="0.9945736324960907" />
+      <edge source="T_TOPIC_5" target="A_ejatlas" id="3" weight="0.4586038805068182" />
+      <edge source="T_TOPIC_5" target="A_stantec" id="4" weight="0.8328251152275353" />
+      <edge source="T_TOPIC_5" target="A_mongabay" id="5" weight="0.9024760936866183" />
+      <edge source="T_TOPIC_5" target="A_learnalberta" id="6" weight="0.9997911534957477" />
+      <edge source="T_TOPIC_5" target="A_cbc" id="7" weight="0.9464731815262181" />
+      <edge source="T_TOPIC_5" target="A_ctvnews" id="8" weight="0.9474507670942384" />
+      <edge source="T_TOPIC_5" target="A_infrastructure" id="9" weight="0.0031230636524685897" />
+      <edge source="T_TOPIC_5" target="A_miragenews" id="10" weight="0.3652069713762846" />
+      <edge source="T_TOPIC_5" target="A_modernfarmer" id="11" weight="0.9993285359777072" />
+      <edge source="T_TOPIC_5" target="A_asc-csa" id="12" weight="0.8298066522496063" />
+      <edge source="T_TOPIC_5" target="A_Nunavut Wildlife Management Board" id="13" weight="0.009523812591845171" />
+      <edge source="T_TOPIC_5" target="A_mromagazine" id="14" weight="0.8182467510334528" />
+      <edge source="T_TOPIC_5" target="A_irpp" id="15" weight="0.8018877930441812" />
+      <edge source="T_TOPIC_5" target="A_aadnc-aandc" id="16" weight="0.6585220508269594" />
+      <edge source="T_TOPIC_5" target="A_theglobeandmail" id="17" weight="0.999747610858929" />
+      <edge source="T_TOPIC_5" target="A_newswire" id="18" weight="0.4522384239928897" />
+      <edge source="T_TOPIC_5" target="A_cambridge" id="19" weight="0.3673085499969107" />
+      <edge source="T_TOPIC_5" target="A_canadianminingjournal" id="20" weight="0.20584209128804012" />
+      <edge source="T_TOPIC_5" target="A_thenarwhal" id="21" weight="0.8193635145419239" />
+      <edge source="T_TOPIC_5" target="A_thestar" id="22" weight="0.9997045473096323" />
+      <edge source="T_TOPIC_5" target="A_biomedcentral" id="23" weight="0.9998947999125304" />
+      <edge source="T_TOPIC_5" target="A_thecanadianencyclopedia" id="24" weight="0.9988463101171845" />
+      <edge source="T_TOPIC_5" target="A_sciencedaily" id="25" weight="0.9911110920606512" />
+      <edge source="T_TOPIC_5" target="A_canadiangeographic" id="26" weight="0.9996154367109007" />
+      <edge source="T_TOPIC_5" target="A_huffingtonpost" id="27" weight="0.6664155815040371" />
+      <edge source="T_TOPIC_5" target="A_ecolex" id="28" weight="0.30675426071733924" />
+      <edge source="T_TOPIC_5" target="A_nationalpost" id="29" weight="0.99862339946355" />
+      <edge source="T_TOPIC_5" target="A_canadiantire" id="30" weight="0.0010256435395380587" />
+      <edge source="T_TOPIC_5" target="A_atlasobscura" id="31" weight="0.9939393823373645" />
+      <edge source="T_TOPIC_5" target="A_nationalgeographic" id="32" weight="0.994871784437741" />
+      <edge source="T_TOPIC_5" target="A_canadavisa" id="33" weight="0.9982937197511033" />
+      <edge source="T_TOPIC_5" target="A_intercontinentalcry" id="34" weight="0.9798206177550901" />
+      <edge source="T_TOPIC_5" target="A_indeed" id="35" weight="0.9090005121896942" />
+      <edge source="T_TOPIC_5" target="A_collegesinstitutes" id="36" weight="0.7688419036443781" />
+      <edge source="T_TOPIC_5" target="A_foodsecurecanada" id="37" weight="0.8914391834521826" />
+      <edge source="T_TOPIC_5" target="A_ourcommons" id="38" weight="0.2785558738494254" />
+      <edge source="T_TOPIC_5" target="A_nunatsiaq" id="39" weight="0.9980309376944858" />
+      <edge source="T_TOPIC_5" target="A_mironline" id="40" weight="0.23348967819142175" />
+      <edge source="T_TOPIC_5" target="A_wwf" id="41" weight="0.21408051288013005" />
+      <edge source="T_TOPIC_5" target="A_globalcitizen" id="42" weight="0.9971802563403273" />
+      <edge source="T_TOPIC_5" target="A_atco" id="43" weight="0.46454885735813123" />
+      <edge source="T_TOPIC_5" target="A_ssir" id="44" weight="0.7047189749240415" />
+      <edge source="T_TOPIC_5" target="A_inuitcircumpolar" id="45" weight="0.27219457929439606" />
+      <edge source="T_TOPIC_5" target="A_mdpi" id="46" weight="0.9996006268615517" />
+      <edge source="T_TOPIC_5" target="A_polarcom" id="47" weight="0.9953565432186848" />
+      <edge source="T_TOPIC_5" target="A_un" id="48" weight="0.9972222160793387" />
+      <edge source="T_TOPIC_5" target="A_ncgc" id="49" weight="0.9787878264614512" />
+      <edge source="T_TOPIC_5" target="A_researchgate" id="50" weight="0.8324353495786182" />
+      <edge source="T_TOPIC_5" target="A_utoronto" id="51" weight="0.24517515935162285" />
+      <edge source="T_TOPIC_5" target="A_mcmaster" id="52" weight="0.9977987382996332" />
+      <edge source="T_TOPIC_5" target="A_sagepub" id="53" weight="0.03333336625596314" />
+      <edge source="T_TOPIC_5" target="A_ualberta" id="54" weight="0.9945418984916289" />
+      <edge source="T_TOPIC_5" target="A_vanierinstitute" id="55" weight="0.3912102654665126" />
+      <edge source="T_TOPIC_5" target="A_eventscloud" id="56" weight="0.8011617459897931" />
+      <edge source="T_TOPIC_5" target="A_gowlingwlg" id="57" weight="0.8352911681320552" />
+      <edge source="T_TOPIC_5" target="A_nccih" id="58" weight="0.9122960758160853" />
+      <edge source="T_TOPIC_5" target="A_nih" id="59" weight="0.9984099912700088" />
+      <edge source="T_TOPIC_5" target="A_canadian-media" id="60" weight="0.9772357298715116" />
+      <edge source="T_TOPIC_5" target="A_msn" id="61" weight="0.7516417205694201" />
+      <edge source="T_TOPIC_5" target="A_unece" id="62" weight="0.889023863133226" />
+      <edge source="T_TOPIC_5" target="A_getprepared" id="63" weight="0.00170940676201264" />
+      <edge source="T_TOPIC_5" target="A_aljazeera" id="64" weight="0.9977724699151732" />
+      <edge source="T_TOPIC_5" target="A_cnn" id="65" weight="0.9924731040252953" />
+      <edge source="T_TOPIC_5" target="A_theguardian" id="66" weight="0.9943434263433569" />
+      <edge source="T_TOPIC_5" target="A_thewalrus" id="67" weight="0.9968992190908614" />
+      <edge source="T_TOPIC_5" target="A_globalnews" id="68" weight="0.9933333224684253" />
+      <edge source="T_TOPIC_5" target="A_theatlantic" id="69" weight="0.9805555232738624" />
+      <edge source="T_TOPIC_5" target="A_ubcpress" id="70" weight="0.9247546221027577" />
+      <edge source="T_TOPIC_5" target="A_nationalparkstraveler" id="71" weight="0.9976251010613759" />
+      <edge source="T_TOPIC_5" target="A_phys" id="72" weight="0.9910256279483332" />
+      <edge source="T_TOPIC_5" target="A_time" id="73" weight="0.9965686225820052" />
+      <edge source="T_TOPIC_5" target="A_apnews" id="74" weight="0.8962961037185474" />
+      <edge source="T_TOPIC_5" target="A_infoplease" id="75" weight="0.9980183970392037" />
+      <edge source="T_TOPIC_5" target="A_ibc" id="76" weight="0.001333337521723935" />
+      <edge source="T_TOPIC_5" target="A_cmaj" id="77" weight="0.9995447145697988" />
+      <edge source="T_TOPIC_5" target="A_microsoft" id="78" weight="0.998629464143568" />
+      <edge source="T_TOPIC_5" target="A_destinationnunavut" id="79" weight="0.9992117103600582" />
+      <edge source="T_TOPIC_5" target="A_pc" id="80" weight="0.8444580134667569" />
+      <edge source="T_TOPIC_5" target="A_uarctic" id="81" weight="0.5660930275044113" />
+      <edge source="T_TOPIC_5" target="A_Nunavut Qiviut" id="82" weight="0.01333333797371107" />
+      <edge source="T_TOPIC_5" target="A_miningandenergy" id="83" weight="0.13912064019586431" />
+      <edge source="T_TOPIC_5" target="A_franchisedirect" id="84" weight="0.6888884293188029" />
+      <edge source="T_TOPIC_5" target="A_thearcticinstitute" id="85" weight="0.7985342461933697" />
+      <edge source="T_TOPIC_5" target="A_iqaluit" id="86" weight="0.002666672772911713" />
+      <edge source="T_TOPIC_5" target="A_nunavutqiviut" id="87" weight="0.9841665745244781" />
+      <edge source="T_TOPIC_5" target="A_canadianimmigrant" id="88" weight="0.9821747530075586" />
+      <edge source="T_TOPIC_5" target="A_canadashistory" id="89" weight="0.9819061897435958" />
+      <edge source="T_TOPIC_5" target="A_nccig" id="90" weight="0.30941165333044535" />
+      <edge source="T_TOPIC_5" target="A_indigenoustourism" id="91" weight="0.9959242998868166" />
+      <edge source="T_TOPIC_5" target="A_advancedbiofuelsusa" id="92" weight="0.003508785707170428" />
+      <edge source="T_TOPIC_5" target="A_nunavutparks" id="93" weight="0.9996845774137463" />
+      <edge source="T_TOPIC_5" target="A_mmg" id="94" weight="0.2964569420877584" />
+      <edge source="T_TOPIC_5" target="A_wikivoyage" id="95" weight="0.9983824349516341" />
+      <edge source="T_TOPIC_5" target="A_alphabetcreative" id="96" weight="0.48942288201110495" />
+      <edge source="T_TOPIC_5" target="A_mining" id="97" weight="0.47956592950601357" />
+      <edge source="T_TOPIC_5" target="A_adventures" id="98" weight="0.9969696920663439" />
+      <edge source="T_TOPIC_5" target="A_whenonearth" id="99" weight="0.989743572008457" />
+      <edge source="T_TOPIC_5" target="A_panda" id="100" weight="0.8782308868553313" />
+      <edge source="T_TOPIC_5" target="A_nunavutoutfitters" id="101" weight="0.9151514175531925" />
+      <edge source="T_TOPIC_5" target="A_canadianliving" id="102" weight="0.9975438549676132" />
+      <edge source="T_TOPIC_5" target="A_jooble" id="103" weight="0.0020833402014776487" />
+      <edge source="T_TOPIC_5" target="A_smartertravel" id="104" weight="0.9971370096294996" />
+      <edge source="T_TOPIC_5" target="A_investcanadanorth" id="105" weight="0.2733132503227943" />
+      <edge source="T_TOPIC_5" target="A_cangea" id="106" weight="0.20993006331191322" />
+      <edge source="T_TOPIC_5" target="A_worldwidetrophyadventures" id="107" weight="0.7773712051703533" />
+      <edge source="T_TOPIC_5" target="A_crrf" id="108" weight="0.9988491550817954" />
+      <edge source="T_TOPIC_5" target="A_travelnunavut" id="109" weight="0.002298853960240934" />
+      <edge source="A_canada" target="T_TOPIC_10" id="110" weight="0.2295684882820132" />
+      <edge source="A_canada" target="T_TOPIC_11" id="111" weight="0.19923483331641834" />
+      <edge source="T_TOPIC_10" target="A_gov" id="112" weight="0.9997748287120668" />
+      <edge source="T_TOPIC_10" target="A_stantec" id="113" weight="0.16469159461119984" />
+      <edge source="T_TOPIC_10" target="A_ctvnews" id="114" weight="0.051526011650000224" />
+      <edge source="T_TOPIC_10" target="A_infrastructure" id="115" weight="0.9257586525299396" />
+      <edge source="T_TOPIC_10" target="A_miragenews" id="116" weight="0.25793127928167686" />
+      <edge source="T_TOPIC_10" target="A_asc-csa" id="117" weight="0.16460193863023054" />
+      <edge source="T_TOPIC_10" target="A_Nunavut Wildlife Management Board" id="118" weight="0.009523824079382815" />
+      <edge source="T_TOPIC_10" target="A_aadnc-aandc" id="119" weight="0.3234223624859703" />
+      <edge source="T_TOPIC_10" target="A_newswire" id="120" weight="0.2833307233973524" />
+      <edge source="T_TOPIC_10" target="A_huffingtonpost" id="121" weight="0.33242266480795946" />
+      <edge source="T_TOPIC_10" target="A_ecolex" id="122" weight="0.0022222279933626545" />
+      <edge source="T_TOPIC_10" target="A_canadiantire" id="123" weight="0.0010256427430642568" />
+      <edge source="T_TOPIC_10" target="A_ourcommons" id="124" weight="0.42531754874405064" />
+      <edge source="T_TOPIC_10" target="A_wwf" id="125" weight="0.7816918372771597" />
+      <edge source="T_TOPIC_10" target="A_atco" id="126" weight="0.5310960245668062" />
+      <edge source="T_TOPIC_10" target="A_ncgc" id="127" weight="0.0015151616529477383" />
+      <edge source="T_TOPIC_10" target="A_sagepub" id="128" weight="0.033333348318687825" />
+      <edge source="T_TOPIC_10" target="A_nccih" id="129" weight="0.0011299460191306714" />
+      <edge source="T_TOPIC_10" target="A_canadian-media" id="130" weight="0.0016260194176726732" />
+      <edge source="T_TOPIC_10" target="A_getprepared" id="131" weight="0.9760683249036064" />
+      <edge source="T_TOPIC_10" target="A_theatlantic" id="132" weight="0.0013888912101833067" />
+      <edge source="T_TOPIC_10" target="A_apnews" id="133" weight="0.007407417802626494" />
+      <edge source="T_TOPIC_10" target="A_ibc" id="134" weight="0.9813332940103418" />
+      <edge source="T_TOPIC_10" target="A_Nunavut Qiviut" id="135" weight="0.013333355375665604" />
+      <edge source="T_TOPIC_10" target="A_franchisedirect" id="136" weight="0.022222276217658505" />
+      <edge source="T_TOPIC_10" target="A_iqaluit" id="137" weight="0.0026666748531181898" />
+      <edge source="T_TOPIC_10" target="A_climatechangenunavut" id="138" weight="0.9995957839462465" />
+      <edge source="T_TOPIC_10" target="A_nunavutqiviut" id="139" weight="0.013174933840136106" />
+      <edge source="T_TOPIC_10" target="A_nccig" id="140" weight="0.33941263119099596" />
+      <edge source="T_TOPIC_10" target="A_advancedbiofuelsusa" id="141" weight="0.003508785744815556" />
+      <edge source="T_TOPIC_10" target="A_alphabetcreative" id="142" weight="0.00170940723412238" />
+      <edge source="T_TOPIC_10" target="A_energyhub" id="143" weight="0.9986111083962478" />
+      <edge source="T_TOPIC_10" target="A_nunavutoutfitters" id="144" weight="0.006060614063967838" />
+      <edge source="T_TOPIC_10" target="A_jooble" id="145" weight="0.002083339096554501" />
+      <edge source="T_TOPIC_10" target="A_cangea" id="146" weight="0.788669826246448" />
+      <edge source="T_TOPIC_10" target="A_powertecsolar" id="147" weight="0.9986982778517752" />
+      <edge source="T_TOPIC_10" target="A_travelnunavut" id="148" weight="0.0022988543188853273" />
+      <edge source="T_TOPIC_11" target="A_rcaanc-cirnac" id="149" weight="0.9314640090231203" />
+      <edge source="T_TOPIC_11" target="A_infrastructure" id="150" weight="0.06197852206084724" />
+      <edge source="T_TOPIC_11" target="A_Nunavut Wildlife Management Board" id="151" weight="0.009523816806773612" />
+      <edge source="T_TOPIC_11" target="A_irpp" id="152" weight="0.096298050993591" />
+      <edge source="T_TOPIC_11" target="A_aadnc-aandc" id="153" weight="0.0013888925660781892" />
+      <edge source="T_TOPIC_11" target="A_oag-bvg" id="154" weight="0.9999436187613419" />
+      <edge source="T_TOPIC_11" target="A_newswire" id="155" weight="0.08076527164638278" />
+      <edge source="T_TOPIC_11" target="A_wsp" id="156" weight="0.965094340727779" />
+      <edge source="T_TOPIC_11" target="A_ecolex" id="157" weight="0.44940722705707453" />
+      <edge source="T_TOPIC_11" target="A_canadiantire" id="158" weight="0.001025643238436349" />
+      <edge source="T_TOPIC_11" target="A_collegesinstitutes" id="159" weight="0.2277052352805505" />
+      <edge source="T_TOPIC_11" target="A_foodsecurecanada" id="160" weight="0.10162746824876752" />
+      <edge source="T_TOPIC_11" target="A_ourcommons" id="161" weight="0.0010101040557440933" />
+      <edge source="T_TOPIC_11" target="A_ncgc" id="162" weight="0.0015151546828232477" />
+      <edge source="T_TOPIC_11" target="A_sagepub" id="163" weight="0.03333334129560173" />
+      <edge source="T_TOPIC_11" target="A_nccih" id="164" weight="0.0011299462860576686" />
+      <edge source="T_TOPIC_11" target="A_canadian-media" id="165" weight="0.0016260197534006464" />
+      <edge source="T_TOPIC_11" target="A_unece" id="166" weight="0.10112763333390792" />
+      <edge source="T_TOPIC_11" target="A_getprepared" id="167" weight="0.0017094077072058714" />
+      <edge source="T_TOPIC_11" target="A_rdee" id="168" weight="0.05008926893141752" />
+      <edge source="T_TOPIC_11" target="A_theatlantic" id="169" weight="0.0013888904639601507" />
+      <edge source="T_TOPIC_11" target="A_apnews" id="170" weight="0.0074074284602038305" />
+      <edge source="T_TOPIC_11" target="A_ibc" id="171" weight="0.0013333365223973835" />
+      <edge source="T_TOPIC_11" target="A_uarctic" id="172" weight="0.43068515613178204" />
+      <edge source="T_TOPIC_11" target="A_Nunavut Qiviut" id="173" weight="0.013333344351281806" />
+      <edge source="T_TOPIC_11" target="A_franchisedirect" id="174" weight="0.022222247476087593" />
+      <edge source="T_TOPIC_11" target="A_iqaluit" id="175" weight="0.0026666711009203964" />
+      <edge source="T_TOPIC_11" target="A_nccig" id="176" weight="0.34660427851347236" />
+      <edge source="T_TOPIC_11" target="A_advancedbiofuelsusa" id="177" weight="0.5315703365409986" />
+      <edge source="T_TOPIC_11" target="A_alphabetcreative" id="178" weight="0.0017094043303884218" />
+      <edge source="T_TOPIC_11" target="A_nunavutoutfitters" id="179" weight="0.006060614807391816" />
+      <edge source="T_TOPIC_11" target="A_jooble" id="180" weight="0.4260441288285823" />
+      <edge source="T_TOPIC_11" target="A_tbs-sct" id="181" weight="0.29302449535563924" />
+      <edge source="T_TOPIC_11" target="A_travelnunavut" id="182" weight="0.6323828631185436" />
+      <edge source="T_TOPIC_3" target="A_ejatlas" id="183" weight="0.3338597842003451" />
+      <edge source="T_TOPIC_3" target="A_investingnews" id="184" weight="0.9991203253066426" />
+      <edge source="T_TOPIC_3" target="A_cbc" id="185" weight="0.052794216218113914" />
+      <edge source="T_TOPIC_3" target="A_Nunavut Wildlife Management Board" id="186" weight="0.009523825996302098" />
+      <edge source="T_TOPIC_3" target="A_aadnc-aandc" id="187" weight="0.0013888912621339176" />
+      <edge source="T_TOPIC_3" target="A_canadianminingjournal" id="188" weight="0.5991908544380815" />
+      <edge source="T_TOPIC_3" target="A_thenarwhal" id="189" weight="0.06340476468641486" />
+      <edge source="T_TOPIC_3" target="A_yahoo" id="190" weight="0.999229921750941" />
+      <edge source="T_TOPIC_3" target="A_ecolex" id="191" weight="0.002222225881657587" />
+      <edge source="T_TOPIC_3" target="A_canadiantire" id="192" weight="0.001025642591407889" />
+      <edge source="T_TOPIC_3" target="A_ourcommons" id="193" weight="0.0010101031799927933" />
+      <edge source="T_TOPIC_3" target="A_ncgc" id="194" weight="0.0015151553418071928" />
+      <edge source="T_TOPIC_3" target="A_sagepub" id="195" weight="0.03333334136189808" />
+      <edge source="T_TOPIC_3" target="A_nccih" id="196" weight="0.0011299449160487433" />
+      <edge source="T_TOPIC_3" target="A_canadian-media" id="197" weight="0.0016260196513317195" />
+      <edge source="T_TOPIC_3" target="A_msn" id="198" weight="0.2190147071617996" />
+      <edge source="T_TOPIC_3" target="A_getprepared" id="199" weight="0.0017094048749975923" />
+      <edge source="T_TOPIC_3" target="A_theatlantic" id="200" weight="0.0013888911924778335" />
+      <edge source="T_TOPIC_3" target="A_apnews" id="201" weight="0.00740743057358518" />
+      <edge source="T_TOPIC_3" target="A_ibc" id="202" weight="0.001333337382447844" />
+      <edge source="T_TOPIC_3" target="A_Nunavut Qiviut" id="203" weight="0.013333358221566815" />
+      <edge source="T_TOPIC_3" target="A_miningandenergy" id="204" weight="0.8580190683253938" />
+      <edge source="T_TOPIC_3" target="A_franchisedirect" id="205" weight="0.022222261219079477" />
+      <edge source="T_TOPIC_3" target="A_iqaluit" id="206" weight="0.002666672185994256" />
+      <edge source="T_TOPIC_3" target="A_advancedbiofuelsusa" id="207" weight="0.00350877888140169" />
+      <edge source="T_TOPIC_3" target="A_alphabetcreative" id="208" weight="0.0017094052958830592" />
+      <edge source="T_TOPIC_3" target="A_mining" id="209" weight="0.2741579749620308" />
+      <edge source="T_TOPIC_3" target="A_nunavutoutfitters" id="210" weight="0.006060612252477656" />
+      <edge source="T_TOPIC_3" target="A_jooble" id="211" weight="0.2374916739393447" />
+      <edge source="T_TOPIC_3" target="A_investcanadanorth" id="212" weight="0.3070562925033734" />
+      <edge source="T_TOPIC_3" target="A_travelnunavut" id="213" weight="0.002298852869592115" />
+      <edge source="A_ejatlas" target="T_TOPIC_9" id="214" weight="0.20449450414618187" />
+      <edge source="T_TOPIC_9" target="A_miragenews" id="215" weight="0.16864087451495471" />
+      <edge source="T_TOPIC_9" target="A_Nunavut Wildlife Management Board" id="216" weight="0.4596463992171439" />
+      <edge source="T_TOPIC_9" target="A_mromagazine" id="217" weight="0.1770937416263866" />
+      <edge source="T_TOPIC_9" target="A_aadnc-aandc" id="218" weight="0.001388890537187841" />
+      <edge source="T_TOPIC_9" target="A_canadianminingjournal" id="219" weight="0.19349103671671175" />
+      <edge source="T_TOPIC_9" target="A_thenarwhal" id="220" weight="0.08754526521408534" />
+      <edge source="T_TOPIC_9" target="A_businessinsider" id="221" weight="0.9998700452899109" />
+      <edge source="T_TOPIC_9" target="A_ecolex" id="222" weight="0.16899549669628144" />
+      <edge source="T_TOPIC_9" target="A_canadiantire" id="223" weight="0.985640999098443" />
+      <edge source="T_TOPIC_9" target="A_agnicoeagle" id="224" weight="0.9993071011091537" />
+      <edge source="T_TOPIC_9" target="A_indeed" id="225" weight="0.08819473577356086" />
+      <edge source="T_TOPIC_9" target="A_ourcommons" id="226" weight="0.001010103730075542" />
+      <edge source="T_TOPIC_9" target="A_ncgc" id="227" weight="0.0015151545843406094" />
+      <edge source="T_TOPIC_9" target="A_sagepub" id="228" weight="0.5333330618622485" />
+      <edge source="T_TOPIC_9" target="A_nccih" id="229" weight="0.001129944920231155" />
+      <edge source="T_TOPIC_9" target="A_canadian-media" id="230" weight="0.0016260191512701089" />
+      <edge source="T_TOPIC_9" target="A_getprepared" id="231" weight="0.001709405826272861" />
+      <edge source="T_TOPIC_9" target="A_theatlantic" id="232" weight="0.0013888906858597811" />
+      <edge source="T_TOPIC_9" target="A_apnews" id="233" weight="0.007407417298461328" />
+      <edge source="T_TOPIC_9" target="A_ibc" id="234" weight="0.0013333369062418785" />
+      <edge source="T_TOPIC_9" target="A_Nunavut Qiviut" id="235" weight="0.43429105296361836" />
+      <edge source="T_TOPIC_9" target="A_franchisedirect" id="236" weight="0.02222223629873764" />
+      <edge source="T_TOPIC_9" target="A_iqaluit" id="237" weight="0.0026666712057153864" />
+      <edge source="T_TOPIC_9" target="A_advancedbiofuelsusa" id="238" weight="0.0035087885741868353" />
+      <edge source="T_TOPIC_9" target="A_mmg" id="239" weight="0.6992312754570098" />
+      <edge source="T_TOPIC_9" target="A_alphabetcreative" id="240" weight="0.001709404553131387" />
+      <edge source="T_TOPIC_9" target="A_mining" id="241" weight="0.004457273546228362" />
+      <edge source="T_TOPIC_9" target="A_nunavutoutfitters" id="242" weight="0.006060609457656134" />
+      <edge source="T_TOPIC_9" target="A_jooble" id="243" weight="0.3114641402274192" />
+      <edge source="T_TOPIC_9" target="A_travelnunavut" id="244" weight="0.0022988552259186235" />
+      <edge source="T_TOPIC_4" target="A_mongabay" id="245" weight="0.09661640037258118" />
+      <edge source="T_TOPIC_4" target="A_miragenews" id="246" weight="0.07741791460132127" />
+      <edge source="T_TOPIC_4" target="A_Nunavut Wildlife Management Board" id="247" weight="0.0095238135150489" />
+      <edge source="T_TOPIC_4" target="A_aadnc-aandc" id="248" weight="0.00138889089137968" />
+      <edge source="T_TOPIC_4" target="A_newswire" id="249" weight="0.14710042440188506" />
+      <edge source="T_TOPIC_4" target="A_ecolex" id="250" weight="0.0022222288685554013" />
+      <edge source="T_TOPIC_4" target="A_canadiantire" id="251" weight="0.0010256440139933772" />
+      <edge source="T_TOPIC_4" target="A_dfo-mpo" id="252" weight="0.9999216803765659" />
+      <edge source="T_TOPIC_4" target="A_ourcommons" id="253" weight="0.0010101031869067878" />
+      <edge source="T_TOPIC_4" target="A_ncgc" id="254" weight="0.0015151541415335504" />
+      <edge source="T_TOPIC_4" target="A_sagepub" id="255" weight="0.03333336257267041" />
+      <edge source="T_TOPIC_4" target="A_nccih" id="256" weight="0.001129945929326608" />
+      <edge source="T_TOPIC_4" target="A_canadian-media" id="257" weight="0.0016260197351451262" />
+      <edge source="T_TOPIC_4" target="A_getprepared" id="258" weight="0.0017094064363329551" />
+      <edge source="T_TOPIC_4" target="A_theatlantic" id="259" weight="0.0013888938784886804" />
+      <edge source="T_TOPIC_4" target="A_ubcpress" id="260" weight="0.0714607997153963" />
+      <edge source="T_TOPIC_4" target="A_apnews" id="261" weight="0.007407426244429177" />
+      <edge source="T_TOPIC_4" target="A_ibc" id="262" weight="0.0013333351986708046" />
+      <edge source="T_TOPIC_4" target="A_Nunavut Qiviut" id="263" weight="0.013333339366002098" />
+      <edge source="T_TOPIC_4" target="A_franchisedirect" id="264" weight="0.022222243729163725" />
+      <edge source="T_TOPIC_4" target="A_iqaluit" id="265" weight="0.00266666937492703" />
+      <edge source="T_TOPIC_4" target="A_advancedbiofuelsusa" id="266" weight="0.00350877932766416" />
+      <edge source="T_TOPIC_4" target="A_alphabetcreative" id="267" weight="0.001709405224656824" />
+      <edge source="T_TOPIC_4" target="A_panda" id="268" weight="0.11534934900438369" />
+      <edge source="T_TOPIC_4" target="A_nunavutoutfitters" id="269" weight="0.006060632582494248" />
+      <edge source="T_TOPIC_4" target="A_jooble" id="270" weight="0.0020833374296341154" />
+      <edge source="T_TOPIC_4" target="A_worldwidetrophyadventures" id="271" weight="0.16527893202897256" />
+      <edge source="T_TOPIC_4" target="A_travelnunavut" id="272" weight="0.0022988540973323756" />
+      <edge source="T_TOPIC_7" target="A_rcaanc-cirnac" id="273" weight="0.06849253371182053" />
+      <edge source="T_TOPIC_7" target="A_Nunavut Wildlife Management Board" id="274" weight="0.416543951384111" />
+      <edge source="T_TOPIC_7" target="A_irpp" id="275" weight="0.07809030350338515" />
+      <edge source="T_TOPIC_7" target="A_aadnc-aandc" id="276" weight="0.0013888913491530406" />
+      <edge source="T_TOPIC_7" target="A_cambridge" id="277" weight="0.6324551718166157" />
+      <edge source="T_TOPIC_7" target="A_thenarwhal" id="278" weight="0.029328031928448243" />
+      <edge source="T_TOPIC_7" target="A_justice" id="279" weight="0.9999738253812781" />
+      <edge source="T_TOPIC_7" target="A_ecolex" id="280" weight="0.0022222281890206187" />
+      <edge source="T_TOPIC_7" target="A_canadiantire" id="281" weight="0.0010256430184521056" />
+      <edge source="T_TOPIC_7" target="A_intercontinentalcry" id="282" weight="0.01998519259323879" />
+      <edge source="T_TOPIC_7" target="A_ourcommons" id="283" weight="0.2840053390711638" />
+      <edge source="T_TOPIC_7" target="A_ncgc" id="284" weight="0.0015151566206781722" />
+      <edge source="T_TOPIC_7" target="A_sagepub" id="285" weight="0.03333334245217032" />
+      <edge source="T_TOPIC_7" target="A_gowlingwlg" id="286" weight="0.07919449304511551" />
+      <edge source="T_TOPIC_7" target="A_nccih" id="287" weight="0.0011299460963645899" />
+      <edge source="T_TOPIC_7" target="A_canadian-media" id="288" weight="0.00162602034651351" />
+      <edge source="T_TOPIC_7" target="A_msn" id="289" weight="0.028051162388812816" />
+      <edge source="T_TOPIC_7" target="A_getprepared" id="290" weight="0.0017094049832105575" />
+      <edge source="T_TOPIC_7" target="A_theatlantic" id="291" weight="0.0013888912127058028" />
+      <edge source="T_TOPIC_7" target="A_apnews" id="292" weight="0.007407418057644891" />
+      <edge source="T_TOPIC_7" target="A_ibc" id="293" weight="0.00133333642227806" />
+      <edge source="T_TOPIC_7" target="A_Nunavut Qiviut" id="294" weight="0.3923754235850857" />
+      <edge source="T_TOPIC_7" target="A_franchisedirect" id="295" weight="0.02222223950664966" />
+      <edge source="T_TOPIC_7" target="A_iqaluit" id="296" weight="0.5039270417241137" />
+      <edge source="T_TOPIC_7" target="A_canadianimmigrant" id="297" weight="0.013287716547470478" />
+      <edge source="T_TOPIC_7" target="A_canadashistory" id="298" weight="0.01606414204801021" />
+      <edge source="T_TOPIC_7" target="A_advancedbiofuelsusa" id="299" weight="0.003508777157785433" />
+      <edge source="T_TOPIC_7" target="A_alphabetcreative" id="300" weight="0.0017094037173045313" />
+      <edge source="T_TOPIC_7" target="A_nunavutoutfitters" id="301" weight="0.006060609133883705" />
+      <edge source="T_TOPIC_7" target="A_jooble" id="302" weight="0.00208333687416814" />
+      <edge source="T_TOPIC_7" target="A_tbs-sct" id="303" weight="0.6958643684208454" />
+      <edge source="T_TOPIC_7" target="A_worldwidetrophyadventures" id="304" weight="0.0542248565804882" />
+      <edge source="T_TOPIC_7" target="A_travelnunavut" id="305" weight="0.3377320356309708" />
+      <edge source="T_TOPIC_8" target="A_nrcan" id="306" weight="0.9998628658562229" />
+      <edge source="T_TOPIC_8" target="A_infrastructure" id="307" weight="0.008500411541460091" />
+      <edge source="T_TOPIC_8" target="A_miragenews" id="308" weight="0.1296633567926452" />
+      <edge source="T_TOPIC_8" target="A_Nunavut Wildlife Management Board" id="309" weight="0.009523813853331859" />
+      <edge source="T_TOPIC_8" target="A_irpp" id="310" weight="0.023577944250294164" />
+      <edge source="T_TOPIC_8" target="A_aadnc-aandc" id="311" weight="0.0013888909655082858" />
+      <edge source="T_TOPIC_8" target="A_newswire" id="312" weight="0.034697739100258085" />
+      <edge source="T_TOPIC_8" target="A_ecolex" id="313" weight="0.05039851933294117" />
+      <edge source="T_TOPIC_8" target="A_canadiantire" id="314" weight="0.0010256426696819022" />
+      <edge source="T_TOPIC_8" target="A_ourcommons" id="315" weight="0.0010101028450110424" />
+      <edge source="T_TOPIC_8" target="A_ssir" id="316" weight="0.2926143537231089" />
+      <edge source="T_TOPIC_8" target="A_ncgc" id="317" weight="0.0015151551808011774" />
+      <edge source="T_TOPIC_8" target="A_sagepub" id="318" weight="0.033333346217825695" />
+      <edge source="T_TOPIC_8" target="A_eventscloud" id="319" weight="0.19328268853680558" />
+      <edge source="T_TOPIC_8" target="A_gowlingwlg" id="320" weight="0.08512121770515424" />
+      <edge source="T_TOPIC_8" target="A_nccih" id="321" weight="0.07301463285408542" />
+      <edge source="T_TOPIC_8" target="A_canadian-media" id="322" weight="0.0016260188328398335" />
+      <edge source="T_TOPIC_8" target="A_getprepared" id="323" weight="0.0017094062340404163" />
+      <edge source="T_TOPIC_8" target="A_rdee" id="324" weight="0.9458797141971603" />
+      <edge source="T_TOPIC_8" target="A_theatlantic" id="325" weight="0.0013888903748706266" />
+      <edge source="T_TOPIC_8" target="A_apnews" id="326" weight="0.007407416680530277" />
+      <edge source="T_TOPIC_8" target="A_ibc" id="327" weight="0.0013333365730365501" />
+      <edge source="T_TOPIC_8" target="A_Nunavut Qiviut" id="328" weight="0.01333333989245707" />
+      <edge source="T_TOPIC_8" target="A_franchisedirect" id="329" weight="0.022222264115328995" />
+      <edge source="T_TOPIC_8" target="A_thearcticinstitute" id="330" weight="0.20116155286569912" />
+      <edge source="T_TOPIC_8" target="A_iqaluit" id="331" weight="0.0026666711668920902" />
+      <edge source="T_TOPIC_8" target="A_advancedbiofuelsusa" id="332" weight="0.42281550150691044" />
+      <edge source="T_TOPIC_8" target="A_alphabetcreative" id="333" weight="0.48835485753521946" />
+      <edge source="T_TOPIC_8" target="A_mining" id="334" weight="0.24071273634389873" />
+      <edge source="T_TOPIC_8" target="A_nunavutoutfitters" id="335" weight="0.006060612339443071" />
+      <edge source="T_TOPIC_8" target="A_jooble" id="336" weight="0.0020833413376866988" />
+      <edge source="T_TOPIC_8" target="A_investcanadanorth" id="337" weight="0.40820186501159267" />
+      <edge source="T_TOPIC_8" target="A_travelnunavut" id="338" weight="0.00229885880878841" />
+      <edge source="T_TOPIC_0" target="A_Nunavut Wildlife Management Board" id="339" weight="0.009523819175021207" />
+      <edge source="T_TOPIC_0" target="A_aadnc-aandc" id="340" weight="0.0013888910254179357" />
+      <edge source="T_TOPIC_0" target="A_ecolex" id="341" weight="0.0022222264799894335" />
+      <edge source="T_TOPIC_0" target="A_canadiantire" id="342" weight="0.001025642737027321" />
+      <edge source="T_TOPIC_0" target="A_ourcommons" id="343" weight="0.0010101030095758569" />
+      <edge source="T_TOPIC_0" target="A_ncgc" id="344" weight="0.0015151540831037195" />
+      <edge source="T_TOPIC_0" target="A_sagepub" id="345" weight="0.03333335283384725" />
+      <edge source="T_TOPIC_0" target="A_nccih" id="346" weight="0.0011299451224046424" />
+      <edge source="T_TOPIC_0" target="A_canadian-media" id="347" weight="0.0016260190181158407" />
+      <edge source="T_TOPIC_0" target="A_getprepared" id="348" weight="0.0017094043389309713" />
+      <edge source="T_TOPIC_0" target="A_theatlantic" id="349" weight="0.0013888908878349176" />
+      <edge source="T_TOPIC_0" target="A_apnews" id="350" weight="0.0074074169557300645" />
+      <edge source="T_TOPIC_0" target="A_ibc" id="351" weight="0.0013333358312256007" />
+      <edge source="T_TOPIC_0" target="A_Nunavut Qiviut" id="352" weight="0.013333347936255934" />
+      <edge source="T_TOPIC_0" target="A_franchisedirect" id="353" weight="0.022222260849497986" />
+      <edge source="T_TOPIC_0" target="A_iqaluit" id="354" weight="0.0026666719911405514" />
+      <edge source="T_TOPIC_0" target="A_advancedbiofuelsusa" id="355" weight="0.0035087816136734353" />
+      <edge source="T_TOPIC_0" target="A_alphabetcreative" id="356" weight="0.0017094038345031794" />
+      <edge source="T_TOPIC_0" target="A_nunavutoutfitters" id="357" weight="0.006060611203353834" />
+      <edge source="T_TOPIC_0" target="A_jooble" id="358" weight="0.0020833368386839364" />
+      <edge source="T_TOPIC_0" target="A_travelnunavut" id="359" weight="0.0022988535496854846" />
+      <edge source="A_Nunavut Wildlife Management Board" target="T_TOPIC_1" id="360" weight="0.009523820943087572" />
+      <edge source="A_Nunavut Wildlife Management Board" target="T_TOPIC_2" id="361" weight="0.009523824071881298" />
+      <edge source="A_Nunavut Wildlife Management Board" target="T_TOPIC_6" id="362" weight="0.009523819003743095" />
+      <edge source="A_Nunavut Wildlife Management Board" target="T_TOPIC_12" id="363" weight="0.009523822656559485" />
+      <edge source="A_Nunavut Wildlife Management Board" target="T_TOPIC_13" id="364" weight="0.009523819865820477" />
+      <edge source="A_Nunavut Wildlife Management Board" target="T_TOPIC_14" id="365" weight="0.009523816839947732" />
+      <edge source="T_TOPIC_1" target="A_aadnc-aandc" id="366" weight="0.0013888908623250875" />
+      <edge source="T_TOPIC_1" target="A_ecolex" id="367" weight="0.002222226286119226" />
+      <edge source="T_TOPIC_1" target="A_canadiantire" id="368" weight="0.0010256426536326775" />
+      <edge source="T_TOPIC_1" target="A_ourcommons" id="369" weight="0.001010102922185103" />
+      <edge source="T_TOPIC_1" target="A_ncgc" id="370" weight="0.0015151539999232243" />
+      <edge source="T_TOPIC_1" target="A_sagepub" id="371" weight="0.03333335905353233" />
+      <edge source="T_TOPIC_1" target="A_nccih" id="372" weight="0.001129945310086211" />
+      <edge source="T_TOPIC_1" target="A_canadian-media" id="373" weight="0.0016260188646063539" />
+      <edge source="T_TOPIC_1" target="A_getprepared" id="374" weight="0.0017094046422709206" />
+      <edge source="T_TOPIC_1" target="A_theatlantic" id="375" weight="0.001388890880489074" />
+      <edge source="T_TOPIC_1" target="A_apnews" id="376" weight="0.0074074181681140555" />
+      <edge source="T_TOPIC_1" target="A_ibc" id="377" weight="0.001333335653352501" />
+      <edge source="T_TOPIC_1" target="A_Nunavut Qiviut" id="378" weight="0.013333350624131522" />
+      <edge source="T_TOPIC_1" target="A_franchisedirect" id="379" weight="0.022222251911393435" />
+      <edge source="T_TOPIC_1" target="A_iqaluit" id="380" weight="0.0026666712583854908" />
+      <edge source="T_TOPIC_1" target="A_advancedbiofuelsusa" id="381" weight="0.0035087810578609863" />
+      <edge source="T_TOPIC_1" target="A_alphabetcreative" id="382" weight="0.0017094038130481815" />
+      <edge source="T_TOPIC_1" target="A_nunavutoutfitters" id="383" weight="0.006060609252396639" />
+      <edge source="T_TOPIC_1" target="A_jooble" id="384" weight="0.0020833364710531885" />
+      <edge source="T_TOPIC_1" target="A_travelnunavut" id="385" weight="0.0022988532193573305" />
+      <edge source="T_TOPIC_2" target="A_aadnc-aandc" id="386" weight="0.0013888912965916548" />
+      <edge source="T_TOPIC_2" target="A_ecolex" id="387" weight="0.0022222267802171204" />
+      <edge source="T_TOPIC_2" target="A_canadiantire" id="388" weight="0.0010256426564607497" />
+      <edge source="T_TOPIC_2" target="A_ourcommons" id="389" weight="0.0010101030242431557" />
+      <edge source="T_TOPIC_2" target="A_ncgc" id="390" weight="0.0015151543242393592" />
+      <edge source="T_TOPIC_2" target="A_sagepub" id="391" weight="0.03333334722242319" />
+      <edge source="T_TOPIC_2" target="A_nccih" id="392" weight="0.0011299457420955415" />
+      <edge source="T_TOPIC_2" target="A_canadian-media" id="393" weight="0.0016260190960909007" />
+      <edge source="T_TOPIC_2" target="A_getprepared" id="394" weight="0.0017094047867785942" />
+      <edge source="T_TOPIC_2" target="A_theatlantic" id="395" weight="0.0013888910969987842" />
+      <edge source="T_TOPIC_2" target="A_apnews" id="396" weight="0.007407419498160279" />
+      <edge source="T_TOPIC_2" target="A_ibc" id="397" weight="0.001333335665179285" />
+      <edge source="T_TOPIC_2" target="A_Nunavut Qiviut" id="398" weight="0.013333355396850669" />
+      <edge source="T_TOPIC_2" target="A_franchisedirect" id="399" weight="0.02222226197544751" />
+      <edge source="T_TOPIC_2" target="A_iqaluit" id="400" weight="0.0026666713029143314" />
+      <edge source="T_TOPIC_2" target="A_advancedbiofuelsusa" id="401" weight="0.00350878142882899" />
+      <edge source="T_TOPIC_2" target="A_alphabetcreative" id="402" weight="0.0017094044856113407" />
+      <edge source="T_TOPIC_2" target="A_nunavutoutfitters" id="403" weight="0.006060610364304387" />
+      <edge source="T_TOPIC_2" target="A_jooble" id="404" weight="0.0020833372456876345" />
+      <edge source="T_TOPIC_2" target="A_travelnunavut" id="405" weight="0.0022988534630566547" />
+      <edge source="T_TOPIC_6" target="A_aadnc-aandc" id="406" weight="0.0013888905589912268" />
+      <edge source="T_TOPIC_6" target="A_ecolex" id="407" weight="0.002222225310354259" />
+      <edge source="T_TOPIC_6" target="A_canadiantire" id="408" weight="0.001025642496047085" />
+      <edge source="T_TOPIC_6" target="A_ourcommons" id="409" weight="0.0010101025819892347" />
+      <edge source="T_TOPIC_6" target="A_ncgc" id="410" weight="0.0015151534215135185" />
+      <edge source="T_TOPIC_6" target="A_sagepub" id="411" weight="0.03333336129951441" />
+      <edge source="T_TOPIC_6" target="A_nccih" id="412" weight="0.0011299447584150527" />
+      <edge source="T_TOPIC_6" target="A_canadian-media" id="413" weight="0.0016260185141917605" />
+      <edge source="T_TOPIC_6" target="A_getprepared" id="414" weight="0.0017094038328937947" />
+      <edge source="T_TOPIC_6" target="A_theatlantic" id="415" weight="0.0013888906761268273" />
+      <edge source="T_TOPIC_6" target="A_apnews" id="416" weight="0.007407415457945363" />
+      <edge source="T_TOPIC_6" target="A_ibc" id="417" weight="0.0013333351633908024" />
+      <edge source="T_TOPIC_6" target="A_Nunavut Qiviut" id="418" weight="0.013333347691692128" />
+      <edge source="T_TOPIC_6" target="A_franchisedirect" id="419" weight="0.022222262219977855" />
+      <edge source="T_TOPIC_6" target="A_iqaluit" id="420" weight="0.0026666702187465165" />
+      <edge source="T_TOPIC_6" target="A_advancedbiofuelsusa" id="421" weight="0.003508780046186263" />
+      <edge source="T_TOPIC_6" target="A_alphabetcreative" id="422" weight="0.0017094037070001004" />
+      <edge source="T_TOPIC_6" target="A_nunavutoutfitters" id="423" weight="0.006060607691153865" />
+      <edge source="T_TOPIC_6" target="A_jooble" id="424" weight="0.0020833359402214237" />
+      <edge source="T_TOPIC_6" target="A_travelnunavut" id="425" weight="0.002298852564406474" />
+      <edge source="T_TOPIC_12" target="A_aadnc-aandc" id="426" weight="0.0013888911209499375" />
+      <edge source="T_TOPIC_12" target="A_ecolex" id="427" weight="0.002222226444602722" />
+      <edge source="T_TOPIC_12" target="A_canadiantire" id="428" weight="0.0010256426744591019" />
+      <edge source="T_TOPIC_12" target="A_ourcommons" id="429" weight="0.001010103281059923" />
+      <edge source="T_TOPIC_12" target="A_ncgc" id="430" weight="0.0015151540608468544" />
+      <edge source="T_TOPIC_12" target="A_sagepub" id="431" weight="0.03333335057682442" />
+      <edge source="T_TOPIC_12" target="A_nccih" id="432" weight="0.001129945226909787" />
+      <edge source="T_TOPIC_12" target="A_canadian-media" id="433" weight="0.0016260189697482879" />
+      <edge source="T_TOPIC_12" target="A_getprepared" id="434" weight="0.0017094048462615078" />
+      <edge source="T_TOPIC_12" target="A_theatlantic" id="435" weight="0.001388890852102445" />
+      <edge source="T_TOPIC_12" target="A_apnews" id="436" weight="0.007407418103148933" />
+      <edge source="T_TOPIC_12" target="A_ibc" id="437" weight="0.0013333356615675951" />
+      <edge source="T_TOPIC_12" target="A_Nunavut Qiviut" id="438" weight="0.013333353248193536" />
+      <edge source="T_TOPIC_12" target="A_franchisedirect" id="439" weight="0.022222255925595957" />
+      <edge source="T_TOPIC_12" target="A_iqaluit" id="440" weight="0.00266667178500081" />
+      <edge source="T_TOPIC_12" target="A_advancedbiofuelsusa" id="441" weight="0.0035087807763459302" />
+      <edge source="T_TOPIC_12" target="A_alphabetcreative" id="442" weight="0.0017094042176877297" />
+      <edge source="T_TOPIC_12" target="A_nunavutoutfitters" id="443" weight="0.006060610043296196" />
+      <edge source="T_TOPIC_12" target="A_jooble" id="444" weight="0.002083336634733567" />
+      <edge source="T_TOPIC_12" target="A_travelnunavut" id="445" weight="0.002298852811653111" />
+      <edge source="T_TOPIC_13" target="A_aadnc-aandc" id="446" weight="0.001388892123023419" />
+      <edge source="T_TOPIC_13" target="A_wsp" id="447" weight="0.03314055118478616" />
+      <edge source="T_TOPIC_13" target="A_ecolex" id="448" weight="0.002222227292636574" />
+      <edge source="T_TOPIC_13" target="A_canadiantire" id="449" weight="0.0010256428126580927" />
+      <edge source="T_TOPIC_13" target="A_ourcommons" id="450" weight="0.001010103271461377" />
+      <edge source="T_TOPIC_13" target="A_inuitcircumpolar" id="451" weight="0.7250714517190228" />
+      <edge source="T_TOPIC_13" target="A_ncgc" id="452" weight="0.001515156923613877" />
+      <edge source="T_TOPIC_13" target="A_sagepub" id="453" weight="0.03333335943130399" />
+      <edge source="T_TOPIC_13" target="A_nccih" id="454" weight="0.0011299456496345049" />
+      <edge source="T_TOPIC_13" target="A_canadian-media" id="455" weight="0.0016260193139813442" />
+      <edge source="T_TOPIC_13" target="A_getprepared" id="456" weight="0.0017094048269714244" />
+      <edge source="T_TOPIC_13" target="A_theatlantic" id="457" weight="0.0013888912347182851" />
+      <edge source="T_TOPIC_13" target="A_apnews" id="458" weight="0.0074074293007378" />
+      <edge source="T_TOPIC_13" target="A_ibc" id="459" weight="0.0013333354866146656" />
+      <edge source="T_TOPIC_13" target="A_Nunavut Qiviut" id="460" weight="0.013333348967240087" />
+      <edge source="T_TOPIC_13" target="A_franchisedirect" id="461" weight="0.02222225619317477" />
+      <edge source="T_TOPIC_13" target="A_airport-technology" id="462" weight="0.9979928271280338" />
+      <edge source="T_TOPIC_13" target="A_iqaluit" id="463" weight="0.0026666716045193476" />
+      <edge source="T_TOPIC_13" target="A_advancedbiofuelsusa" id="464" weight="0.00350878000208642" />
+      <edge source="T_TOPIC_13" target="A_alphabetcreative" id="465" weight="0.0017094048433316442" />
+      <edge source="T_TOPIC_13" target="A_nunavutoutfitters" id="466" weight="0.006060615681195556" />
+      <edge source="T_TOPIC_13" target="A_jooble" id="467" weight="0.0020833406527419975" />
+      <edge source="T_TOPIC_13" target="A_travelnunavut" id="468" weight="0.002298853274811404" />
+      <edge source="T_TOPIC_14" target="A_aadnc-aandc" id="469" weight="0.0013888921283301062" />
+      <edge source="T_TOPIC_14" target="A_ecolex" id="470" weight="0.0022222266698480276" />
+      <edge source="T_TOPIC_14" target="A_canadiantire" id="471" weight="0.001025643056697686" />
+      <edge source="T_TOPIC_14" target="A_ourcommons" id="472" weight="0.0010101032471152237" />
+      <edge source="T_TOPIC_14" target="A_mironline" id="473" weight="0.7657850765918531" />
+      <edge source="T_TOPIC_14" target="A_ncgc" id="474" weight="0.0015151545203763972" />
+      <edge source="T_TOPIC_14" target="A_researchgate" id="475" weight="0.1666006145660678" />
+      <edge source="T_TOPIC_14" target="A_utoronto" id="476" weight="0.7514525912361626" />
+      <edge source="T_TOPIC_14" target="A_sagepub" id="477" weight="0.03333335924548869" />
+      <edge source="T_TOPIC_14" target="A_vanierinstitute" id="478" weight="0.6059199724974242" />
+      <edge source="T_TOPIC_14" target="A_nccih" id="479" weight="0.001129945353124018" />
+      <edge source="T_TOPIC_14" target="A_canadian-media" id="480" weight="0.0016260194635802521" />
+      <edge source="T_TOPIC_14" target="A_getprepared" id="481" weight="0.0017094049982133315" />
+      <edge source="T_TOPIC_14" target="A_theatlantic" id="482" weight="0.0013888920793210455" />
+      <edge source="T_TOPIC_14" target="A_apnews" id="483" weight="0.007407423680134857" />
+      <edge source="T_TOPIC_14" target="A_ibc" id="484" weight="0.0013333360015312236" />
+      <edge source="T_TOPIC_14" target="A_pc" id="485" weight="0.14704523598964347" />
+      <edge source="T_TOPIC_14" target="A_Nunavut Qiviut" id="486" weight="0.013333344406247788" />
+      <edge source="T_TOPIC_14" target="A_franchisedirect" id="487" weight="0.022222253043403865" />
+      <edge source="T_TOPIC_14" target="A_iqaluit" id="488" weight="0.4614062274547003" />
+      <edge source="T_TOPIC_14" target="A_advancedbiofuelsusa" id="489" weight="0.003508781634084662" />
+      <edge source="T_TOPIC_14" target="A_alphabetcreative" id="490" weight="0.001709405197006927" />
+      <edge source="T_TOPIC_14" target="A_nunavutoutfitters" id="491" weight="0.006060613573792363" />
+      <edge source="T_TOPIC_14" target="A_jooble" id="492" weight="0.002083338282011016" />
+      <edge source="T_TOPIC_14" target="A_travelnunavut" id="493" weight="0.002298853086757267" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-04-29">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="T_TOPIC_3" label="TOPIC_3">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_sev" label="sev">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Tórshavnar kommuna" label="Tórshavnar kommuna">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_gransking" label="gransking">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_us" label="us">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_6" label="TOPIC_6">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_articon" label="articon">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fuglafjordur" label="fuglafjordur">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_lms" label="lms">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_uvmr" label="uvmr">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_framherji" label="framherji">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fma" label="fma">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_setur" label="setur">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_0" label="TOPIC_0">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_vaga" label="vaga">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_1" label="TOPIC_1">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_2" label="TOPIC_2">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_4" label="TOPIC_4">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_5" label="TOPIC_5">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_7" label="TOPIC_7">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_8" label="TOPIC_8">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_9" label="TOPIC_9">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_10" label="TOPIC_10">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_11" label="TOPIC_11">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_12" label="TOPIC_12">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_13" label="TOPIC_13">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="T_TOPIC_14" label="TOPIC_14">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="A_hav" label="hav">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kunoy" label="kunoy">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_eysturkommuna" label="eysturkommuna">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_issuu" label="issuu">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_porkeri" label="porkeri">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_batafelag" label="batafelag">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_grindahvalur" label="grindahvalur">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_folkaflokkurin" label="folkaflokkurin">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_midflokkurin" label="midflokkurin">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_klaksvik" label="klaksvik">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_fisk" label="fisk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tvk" label="tvk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_sunda" label="sunda">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_ummr" label="ummr">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_nlh" label="nlh">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_mowi" label="mowi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_jenskjeld" label="jenskjeld">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tjodveldi" label="tjodveldi">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_amnesty" label="amnesty">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_als" label="als">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_golocalguide" label="golocalguide">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Nordic Sustainable Universities Conference" label="Nordic Sustainable Universities Conference">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_havsbrun" label="havsbrun">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" label="Føroya Náttúru- og Umhvørvisfelag (FNU)">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_landsverk" label="landsverk">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_kvf" label="kvf">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_tjodsavnid" label="tjodsavnid">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_bakkafrost" label="bakkafrost">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_vagur" label="vagur">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_un" label="un">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_industry" label="industry">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_arcticimport" label="arcticimport">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_hmr" label="hmr">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_matkovin" label="matkovin">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Nordens Hus på Færøerne" label="Nordens Hus på Færøerne">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Atalantic Petroleum" label="Atalantic Petroleum">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_miv" label="miv">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_docplayer" label="docplayer">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_j" label="j">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Snældan" label="Snældan">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_konsult" label="konsult">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Ocean Rainforest" label="Ocean Rainforest">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Bakkafrost" label="Bakkafrost">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+      <node id="A_Tora guides" label="Tora guides">
+        <attvalues>
+          <attvalue for="0" value="actor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="T_TOPIC_3" target="A_sev" id="0" weight="0.9974568533232603" />
+      <edge source="T_TOPIC_3" target="A_Tórshavnar kommuna" id="1" weight="0.9987249525306516" />
+      <edge source="T_TOPIC_3" target="A_gransking" id="2" weight="0.9980474166382399" />
+      <edge source="T_TOPIC_3" target="A_us" id="3" weight="0.969365887506321" />
+      <edge source="T_TOPIC_3" target="A_articon" id="4" weight="0.9945736362897294" />
+      <edge source="T_TOPIC_3" target="A_fuglafjordur" id="5" weight="0.9993685151970294" />
+      <edge source="T_TOPIC_3" target="A_lms" id="6" weight="0.9957957883200902" />
+      <edge source="T_TOPIC_3" target="A_uvmr" id="7" weight="0.998125834154182" />
+      <edge source="T_TOPIC_3" target="A_framherji" id="8" weight="0.9960113914550238" />
+      <edge source="T_TOPIC_3" target="A_fma" id="9" weight="0.6782901693863779" />
+      <edge source="T_TOPIC_3" target="A_vaga" id="10" weight="0.983625702396606" />
+      <edge source="T_TOPIC_3" target="A_hav" id="11" weight="0.3398656755485103" />
+      <edge source="T_TOPIC_3" target="A_kunoy" id="12" weight="0.9772357386307697" />
+      <edge source="T_TOPIC_3" target="A_eysturkommuna" id="13" weight="0.9946969586401277" />
+      <edge source="T_TOPIC_3" target="A_issuu" id="14" weight="0.25389094867845763" />
+      <edge source="T_TOPIC_3" target="A_porkeri" id="15" weight="0.9930864106177261" />
+      <edge source="T_TOPIC_3" target="A_batafelag" id="16" weight="0.9965936684558162" />
+      <edge source="T_TOPIC_3" target="A_grindahvalur" id="17" weight="0.9989720984480358" />
+      <edge source="T_TOPIC_3" target="A_folkaflokkurin" id="18" weight="0.9962666610973637" />
+      <edge source="T_TOPIC_3" target="A_midflokkurin" id="19" weight="0.9856410047095815" />
+      <edge source="T_TOPIC_3" target="A_klaksvik" id="20" weight="0.9918840477292363" />
+      <edge source="T_TOPIC_3" target="A_fisk" id="21" weight="0.9941299691574196" />
+      <edge source="T_TOPIC_3" target="A_tvk" id="22" weight="0.9641025089370758" />
+      <edge source="T_TOPIC_3" target="A_sunda" id="23" weight="0.9920227796126632" />
+      <edge source="T_TOPIC_3" target="A_ummr" id="24" weight="0.9987214590709641" />
+      <edge source="T_TOPIC_3" target="A_nlh" id="25" weight="0.9911111002174164" />
+      <edge source="T_TOPIC_3" target="A_mowi" id="26" weight="0.9907590637005308" />
+      <edge source="T_TOPIC_3" target="A_tjodveldi" id="27" weight="0.9998495106957249" />
+      <edge source="T_TOPIC_3" target="A_amnesty" id="28" weight="0.9961904718674617" />
+      <edge source="T_TOPIC_3" target="A_als" id="29" weight="0.9725489888085878" />
+      <edge source="T_TOPIC_3" target="A_golocalguide" id="30" weight="0.9891472698522786" />
+      <edge source="T_TOPIC_3" target="A_havsbrun" id="31" weight="0.9948434519293009" />
+      <edge source="T_TOPIC_3" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="32" weight="0.9766666299084797" />
+      <edge source="T_TOPIC_3" target="A_landsverk" id="33" weight="0.9989109282478486" />
+      <edge source="T_TOPIC_3" target="A_kvf" id="34" weight="0.5216986676808129" />
+      <edge source="T_TOPIC_3" target="A_tjodsavnid" id="35" weight="0.9956589081165074" />
+      <edge source="T_TOPIC_3" target="A_bakkafrost" id="36" weight="0.9985416647407006" />
+      <edge source="T_TOPIC_3" target="A_vagur" id="37" weight="0.9844444201189119" />
+      <edge source="T_TOPIC_3" target="A_industry" id="38" weight="0.9946969615367934" />
+      <edge source="T_TOPIC_3" target="A_arcticimport" id="39" weight="0.9956386242781604" />
+      <edge source="T_TOPIC_3" target="A_hmr" id="40" weight="0.9938997743202688" />
+      <edge source="T_TOPIC_3" target="A_matkovin" id="41" weight="0.9962962909522597" />
+      <edge source="T_TOPIC_3" target="A_Nordens Hus på Færøerne" id="42" weight="0.9626665871971061" />
+      <edge source="T_TOPIC_3" target="A_Atalantic Petroleum" id="43" weight="0.003030304162922919" />
+      <edge source="T_TOPIC_3" target="A_miv" id="44" weight="0.8770215784518092" />
+      <edge source="T_TOPIC_3" target="A_docplayer" id="45" weight="0.9998600697166764" />
+      <edge source="T_TOPIC_3" target="A_j" id="46" weight="0.9957767667712057" />
+      <edge source="T_TOPIC_3" target="A_Snældan" id="47" weight="0.0033333358008451734" />
+      <edge source="T_TOPIC_3" target="A_konsult" id="48" weight="0.9996584945526134" />
+      <edge source="T_TOPIC_3" target="A_Tora guides" id="49" weight="0.06666666666666668" />
+      <edge source="A_us" target="T_TOPIC_6" id="50" weight="0.028394660006562" />
+      <edge source="T_TOPIC_6" target="A_fma" id="51" weight="0.31916828179719686" />
+      <edge source="T_TOPIC_6" target="A_setur" id="52" weight="0.9996679706641274" />
+      <edge source="T_TOPIC_6" target="A_vaga" id="53" weight="0.001169595542983757" />
+      <edge source="T_TOPIC_6" target="A_hav" id="54" weight="0.6595269888933627" />
+      <edge source="T_TOPIC_6" target="A_kunoy" id="55" weight="0.0016260195070096524" />
+      <edge source="T_TOPIC_6" target="A_issuu" id="56" weight="0.0012578654146429948" />
+      <edge source="T_TOPIC_6" target="A_midflokkurin" id="57" weight="0.0010256424257299667" />
+      <edge source="T_TOPIC_6" target="A_tvk" id="58" weight="0.002564107539958687" />
+      <edge source="T_TOPIC_6" target="A_als" id="59" weight="0.0019607862860620546" />
+      <edge source="T_TOPIC_6" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="60" weight="0.0016666708132734433" />
+      <edge source="T_TOPIC_6" target="A_kvf" id="61" weight="0.4653659915804353" />
+      <edge source="T_TOPIC_6" target="A_vagur" id="62" weight="0.0011111141151743404" />
+      <edge source="T_TOPIC_6" target="A_un" id="63" weight="0.2446200592167649" />
+      <edge source="T_TOPIC_6" target="A_Nordens Hus på Færøerne" id="64" weight="0.002666674054183897" />
+      <edge source="T_TOPIC_6" target="A_Atalantic Petroleum" id="65" weight="0.0030303092477249383" />
+      <edge source="T_TOPIC_6" target="A_miv" id="66" weight="0.11094136793955124" />
+      <edge source="T_TOPIC_6" target="A_Snældan" id="67" weight="0.9533332655626117" />
+      <edge source="T_TOPIC_6" target="A_Ocean Rainforest" id="68" weight="0.1181481704638247" />
+      <edge source="T_TOPIC_6" target="A_Bakkafrost" id="69" weight="0.16676622405738556" />
+      <edge source="T_TOPIC_6" target="A_Tora guides" id="70" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_0" target="A_vaga" id="71" weight="0.0011695925044351964" />
+      <edge source="T_TOPIC_0" target="A_kunoy" id="72" weight="0.0016260184465025384" />
+      <edge source="T_TOPIC_0" target="A_issuu" id="73" weight="0.0012578632725271579" />
+      <edge source="T_TOPIC_0" target="A_midflokkurin" id="74" weight="0.0010256424412320695" />
+      <edge source="T_TOPIC_0" target="A_tvk" id="75" weight="0.002564107698603732" />
+      <edge source="T_TOPIC_0" target="A_als" id="76" weight="0.0019607858661472017" />
+      <edge source="T_TOPIC_0" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="77" weight="0.0016666691230126764" />
+      <edge source="T_TOPIC_0" target="A_vagur" id="78" weight="0.0011111125718116293" />
+      <edge source="T_TOPIC_0" target="A_Nordens Hus på Færøerne" id="79" weight="0.0026666741029903436" />
+      <edge source="T_TOPIC_0" target="A_Atalantic Petroleum" id="80" weight="0.003030306235557045" />
+      <edge source="T_TOPIC_0" target="A_Snældan" id="81" weight="0.003333336499206055" />
+      <edge source="T_TOPIC_0" target="A_Tora guides" id="82" weight="0.06666666666666668" />
+      <edge source="A_vaga" target="T_TOPIC_1" id="83" weight="0.0011695924600035124" />
+      <edge source="A_vaga" target="T_TOPIC_2" id="84" weight="0.0011695924608309564" />
+      <edge source="A_vaga" target="T_TOPIC_4" id="85" weight="0.0011695924098219712" />
+      <edge source="A_vaga" target="T_TOPIC_5" id="86" weight="0.0011695923785774933" />
+      <edge source="A_vaga" target="T_TOPIC_7" id="87" weight="0.0011695926070334247" />
+      <edge source="A_vaga" target="T_TOPIC_8" id="88" weight="0.0011695923651697342" />
+      <edge source="A_vaga" target="T_TOPIC_9" id="89" weight="0.0011695924808361956" />
+      <edge source="A_vaga" target="T_TOPIC_10" id="90" weight="0.0011695926977042539" />
+      <edge source="A_vaga" target="T_TOPIC_11" id="91" weight="0.0011695926736881221" />
+      <edge source="A_vaga" target="T_TOPIC_12" id="92" weight="0.0011695922609601787" />
+      <edge source="A_vaga" target="T_TOPIC_13" id="93" weight="0.001169592358523384" />
+      <edge source="A_vaga" target="T_TOPIC_14" id="94" weight="0.0011695924028259212" />
+      <edge source="T_TOPIC_1" target="A_kunoy" id="95" weight="0.0016260187952166305" />
+      <edge source="T_TOPIC_1" target="A_issuu" id="96" weight="0.0012578635617341014" />
+      <edge source="T_TOPIC_1" target="A_midflokkurin" id="97" weight="0.0010256424522121735" />
+      <edge source="T_TOPIC_1" target="A_tvk" id="98" weight="0.002564106308070129" />
+      <edge source="T_TOPIC_1" target="A_jenskjeld" id="99" weight="0.9973409275282455" />
+      <edge source="T_TOPIC_1" target="A_als" id="100" weight="0.0019607861148455727" />
+      <edge source="T_TOPIC_1" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="101" weight="0.0016666692666099164" />
+      <edge source="T_TOPIC_1" target="A_vagur" id="102" weight="0.001111113170182539" />
+      <edge source="T_TOPIC_1" target="A_Nordens Hus på Færøerne" id="103" weight="0.002666672331103375" />
+      <edge source="T_TOPIC_1" target="A_Atalantic Petroleum" id="104" weight="0.0030303100246026216" />
+      <edge source="T_TOPIC_1" target="A_Snældan" id="105" weight="0.0033333536797482016" />
+      <edge source="T_TOPIC_1" target="A_Tora guides" id="106" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_2" target="A_kunoy" id="107" weight="0.0016260186156583528" />
+      <edge source="T_TOPIC_2" target="A_issuu" id="108" weight="0.0012578631571371242" />
+      <edge source="T_TOPIC_2" target="A_midflokkurin" id="109" weight="0.001025642422871531" />
+      <edge source="T_TOPIC_2" target="A_tvk" id="110" weight="0.0025641063366660796" />
+      <edge source="T_TOPIC_2" target="A_als" id="111" weight="0.001960786202798196" />
+      <edge source="T_TOPIC_2" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="112" weight="0.0016666689691249457" />
+      <edge source="T_TOPIC_2" target="A_vagur" id="113" weight="0.0011111127036620087" />
+      <edge source="T_TOPIC_2" target="A_Nordens Hus på Færøerne" id="114" weight="0.0026666721193321" />
+      <edge source="T_TOPIC_2" target="A_Atalantic Petroleum" id="115" weight="0.0030303063286020258" />
+      <edge source="T_TOPIC_2" target="A_Snældan" id="116" weight="0.003333336165347699" />
+      <edge source="T_TOPIC_2" target="A_Tora guides" id="117" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_4" target="A_kunoy" id="118" weight="0.001626018634565264" />
+      <edge source="T_TOPIC_4" target="A_issuu" id="119" weight="0.0012578631348997636" />
+      <edge source="T_TOPIC_4" target="A_midflokkurin" id="120" weight="0.0010256425026257299" />
+      <edge source="T_TOPIC_4" target="A_tvk" id="121" weight="0.0025641060712817366" />
+      <edge source="T_TOPIC_4" target="A_als" id="122" weight="0.001960786306895406" />
+      <edge source="T_TOPIC_4" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="123" weight="0.0016666691607803842" />
+      <edge source="T_TOPIC_4" target="A_vagur" id="124" weight="0.0011111127347558174" />
+      <edge source="T_TOPIC_4" target="A_Nordens Hus på Færøerne" id="125" weight="0.002666671682217156" />
+      <edge source="T_TOPIC_4" target="A_Atalantic Petroleum" id="126" weight="0.0030303056451312085" />
+      <edge source="T_TOPIC_4" target="A_Snældan" id="127" weight="0.003333336225670883" />
+      <edge source="T_TOPIC_4" target="A_Tora guides" id="128" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_5" target="A_kunoy" id="129" weight="0.0016260182767382223" />
+      <edge source="T_TOPIC_5" target="A_issuu" id="130" weight="0.0012578634045999147" />
+      <edge source="T_TOPIC_5" target="A_midflokkurin" id="131" weight="0.0010256423803166432" />
+      <edge source="T_TOPIC_5" target="A_tvk" id="132" weight="0.002564105998333374" />
+      <edge source="T_TOPIC_5" target="A_als" id="133" weight="0.0019607859786252057" />
+      <edge source="T_TOPIC_5" target="A_Nordic Sustainable Universities Conference" id="134" weight="0.9924119165539079" />
+      <edge source="T_TOPIC_5" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="135" weight="0.0016666691878967715" />
+      <edge source="T_TOPIC_5" target="A_vagur" id="136" weight="0.0011111125134106153" />
+      <edge source="T_TOPIC_5" target="A_un" id="137" weight="0.7473552384522624" />
+      <edge source="T_TOPIC_5" target="A_Nordens Hus på Færøerne" id="138" weight="0.002666672132163104" />
+      <edge source="T_TOPIC_5" target="A_Atalantic Petroleum" id="139" weight="0.0030303086506773495" />
+      <edge source="T_TOPIC_5" target="A_Snældan" id="140" weight="0.003333338097850875" />
+      <edge source="T_TOPIC_5" target="A_Tora guides" id="141" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_7" target="A_kunoy" id="142" weight="0.0016260188255636022" />
+      <edge source="T_TOPIC_7" target="A_issuu" id="143" weight="0.7297568268019686" />
+      <edge source="T_TOPIC_7" target="A_midflokkurin" id="144" weight="0.0010256425414527173" />
+      <edge source="T_TOPIC_7" target="A_tvk" id="145" weight="0.0025641066890654688" />
+      <edge source="T_TOPIC_7" target="A_als" id="146" weight="0.001960786392656537" />
+      <edge source="T_TOPIC_7" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="147" weight="0.001666669145724248" />
+      <edge source="T_TOPIC_7" target="A_vagur" id="148" weight="0.0011111129825521877" />
+      <edge source="T_TOPIC_7" target="A_Nordens Hus på Færøerne" id="149" weight="0.00266667278285854" />
+      <edge source="T_TOPIC_7" target="A_Atalantic Petroleum" id="150" weight="0.0030303061511382763" />
+      <edge source="T_TOPIC_7" target="A_Snældan" id="151" weight="0.003333336896714148" />
+      <edge source="T_TOPIC_7" target="A_Tora guides" id="152" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_8" target="A_kunoy" id="153" weight="0.0016260188885341368" />
+      <edge source="T_TOPIC_8" target="A_issuu" id="154" weight="0.0012578630314378366" />
+      <edge source="T_TOPIC_8" target="A_midflokkurin" id="155" weight="0.0010256424439485027" />
+      <edge source="T_TOPIC_8" target="A_tvk" id="156" weight="0.0025641060944095575" />
+      <edge source="T_TOPIC_8" target="A_als" id="157" weight="0.00196078596641753" />
+      <edge source="T_TOPIC_8" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="158" weight="0.001666669030786113" />
+      <edge source="T_TOPIC_8" target="A_vagur" id="159" weight="0.001111112514825785" />
+      <edge source="T_TOPIC_8" target="A_Nordens Hus på Færøerne" id="160" weight="0.0026666714490044476" />
+      <edge source="T_TOPIC_8" target="A_Atalantic Petroleum" id="161" weight="0.0030303059328049583" />
+      <edge source="T_TOPIC_8" target="A_Snældan" id="162" weight="0.0033333366062108932" />
+      <edge source="T_TOPIC_8" target="A_Tora guides" id="163" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_9" target="A_kunoy" id="164" weight="0.0016260184462687725" />
+      <edge source="T_TOPIC_9" target="A_issuu" id="165" weight="0.0012578631984837298" />
+      <edge source="T_TOPIC_9" target="A_midflokkurin" id="166" weight="0.0010256424896774245" />
+      <edge source="T_TOPIC_9" target="A_tvk" id="167" weight="0.0025641075004611043" />
+      <edge source="T_TOPIC_9" target="A_als" id="168" weight="0.001960786536670821" />
+      <edge source="T_TOPIC_9" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="169" weight="0.001666669414585769" />
+      <edge source="T_TOPIC_9" target="A_vagur" id="170" weight="0.0011111127305267865" />
+      <edge source="T_TOPIC_9" target="A_Nordens Hus på Færøerne" id="171" weight="0.00266667139998501" />
+      <edge source="T_TOPIC_9" target="A_Atalantic Petroleum" id="172" weight="0.0030303058098805455" />
+      <edge source="T_TOPIC_9" target="A_Snældan" id="173" weight="0.00333333672951184" />
+      <edge source="T_TOPIC_9" target="A_Tora guides" id="174" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_10" target="A_kunoy" id="175" weight="0.0016260189090959512" />
+      <edge source="T_TOPIC_10" target="A_issuu" id="176" weight="0.0012578634457401728" />
+      <edge source="T_TOPIC_10" target="A_midflokkurin" id="177" weight="0.0010256429678380345" />
+      <edge source="T_TOPIC_10" target="A_tvk" id="178" weight="0.00256410614899165" />
+      <edge source="T_TOPIC_10" target="A_als" id="179" weight="0.0019607908548512883" />
+      <edge source="T_TOPIC_10" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="180" weight="0.0016666691209729458" />
+      <edge source="T_TOPIC_10" target="A_vagur" id="181" weight="0.00111111287076885" />
+      <edge source="T_TOPIC_10" target="A_Nordens Hus på Færøerne" id="182" weight="0.002666672198443657" />
+      <edge source="T_TOPIC_10" target="A_Atalantic Petroleum" id="183" weight="0.0030303057012865966" />
+      <edge source="T_TOPIC_10" target="A_Snældan" id="184" weight="0.003333336136368944" />
+      <edge source="T_TOPIC_10" target="A_Tora guides" id="185" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_11" target="A_kunoy" id="186" weight="0.0016260185495394581" />
+      <edge source="T_TOPIC_11" target="A_issuu" id="187" weight="0.0012578631049821078" />
+      <edge source="T_TOPIC_11" target="A_midflokkurin" id="188" weight="0.001025642480860277" />
+      <edge source="T_TOPIC_11" target="A_tvk" id="189" weight="0.002564106204572756" />
+      <edge source="T_TOPIC_11" target="A_als" id="190" weight="0.001960785966778216" />
+      <edge source="T_TOPIC_11" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="191" weight="0.0016666692161323793" />
+      <edge source="T_TOPIC_11" target="A_vagur" id="192" weight="0.0011111126620291128" />
+      <edge source="T_TOPIC_11" target="A_Nordens Hus på Færøerne" id="193" weight="0.002666672452516747" />
+      <edge source="T_TOPIC_11" target="A_Atalantic Petroleum" id="194" weight="0.003030307240998684" />
+      <edge source="T_TOPIC_11" target="A_Snældan" id="195" weight="0.003333338069002426" />
+      <edge source="T_TOPIC_11" target="A_Bakkafrost" id="196" weight="0.821361614028169" />
+      <edge source="T_TOPIC_11" target="A_Tora guides" id="197" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_12" target="A_kunoy" id="198" weight="0.001626018400406995" />
+      <edge source="T_TOPIC_12" target="A_issuu" id="199" weight="0.0012578631358595815" />
+      <edge source="T_TOPIC_12" target="A_midflokkurin" id="200" weight="0.0010256423991922934" />
+      <edge source="T_TOPIC_12" target="A_tvk" id="201" weight="0.0025641059245678057" />
+      <edge source="T_TOPIC_12" target="A_als" id="202" weight="0.0019607860124777037" />
+      <edge source="T_TOPIC_12" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="203" weight="0.001666668894703247" />
+      <edge source="T_TOPIC_12" target="A_vagur" id="204" weight="0.0011111127036980567" />
+      <edge source="T_TOPIC_12" target="A_Nordens Hus på Færøerne" id="205" weight="0.0026666715398799743" />
+      <edge source="T_TOPIC_12" target="A_Atalantic Petroleum" id="206" weight="0.003030307181545863" />
+      <edge source="T_TOPIC_12" target="A_Snældan" id="207" weight="0.003333339130930734" />
+      <edge source="T_TOPIC_12" target="A_Ocean Rainforest" id="208" weight="0.8736757189909033" />
+      <edge source="T_TOPIC_12" target="A_Tora guides" id="209" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_13" target="A_kunoy" id="210" weight="0.001626018417245029" />
+      <edge source="T_TOPIC_13" target="A_issuu" id="211" weight="0.0012578634058582059" />
+      <edge source="T_TOPIC_13" target="A_midflokkurin" id="212" weight="0.0010256428241337808" />
+      <edge source="T_TOPIC_13" target="A_tvk" id="213" weight="0.0025641062621018034" />
+      <edge source="T_TOPIC_13" target="A_als" id="214" weight="0.0019607862832804928" />
+      <edge source="T_TOPIC_13" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="215" weight="0.0016666695232548387" />
+      <edge source="T_TOPIC_13" target="A_vagur" id="216" weight="0.0011111128351601381" />
+      <edge source="T_TOPIC_13" target="A_Nordens Hus på Færøerne" id="217" weight="0.002666671785991348" />
+      <edge source="T_TOPIC_13" target="A_Atalantic Petroleum" id="218" weight="0.9575757056918598" />
+      <edge source="T_TOPIC_13" target="A_Snældan" id="219" weight="0.0033333368070972967" />
+      <edge source="T_TOPIC_13" target="A_Tora guides" id="220" weight="0.06666666666666668" />
+      <edge source="T_TOPIC_14" target="A_kunoy" id="221" weight="0.0016260186568857913" />
+      <edge source="T_TOPIC_14" target="A_issuu" id="222" weight="0.0012578632516710994" />
+      <edge source="T_TOPIC_14" target="A_midflokkurin" id="223" weight="0.0010256425183274142" />
+      <edge source="T_TOPIC_14" target="A_tvk" id="224" weight="0.0025641062858399784" />
+      <edge source="T_TOPIC_14" target="A_als" id="225" weight="0.0019607864229060626" />
+      <edge source="T_TOPIC_14" target="A_Føroya Náttúru- og Umhvørvisfelag (FNU)" id="226" weight="0.0016666692246627732" />
+      <edge source="T_TOPIC_14" target="A_vagur" id="227" weight="0.0011111127725302145" />
+      <edge source="T_TOPIC_14" target="A_Nordens Hus på Færøerne" id="228" weight="0.002666672772224181" />
+      <edge source="T_TOPIC_14" target="A_Atalantic Petroleum" id="229" weight="0.003030305995267135" />
+      <edge source="T_TOPIC_14" target="A_Snældan" id="230" weight="0.003333337592882795" />
+      <edge source="T_TOPIC_14" target="A_Tora guides" id="231" weight="0.06666666666666668" />
+    </edges>
+  </graph>
+</gexf>
